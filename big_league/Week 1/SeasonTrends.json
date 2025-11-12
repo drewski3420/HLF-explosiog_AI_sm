@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "weeks_processed": 0,
+    "season_trend_summary_provided": false,
+    "weekly_summaries_provided": false,
+    "notes": "No Previously Generated Season Trend Summary or Weekly Summaries were supplied. The analysis below is a placeholder structure—no factual league/team/player data was available to analyze."
+  },
+  "season_summary": {
+    "text": "No season-level data provided. Unable to generate a factual season trend summary without weekly or previously generated inputs."
+  },
+  "team_trends": [],
+  "player_trends": [],
+  "league_wide_insights": {
+    "average_scoring": null,
+    "total_games_analyzed": 0,
+    "close_games_count": 0,
+    "upsets": [],
+    "text": "No weekly game data available to compute averages, identify upsets, or count close games."
+  },
+  "notable_owner_behaviors": [],
+  "playoff_analysis": {
+    "playoff_teams_projected": [],
+    "basis": "Playoffs should include the top 6 teams by record, then head-to-head, then Points For. No team records or points were provided, so projection is not possible.",
+    "text": "Cannot determine playoff picture without team records, head-to-head results, or points-for data."
+  },
+  "errors_or_warnings": [
+    "Missing Previously Generated Season Trend Summary input.",
+    "Missing Weekly Summaries input.",
+    "All analysis fields are empty because no factual data was provided. Provide the previously generated summary and the weekly summaries for all past weeks to produce a complete Season Trend Summary."
+  ]
+}

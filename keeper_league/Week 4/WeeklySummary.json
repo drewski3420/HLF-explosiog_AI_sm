@@ -1,0 +1,877 @@
+{
+  "week": 4,
+  "matchups": [
+    {
+      "home_team": {
+        "name": "Clever Team  Name Incoming",
+        "record": "2-2",
+        "score": 78.08,
+        "projected": 98.83,
+        "key_takeaways": "Underperformed vs projection (78.08 vs 98.83). QB Geno Smith and RB Derrick Henry were significant shortfalls; Deebo Samuel and D'Andre Swift were reliable contributors. Bench pieces (TreVeyon Henderson, Jayden Higgins) provided positive scoring but were not starters. Several notable players were inactive/IR (Jayden Daniels inactive, Najee Harris IR)."
+      },
+      "away_team": {
+        "name": "THE Derbaum",
+        "record": "3-1",
+        "score": 91.86,
+        "projected": 106.12,
+        "key_takeaways": "Also underperformed vs projection but still won (91.86 vs 106.12 projected). Amon-Ra St. Brown led the offense well; kicker Harrison Butker outscored his projection and helped the total. Kyren Williams and QB Trevor Lawrence finished well below projection. Several expected starters were listed inactive (Mike Evans, Brandon Aiyuk) or on IR (George Kittle)."
+      },
+      "winner": "THE Derbaum",
+      "final_score": {
+        "home": 78.08,
+        "away": 91.86
+      },
+      "home_team_analysis": {
+        "top_performers_vs_projection": [
+          {
+            "player": "Deebo Samuel",
+            "actual": 17.1,
+            "projected": 11.62,
+            "difference": 5.48
+          },
+          {
+            "player": "Patriots D/ST",
+            "actual": 10.0,
+            "projected": 6.39,
+            "difference": 3.61
+          },
+          {
+            "player": "D'Andre Swift",
+            "actual": 14.0,
+            "projected": 13.89,
+            "difference": 0.11
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Geno Smith",
+            "actual": 9.78,
+            "projected": 17.51,
+            "difference": -7.73
+          },
+          {
+            "player": "Derrick Henry",
+            "actual": 6.8,
+            "projected": 16.18,
+            "difference": -9.38
+          },
+          {
+            "player": "Cooper Kupp",
+            "actual": 4.6,
+            "projected": 8.58,
+            "difference": -3.98
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "TreVeyon Henderson",
+            "actual": 11.6,
+            "projected": 6.35,
+            "difference": 5.25,
+            "note": "Produced positive points off the bench."
+          },
+          {
+            "player": "Jayden Higgins",
+            "actual": 8.9,
+            "projected": 2.68,
+            "difference": 6.22,
+            "note": "Bench TD contributor."
+          },
+          {
+            "player": "Matthew Golden",
+            "actual": 8.8,
+            "projected": 9.2,
+            "difference": -0.4
+          }
+        ],
+        "impactful_transactions": [
+          "Jayden Daniels listed Inactive (not available).",
+          "Najee Harris listed IR (not available)."
+        ]
+      },
+      "away_team_analysis": {
+        "top_performers_vs_projection": [
+          {
+            "player": "Amon-Ra St. Brown",
+            "actual": 22.5,
+            "projected": 14.1,
+            "difference": 8.4
+          },
+          {
+            "player": "Harrison Butker",
+            "actual": 12.0,
+            "projected": 7.91,
+            "difference": 4.09
+          },
+          {
+            "player": "De'Von Achane",
+            "actual": 16.6,
+            "projected": 17.16,
+            "difference": -0.56
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Kyren Williams",
+            "actual": 8.9,
+            "projected": 15.34,
+            "difference": -6.44
+          },
+          {
+            "player": "Trevor Lawrence",
+            "actual": 11.66,
+            "projected": 15.81,
+            "difference": -4.15
+          },
+          {
+            "player": "Brian Thomas Jr.",
+            "actual": 8.1,
+            "projected": 12.23,
+            "difference": -4.13
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Keon Coleman",
+            "actual": 6.0,
+            "projected": 8.92,
+            "difference": -2.92
+          },
+          {
+            "player": "Elic Ayomanor",
+            "actual": 5.4,
+            "projected": 7.19,
+            "difference": -1.79
+          }
+        ],
+        "impactful_transactions": [
+          "Mike Evans listed Inactive (not available).",
+          "Brandon Aiyuk listed Inactive (not available).",
+          "George Kittle listed IR (not available)."
+        ]
+      }
+    },
+    {
+      "home_team": {
+        "name": "No Punt Intended",
+        "record": "2-2",
+        "score": 132.78,
+        "projected": 112.14,
+        "key_takeaways": "Outscored projection substantially (132.78 vs 112.14). Big weeks from lead RB (Josh Jacobs), WRs (Drake London, Rome Odunze) and flex Quinshon Judkins drove the win. However, Lamar Jackson severely underperformed his QB projection."
+      },
+      "away_team": {
+        "name": "Baker's Brownie Stand",
+        "record": "2-2",
+        "score": 122.16,
+        "projected": 105.45,
+        "key_takeaways": "High scoring week and still lost. Christian McCaffrey and Baker Mayfield delivered; Tyler Warren and kicker Chase McLaughlin exceeded projections. Notably left Matthew Stafford on the bench (27.4 points) and that bench decision is impactful."
+      },
+      "winner": "No Punt Intended",
+      "final_score": {
+        "home": 132.78,
+        "away": 122.16
+      },
+      "home_team_analysis": {
+        "top_performers_vs_projection": [
+          {
+            "player": "Josh Jacobs",
+            "actual": 29.7,
+            "projected": 17.17,
+            "difference": 12.53
+          },
+          {
+            "player": "Drake London",
+            "actual": 21.0,
+            "projected": 11.86,
+            "difference": 9.14
+          },
+          {
+            "player": "Quinshon Judkins",
+            "actual": 19.5,
+            "projected": 12.84,
+            "difference": 6.66
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Lamar Jackson",
+            "actual": 10.68,
+            "projected": 22.76,
+            "difference": -12.08
+          },
+          {
+            "player": "Commanders D/ST",
+            "actual": -1.0,
+            "projected": 4.64,
+            "difference": -5.64
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Justin Fields",
+            "actual": 27.14,
+            "projected": 19.52,
+            "difference": 7.62,
+            "note": "High-scoring bench QB left unused."
+          },
+          {
+            "player": "Marvin Harrison Jr.",
+            "actual": 15.6,
+            "projected": 9.24,
+            "difference": 6.36
+          },
+          {
+            "player": "Chris Olave",
+            "actual": 7.5,
+            "projected": 11.92,
+            "difference": -4.42
+          }
+        ],
+        "impactful_transactions": [
+          "Justin Fields remained on the bench (27.14 points).",
+          "Jaylen Warren listed Inactive (not available)."
+        ]
+      },
+      "away_team_analysis": {
+        "top_performers_vs_projection": [
+          {
+            "player": "Christian McCaffrey",
+            "actual": 23.1,
+            "projected": 19.78,
+            "difference": 3.32
+          },
+          {
+            "player": "Tyler Warren",
+            "actual": 15.8,
+            "projected": 9.58,
+            "difference": 6.22
+          },
+          {
+            "player": "Chase McLaughlin",
+            "actual": 16.0,
+            "projected": 8.14,
+            "difference": 7.86
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "DJ Moore",
+            "actual": 5.8,
+            "projected": 10.69,
+            "difference": -4.89
+          },
+          {
+            "player": "Tyreek Hill",
+            "actual": 9.7,
+            "projected": 12.08,
+            "difference": -2.38
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Matthew Stafford",
+            "actual": 27.4,
+            "projected": 16.0,
+            "difference": 11.4,
+            "note": "High-scoring bench QB left unused."
+          },
+          {
+            "player": "Michael Pittman Jr.",
+            "actual": 12.6,
+            "projected": 8.98,
+            "difference": 3.62
+          },
+          {
+            "player": "Tyler Allgeier",
+            "actual": 11.1,
+            "projected": 6.11,
+            "difference": 5.0
+          }
+        ],
+        "impactful_transactions": [
+          "Matthew Stafford remained on the bench (27.4 points)."
+        ]
+      }
+    },
+    {
+      "home_team": {
+        "name": "World of Hurts",
+        "record": "0-4",
+        "score": 104.48,
+        "projected": 101.37,
+        "key_takeaways": "Slightly outperformed projection overall but lost. Jordan Love and kicker Cairo Santos were major positive variances. However, a very high-scoring bench (Kenneth Gainwell 28.4) was left unused, which stands out as an opportunity cost."
+      },
+      "away_team": {
+        "name": "Gronk for my  johnson",
+        "record": "3-1",
+        "score": 106.9,
+        "projected": 108.22,
+        "key_takeaways": "Nearly hit projection and eked out a win. Bijan Robinson was the biggest contributor. Several high-scoring bench assets (Dallas Goedert, Justin Herbert, C.J. Stroud) were available but unused."
+      },
+      "winner": "Gronk for my  johnson",
+      "final_score": {
+        "home": 104.48,
+        "away": 106.9
+      },
+      "home_team_analysis": {
+        "top_performers_vs_projection": [
+          {
+            "player": "Jordan Love",
+            "actual": 26.28,
+            "projected": 18.6,
+            "difference": 7.68
+          },
+          {
+            "player": "Cairo Santos",
+            "actual": 19.0,
+            "projected": 8.39,
+            "difference": 10.61
+          },
+          {
+            "player": "Jahmyr Gibbs",
+            "actual": 16.7,
+            "projected": 17.18,
+            "difference": -0.48
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "David Njoku",
+            "actual": 2.1,
+            "projected": 7.28,
+            "difference": -5.18
+          },
+          {
+            "player": "Ricky Pearsall",
+            "actual": 6.6,
+            "projected": 10.8,
+            "difference": -4.2
+          },
+          {
+            "player": "Colts D/ST",
+            "actual": 0.0,
+            "projected": 4.44,
+            "difference": -4.44
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Kenneth Gainwell",
+            "actual": 28.4,
+            "projected": 9.96,
+            "difference": 18.44,
+            "note": "Huge unused bench performance."
+          },
+          {
+            "player": "Khalil Shakir",
+            "actual": 15.4,
+            "projected": 7.38,
+            "difference": 8.02
+          },
+          {
+            "player": "DeVonta Smith",
+            "actual": 3.9,
+            "projected": 9.35,
+            "difference": -5.45
+          }
+        ],
+        "impactful_transactions": [
+          "Kenneth Gainwell remained on the bench (28.4 points).",
+          "Joe Burrow listed Inactive (not available)."
+        ]
+      },
+      "away_team_analysis": {
+        "top_performers_vs_projection": [
+          {
+            "player": "Bijan Robinson",
+            "actual": 26.1,
+            "projected": 17.67,
+            "difference": 8.43
+          },
+          {
+            "player": "Courtland Sutton",
+            "actual": 16.6,
+            "projected": 11.33,
+            "difference": 5.27
+          },
+          {
+            "player": "Jalen Hurts",
+            "actual": 19.4,
+            "projected": 20.46,
+            "difference": -1.06
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Jaylen Waddle",
+            "actual": 6.3,
+            "projected": 10.11,
+            "difference": -3.81
+          },
+          {
+            "player": "Jaxon Smith-Njigba",
+            "actual": 11.0,
+            "projected": 13.26,
+            "difference": -2.26
+          },
+          {
+            "player": "Mark Andrews",
+            "actual": 6.5,
+            "projected": 7.57,
+            "difference": -1.07
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Dallas Goedert",
+            "actual": 17.7,
+            "projected": 6.58,
+            "difference": 11.12,
+            "note": "Significant unused bench TE."
+          },
+          {
+            "player": "C.J. Stroud",
+            "actual": 18.42,
+            "projected": 17.37,
+            "difference": 1.05
+          },
+          {
+            "player": "Stefon Diggs",
+            "actual": 13.1,
+            "projected": 6.12,
+            "difference": 6.98
+          }
+        ],
+        "impactful_transactions": [
+          "Austin Ekeler listed Inactive (not available).",
+          "High-value bench pieces (Dallas Goedert, C.J. Stroud) not started."
+        ]
+      }
+    },
+    {
+      "home_team": {
+        "name": "Puka Puka",
+        "record": "3-1",
+        "score": 149.96,
+        "projected": 104.44,
+        "key_takeaways": "Huge outperformance vs projection (149.96 vs 104.44). Multi-positional breakout: QB Dak Prescott, rookie Ashton Jeanty, Puka Nacua, Travis Etienne and Kyle Pitts all far exceeded projections. A.J. Brown was a notable negative on the roster."
+      },
+      "away_team": {
+        "name": "I Know Exactly What I’m Doing",
+        "record": "2-2",
+        "score": 94.38,
+        "projected": 104.58,
+        "key_takeaways": "Underperformed as a team. Quentin Johnston performed well above projection, but QB Caleb Williams, Nico Collins and multiple others missed projection. CeeDee Lamb was listed Inactive."
+      },
+      "winner": "Puka Puka",
+      "final_score": {
+        "home": 149.96,
+        "away": 94.38
+      },
+      "home_team_analysis": {
+        "top_performers_vs_projection": [
+          {
+            "player": "Ashton Jeanty",
+            "actual": 32.5,
+            "projected": 14.37,
+            "difference": 18.13
+          },
+          {
+            "player": "Dak Prescott",
+            "actual": 30.96,
+            "projected": 14.08,
+            "difference": 16.88
+          },
+          {
+            "player": "Puka Nacua",
+            "actual": 29.5,
+            "projected": 17.6,
+            "difference": 11.9
+          },
+          {
+            "player": "Travis Etienne Jr.",
+            "actual": 19.0,
+            "projected": 10.11,
+            "difference": 8.89
+          },
+          {
+            "player": "Kyle Pitts Sr.",
+            "actual": 15.5,
+            "projected": 7.06,
+            "difference": 8.44
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "A.J. Brown",
+            "actual": 1.7,
+            "projected": 12.44,
+            "difference": -10.74
+          },
+          {
+            "player": "Ja'Marr Chase",
+            "actual": 4.8,
+            "projected": 13.37,
+            "difference": -8.57
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "RJ Harvey",
+            "actual": 17.8,
+            "projected": 6.79,
+            "difference": 11.01
+          },
+          {
+            "player": "Zay Flowers",
+            "actual": 10.9,
+            "projected": 12.03,
+            "difference": -1.13
+          },
+          {
+            "player": "Emari Demercado",
+            "actual": 9.1,
+            "projected": 4.71,
+            "difference": 4.39
+          }
+        ],
+        "impactful_transactions": [
+          "Isaiah Likely remained unused (0.0 points)."
+        ]
+      },
+      "away_team_analysis": {
+        "top_performers_vs_projection": [
+          {
+            "player": "Quentin Johnston",
+            "actual": 19.8,
+            "projected": 11.8,
+            "difference": 8.0
+          },
+          {
+            "player": "Breece Hall",
+            "actual": 13.6,
+            "projected": 14.59,
+            "difference": -0.99
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Caleb Williams",
+            "actual": 11.78,
+            "projected": 19.58,
+            "difference": -7.8
+          },
+          {
+            "player": "Nico Collins",
+            "actual": 9.9,
+            "projected": 14.83,
+            "difference": -4.93
+          },
+          {
+            "player": "T.J. Hockenson",
+            "actual": 5.9,
+            "projected": 7.81,
+            "difference": -1.91
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Tyquan Thornton",
+            "actual": 7.6,
+            "projected": 6.09,
+            "difference": 1.51
+          },
+          {
+            "player": "Zach Ertz",
+            "actual": 5.1,
+            "projected": 7.7,
+            "difference": -2.6
+          }
+        ],
+        "impactful_transactions": [
+          "CeeDee Lamb listed Inactive (not available)."
+        ]
+      }
+    },
+    {
+      "home_team": {
+        "name": "OHHHHHHH YEAHHHHH!!!!",
+        "record": "2-2",
+        "score": 108.46,
+        "projected": 112.0,
+        "key_takeaways": "Slight underperformance vs projection. Josh Allen and WR Emeka Egbuka were positive contributors, but several starters (Jonathan Taylor, Brock Bowers, Calvin Ridley) scored below projection. Meanwhile, two very high-scoring bench players (Romeo Doubs, Woody Marks) were left unused."
+      },
+      "away_team": {
+        "name": "Here Comes McBride",
+        "record": "2-2",
+        "score": 119.54,
+        "projected": 116.65,
+        "key_takeaways": "Outperformed projection and won. Strong QB performance from Bo Nix and big outputs from James Cook and Omarion Hampton (flex). Bench depth included Brock Purdy and Zach Charbonnet as useful backups."
+      },
+      "winner": "Here Comes McBride",
+      "final_score": {
+        "home": 108.46,
+        "away": 119.54
+      },
+      "home_team_analysis": {
+        "top_performers_vs_projection": [
+          {
+            "player": "Emeka Egbuka",
+            "actual": 18.1,
+            "projected": 12.39,
+            "difference": 5.71
+          },
+          {
+            "player": "Xavier Worthy",
+            "actual": 14.6,
+            "projected": 9.94,
+            "difference": 4.66
+          },
+          {
+            "player": "Josh Allen",
+            "actual": 24.86,
+            "projected": 22.67,
+            "difference": 2.19
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Jonathan Taylor",
+            "actual": 12.1,
+            "projected": 17.86,
+            "difference": -5.76
+          },
+          {
+            "player": "Calvin Ridley",
+            "actual": 4.0,
+            "projected": 9.3,
+            "difference": -5.3
+          },
+          {
+            "player": "Brock Bowers",
+            "actual": 7.1,
+            "projected": 11.55,
+            "difference": -4.45
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Romeo Doubs",
+            "actual": 26.8,
+            "projected": 8.84,
+            "difference": 17.96,
+            "note": "Very large unused bench performance."
+          },
+          {
+            "player": "Woody Marks",
+            "actual": 25.9,
+            "projected": 7.87,
+            "difference": 18.03,
+            "note": "Another significant unused bench performance."
+          },
+          {
+            "player": "Jerry Jeudy",
+            "actual": 6.3,
+            "projected": 9.03,
+            "difference": -2.73
+          }
+        ],
+        "impactful_transactions": [
+          "Romeo Doubs and Woody Marks remained on the bench despite big scoring.",
+          "Joe Mixon listed Inactive (not available)."
+        ]
+      },
+      "away_team_analysis": {
+        "top_performers_vs_projection": [
+          {
+            "player": "Omarion Hampton",
+            "actual": 25.0,
+            "projected": 15.37,
+            "difference": 9.63
+          },
+          {
+            "player": "Bo Nix",
+            "actual": 25.74,
+            "projected": 18.16,
+            "difference": 7.58
+          },
+          {
+            "player": "James Cook III",
+            "actual": 21.0,
+            "projected": 17.02,
+            "difference": 3.98
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Malik Nabers",
+            "actual": 3.0,
+            "projected": 14.56,
+            "difference": -11.56
+          },
+          {
+            "player": "Trey Benson",
+            "actual": 7.9,
+            "projected": 12.19,
+            "difference": -4.29
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Brock Purdy",
+            "actual": 17.66,
+            "projected": 17.3,
+            "difference": 0.36
+          },
+          {
+            "player": "Zach Charbonnet",
+            "actual": 11.4,
+            "projected": 8.74,
+            "difference": 2.66
+          }
+        ],
+        "impactful_transactions": [
+          "Jalen McMillan listed Inactive (not available)."
+        ]
+      }
+    },
+    {
+      "home_team": {
+        "name": "D.J. Chark Week",
+        "record": "2-2",
+        "score": 147.3,
+        "projected": 107.48,
+        "key_takeaways": "Big outperformance vs projection (147.3 vs 107.48). Patrick Mahomes, George Pickens and Bucky Irving were major positive variances; Justin Jefferson also contributed well. Strong bench depth existed as well (Jordan Addison, Jaxson Dart, Eagles D/ST)."
+      },
+      "away_team": {
+        "name": "Goff And Running",
+        "record": "1-3",
+        "score": 109.7,
+        "projected": 106.84,
+        "key_takeaways": "Slightly above projection but overwhelmed by opponent's offensive explosion. DK Metcalf and Lions D/ST outperformed, but a disastrous David Montgomery outing and other RB/bench management limited ceiling. Drake Maye (bench) posted strong numbers unused."
+      },
+      "winner": "D.J. Chark Week",
+      "final_score": {
+        "home": 147.3,
+        "away": 109.7
+      },
+      "home_team_analysis": {
+        "top_performers_vs_projection": [
+          {
+            "player": "George Pickens",
+            "actual": 29.4,
+            "projected": 11.89,
+            "difference": 17.51
+          },
+          {
+            "player": "Patrick Mahomes",
+            "actual": 27.3,
+            "projected": 19.3,
+            "difference": 8.0
+          },
+          {
+            "player": "Bucky Irving",
+            "actual": 23.0,
+            "projected": 15.58,
+            "difference": 7.42
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Alvin Kamara",
+            "actual": 9.2,
+            "projected": 12.49,
+            "difference": -3.29
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Jordan Addison",
+            "actual": 13.4,
+            "projected": 8.79,
+            "difference": 4.61
+          },
+          {
+            "player": "Jaxson Dart",
+            "actual": 19.84,
+            "projected": 14.02,
+            "difference": 5.82,
+            "note": "High-scoring QB on the bench."
+          },
+          {
+            "player": "Eagles D/ST",
+            "actual": 13.0,
+            "projected": 5.0,
+            "difference": 8.0
+          }
+        ],
+        "impactful_transactions": [
+          "Terry McLaurin listed Inactive (not available)."
+        ]
+      },
+      "away_team_analysis": {
+        "top_performers_vs_projection": [
+          {
+            "player": "DK Metcalf",
+            "actual": 21.1,
+            "projected": 10.28,
+            "difference": 10.82
+          },
+          {
+            "player": "Lions D/ST",
+            "actual": 20.0,
+            "projected": 7.21,
+            "difference": 12.79
+          },
+          {
+            "player": "Kyler Murray",
+            "actual": 16.1,
+            "projected": 16.31,
+            "difference": -0.21
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "David Montgomery",
+            "actual": 1.2,
+            "projected": 11.45,
+            "difference": -10.25
+          },
+          {
+            "player": "J.K. Dobbins",
+            "actual": 11.0,
+            "projected": 15.02,
+            "difference": -4.02
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Drake Maye",
+            "actual": 23.22,
+            "projected": 17.25,
+            "difference": 5.97,
+            "note": "High-scoring bench QB left unused."
+          },
+          {
+            "player": "Travis Kelce",
+            "actual": 7.3,
+            "projected": 8.97,
+            "difference": -1.67
+          }
+        ],
+        "impactful_transactions": [
+          "Rashee Rice listed Inactive (not available).",
+          "Drake Maye remained on the bench (23.22 points)."
+        ]
+      }
+    }
+  ],
+  "overall_weekly_note": {
+    "summary": "Week 4 featured several lopsided offensive performances and multiple instances of high-scoring players being left on benches. Wide receivers and a few breakout RBs produced the largest positive variances (e.g., George Pickens, Ashton Jeanty, Puka Nacua, Josh Jacobs). Kickers and D/STs also swung outcomes in places (Cairo Santos 19.0; Lions D/ST 20.0). Several close games were decided by small margins and bench decisions: notable unused bench scores include Justin Fields (27.14), Matthew Stafford (27.4), Kenneth Gainwell (28.4), Romeo Doubs (26.8), Woody Marks (25.9), and Drake Maye (23.22). Use of high-scoring bench assets was the most common impactful managerial decision this week.",
+    "trends": [
+      "Multiple teams significantly exceeded projections due to multi-player weeks rather than single outliers (e.g., Puka Puka and D.J. Chark Week).",
+      "Several losing teams left very high-scoring players on the bench, indicating lineup/waiver decisions materially affected outcomes.",
+      "Kickers and defenses had some big swings relative to projection and influenced total scores in multiple matchups."
+    ]
+  }
+}

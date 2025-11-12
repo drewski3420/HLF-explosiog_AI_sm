@@ -1,0 +1,896 @@
+{
+  "week": 8,
+  "weekly_note": "This week featured several narrow finishes and big RB-led performances. Multiple teams were carried by breakout rushing weeks (Jonathan Taylor, Saquon Barkley, James Cook, Breece Hall) and a number of defenses and kickers swung results (Buccaneers D/ST, Chris Boswell, Cameron Dicker). There were notable bench explosions (Tucker Kraft, RJ Harvey, Isaiah Davis) and several high-projection players who severely underperformed (Deebo Samuel, Dak Prescott, Bijan Robinson).",
+  "matchups": [
+    {
+      "matchup": "OHHHHHHH YEAHHHHH!!!! vs Clever Team  Name Incoming",
+      "winner": "OHHHHHHH YEAHHHHH!!!!",
+      "final_score": {
+        "OHHHHHHH YEAHHHHH!!!!": 100.82,
+        "Clever Team  Name Incoming": 100.22
+      },
+      "top_performers_vs_projection": {
+        "OHHHHHHH YEAHHHHH!!!!": [
+          {
+            "player": "Jonathan Taylor",
+            "position": "RB",
+            "actual": 36.4,
+            "projected": 24.21,
+            "delta": 12.19
+          },
+          {
+            "player": "Josh Allen",
+            "position": "QB",
+            "actual": 23.22,
+            "projected": 20.25,
+            "delta": 2.97
+          },
+          {
+            "player": "Daniel Jones (BE)",
+            "position": "QB (BE)",
+            "actual": 23.18,
+            "projected": 20.68,
+            "delta": 2.50
+          }
+        ],
+        "Clever Team  Name Incoming": [
+          {
+            "player": "Joe Flacco",
+            "position": "QB",
+            "actual": 24.32,
+            "projected": 15.44,
+            "delta": 8.88
+          },
+          {
+            "player": "Patriots D/ST",
+            "position": "D/ST",
+            "actual": 12.0,
+            "projected": 5.71,
+            "delta": 6.29
+          },
+          {
+            "player": "Cameron Dicker",
+            "position": "K",
+            "actual": 14.0,
+            "projected": 8.44,
+            "delta": 5.56
+          }
+        ]
+      },
+      "underperformers_vs_projection": {
+        "OHHHHHHH YEAHHHHH!!!!": [
+          {
+            "player": "Jordan Mason",
+            "position": "RB",
+            "actual": 1.1,
+            "projected": 11.28,
+            "delta": -10.18
+          },
+          {
+            "player": "Emeka Egbuka",
+            "position": "WR",
+            "actual": 5.0,
+            "projected": 14.29,
+            "delta": -9.29
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "position": "FLEX",
+            "actual": 6.3,
+            "projected": 10.44,
+            "delta": -4.14
+          }
+        ],
+        "Clever Team  Name Incoming": [
+          {
+            "player": "Deebo Samuel",
+            "position": "WR",
+            "actual": 2.7,
+            "projected": 11.19,
+            "delta": -8.49
+          },
+          {
+            "player": "Matthew Golden",
+            "position": "FLEX",
+            "actual": 1.9,
+            "projected": 8.63,
+            "delta": -6.73
+          },
+          {
+            "player": "Evan Engram",
+            "position": "TE",
+            "actual": 5.6,
+            "projected": 7.67,
+            "delta": -2.07
+          }
+        ]
+      },
+      "notable_bench_players": {
+        "OHHHHHHH YEAHHHHH!!!!": [
+          {
+            "player": "Daniel Jones",
+            "position": "QB (BE)",
+            "actual": 23.18
+          },
+          {
+            "player": "Isaiah Davis",
+            "position": "RB (BE)",
+            "actual": 15.4,
+            "projected": 5.79
+          },
+          {
+            "player": "Woody Marks",
+            "position": "RB/WR (BE)",
+            "actual": 13.1
+          }
+        ],
+        "Clever Team  Name Incoming": [
+          {
+            "player": "Jayden Higgins",
+            "position": "WR (BE)",
+            "actual": 11.4,
+            "projected": 7.39
+          },
+          {
+            "player": "TreVeyon Henderson",
+            "position": "RB (BE)",
+            "actual": 5.5
+          },
+          {
+            "player": "Kendrick Bourne",
+            "position": "WR (BE)",
+            "actual": 5.9
+          }
+        ]
+      },
+      "impactful_transactions": [
+        "FA ADDED: Graham Gano (K)"
+      ],
+      "key_takeaways": {
+        "OHHHHHHH YEAHHHHH!!!!": "Jonathan Taylor was the clear difference-maker, exceeding his projection by over 12 points. Strong bench depth (Daniel Jones, Isaiah Davis) provided extra scoring that helped secure a narrow win.",
+        "Clever Team  Name Incoming": "Joe Flacco and the Patriots D/ST outperformed expectations, but Deebo Samuel and the FLEX (Matthew Golden) underperformed, and those shortfalls cost the home team in a one-point loss."
+      }
+    },
+    {
+      "matchup": "Puka Puka vs D.J. Chark Week",
+      "winner": "Puka Puka",
+      "final_score": {
+        "Puka Puka": 96.32,
+        "D.J. Chark Week": 88.26
+      },
+      "top_performers_vs_projection": {
+        "Puka Puka": [
+          {
+            "player": "Kayshon Boutte",
+            "position": "FLEX",
+            "actual": 15.0,
+            "projected": 6.34,
+            "delta": 8.66
+          },
+          {
+            "player": "Kimani Vidal",
+            "position": "RB",
+            "actual": 19.2,
+            "projected": 11.57,
+            "delta": 7.63
+          },
+          {
+            "player": "Ka'imi Fairbairn",
+            "position": "K",
+            "actual": 14.0,
+            "projected": 7.94,
+            "delta": 6.06
+          }
+        ],
+        "D.J. Chark Week": [
+          {
+            "player": "Jaxson Dart (BE)",
+            "position": "QB (BE)",
+            "actual": 19.42,
+            "projected": 17.84,
+            "delta": 1.58
+          },
+          {
+            "player": "Eagles D/ST",
+            "position": "D/ST",
+            "actual": 7.0,
+            "projected": 5.82,
+            "delta": 1.18
+          },
+          {
+            "player": "Michael Badgley",
+            "position": "K",
+            "actual": 9.0,
+            "projected": 8.89,
+            "delta": 0.11
+          }
+        ]
+      },
+      "underperformers_vs_projection": {
+        "Puka Puka": [
+          {
+            "player": "Dak Prescott",
+            "position": "QB",
+            "actual": 6.62,
+            "projected": 18.26,
+            "delta": -11.64
+          },
+          {
+            "player": "Ja'Marr Chase",
+            "position": "WR",
+            "actual": 15.1,
+            "projected": 16.04,
+            "delta": -0.94
+          },
+          {
+            "player": "Falcons D/ST",
+            "position": "D/ST",
+            "actual": 0.0,
+            "projected": 6.66,
+            "delta": -6.66
+          }
+        ],
+        "D.J. Chark Week": [
+          {
+            "player": "Patrick Mahomes",
+            "position": "QB",
+            "actual": 22.96,
+            "projected": 24.46,
+            "delta": -1.50
+          },
+          {
+            "player": "Justin Jefferson",
+            "position": "WR",
+            "actual": 10.9,
+            "projected": 15.06,
+            "delta": -4.16
+          },
+          {
+            "player": "T.J. Hockenson",
+            "position": "TE",
+            "actual": 3.6,
+            "projected": 7.91,
+            "delta": -4.31
+          }
+        ]
+      },
+      "notable_bench_players": {
+        "Puka Puka": [
+          {
+            "player": "RJ Harvey",
+            "position": "RB/WR (BE)",
+            "actual": 23.6,
+            "projected": 6.17
+          },
+          {
+            "player": "Ashton Jeanty",
+            "position": "RB (BE)",
+            "status": "BYE"
+          },
+          {
+            "player": "A.J. Brown",
+            "position": "WR (BE)",
+            "status": "Inactive"
+          }
+        ],
+        "D.J. Chark Week": [
+          {
+            "player": "Jaxson Dart",
+            "position": "QB (BE)",
+            "actual": 19.42
+          },
+          {
+            "player": "Terry McLaurin",
+            "position": "WR (BE)",
+            "actual": 12.9,
+            "projected": 9.63
+          },
+          {
+            "player": "Jerry Jeudy",
+            "position": "WR (BE)",
+            "actual": 0.0,
+            "projected": 8.94
+          }
+        ]
+      },
+      "impactful_transactions": [
+        "FA ADDED: Raiders D/ST (D/ST)"
+      ],
+      "key_takeaways": {
+        "Puka Puka": "Puka Puka overcame a poor performance from Dak Prescott via strong production from Kayshon Boutte, Kimani Vidal and a productive kicker. Bench depth (RJ Harvey) showed up with a big score.",
+        "D.J. Chark Week": "Mahomes underperformed slightly and Justin Jefferson came in below expectation. The addition of Raiders D/ST (transaction) may reflect roster adjustments, but overall the lineup didn't hit enough to win."
+      }
+    },
+    {
+      "matchup": "Goff And Running vs World of Hurts",
+      "winner": "Goff And Running",
+      "final_score": {
+        "Goff And Running": 128.38,
+        "World of Hurts": 102.3
+      },
+      "top_performers_vs_projection": {
+        "Goff And Running": [
+          {
+            "player": "Saquon Barkley",
+            "position": "RB",
+            "actual": 31.4,
+            "projected": 15.41,
+            "delta": 15.99
+          },
+          {
+            "player": "Drake Maye",
+            "position": "QB",
+            "actual": 26.28,
+            "projected": 18.21,
+            "delta": 8.07
+          },
+          {
+            "player": "Rashee Rice",
+            "position": "WR",
+            "actual": 21.0,
+            "projected": 14.31,
+            "delta": 6.69
+          }
+        ],
+        "World of Hurts": [
+          {
+            "player": "Jordan Love",
+            "position": "QB",
+            "actual": 28.3,
+            "projected": 17.15,
+            "delta": 11.15
+          },
+          {
+            "player": "Khalil Shakir",
+            "position": "WR",
+            "actual": 17.8,
+            "projected": 9.42,
+            "delta": 8.38
+          },
+          {
+            "player": "DeVonta Smith",
+            "position": "WR",
+            "actual": 11.4,
+            "projected": 13.44,
+            "delta": -2.04
+          }
+        ]
+      },
+      "underperformers_vs_projection": {
+        "Goff And Running": [
+          {
+            "player": "Rhamondre Stevenson",
+            "position": "RB",
+            "actual": 5.4,
+            "projected": 11.59,
+            "delta": -6.19
+          },
+          {
+            "player": "49ers D/ST",
+            "position": "D/ST",
+            "actual": -3.0,
+            "projected": 4.84,
+            "delta": -7.84
+          },
+          {
+            "player": "Keenan Allen (BE)",
+            "position": "WR (BE)",
+            "actual": 6.4,
+            "projected": 12.84,
+            "delta": -6.4
+          }
+        ],
+        "World of Hurts": [
+          {
+            "player": "Rachaad White",
+            "position": "RB",
+            "actual": 7.1,
+            "projected": 15.27,
+            "delta": -8.17
+          },
+          {
+            "player": "Kenneth Gainwell (BE)",
+            "position": "RB (BE)",
+            "actual": 2.5,
+            "projected": 8.68,
+            "delta": -6.18
+          },
+          {
+            "player": "Chuba Hubbard",
+            "position": "RB",
+            "actual": 9.4,
+            "projected": 10.71,
+            "delta": -1.31
+          }
+        ]
+      },
+      "notable_bench_players": {
+        "Goff And Running": [
+          {
+            "player": "Keenan Allen",
+            "position": "WR (BE)",
+            "actual": 6.4,
+            "projected": 12.84
+          },
+          {
+            "player": "Jared Goff",
+            "position": "QB (BE)",
+            "status": "BYE"
+          },
+          {
+            "player": "David Montgomery",
+            "position": "RB (BE)",
+            "status": "BYE"
+          }
+        ],
+        "World of Hurts": [
+          {
+            "player": "David Njoku",
+            "position": "TE (BE)",
+            "actual": 11.7,
+            "projected": 8.0
+          },
+          {
+            "player": "Blake Corum",
+            "position": "RB (BE)",
+            "status": "BYE"
+          },
+          {
+            "player": "Tez Johnson",
+            "position": "WR (BE)",
+            "actual": 6.8
+          }
+        ]
+      },
+      "impactful_transactions": [],
+      "key_takeaways": {
+        "Goff And Running": "Huge week from Saquon Barkley and strong QB play from Drake Maye powered a blowout win. Rashee Rice also outperformed expectations; the defense (49ers D/ST) was a negative outlier but the offense more than compensated.",
+        "World of Hurts": "Jordan Love and Khalil Shakir delivered strong numbers, but the team lost the battle in rushing production — Rachaad White underperformed his projection and that limited the ceiling."
+      }
+    },
+    {
+      "matchup": "Here Comes McBride vs No Punt Intended",
+      "winner": "Here Comes McBride",
+      "final_score": {
+        "Here Comes McBride": 122.98,
+        "No Punt Intended": 75.82
+      },
+      "top_performers_vs_projection": {
+        "Here Comes McBride": [
+          {
+            "player": "James Cook III",
+            "position": "RB",
+            "actual": 33.6,
+            "projected": 14.31,
+            "delta": 19.29
+          },
+          {
+            "player": "Bo Nix",
+            "position": "QB",
+            "actual": 23.78,
+            "projected": 21.19,
+            "delta": 2.59
+          },
+          {
+            "player": "Oronde Gadsden II",
+            "position": "TE",
+            "actual": 16.2,
+            "projected": 8.86,
+            "delta": 7.34
+          }
+        ],
+        "No Punt Intended": [
+          {
+            "player": "Rome Odunze",
+            "position": "WR",
+            "actual": 14.9,
+            "projected": 11.29,
+            "delta": 3.61
+          },
+          {
+            "player": "Javonte Williams",
+            "position": "RB",
+            "actual": 17.4,
+            "projected": 14.38,
+            "delta": 3.02
+          },
+          {
+            "player": "Tucker Kraft (BE)",
+            "position": "WR (BE)",
+            "actual": 29.8,
+            "projected": 8.3,
+            "delta": 21.5
+          }
+        ]
+      },
+      "underperformers_vs_projection": {
+        "Here Comes McBride": [
+          {
+            "player": "Eddy Pineiro",
+            "position": "K",
+            "actual": 1.0,
+            "projected": 7.8,
+            "delta": -6.8
+          },
+          {
+            "player": "Kyle Monangai",
+            "position": "RB",
+            "actual": 2.4,
+            "projected": 7.77,
+            "delta": -5.37
+          },
+          {
+            "player": "Browns D/ST",
+            "position": "D/ST",
+            "actual": 6.0,
+            "projected": 5.31,
+            "delta": 0.69
+          }
+        ],
+        "No Punt Intended": [
+          {
+            "player": "Jake Ferguson",
+            "position": "TE",
+            "actual": 0.0,
+            "projected": 10.09,
+            "delta": -10.09
+          },
+          {
+            "player": "Marcus Mariota",
+            "position": "QB",
+            "actual": 11.32,
+            "projected": 16.94,
+            "delta": -5.62
+          },
+          {
+            "player": "Josh Jacobs",
+            "position": "FLEX",
+            "actual": 12.0,
+            "projected": 17.79,
+            "delta": -5.79
+          }
+        ]
+      },
+      "notable_bench_players": {
+        "Here Comes McBride": [
+          {
+            "player": "Trey McBride",
+            "position": "TE (BE)",
+            "status": "BYE"
+          },
+          {
+            "player": "Jameson Williams",
+            "position": "WR (BE)",
+            "status": "BYE"
+          },
+          {
+            "player": "Broncos D/ST (BE)",
+            "actual": 6.0,
+            "projected": 4.15
+          }
+        ],
+        "No Punt Intended": [
+          {
+            "player": "Tucker Kraft",
+            "position": "WR (BE)",
+            "actual": 29.8,
+            "projected": 8.3
+          },
+          {
+            "player": "Jaylen Warren",
+            "position": "RB (BE)",
+            "actual": 8.3,
+            "projected": 14.5
+          },
+          {
+            "player": "Marvin Harrison Jr.",
+            "position": "WR (BE)",
+            "status": "BYE"
+          }
+        ]
+      },
+      "impactful_transactions": [],
+      "key_takeaways": {
+        "Here Comes McBride": "James Cook III produced a massive week and Oronde Gadsden II delivered TE scoring well above projection. The offense overcame an inactive kicker and rolled up a large total.",
+        "No Punt Intended": "This team suffered from multiple underperforming starters (Jake Ferguson, Marcus Mariota, Josh Jacobs). A huge bench score from Tucker Kraft couldn't be used to offset those misses."
+      }
+    },
+    {
+      "matchup": "THE Derbaum vs I Know Exactly What I’m Doing",
+      "winner": "THE Derbaum",
+      "final_score": {
+        "THE Derbaum": 111.62,
+        "I Know Exactly What I’m Doing": 105.86
+      },
+      "top_performers_vs_projection": {
+        "THE Derbaum": [
+          {
+            "player": "Troy Franklin",
+            "position": "WR",
+            "actual": 23.9,
+            "projected": 9.15,
+            "delta": 14.75
+          },
+          {
+            "player": "Chase Brown",
+            "position": "RB",
+            "actual": 24.0,
+            "projected": 10.93,
+            "delta": 13.07
+          },
+          {
+            "player": "George Kittle",
+            "position": "TE",
+            "actual": 12.3,
+            "projected": 8.69,
+            "delta": 3.61
+          }
+        ],
+        "I Know Exactly What I’m Doing": [
+          {
+            "player": "Breece Hall",
+            "position": "RB",
+            "actual": 31.86,
+            "projected": 16.76,
+            "delta": 15.10
+          },
+          {
+            "player": "Buccaneers D/ST",
+            "position": "D/ST",
+            "actual": 25.0,
+            "projected": 5.58,
+            "delta": 19.42
+          },
+          {
+            "player": "Tee Higgins",
+            "position": "WR",
+            "actual": 10.9,
+            "projected": 10.27,
+            "delta": 0.63
+          }
+        ]
+      },
+      "underperformers_vs_projection": {
+        "THE Derbaum": [
+          {
+            "player": "Kirk Cousins",
+            "position": "QB",
+            "actual": 7.12,
+            "projected": 14.79,
+            "delta": -7.67
+          },
+          {
+            "player": "Keon Coleman",
+            "position": "FLEX",
+            "actual": 4.5,
+            "projected": 8.57,
+            "delta": -4.07
+          },
+          {
+            "player": "De'Von Achane",
+            "position": "RB",
+            "actual": 17.6,
+            "projected": 17.08,
+            "delta": 0.52
+          }
+        ],
+        "I Know Exactly What I’m Doing": [
+          {
+            "player": "Caleb Williams",
+            "position": "QB",
+            "actual": 11.8,
+            "projected": 18.4,
+            "delta": -6.6
+          },
+          {
+            "player": "Quentin Johnston",
+            "position": "WR",
+            "actual": 0.0,
+            "projected": 11.34,
+            "delta": -11.34
+          },
+          {
+            "player": "Dalton Schultz",
+            "position": "TE",
+            "actual": 3.4,
+            "projected": 7.7,
+            "delta": -4.3
+          }
+        ]
+      },
+      "notable_bench_players": {
+        "THE Derbaum": [
+          {
+            "player": "Harold Fannin Jr.",
+            "position": "WR (BE)",
+            "actual": 15.4,
+            "projected": 7.4
+          },
+          {
+            "player": "Amon-Ra St. Brown",
+            "position": "WR (BE)",
+            "status": "BYE"
+          },
+          {
+            "player": "Kyren Williams",
+            "position": "RB (BE)",
+            "status": "BYE"
+          }
+        ],
+        "I Know Exactly What I’m Doing": [
+          {
+            "player": "Breece Hall",
+            "position": "RB",
+            "actual": 31.86
+          },
+          {
+            "player": "Tyjae Spears (BE)",
+            "position": "RB (BE)",
+            "actual": 15.7,
+            "projected": 7.92
+          },
+          {
+            "player": "Alec Pierce (BE)",
+            "position": "WR (BE)",
+            "actual": 7.9
+          }
+        ]
+      },
+      "impactful_transactions": [],
+      "key_takeaways": {
+        "THE Derbaum": "Big contributions from Troy Franklin and Chase Brown pushed THE Derbaum past expectation despite weak QB production from Kirk Cousins.",
+        "I Know Exactly What I’m Doing": "Breece Hall and the Buccaneers D/ST massively outperformed projections, but a 0-point outing from Quentin Johnston and QB Caleb Williams below projection left this team short."
+      }
+    },
+    {
+      "matchup": "Gronk for my  johnson vs Baker's Brownie Stand",
+      "winner": "Gronk for my  johnson",
+      "final_score": {
+        "Gronk for my  johnson": 102.46,
+        "Baker's Brownie Stand": 61.88
+      },
+      "top_performers_vs_projection": {
+        "Gronk for my  johnson": [
+          {
+            "player": "Chris Boswell",
+            "position": "K",
+            "actual": 20.0,
+            "projected": 8.7,
+            "delta": 11.3
+          },
+          {
+            "player": "Jaylen Waddle",
+            "position": "WR",
+            "actual": 18.4,
+            "projected": 10.46,
+            "delta": 7.94
+          },
+          {
+            "player": "Dallas Goedert",
+            "position": "TE",
+            "actual": 16.3,
+            "projected": 9.82,
+            "delta": 6.48
+          }
+        ],
+        "Baker's Brownie Stand": [
+          {
+            "player": "Michael Pittman Jr.",
+            "position": "WR",
+            "actual": 19.5,
+            "projected": 10.97,
+            "delta": 8.53
+          },
+          {
+            "player": "Chase McLaughlin",
+            "position": "K",
+            "actual": 17.0,
+            "projected": 8.37,
+            "delta": 8.63
+          },
+          {
+            "player": "DJ Moore",
+            "position": "FLEX",
+            "actual": 9.6,
+            "projected": 8.68,
+            "delta": 0.92
+          }
+        ]
+      },
+      "underperformers_vs_projection": {
+        "Gronk for my  johnson": [
+          {
+            "player": "Bijan Robinson",
+            "position": "RB",
+            "actual": 4.3,
+            "projected": 23.98,
+            "delta": -19.68
+          },
+          {
+            "player": "Bengals D/ST",
+            "position": "D/ST",
+            "actual": -9.0,
+            "projected": 5.35,
+            "delta": -14.35
+          },
+          {
+            "player": "Cam Skattebo",
+            "position": "RB",
+            "actual": 9.5,
+            "projected": 12.85,
+            "delta": -3.35
+          }
+        ],
+        "Baker's Brownie Stand": [
+          {
+            "player": "Baker Mayfield",
+            "position": "QB",
+            "actual": 4.08,
+            "projected": 18.38,
+            "delta": -14.30
+          },
+          {
+            "player": "Christian McCaffrey",
+            "position": "RB",
+            "actual": 8.3,
+            "projected": 18.78,
+            "delta": -10.48
+          },
+          {
+            "player": "Steelers D/ST",
+            "position": "D/ST",
+            "actual": -8.0,
+            "projected": 3.56,
+            "delta": -11.56
+          }
+        ]
+      },
+      "notable_bench_players": {
+        "Gronk for my  johnson": [
+          {
+            "player": "Justin Herbert (BE)",
+            "position": "QB (BE)",
+            "actual": 25.28,
+            "projected": 20.06
+          },
+          {
+            "player": "Tua Tagovailoa (BE)",
+            "position": "QB (BE)",
+            "actual": 24.2,
+            "projected": 12.09
+          },
+          {
+            "player": "C.J. Stroud (BE)",
+            "position": "QB (BE)",
+            "actual": 21.72,
+            "projected": 17.32
+          }
+        ],
+        "Baker's Brownie Stand": [
+          {
+            "player": "Garrett Wilson (BE)",
+            "position": "WR (BE)",
+            "status": "Inactive"
+          },
+          {
+            "player": "Tyler Allgeier (BE)",
+            "position": "RB (BE)",
+            "actual": 8.4,
+            "projected": 7.62
+          },
+          {
+            "player": "Dolphins D/ST (BE)",
+            "position": "D/ST (BE)",
+            "actual": 8.0,
+            "projected": 3.87
+          }
+        ]
+      },
+      "impactful_transactions": [],
+      "key_takeaways": {
+        "Gronk for my  johnson": "Special teams and receiving (Boswell, Waddle, Goedert) delivered massive value. Despite Bijan Robinson failing to produce, the kicker and pass-catchers carried the scoring. Multiple high-scoring QBs remained on the bench.",
+        "Baker's Brownie Stand": "This roster was decimated by poor QB and RB showings — Baker Mayfield and Christian McCaffrey both fell well short of projections. The defense also had a negative outing, resulting in a lopsided loss despite Michael Pittman's strong day."
+      }
+    }
+  ]
+}

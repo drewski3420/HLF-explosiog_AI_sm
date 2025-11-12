@@ -1,0 +1,498 @@
+{
+  "meta": {
+    "weeks_covered": 1,
+    "note": "Season trend summary based on Week 1 data only."
+  },
+  "league_insights": {
+    "average_team_score": 105.02,
+    "average_matchup_margin": 36.43,
+    "games_analyzed": 8,
+    "blowout_count": 6,
+    "close_games_count": 1,
+    "summary": "Week 1 was dominated by blowouts. League-wide scoring was high (avg ~105), but margins were large (avg ~36), producing few true nail-biters. Several managers left high-scoring players on benches, creating large latent scoring swings across matchups."
+  },
+  "team_trends": [
+    {
+      "team": "Jake Butt Stuff",
+      "record": "1-0",
+      "streak": "W1",
+      "week1_score": 149.8,
+      "scoring_pattern": "Explosive WR production + mobile QB. Balanced receiving outperformance drove a top league score.",
+      "top_player_impacts": [
+        "Zay Flowers (28.1) and Garrett Wilson (22.5) far exceeded projections and were primary drivers.",
+        "Caleb Williams (24.2) also outscored expectations and boosted QB scoring."
+      ],
+      "bench_misses": [
+        {
+          "player": "Cam Ward",
+          "points": 2.48,
+          "note": "Poor bench QB outing (negative vs projection) but no impact on win."
+        }
+      ],
+      "notes": "Best scoring team this week; offensive depth and WR returns produced dominant result. Projected playoff seed candidate due to highest points-for."
+    },
+    {
+      "team": "Hangin' With Mr. Cooper",
+      "record": "0-1",
+      "streak": "L1",
+      "week1_score": 102.08,
+      "scoring_pattern": "Mixed WR/TE contributions but catastrophic D/ST performance dragged total down.",
+      "top_player_impacts": [
+        "Michael Pittman Jr. (20.0) outperformed and was a positive."
+      ],
+      "bench_misses": [
+        {
+          "player": "Michael Penix Jr.",
+          "points": 24.02,
+          "note": "Benched QB with a large score; leaving him inactive cost a major potential swing."
+        },
+        {
+          "player": "Cade Otton",
+          "points": 0.0,
+          "note": "Bench TE projected to contribute but produced nothing."
+        }
+      ],
+      "notes": "Loss driven by an unusually poor D/ST (-7) and several underperforming starters despite decent receiver output."
+    },
+    {
+      "team": "THE Derbaum",
+      "record": "1-0",
+      "streak": "W1",
+      "week1_score": 135.12,
+      "scoring_pattern": "Workhorse RB and primary WR massively outperformed; strong QB play contributed.",
+      "top_player_impacts": [
+        "Derrick Henry (29.2) and Deebo Samuel (22.6) both wildly outperformed projections and were engines of the week.",
+        "J.J. McCarthy (22.22) provided solid QB production."
+      ],
+      "bench_misses": [
+        {
+          "player": "Javonte Williams",
+          "points": 20.4,
+          "note": "Strong bench RB — sizable unused scoring but starters still produced enough to win."
+        }
+      ],
+      "notes": "High total and efficient starters. Depth produced more upside than used; strong early contender for top playoff seeding based on points."
+    },
+    {
+      "team": "The Philly Special",
+      "record": "0-1",
+      "streak": "L1",
+      "week1_score": 110.98,
+      "scoring_pattern": "Solid QB/RB week but leading WR underperformed; kicker overperformance helped keep score respectable.",
+      "top_player_impacts": [
+        "Jalen Hurts (solid dual-threat week) and kicker Ka'imi Fairbairn (14.0) added meaningful points."
+      ],
+      "bench_misses": [
+        {
+          "player": "Cedric Tillman",
+          "points": 16.2,
+          "note": "Bench TD and strong WR output would have narrowed the loss."
+        }
+      ],
+      "notes": "Amon-Ra St. Brown underperformed relative to expectations, limiting ceiling despite other contributions."
+    },
+    {
+      "team": "Team Jon",
+      "record": "1-0",
+      "streak": "W1",
+      "week1_score": 111.28,
+      "scoring_pattern": "Defense provided a large bonus and steady WR contributions complemented it.",
+      "top_player_impacts": [
+        "Broncos D/ST (16.0) massively outperformed projections and was a decisive factor.",
+        "Jaxon Smith-Njigba (19.4) and Courtland Sutton (18.1) delivered dependable WR scoring."
+      ],
+      "bench_misses": [
+        {
+          "player": "Jayden Reed",
+          "points": 13.5,
+          "note": "Bench WR produced double-digit points and could have increased margin."
+        }
+      ],
+      "notes": "Team won despite Tyreek Hill underperforming — defense and WR depth carried the day."
+    },
+    {
+      "team": "Kyler? I Barely Know Her",
+      "record": "0-1",
+      "streak": "L1",
+      "week1_score": 95.12,
+      "scoring_pattern": "Strong RB day (Bijan Robinson, Breece Hall) but multiple WR/TE underperformances and a negative flex limited totals.",
+      "top_player_impacts": [
+        "Bijan Robinson (24.4) and Breece Hall (16.5) were positives."
+      ],
+      "bench_misses": [
+        {
+          "player": "Trey Benson",
+          "points": 8.5,
+          "note": "Bench RB with modest points; not a major swing."
+        }
+      ],
+      "notes": "Good RB production offset by underperforming pass-catchers; roster needs improved WR/TE output to be consistently competitive."
+    },
+    {
+      "team": "SnydeRemarks",
+      "record": "1-0",
+      "streak": "W1",
+      "week1_score": 141.46,
+      "scoring_pattern": "Balanced attack — elite QB rushing and breakout WR/CMC combined for one of the top totals.",
+      "top_player_impacts": [
+        "Lamar Jackson (29.36), Emeka Egbuka (23.6), and Christian McCaffrey (23.2) all outperformed projections and produced a dominant result."
+      ],
+      "bench_misses": [],
+      "notes": "Top-tier Week 1 performance; high floor/high ceiling starters and WR breakout suggest a strong early-season contender."
+    },
+    {
+      "team": "Big Trouble in Little Cameron",
+      "record": "0-1",
+      "streak": "L1",
+      "week1_score": 84.02,
+      "scoring_pattern": "Low output across QB, RB, and WR with multiple starters badly underperforming. Bench had big scores that went unused.",
+      "top_player_impacts": [],
+      "bench_misses": [
+        {
+          "player": "Daniel Jones",
+          "points": 29.48,
+          "note": "Huge bench QB score — critical missed start."
+        },
+        {
+          "player": "Keenan Allen",
+          "points": 19.8,
+          "note": "Bench WR with big points; two bench players alone would have added ~49 points."
+        }
+      ],
+      "notes": "Benching high-scoring players cost competitiveness; starter underperformance created one of the lowest team totals."
+    },
+    {
+      "team": "Team Santangelo",
+      "record": "1-0",
+      "streak": "W1",
+      "week1_score": 123.82,
+      "scoring_pattern": "High QB output paired with RB contributions and an overperforming D/ST produced a large win.",
+      "top_player_impacts": [
+        "Justin Herbert (27.92) and James Cook (21.2) outpaced projections and fueled the offense.",
+        "Colts D/ST (14.0) added a valuable boost."
+      ],
+      "bench_misses": [
+        {
+          "player": "Jordan Love",
+          "points": 15.92,
+          "note": "Bench QB had a solid outing but starter outperformed."
+        }
+      ],
+      "notes": "Strong start; balanced scoring with defense contributing meaningfully."
+    },
+    {
+      "team": "Xavier Marks the Spot",
+      "record": "0-1",
+      "streak": "L1",
+      "week1_score": 66.62,
+      "scoring_pattern": "Severe underperformance from multiple high-profile starters (WR/TE/QB) produced the lowest team total of Week 1.",
+      "top_player_impacts": [],
+      "bench_misses": [
+        {
+          "player": "Hunter Henry",
+          "points": 10.6,
+          "note": "Bench TE provided minor unused scoring."
+        }
+      ],
+      "notes": "A.J. Brown, Joe Burrow, Mark Andrews, and Xavier Worthy all severely underperformed versus projections — a historical one-week collapse in scoring."
+    },
+    {
+      "team": "Forte Inch Johnson",
+      "record": "1-0",
+      "streak": "W1",
+      "week1_score": 122.36,
+      "scoring_pattern": "Elite QB performance (Josh Allen) drove an oversized portion of the total; WR compliments provided additional scoring.",
+      "top_player_impacts": [
+        "Josh Allen (38.76) delivered the single largest Week 1 performance and was the decisive factor.",
+        "Hollywood Brown (19.9) provided strong WR scoring."
+      ],
+      "bench_misses": [
+        {
+          "player": "Justin Fields",
+          "points": 29.52,
+          "note": "Bench QB also had a massive week; unused but indicative of roster strength."
+        }
+      ],
+      "notes": "Huge QB carry; stacked QB depth and complementary WRs made this a top offensive showing."
+    },
+    {
+      "team": "Dickhole Smashers",
+      "record": "0-1",
+      "streak": "L1",
+      "week1_score": 75.58,
+      "scoring_pattern": "Underperforming skill players and large bench scores left unused contributed to a lopsided loss.",
+      "top_player_impacts": [],
+      "bench_misses": [
+        {
+          "player": "Aaron Rodgers",
+          "points": 25.66,
+          "note": "Bench QB with significant points left unused."
+        },
+        {
+          "player": "Dalton Kincaid",
+          "points": 14.8,
+          "note": "Bench TE produced a TD; notable missed value."
+        }
+      ],
+      "notes": "Multiple starters (Terry McLaurin, Pacheco, Stevenson) underperformed; bench decisions were costly."
+    },
+    {
+      "team": "If Ur Not First You're Last",
+      "record": "1-0",
+      "streak": "W1",
+      "week1_score": 99.82,
+      "scoring_pattern": "Solid QB play (Mahomes) with role WR/TE contributions but overall a below-average winning score.",
+      "top_player_impacts": [
+        "Patrick Mahomes (26.02) exceeded projection and was the primary scoring engine."
+      ],
+      "bench_misses": [],
+      "notes": "Won with a modest total; relied on QB steadiness rather than explosive committee scoring."
+    },
+    {
+      "team": "Trying to not finish last",
+      "record": "0-1",
+      "streak": "L1",
+      "week1_score": 71.04,
+      "scoring_pattern": "Poor QB outing and overall weak offensive production; bench held a major positive that was left unused.",
+      "top_player_impacts": [],
+      "bench_misses": [
+        {
+          "player": "Keon Coleman",
+          "points": 25.2,
+          "note": "Huge bench WR — leaving him inactive was a critical missed opportunity."
+        },
+        {
+          "player": "Zach Ertz",
+          "points": 11.6,
+          "note": "Bench TE provided useful points."
+        }
+      ],
+      "notes": "Benched upside and poor QB performance combined to produce a low score and an easy loss."
+    },
+    {
+      "team": "Kraft Montgomery Cheese",
+      "record": "1-0",
+      "streak": "W1",
+      "week1_score": 102.22,
+      "scoring_pattern": "Balanced RB scoring and steady QB output; defense underperformed but did not prevent a win.",
+      "top_player_impacts": [
+        "J.K. Dobbins (14.8) and steady RB/backup WR contributions formed the core of the scoring."
+      ],
+      "bench_misses": [
+        {
+          "player": "Wan'Dale Robinson",
+          "points": 11.5,
+          "note": "Bench WR with double-digit points."
+        }
+      ],
+      "notes": "Victory built on RB production and depth despite a D/ST that fell below projection."
+    },
+    {
+      "team": "5WRsAllowedOnRostersNextYear",
+      "record": "0-1",
+      "streak": "L1",
+      "week1_score": 89.02,
+      "scoring_pattern": "Puka Nacua delivered, but QB and other WRs underperformed limiting the team's ceiling.",
+      "top_player_impacts": [
+        "Puka Nacua (23.1) was the primary bright spot."
+      ],
+      "bench_misses": [
+        {
+          "player": "Matthew Stafford",
+          "points": 13.6,
+          "note": "Bench QB had a serviceable outing but did not swing result."
+        }
+      ],
+      "notes": "Good individual WR performance could not overcome broader offensive underperformance."
+    }
+  ],
+  "player_level_insights": {
+    "week1_standouts": [
+      {
+        "player": "Josh Allen",
+        "team_impact": "Forte Inch Johnson",
+        "points": 38.76,
+        "impact_note": "Single largest Week 1 performance; directly drove a dominant win."
+      },
+      {
+        "player": "Lamar Jackson",
+        "team_impact": "SnydeRemarks",
+        "points": 29.36,
+        "impact_note": "High QB rushing/return that paired with strong RB/WR outputs to generate one of the highest team totals."
+      },
+      {
+        "player": "Derrick Henry",
+        "team_impact": "THE Derbaum",
+        "points": 29.2,
+        "impact_note": "Workhorse RB explosion that materially influenced a top scoring effort."
+      },
+      {
+        "player": "Justin Fields (bench)",
+        "team_impact": "Forte Inch Johnson",
+        "points": 29.52,
+        "impact_note": "Large bench QB score — indicator of roster depth and/or missed start if active."
+      },
+      {
+        "player": "Daniel Jones (bench)",
+        "team_impact": "Big Trouble in Little Cameron",
+        "points": 29.48,
+        "impact_note": "Huge bench QB score that, if started, would have reversed a weak team outcome."
+      },
+      {
+        "player": "Zay Flowers / Garrett Wilson",
+        "team_impact": "Jake Butt Stuff",
+        "points": "28.1 / 22.5",
+        "impact_note": "Pair of WRs massively outperformed projections and were primary scoring drivers."
+      }
+    ],
+    "week1_underperformers": [
+      {
+        "player": "Ja'Marr Chase",
+        "team_impact": "Team Santangelo",
+        "points": 4.6,
+        "impact_note": "Large negative vs projection for a typically high-floor WR; reduced expected upside."
+      },
+      {
+        "player": "A.J. Brown",
+        "team_impact": "Xavier Marks the Spot",
+        "points": 1.8,
+        "impact_note": "Major underperformance contributing to team's historically low total."
+      },
+      {
+        "player": "Joe Burrow",
+        "team_impact": "Xavier Marks the Spot",
+        "points": 8.82,
+        "impact_note": "Low QB output compounded ensemble underperformance."
+      }
+    ],
+    "bench_swing_summary": {
+      "large_bench_scores_left_unused": [
+        {
+          "player": "Daniel Jones",
+          "team": "Big Trouble in Little Cameron",
+          "points": 29.48
+        },
+        {
+          "player": "Justin Fields",
+          "team": "Forte Inch Johnson",
+          "points": 29.52
+        },
+        {
+          "player": "Aaron Rodgers",
+          "team": "Dickhole Smashers",
+          "points": 25.66
+        },
+        {
+          "player": "Keon Coleman",
+          "team": "Trying to not finish last",
+          "points": 25.2
+        },
+        {
+          "player": "Michael Penix Jr.",
+          "team": "Hangin' With Mr. Cooper",
+          "points": 24.02
+        },
+        {
+          "player": "Javonte Williams",
+          "team": "THE Derbaum",
+          "points": 20.4
+        },
+        {
+          "player": "Keenan Allen",
+          "team": "Big Trouble in Little Cameron",
+          "points": 19.8
+        }
+      ],
+      "insight": "Multiple teams left 20+ point bench performances unused, significantly altering several matchup outcomes or margins."
+    }
+  },
+  "owner_behaviors": {
+    "notable_risky_decisions": [
+      {
+        "team": "Hangin' With Mr. Cooper",
+        "action": "Benched Michael Penix Jr. (24.02)",
+        "impact": "Large missed scoring opportunity that would have materially changed the matchup."
+      },
+      {
+        "team": "Big Trouble in Little Cameron",
+        "action": "Benched Daniel Jones (29.48) and Keenan Allen (19.8)",
+        "impact": "Two bench players combined for ~49 points — a critical management error for a team that scored 84.02."
+      },
+      {
+        "team": "Trying to not finish last",
+        "action": "Benched Keon Coleman (25.2)",
+        "impact": "Benched WR with large score cost the ability to compete."
+      },
+      {
+        "team": "Dickhole Smashers",
+        "action": "Benched Aaron Rodgers (25.66) and Dalton Kincaid (14.8)",
+        "impact": "Significant unused bench scoring while multiple starters underperformed."
+      }
+    ],
+    "notable_smart_decisions": [
+      {
+        "team": "Forte Inch Johnson",
+        "action": "Started Josh Allen",
+        "impact": "Maximized elite QB performance that produced the week's single largest individual score."
+      },
+      {
+        "team": "Team Jon",
+        "action": "Started Broncos D/ST",
+        "impact": "Defense outperformed and provided a decisive edge in the matchup."
+      },
+      {
+        "team": "Team Santangelo",
+        "action": "Started Justin Herbert and Colts D/ST",
+        "impact": "Both players exceeded expectations and added toward a large team total."
+      }
+    ]
+  },
+  "playoff_driven_analysis": {
+    "playoff_format": "Top 6 teams by record (then head-to-head, then Points For) qualify",
+    "current_playoff_projection_after_week1": [
+      {
+        "seed_projection": 1,
+        "team": "Jake Butt Stuff",
+        "record": "1-0",
+        "points_for": 149.8,
+        "rationale": "Highest Points For among 1-0 teams; dominant Week 1 performance."
+      },
+      {
+        "seed_projection": 2,
+        "team": "SnydeRemarks",
+        "record": "1-0",
+        "points_for": 141.46,
+        "rationale": "Balanced elite performances produced a top-tier points total."
+      },
+      {
+        "seed_projection": 3,
+        "team": "THE Derbaum",
+        "record": "1-0",
+        "points_for": 135.12,
+        "rationale": "High-scoring week driven by Henry and Deebo; strong early points profile."
+      },
+      {
+        "seed_projection": 4,
+        "team": "Team Santangelo",
+        "record": "1-0",
+        "points_for": 123.82,
+        "rationale": "Solid QB/RB/Defense combination produced a large score and early seeding advantage."
+      },
+      {
+        "seed_projection": 5,
+        "team": "Forte Inch Johnson",
+        "record": "1-0",
+        "points_for": 122.36,
+        "rationale": "Elite QB carry and supporting WR output place them among early playoff qualifiers."
+      },
+      {
+        "seed_projection": 6,
+        "team": "Team Jon",
+        "record": "1-0",
+        "points_for": 111.28,
+        "rationale": "Win aided by defensive outperformance; among top six Points For of winners."
+      }
+    ],
+    "playoff_notes": "With only one week played, all six playoff spots are decided by Points For among 1-0 teams. Early indicators: teams that combined elite QB/RB weeks with complementary WR or defensive outperformance earned the highest Points For and early playoff placement. Owners who left multi-20 point bench performances unused may be at a disadvantage over the season if that pattern continues."
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "season_summary": {
+    "weeks_covered": [
+      "Week 1",
+      "Week 2"
+    ],
+    "narrative": "Two weeks produced clear early separation: three unbeaten teams at 2-0, three winless at 0-2, and a large middle group at 1-1 with several high-scoring rosters. League scoring is high and volatile; managers repeatedly left large scores on benches and several teams swung >40 points week-to-week based on a few players. QB/RB big weeks and D/ST/kicker anomalies produced decisive swings."
+  },
+  "team_trends": [
+    {
+      "team": "Jake Butt Stuff",
+      "record": "2-0",
+      "streak": "W2",
+      "points_for": 242.68,
+      "points_against": 191.8,
+      "scoring_pattern": "High-floor offense across both weeks (149.8 then 92.88); balanced WR and QB production drove wins.",
+      "notable_team_notes": [
+        "Week 1 explosion (149.8) led by multiple WRs exceeding projection; Week 2 closer win but still above average.",
+        "Has the league-best 2-game winning streak; solid points-for suggests staying power."
+      ]
+    },
+    {
+      "team": "If Ur Not First You're Last",
+      "record": "2-0",
+      "streak": "W2",
+      "points_for": 245.6,
+      "points_against": 213.82,
+      "scoring_pattern": "Very high-scoring team (99.82 then 145.78). Reliant on a top WR pairing in Week 2 and a strong Mahomes week.",
+      "notable_team_notes": [
+        "Big Week 2 receiving outburst (Malik Nabers 37.7, Rome Odunze 31.8) keyed a 2-point win.",
+        "One of the highest-scoring teams across two weeks; offensive ceiling is among the league best."
+      ]
+    },
+    {
+      "team": "Kraft Montgomery Cheese",
+      "record": "2-0",
+      "streak": "W2",
+      "points_for": 236.02,
+      "points_against": 210.36,
+      "scoring_pattern": "Consistently above average (102.22 then 133.8); meaningful TE and WR weeks plus deep bench scoring.",
+      "notable_team_notes": [
+        "Tucker Kraft and Davante Adams produced huge Week 2 contributions; bench Wan'Dale Robinson (28.2) was a major unused asset.",
+        "Strong roster depth evidenced by large unused bench points."
+      ]
+    },
+    {
+      "team": "THE Derbaum",
+      "record": "1-1",
+      "streak": "L1",
+      "points_for": 224.84,
+      "points_against": 203.86,
+      "scoring_pattern": "Large swings driven by RB/WR big weeks and volatile QB/RB outcomes (Henry 29.2 then 2.3).",
+      "notable_team_notes": [
+        "Week 1 dominant (135.12) then narrow Week 2 loss (89.72); Javonte Williams produced two large games (20.4 bench week, 25.0 starter week).",
+        "Roster has upside but inconsistent outcomes from lead RB."
+      ]
+    },
+    {
+      "team": "The Philly Special",
+      "record": "1-1",
+      "streak": "W1",
+      "points_for": 231.62,
+      "points_against": 254.32,
+      "scoring_pattern": "High ceiling driven by elite WR performance (Amon-Ra St. Brown 39.2 in Week 2); QB and other pass-catchers have been volatile.",
+      "notable_team_notes": [
+        "Huge one-point Week 2 win thanks to Amon-Ra's 39.2; Jalen Hurts underperformed week-to-week.",
+        "Points-for places them among the stronger 1-1 teams."
+      ]
+    },
+    {
+      "team": "Hangin' With Mr. Cooper",
+      "record": "1-1",
+      "streak": "W1",
+      "points_for": 219.38,
+      "points_against": 210.0,
+      "scoring_pattern": "Rookie QB/RB upside and above-projection RB days; one lopsided loss then bounce-back by rookie pieces.",
+      "notable_team_notes": [
+        "Benched Michael Penix Jr. (24.02 in W1) in Week 1 — costly decision noted.",
+        "De'Von Achane and Drake Maye combined for a strong Week 2 showing."
+      ]
+    },
+    {
+      "team": "SnydeRemarks",
+      "record": "1-1",
+      "streak": "L1",
+      "points_for": 260.66,
+      "points_against": 204.66,
+      "scoring_pattern": "Highest points-for across two weeks (141.46 then 119.2); balanced superstar performances (Lamar Jackson, CMC) but still split results.",
+      "notable_team_notes": [
+        "Elite two-week scoring total driven by Lamar Jackson and Christian McCaffrey; lost a narrow Week 2 matchup (119.2 vs 120.64) despite strong total.",
+        "Bench pieces (Trevor Lawrence, Rachaad White) provided scoring that in some weeks was left unused."
+      ]
+    },
+    {
+      "team": "Kyler? I Barely Know Her",
+      "record": "1-1",
+      "streak": "W1",
+      "points_for": 194.32,
+      "points_against": 188.02,
+      "scoring_pattern": "RB-centric offense (Bijan Robinson produced) but inconsistent WR/TE production (Pickens down week 1 then big week 2).",
+      "notable_team_notes": [
+        "Bijan Robinson was a reliable source (24.4 then 19.8); Breece Hall underperformed in Week 2.",
+        "Still building consistency despite RB success."
+      ]
+    },
+    {
+      "team": "Big Trouble in Little Cameron",
+      "record": "1-1",
+      "streak": "W1",
+      "points_for": 193.66,
+      "points_against": 244.08,
+      "scoring_pattern": "Low-to-mid scoring with volatile WR outcomes; Week 2 bounce after Week 1 blowout loss.",
+      "notable_team_notes": [
+        "Week 1 bench miscues (Daniel Jones 29.48 and Keenan Allen 19.8 left on bench) in a large loss; Week 2 used Dak + Kenneth Walker to win.",
+        "Bench management was a major factor in Week 1 loss."
+      ]
+    },
+    {
+      "team": "Team Jon",
+      "record": "1-1",
+      "streak": "L1",
+      "points_for": 171.48,
+      "points_against": 212.42,
+      "scoring_pattern": "Low total in Week 2 (60.2) after a solid Week 1; defense outperformance in Week 1 offset some offensive struggles.",
+      "notable_team_notes": [
+        "Broncos D/ST delivered a huge Week 1 boost (16.0); Week 2 saw a critical benching error (Jared Goff 33.96 left inactive) and multiple underperforming pass-catchers.",
+        "Roster volatility and lineup mistakes have materially impacted outcomes."
+      ]
+    },
+    {
+      "team": "Team Santangelo",
+      "record": "1-1",
+      "streak": "L1",
+      "points_for": 266.6,
+      "points_against": 212.4,
+      "scoring_pattern": "Extremely high points-for (123.82 then 142.78); elite single-week ceilings, driven by stellar WR/TE weeks.",
+      "notable_team_notes": [
+        "Week 2 produced a 142.78 output including Ja'Marr Chase (36.5) and James Cook (26.5); large bench kicker and QB points (Brandon Aubrey 22.0, Jordan Love 20.88) were left unused.",
+        "Despite the Week 2 loss, total scoring makes them a dangerous team moving forward."
+      ]
+    },
+    {
+      "team": "Forte Inch Johnson",
+      "record": "1-1",
+      "streak": "L1",
+      "points_for": 224.98,
+      "points_against": 185.22,
+      "scoring_pattern": "Week 1 monster (122.36) then closer Week 2 (102.62); huge Week 1 Josh Allen performance followed by an underperformance from Allen in Week 2.",
+      "notable_team_notes": [
+        "Josh Allen (38.76) carried Week 1 but underperformed Week 2 (11.82); Justin Fields produced a big bench score in Week 1 (29.52) but was unused.",
+        "Defense (Seahawks D/ST Week 2) provided a major swing in Week 2."
+      ]
+    },
+    {
+      "team": "Xavier Marks the Spot",
+      "record": "0-2",
+      "streak": "L2",
+      "points_for": 143.36,
+      "points_against": 223.02,
+      "scoring_pattern": "Struggling offense across both weeks with multiple high-profile WR/TE busts (A.J. Brown, Mark Andrews, Xavier Worthy).",
+      "notable_team_notes": [
+        "0-2 start and severely underperforming projections; Mark Andrews and A.J. Brown both posted low outputs versus expectations.",
+        "Hasn't found reliable weekly scoring yet."
+      ]
+    },
+    {
+      "team": "Dickhole Smashers",
+      "record": "0-2",
+      "streak": "L2",
+      "points_for": 179.68,
+      "points_against": 260.18,
+      "scoring_pattern": "Low scoring with large losses; repeatedly left high-scoring bench QBs/TEs (Aaron Rodgers, Dalton Kincaid) unused in Week 1.",
+      "notable_team_notes": [
+        "Benched Aaron Rodgers (25.66) and Dalton Kincaid (14.8) in Week 1 — major missed points.",
+        "Underperformance from key WRs (Justin Jefferson) contributed to two losses."
+      ]
+    },
+    {
+      "team": "Trying to not finish last",
+      "record": "0-2",
+      "streak": "L2",
+      "points_for": 192.38,
+      "points_against": 233.62,
+      "scoring_pattern": "Good single-player games (Jonathan Taylor 29.5) but inconsistent complementary scoring and costly benching (Keon Coleman Week 1 bench 25.2).",
+      "notable_team_notes": [
+        "Lost both weeks despite exploitative single-player weeks; benching of Keon Coleman (25.2) in Week 1 noted as season-altering decision.",
+        "Needs more consistent multi-player output."
+      ]
+    },
+    {
+      "team": "5WRsAllowedOnRostersNextYear",
+      "record": "1-1",
+      "streak": "W1",
+      "points_for": 226.84,
+      "points_against": 206.32,
+      "scoring_pattern": "Strong receiving core (Puka Nacua 23.1 then 27.6) and bench depth that sometimes remains unused but overall positive outputs.",
+      "notable_team_notes": [
+        "Large Week 2 win (137.82) powered by Puka Nacua and Jameson Williams; bench Jauan Jennings (19.9) was notable but unused.",
+        "Team shows upward scoring trajectory."
+      ]
+    }
+  ],
+  "player_trends": [
+    {
+      "player": "Lamar Jackson",
+      "impacted_teams": [
+        "SnydeRemarks"
+      ],
+      "trend": "Repeat top performer (29.36 in Week 1, 26.3 in Week 2). Consistent high ceiling from rushing and passing — a primary scoring engine for his team."
+    },
+    {
+      "player": "Christian McCaffrey",
+      "impacted_teams": [
+        "SnydeRemarks"
+      ],
+      "trend": "Back-to-back top outputs (23.2 then 22.7) — reliable RB production contributing to highest team PF."
+    },
+    {
+      "player": "Puka Nacua",
+      "impacted_teams": [
+        "5WRsAllowedOnRostersNextYear"
+      ],
+      "trend": "Two strong weeks (23.1 then 27.6) — reliable WR target with rising role and consistent fantasy impact."
+    },
+    {
+      "player": "Zay Flowers",
+      "impacted_teams": [
+        "Jake Butt Stuff"
+      ],
+      "trend": "Boom week in Week 1 (28.1) followed by solid Week 2 (14.9) — early-season WR outperformer for a 2-0 team."
+    },
+    {
+      "player": "Amon-Ra St. Brown",
+      "impacted_teams": [
+        "The Philly Special"
+      ],
+      "trend": "Extreme week-to-week volatility: underperformed in Week 1 (8.5) then exploded in Week 2 (39.2) producing a one-game outcome swing."
+    },
+    {
+      "player": "Josh Allen",
+      "impacted_teams": [
+        "Forte Inch Johnson"
+      ],
+      "trend": "Massive Week 1 (38.76) followed by a subpar Week 2 (11.82) — demonstrates QB volatility and dependence on single-week blowups."
+    },
+    {
+      "player": "Derrick Henry",
+      "impacted_teams": [
+        "THE Derbaum"
+      ],
+      "trend": "Huge Week 1 (29.2) and then a major bust Week 2 (2.3) — large variance from week to week that affected team record."
+    },
+    {
+      "player": "Malik Nabers / Rome Odunze",
+      "impacted_teams": [
+        "If Ur Not First You're Last"
+      ],
+      "trend": "Both produced massive Week 2 outputs (Nabers 37.7, Odunze 31.8) and were the primary drivers of a runaway Week 2 total; they represent a high-ceiling WR pairing."
+    },
+    {
+      "player": "Ja'Marr Chase",
+      "impacted_teams": [
+        "Team Santangelo"
+      ],
+      "trend": "Big bounceback from a low Week 1 (4.6) to Week 2 monster (36.5) — highlights volatility and high upside."
+    }
+  ],
+  "league_insights": {
+    "average_scoring": {
+      "total_points_all_teams_two_weeks": 3454.1,
+      "average_points_per_team_two_weeks": 215.88,
+      "average_points_per_team_per_week": 107.94,
+      "note": "Average team score ~108 points per week across first two weeks; several teams well above that and multiple games exceeded typical weekly averages."
+    },
+    "close_games_and_blowouts": {
+      "close_games": [
+        {
+          "matchup": "The Philly Special vs SnydeRemarks (Week 2)",
+          "margin": 1,
+          "note": "High-scoring one-point game decided by a single WR performance."
+        },
+        {
+          "matchup": "If Ur Not First You're Last vs Team Santangelo (Week 2)",
+          "margin": 2,
+          "note": "Two-point, extremely high combined scoring game (288.56 combined)."
+        },
+        {
+          "matchup": "Jake Butt Stuff vs THE Derbaum (Week 2)",
+          "margin": 3,
+          "note": "Close 3-point margin influenced by RB/QB swings and bench decisions."
+        }
+      ],
+      "blowouts_and_lopsided_results_examples": [
+        {
+          "matchup": "SnydeRemarks vs Big Trouble in Little Cameron (Week 1)",
+          "score": "141.46 to 84.02",
+          "note": "Large margin powered by multiple starters far exceeding projection."
+        },
+        {
+          "matchup": "Team Santangelo vs Xavier Marks the Spot (Week 1)",
+          "score": "123.82 to 66.62",
+          "note": "One-sided game with several starters underperforming for the losing side."
+        }
+      ]
+    },
+    "bench_impact_summary": {
+      "observation": "Early weeks have seen numerous high-value benchings that changed outcomes; examples include Daniel Jones (29.48), Wan'Dale Robinson (28.2), Jared Goff (33.96), Keon Coleman (25.2), Aaron Rodgers (25.66), and Michael Penix Jr. (24.02) left unused in various matchups.",
+      "implication": "Bench management and activation of unexpectedly large-scoring players have been decisive in many match results."
+    },
+    "projection_vs_actual_notes": "Multiple teams both over and underperformed aggregate projections; kickers and D/ST swings (e.g., Broncos D/ST 16.0, Colts D/ST 14.0, Steelers D/ST underperforming) created outsized effects in some matches."
+  },
+  "owner_behaviors": [
+    {
+      "behavior": "Benched high-scoring players",
+      "examples": [
+        {
+          "team": "Big Trouble in Little Cameron",
+          "players_benched": [
+            {
+              "player": "Daniel Jones",
+              "points_if_started": 29.48,
+              "note": "Left on bench in Week 1; would have materially changed outcome."
+            },
+            {
+              "player": "Keenan Allen",
+              "points_if_started": 19.8,
+              "note": "Also benched in Week 1 contributing to a large unused point total."
+            }
+          ]
+        },
+        {
+          "team": "Kraft Montgomery Cheese",
+          "player": "Wan'Dale Robinson",
+          "points_if_started": 28.2,
+          "note": "Week 2 benching of a 28.2-point player reduced an already large score potential."
+        },
+        {
+          "team": "Team Jon",
+          "player": "Jared Goff",
+          "points_if_started": 33.96,
+          "note": "QB left inactive in Week 2 while Brock Purdy was listed Inactive; large missed opportunity."
+        },
+        {
+          "team": "Trying to not finish last",
+          "player": "Keon Coleman",
+          "points_if_started": 25.2,
+          "note": "Benched in Week 1 and likely swung that matchup result."
+        }
+      ]
+    },
+    {
+      "behavior": "Risky starts/lineups with low-projection but high variance players",
+      "examples": [
+        {
+          "team": "Hangin' With Mr. Cooper",
+          "note": "Started some rookie/high-upside pieces that paid off (Drake Maye, De'Von Achane), demonstrating a risk-on approach that produced immediate gains."
+        },
+        {
+          "team": "Teams starting kickers or D/ST with volatile projections",
+          "note": "Several managers benefited from unexpectedly high kicker/DST weeks (e.g., Brandon Aubrey 22.0 on bench; Colts D/ST 14.0 started) while others were burned by negative D/ST returns."
+        }
+      ]
+    },
+    {
+      "behavior": "Under/over reliance on single players",
+      "examples": [
+        {
+          "team": "Forte Inch Johnson",
+          "note": "Heavy dependence on Josh Allen produced one massive win and one weaker week; roster depth produced large bench QBs (Justin Fields) who were unused but showed overall strength."
+        }
+      ]
+    }
+  ],
+  "playoff_projection": {
+    "format_assumed": "Top 6 teams make playoffs (ranked by record, then head-to-head, then Points For).",
+    "projected_playoff_teams_and_seeds": [
+      {
+        "seed": 1,
+        "team": "If Ur Not First You're Last",
+        "record": "2-0",
+        "rationale": "2-0 with 245.6 points-for (highest among the 2-0 group), strong Week 2 WR outburst."
+      },
+      {
+        "seed": 2,
+        "team": "Jake Butt Stuff",
+        "record": "2-0",
+        "rationale": "2-0 with 242.68 points-for; consistent production across both weeks."
+      },
+      {
+        "seed": 3,
+        "team": "Kraft Montgomery Cheese",
+        "record": "2-0",
+        "rationale": "2-0 with 236.02 points-for; deep roster and two wins to start season."
+      },
+      {
+        "seed": 4,
+        "team": "Team Santangelo",
+        "record": "1-1",
+        "rationale": "Top Points For among 1-1 teams (266.6) — tiebreak advantages via PF place them into playoff slots despite 1-1 record."
+      },
+      {
+        "seed": 5,
+        "team": "SnydeRemarks",
+        "record": "1-1",
+        "rationale": "Second-highest PF among 1-1 teams (260.66); very strong two-week scoring despite 1-1 split."
+      },
+      {
+        "seed": 6,
+        "team": "The Philly Special",
+        "record": "1-1",
+        "rationale": "Next highest PF among 1-1 teams (231.62) and a decisive Week 2 one-point win driven by an elite WR performance."
+      }
+    ],
+    "notes_and_risks": [
+      "Three 2-0 teams occupy the top seeds purely on record; several 1-1 teams have higher points-for than some 2-0 teams but lose on record-based tiebreakers.",
+      "Early-season volatility (huge single-player weeks, bench swings) means playoff projections are provisional; managers with high PF but a 1-1 record (Team Santangelo, SnydeRemarks) are well-positioned to claim late-season playoff seats if they tighten lineup management.",
+      "Head-to-head tiebreakers haven't resolved multi-way ties; future head-to-head results will be crucial among the large 1-1 group."
+    ]
+  }
+}

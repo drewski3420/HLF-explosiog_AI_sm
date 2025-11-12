@@ -1,0 +1,358 @@
+{
+  "season_period": "Through Week 2",
+  "league_overview": {
+    "games_totaled": 12,
+    "average_points_per_team_per_week": 100.10833333333333,
+    "average_points_per_matchup": 200.21666666666667,
+    "high_level_trends": [
+      "Bench management repeatedly influenced outcomes: multiple teams left 20+ point performers on the bench across Weeks 1–2 (examples include Caleb Williams, Justin Herbert, J.J. McCarthy, Keon Coleman, Zay Flowers, Jared Goff, Rome Odunze, Daniel Jones).",
+      "Quarterback variance has been a major driver of week-to-week swings — several QBs produced huge positive deviations (Josh Allen +17.93 Week 1; Justin Fields +14.03 Week 1 as bench scoring; Jared Goff +18.64 Week 2 on the bench) while other QBs underperformed versus projection (Bo Nix, Joe Burrow, Dak Prescott in Week 1, Josh Allen in Week 2).",
+      "Week 1 featured multiple close games decided by single bench/lineup choices (several margins <10). Week 2 produced more lopsided results (several large blowouts), indicating rising disparity between teams that managed lineups/bench optimally and those that did not.",
+      "Kickers and defenses produced occasional outlier scoring that swung matchups (Brandon Aubrey 22.0 Week 2; Patriots D/ST 12.0 Week 2; Chargers D/ST 14.0 Week 2)."
+    ],
+    "notable_numbers_and_examples": [
+      {
+        "metric": "Highest total Points For (team, 2 weeks)",
+        "value": "No Punt Intended — 237.36"
+      },
+      {
+        "metric": "Second highest Points For (team, 2 weeks)",
+        "value": "THE Derbaum — 231.06"
+      },
+      {
+        "metric": "League mean points per team per week",
+        "value": 100.10833333333333
+      },
+      {
+        "metric": "Most extreme single game outperformance vs projection (player)",
+        "value": "Josh Allen Week 1: 38.76 (projection 20.83) -> +17.93"
+      },
+      {
+        "metric": "Frequent decisive factor",
+        "value": "20+ point bench scorers left inactive in multiple matchups across both weeks."
+      }
+    ],
+    "week_to_week_pattern": [
+      "Week 1: Many close matchups where single bench decisions swung winners (ex: OHHHH... vs No Punt Intended; THE Derbaum vs D.J. Chark Week).",
+      "Week 2: Fewer nail-biters and more one-sided affairs; some teams produced explosive single-week outputs (THE Derbaum 138.64) while others fell into repeating low outputs (multiple teams at 0-2)."
+    ],
+    "notable_upsets_and_projection_edges": [
+      "Week 2: Puka Puka (projected 109.32) defeated OHHHHHHH YEAHHHHH!!!! (projected 109.75) — Puka won despite a small projection disadvantage.",
+      "Week 2: I Know Exactly What I’m Doing (projected 103.31) beat Baker's Brownie Stand (projected 104.63) — a narrow upset relative to those team projections."
+    ]
+  },
+  "playoff_projection_and_analysis": {
+    "format": "Top 6 teams make playoffs (ranked by record, then head-to-head, then Points For).",
+    "playoff_teams_projected": [
+      {
+        "seed_rank": 1,
+        "team": "THE Derbaum",
+        "record": "2-0",
+        "points_for": 231.06,
+        "rationale": "Undefeated with the second-highest points-for; explosive WR performances (Amon-Ra St. Brown, Ja'Marr Chase) produced dominant Week 2 output."
+      },
+      {
+        "seed_rank": 2,
+        "team": "Clever Team  Name Incoming",
+        "record": "2-0",
+        "points_for": 201.32,
+        "rationale": "2-0 start driven by heavy single-game production (Derrick Henry Week 1) and reliable WR/defense contributions; bench volatility in RB usage noted."
+      },
+      {
+        "seed_rank": 3,
+        "team": "Puka Puka",
+        "record": "2-0",
+        "points_for": 195.16,
+        "rationale": "2-0 with consistent Puka Nacua production and a big Week 2 D/ST showing; resilient despite earlier QB/WR variance."
+      },
+      {
+        "seed_rank": 4,
+        "team": "No Punt Intended",
+        "record": "1-1",
+        "points_for": 237.36,
+        "rationale": "Highest points-for among 1-1 teams. Deep scoring and TE/WR outbursts (Tucker Kraft, Javonte Williams, Rome Odunze bench) place them into a wildcard slot on points-for tiebreaker."
+      },
+      {
+        "seed_rank": 5,
+        "team": "OHHHHHHH YEAHHHHH!!!!",
+        "record": "1-1",
+        "points_for": 209.98,
+        "rationale": "Strong total offense (Josh Allen Week 1 + Emeka Egbuka) but QB volatility makes long-term outlook variable; points-for secures playoff tie-break positioning."
+      },
+      {
+        "seed_rank": 6,
+        "team": "I Know Exactly What I’m Doing",
+        "record": "1-1",
+        "points_for": 203.66,
+        "rationale": "Solid points-for and a Week 2 win powered by non-traditional scoring (kicker Brandon Aubrey, TE Juwan Johnson, Cardinals D/ST) give them the final projected postseason berth."
+      }
+    ],
+    "close_calls_and_observations": [
+      "D.J. Chark Week (196.30 PF) and Baker's Brownie Stand (189.18 PF) sit close behind the projected 6th seed by points and could displace current projected teams with small shifts in results or head-to-head outcomes.",
+      "Tie-breaks will be relevant later — current selection used record first, then points-for as available in provided data."
+    ]
+  },
+  "team_level_trends": {
+    "Clever Team  Name Incoming": {
+      "record": "2-0",
+      "streak": "W2",
+      "points_for": 201.32,
+      "points_against": 162.82,
+      "scoring_pattern": "Wins built off a mix of large RB and WR single-game performances and occasional defensive scoring. RB production (Derrick Henry) has been volatile (big in Week 1, low in Week 2).",
+      "players_having_impact": [
+        "Derrick Henry — Week 1 large outperformance (28.7) decisive for that win; Week 2 was a nonfactor (2.3).",
+        "Deebo Samuel / Cooper Kupp — steady WR production contributing to team scoring across both weeks.",
+        "Patriots D/ST (Week 2) provided an above-projection boost."
+      ],
+      "bench_management_notes": "Left high-scoring bench options in multiple weeks (Geno Smith Week 1 bench positive in Week 1; Jauan Jennings Week 2 17.4 left inactive)."
+    },
+    "THE Derbaum": {
+      "record": "2-0",
+      "streak": "W2",
+      "points_for": 231.06,
+      "points_against": 195.76,
+      "scoring_pattern": "Explosive WR-led scoring in Week 2 after a closer Week 1. The team can generate very high ceilings when Amon-Ra St. Brown and Ja'Marr Chase both deliver.",
+      "players_having_impact": [
+        "Amon-Ra St. Brown — Week 2 +21.16 vs projection (34.7).",
+        "Ja'Marr Chase — Week 2 +13.03 (29.5)."
+      ],
+      "bench_management_notes": "Possesses depth that produced (Bhayshul Tuten, Elic Ayomanor); in Week 1 the manager left high-scoring bench options (Keon Coleman, J.J. McCarthy) inactive but still won; leveraged starting WR explosions in Week 2."
+    },
+    "Puka Puka": {
+      "record": "2-0",
+      "streak": "W2",
+      "points_for": 195.16,
+      "points_against": 170.34,
+      "scoring_pattern": "Wins even in lower total games; Puka Nacua is a consistent receiving anchor. Defense/kicker spikes (Chargers D/ST Week 2) helped one of the victories.",
+      "players_having_impact": [
+        "Puka Nacua — consistent two-week production (18.1, 23.6).",
+        "Dak Prescott — volatile (poor Week 1, strong Week 2) but Week 2 QB play helped secure the second win."
+      ],
+      "bench_management_notes": "Left Zay Flowers (24.6) on the bench in Week 1 — notable unused scoring despite winning."
+    },
+    "No Punt Intended": {
+      "record": "1-1",
+      "streak": "L1→W1 (split over 2 weeks)",
+      "points_for": 237.36,
+      "points_against": 209.96,
+      "scoring_pattern": "Highest points-for in the league through two weeks — offense capable of extremely high outputs, often driven by TE/WR breakouts and bench contributions.",
+      "players_having_impact": [
+        "Javonte Williams — big Week 2 (22.0).",
+        "Tucker Kraft — Week 2 breakout (21.4).",
+        "Rome Odunze — huge bench output Week 2 (28.3)."
+      ],
+      "bench_management_notes": "Left Rome Odunze on the bench in Week 2 despite a 28.3 outing; in Week 1 left Justin Fields and Javonte Williams on the bench (both scored large) and lost that matchup, highlighting recurring bench-decision risk."
+    },
+    "OHHHHHHH YEAHHHHH!!!!": {
+      "record": "1-1",
+      "streak": "W1→L1",
+      "points_for": 209.98,
+      "points_against": 216.4,
+      "scoring_pattern": "Often dependent on single large QB or RB explosion (Josh Allen Week 1; Jonathan Taylor Week 2). When the QB flops, other pieces have not consistently compensated.",
+      "players_having_impact": [
+        "Josh Allen — massive Week 1 (38.76) then a substantial drop Week 2 (11.82).",
+        "Jonathan Taylor — Week 2 carried much of the scoring (28.5)."
+      ],
+      "bench_management_notes": "Left Daniel Jones on the bench in Week 2 while he posted 22.84; that was a missed opportunity that likely affected the result."
+    },
+    "I Know Exactly What I’m Doing": {
+      "record": "1-1",
+      "streak": "L1→W1",
+      "points_for": 203.66,
+      "points_against": 195.62,
+      "scoring_pattern": "Win achieved via non-traditional scoring sources (kicker and defense spikes) rather than consistent RB/WR production. RBs have been volatile.",
+      "players_having_impact": [
+        "Brandon Aubrey (K) — Week 2 huge kicker score (22.0) materially influenced the matchup.",
+        "Juwan Johnson (TE) and Cardinals D/ST — provided surprising upside in Week 2."
+      ],
+      "bench_management_notes": "Left Caleb Williams (24.2 Week 1) on the bench in Week 1; repeated instances of leaving high-upside bench options inactive were observed."
+    },
+    "D.J. Chark Week": {
+      "record": "1-1",
+      "streak": "L1→W1",
+      "points_for": 196.3,
+      "points_against": 177.66,
+      "scoring_pattern": "QB-centric floor (Patrick Mahomes produced solid numbers in both weeks) and opportunistic RB/FLEX contributions (Kenneth Walker III).",
+      "players_having_impact": [
+        "Patrick Mahomes — reliable two-week floor (26.02 Week 1, 22.08 Week 2).",
+        "Kenneth Walker III — Week 2 flex boost (18.3)."
+      ],
+      "bench_management_notes": "Bench depth produced (George Pickens, Nick Chubb) and provided extra scoring when needed; in Week 1 there was unused positive bench production (J.J. McCarthy was a bench positive week 1 for THE Derbaum, not this team)."
+    },
+    "Gronk for my  johnson": {
+      "record": "1-1",
+      "streak": "W1→L1",
+      "points_for": 184.72,
+      "points_against": 184.94,
+      "scoring_pattern": "Solid early offensive pieces (Bijan Robinson) but dependent on QB consistency — Jalen Hurts underperformance in Week 2 swung the matchup.",
+      "players_having_impact": [
+        "Bijan Robinson — consistent contributor (21.4 Week 1, 18.3 Week 2).",
+        "Jalen Hurts — good in Week 1, poor relative to projection in Week 2."
+      ],
+      "bench_management_notes": "Left Justin Herbert (27.92 in Week 1; 18.78 Week 2) on the bench on at least one occasion — a large unused scoring opportunity."
+    },
+    "Baker's Brownie Stand": {
+      "record": "1-1",
+      "streak": "W1→L1",
+      "points_for": 189.18,
+      "points_against": 214.4,
+      "scoring_pattern": "Capable of mid-range outputs from QB/WR tandem (Baker Mayfield, Garrett Wilson) but inconsistent RB outputs and special teams/kicker variance hurt totals.",
+      "players_having_impact": [
+        "Baker Mayfield — slightly above projection in Week 1 but insufficient Week 2 support.",
+        "Garrett Wilson / Tyreek Hill — mixed contributions; Kept competitive in Week 1 but not enough Week 2."
+      ],
+      "bench_management_notes": "Left Tyler Allgeier (14.5 Week 2) on bench and also had Michael Pittman Jr. as a bench positive Week 1 (17.0). Those misses contributed to the Week 2 loss."
+    },
+    "Here Comes McBride": {
+      "record": "0-2",
+      "streak": "L2",
+      "points_for": 206.58,
+      "points_against": 241.52,
+      "scoring_pattern": "Reasonable offensive totals but poor team outcomes driven by negative defensive/kicker performances (Broncos D/ST -5.0 Week 2) and inconsistent RB usage.",
+      "players_having_impact": [
+        "Malik Nabers — Week 2 huge output (33.2) but insufficient to prevent loss.",
+        "James Cook III — Week 2 strong (26.0)."
+      ],
+      "bench_management_notes": "Bench players produced (Jameson Williams 17.8 Week 2) but negative D/ST outcomes and some large projection misses cost the team in both weeks."
+    },
+    "Goff And Running": {
+      "record": "0-2",
+      "streak": "L2",
+      "points_for": 187.62,
+      "points_against": 235.58,
+      "scoring_pattern": "Poor start to season with missed scoring opportunities from bench; some starters underperformed, and bench QBs produced huge but were left inactive.",
+      "players_having_impact": [
+        "Keenan Allen / Hollywood Brown — produced while benched (Week 1) or left inactive in key spots.",
+        "Rhamondre Stevenson — bench positive Week 2 (18.7)."
+      ],
+      "bench_management_notes": "Left Jared Goff (33.96 Week 2) and Drake Maye (26.3 Week 2) on the bench — the largest single-game bench delta in a matchup and a recurring cause of losses."
+    },
+    "World of Hurts": {
+      "record": "0-2",
+      "streak": "L2",
+      "points_for": 159.66,
+      "points_against": 197.6,
+      "scoring_pattern": "Lowest points-for through two weeks; struggles at QB/WR production (Joe Burrow, A.J. Brown underperformed in Week 1) and weak defense/kicker outputs have compounded to poor results.",
+      "players_having_impact": [
+        "Davante Adams — one of the consistent positives (19.6 Week 2), but insufficient overall.",
+        "Chuba Hubbard — contributed but team still low output."
+      ],
+      "bench_management_notes": "Bench QB Jordan Love produced positively in Week 2 (20.88) but was not always used in starting lineup to rescue below-par outputs."
+    }
+  },
+  "player_level_trends": {
+    "repeat_top_performers_or_high_ceiling_indicators": [
+      {
+        "player": "Puka Nacua",
+        "teams_impacted": ["Puka Puka"],
+        "trend": "Two productive weeks (18.1 and 23.6). Reliable presence and a consistent source of points for Puka Puka."
+      },
+      {
+        "player": "Patrick Mahomes",
+        "teams_impacted": ["D.J. Chark Week"],
+        "trend": "Delivered a solid floor two weeks in a row (26.02 Week 1, 22.08 Week 2), stabilizing that team's weekly outcomes."
+      },
+      {
+        "player": "Bijan Robinson",
+        "teams_impacted": ["Gronk for my  johnson"],
+        "trend": "Consistent high usage and scoring across both weeks (21.4 Week 1, 18.3 Week 2)."
+      },
+      {
+        "player": "Amon-Ra St. Brown",
+        "teams_impacted": ["THE Derbaum"],
+        "trend": "Big bounce-back Week 2 (34.7) after underperforming in Week 1 — a high ceiling WR."
+      },
+      {
+        "player": "Ja'Marr Chase",
+        "teams_impacted": ["THE Derbaum"],
+        "trend": "Large Week 2 outburst (29.5) following a Week 1 dud — another example of volatile but enormous upside."
+      }
+    ],
+    "repeat_underperformers_or_risk_indicators": [
+      {
+        "player": "Joe Burrow",
+        "teams_impacted": ["World of Hurts"],
+        "trend": "Underperformed expectations in Week 1 (8.82 vs projection 19.98) contributing to team’s scoring struggles."
+      },
+      {
+        "player": "Derrick Henry",
+        "teams_impacted": ["Clever Team  Name Incoming"],
+        "trend": "Huge Week 1 followed by a very low Week 2 — high variance RB output affecting team consistency."
+      },
+      {
+        "player": "Josh Allen",
+        "teams_impacted": ["OHHHHHHH YEAHHHHH!!!!"],
+        "trend": "Massive Week 1 followed by a significant drop in Week 2; QB volatility can flip matchups quickly."
+      }
+    ],
+    "bench_booms_to_watch": [
+      {
+        "player": "Rome Odunze",
+        "teams_impacted": ["No Punt Intended"],
+        "trend": "28.3 as a bench player in Week 2 — illustrative of bench decisions creating swing outcomes."
+      },
+      {
+        "player": "Jared Goff",
+        "teams_impacted": ["Goff And Running"],
+        "trend": "33.96 bench output in Week 2 — largest single matchup bench delta noted in provided summaries."
+      },
+      {
+        "player": "Justin Fields",
+        "teams_impacted": ["No Punt Intended"],
+        "trend": "29.52 bench output Week 1 — another example of unused QB upside."
+      }
+    ]
+  },
+  "owner_behavioral_observations": {
+    "recurring_behaviors": [
+      "Repeated benching of high-upside players: Multiple owners left 20+ point performers inactive across different weeks — a major recurring pattern (examples: Jared Goff left on bench by Goff And Running Week 2; Rome Odunze left on bench by No Punt Intended Week 2; Caleb Williams left on bench by I Know Exactly Week 1).",
+      "Willingness to start low-projection kickers/defenses produced outsized returns for some owners: I Know Exactly’s Brandon Aubrey and Puka Puka’s Chargers D/ST both produced far above projections in Week 2 and changed matchup outcomes.",
+      "Some owners appear to prioritize upside bench depth but fail to update starting lineups to capture that production; others consistently start speculative plays (TE/defense/kicker) that paid off in single weeks."
+    ],
+    "examples_of_smart_or_lucky_decisions": [
+      {
+        "team": "I Know Exactly What I’m Doing",
+        "decision": "Starting kicker Brandon Aubrey and Juwan Johnson Week 2",
+        "effect": "Large positive contribution (Aubrey 22.0, Juwan Johnson 13.4) that enabled a big win."
+      },
+      {
+        "team": "Puka Puka",
+        "decision": "Starting Chargers D/ST Week 2",
+        "effect": "Chargers D/ST 14.0 vastly outperformed projection and was a key factor in a Week 2 win."
+      },
+      {
+        "team": "No Punt Intended",
+        "decision": "Starting Tucker Kraft and Javonte Williams Week 2",
+        "effect": "Both produced strong outputs and combined with bench Rome Odunze to produce the league’s highest two-week points total for a team."
+      }
+    ],
+    "examples_of_risky_or_costly_behavior": [
+      {
+        "team": "Goff And Running",
+        "decision": "Leaving Jared Goff (33.96) and Drake Maye (26.3) on bench in Week 2",
+        "effect": "Significant missed points that likely would have altered the Week 2 outcome."
+      },
+      {
+        "team": "Baker's Brownie Stand",
+        "decision": "Leaving Tyler Allgeier (14.5) on the bench Week 2",
+        "effect": "Missed positive bench scoring that could have changed a close loss into a win."
+      },
+      {
+        "team": "OHHHHHHH YEAHHHHH!!!!",
+        "decision": "Leaving Daniel Jones on the bench in Week 2 (22.84)",
+        "effect": "Bench decision arguably costly given the loss margin and QB underperformance from starter Josh Allen."
+      }
+    ]
+  },
+  "league_risks_and_watchpoints_for_upcoming_weeks": {
+    "summary": [
+      "Bench attention should remain the primary watchpoint — multiple managers have already lost or narrowly won because of bench decisions.",
+      "QB volatility implies weekly outcomes will continue to swing widely; managers who adjust QB choices or exploit favorable matchups will gain advantage.",
+      "Kicker and D/ST spikes have been decisive in at least one matchup; they remain low-probability/high-impact assets and should be monitored."
+    ],
+    "data_driven_flags": [
+      "Three teams are undefeated (THE Derbaum, Clever Team  Name Incoming, Puka Puka) and currently hold playoff slots; however, their point differentials and bench depth will determine sustainability.",
+      "Three teams remain without wins (Here Comes McBride, Goff And Running, World of Hurts) and have exhibited either low points-for or repeated lineup mismanagement — both are risk factors for missing the playoffs."
+    ]
+  }
+}

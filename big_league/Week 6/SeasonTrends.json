@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "snapshot": "Through Week 5",
+    "notes": "Analysis uses only data provided in weekly summaries (Weeks 1-5). Records, points-for and notable events are taken from those summaries."
+  },
+  "standings_snapshot": {
+    "summary": "Top 6 teams qualify for playoffs (record, head-to-head, then Points For). Records reflect results through Week 5.",
+    "teams": [
+      {
+        "team": "SnydeRemarks",
+        "record": "4-1",
+        "points_for": 674.80,
+        "current_streak": "W3",
+        "notes": "Highest Points For in the league; balanced, high-ceiling offense (Darnold/McCaffrey/Waddle/Egbuka) driving scoring."
+      },
+      {
+        "team": "Kraft Montgomery Cheese",
+        "record": "4-1",
+        "points_for": 568.88,
+        "current_streak": "W1",
+        "notes": "Strong early-season returns driven by RB breakout weeks and opportunistic defenses/kickers."
+      },
+      {
+        "team": "The Philly Special",
+        "record": "3-2",
+        "points_for": 557.66,
+        "current_streak": "W1",
+        "notes": "High single-game ceilings from receivers (Amon-Ra) and surge weeks from RB/kicker; overall solid PF relative to record."
+      },
+      {
+        "team": "Team Jon",
+        "record": "3-2",
+        "points_for": 553.64,
+        "current_streak": "W1",
+        "notes": "Balanced scoring with repeated contributions from WR depth (Sutton, Jaxon) and RB blowups; bench/lineup management has been mixed."
+      },
+      {
+        "team": "Jake Butt Stuff",
+        "record": "3-2",
+        "points_for": 553.48,
+        "current_streak": "W1",
+        "notes": "High ceiling games (Flowers, Garrett Wilson, Caleb Williams weeks) but also costly zeros (CeeDee Lamb inactive Week 5)."
+      },
+      {
+        "team": "If Ur Not First You're Last",
+        "record": "3-2",
+        "points_for": 545.28,
+        "current_streak": "L1",
+        "notes": "Powerful WR weeks (Nabers/Odunze) and strong Mahomes outings; recent loss dropped them to the final playoff seed on PF tiebreakers."
+      },
+      {
+        "team": "Kyler? I Barely Know Her",
+        "record": "3-2",
+        "points_for": 518.28,
+        "current_streak": "L1",
+        "notes": "Bijan/George Pickens weeks produced big outputs but inconsistent QB/RB/WR mixes have led to volatile scoring."
+      },
+      {
+        "team": "Team Santangelo",
+        "record": "2-3",
+        "points_for": 579.76,
+        "current_streak": "W1",
+        "notes": "One of the largest Points For among sub-.500 teams — Ja'Marr Chase and LaPorta have provided huge spikes while the overall record lags PF."
+      },
+      {
+        "team": "Dickhole Smashers",
+        "record": "2-3",
+        "points_for": 483.22,
+        "current_streak": "W1",
+        "notes": "Wins tied to large single-week RB/QB showings (Kyren Williams, Baker Mayfield) and occasional strong D/ST weeks; overall PF is low relative to league."
+      },
+      {
+        "team": "Forte Inch Johnson",
+        "record": "2-3",
+        "points_for": 565.18,
+        "current_streak": "L1",
+        "notes": "High PF driven by some big RB/TE weeks and bench scoring; however, inconsistent QB and D/ST performances have produced losses."
+      },
+      {
+        "team": "THE Derbaum",
+        "record": "2-3",
+        "points_for": 538.36,
+        "current_streak": "W1",
+        "notes": "Javonte/Jerry/Deebo/Henry mix has produced big positive weeks but also several low outputs from expected stars leading to an inconsistent record."
+      },
+      {
+        "team": "5WRsAllowedOnRostersNextYear",
+        "record": "2-3",
+        "points_for": 531.04,
+        "current_streak": "L1",
+        "notes": "Puka Nacua is a repeat high-floor/high-ceiling producer for this roster, but miscues at other WR/TE/QB spots and benching decisions limited wins."
+      },
+      {
+        "team": "Trying to not finish last",
+        "record": "2-3",
+        "points_for": 536.72,
+        "current_streak": "L1",
+        "notes": "Jonathan Taylor has posted a couple of monster weeks; receiving corps and QB stability have been uneven."
+      },
+      {
+        "team": "Big Trouble in Little Cameron",
+        "record": "2-3",
+        "points_for": 539.36,
+        "current_streak": "L1",
+        "notes": "TE/WR weeks (Jake Ferguson, Nico Collins) have driven the team, but missed starts and bench management (leaving Dak/Daniel Jones unused) hurt upside."
+      },
+      {
+        "team": "Xavier Marks the Spot",
+        "record": "2-3",
+        "points_for": 512.42,
+        "current_streak": "L1",
+        "notes": "Explosive D/ST and occasional TE/WR blowups (Mark Andrews, David Montgomery) offset several low WR weeks; bench holds frequent high-scoring options."
+      },
+      {
+        "team": "Hangin' With Mr. Cooper",
+        "record": "1-4",
+        "points_for": 532.74,
+        "current_streak": "L2",
+        "notes": "Offensive production (Penix, Hampton in some weeks) has not translated to wins; negative D/ST results and several bench misuses contributed to the skid."
+      }
+    ],
+    "league_averages": {
+      "total_points_all_teams": 8790.82,
+      "average_points_per_team_season": 549.43,
+      "average_points_per_team_per_week": 109.89
+    }
+  },
+  "team_level_trends": [
+    {
+      "team": "SnydeRemarks",
+      "trend": "Consistent top scorer in the league—balanced contributions from RB/QB/WR. Has posted multiple 140+ and 160+ outputs; currently on a 3-game win streak. Reliant on multiple overperforming pass-catchers (Emeka Egbuka, Marvin Harrison Jr.) plus high QB/RB floors."
+    },
+    {
+      "team": "Kraft Montgomery Cheese",
+      "trend": "High-scoring roster with strong RB/TE weeks and opportunistic DST/kicker spikes. Bench management has produced large unused points (Wan'Dale Robinson, Rashid Shaheed), showing depth but some lineup inefficiency."
+    },
+    {
+      "team": "The Philly Special",
+      "trend": "High single-week ceilings driven by elite WR performances (Amon‑Ra) and occasional RB/kicker surges. The team has also left notable bench scoring unused (Stefon Diggs, Dallas Goedert)."
+    },
+    {
+      "team": "Team Jon",
+      "trend": "Balanced, high-upside WR group with occasional elite RB performances. Has benefited from kicker/DST surges and has left very large bench outputs unused in multiple weeks (Woody Marks)."
+    },
+    {
+      "team": "Jake Butt Stuff",
+      "trend": "Explosive WR and QB weeks but vulnerable to massive single-player zeros and inactive designations (CeeDee Lamb inactive Week 5). Generally overperforming projections but lineup/injury factors have been costly."
+    },
+    {
+      "team": "If Ur Not First You're Last",
+      "trend": "High variance: massive WR explosions (Nabers/Odunze) but also low outputs from other skill players. Mahomes adds stable upside; recent loss knocked them down to the final playoff slot on PF tiebreakers."
+    },
+    {
+      "team": "Kyler? I Barely Know Her",
+      "trend": "Feeds Bijan/George Pickens as primary scoring engines. When those players pop the team scores well; when they don't, QB/secondary WR underperformance limits totals."
+    },
+    {
+      "team": "Team Santangelo",
+      "trend": "Large Points For relative to record — elite WR/TE weeks (Ja'Marr Chase, LaPorta) have inflated PF but the team has close losses and some low weekly QB/RB outputs."
+    },
+    {
+      "team": "Dickhole Smashers",
+      "trend": "Wins have correlated with single-week running back booms and QB surges. Bench depth often performs but is sometimes left unused (Dalton Kincaid). Defense and bench QBs have swung close games."
+    },
+    {
+      "team": "Forte Inch Johnson",
+      "trend": "High offensive ceilings some weeks (Jeanty, Skattebo) but inconsistent QB/WR contributions and D/ST volatility have produced mixed outcomes; notable bench surges frequently unused."
+    },
+    {
+      "team": "THE Derbaum",
+      "trend": "Running back-heavy upside (Javonte/Derrick) and receiving spikes from Deebo; has a few big wins but also several underperforming weeks from expected leaders."
+    },
+    {
+      "team": "5WRsAllowedOnRostersNextYear",
+      "trend": "Puka Nacua has been a consistent high producer and the backbone of scoring. Team suffers when other WRs or QB underperform; bench QB/WR decisions have cost large points at times."
+    },
+    {
+      "team": "Trying to not finish last",
+      "trend": "Jonathan Taylor has produced multiple monster weeks; receiving corps inconsistency and some zero/low outputs from expected starters limit win conversion."
+    },
+    {
+      "team": "Big Trouble in Little Cameron",
+      "trend": "TE and WR have produced monster weeks (Jake Ferguson, Keenan Allen, Nico Collins). Several matches were flipped by leaving high-scoring bench players inactive (Daniel Jones, Keenan Allen previously)."
+    },
+    {
+      "team": "Xavier Marks the Spot",
+      "trend": "Offensive upside exists via RB/TE and D/ST spikes (Vikings 32), but the team has had multiple weeks with high-scoring bench assets that were unused (Justice Hill, Trevor Lawrence)."
+    },
+    {
+      "team": "Hangin' With Mr. Cooper",
+      "trend": "Offense shows flashes (Penix, Hampton) but negative defensive weeks and repeated bench misses have produced a 1-4 start despite league-average PF."
+    }
+  ],
+  "player_level_trends_and_impacts": [
+    {
+      "player": "Puka Nacua",
+      "team": "5WRsAllowedOnRostersNextYear",
+      "trend": "Repeated top-tier outputs across Weeks 1-4 and Week 5 (23.1, 27.6, 36.0, etc.). Acts as consistent anchor for team scoring; his production often determines whether the roster can overcome other underperformers."
+    },
+    {
+      "player": "Emeka Egbuka",
+      "team": "SnydeRemarks",
+      "trend": "Multiple large outperformance weeks (23.6, 20.1, 31.3). Has been a critical driver of SnydeRemarks' league-leading PF."
+    },
+    {
+      "player": "Javonte Williams",
+      "team": "THE Derbaum",
+      "trend": "Several big games (20.4 bench Week1, 25.0 Week2, 19.0 Week4, 26.9 Week5). His positive deltas often correlate with THE Derbaum winning or posting strong team totals."
+    },
+    {
+      "player": "Amon‑Ra St. Brown",
+      "team": "The Philly Special",
+      "trend": "Extremely high-ceiling performances (39.2 Week2, 26.0 Week4) that have single-handedly swung close matchups in The Philly Special's favor."
+    },
+    {
+      "player": "Chase McLaughlin / Brandon Aubrey / Ka'imi Fairbairn / other kickers",
+      "team": "various",
+      "trend": "Several kickers produced outsized weeks (Chase McLaughlin 20.0 Week3, Brandon Aubrey bench 22.0 Week2, Ka'imi Fairbairn 14.0 Week1, Fairbairn 18.0 Week5). Kicker spikes have been decisive in multiple narrow matchups."
+    },
+    {
+      "player": "Lamar Jackson",
+      "team": "SnydeRemarks",
+      "trend": "High rushing/dual-threat production when healthy (29.36 Week1, 26.3 Week3) but also occasional underperformance (10.68 Week4). His variance directly affects SnydeRemarks' ceiling."
+    },
+    {
+      "player": "Jaxon Smith‑Njigba / Courtland Sutton",
+      "team": "Team Jon",
+      "trend": "Repeat WR contributors for Team Jon; when both produce above projection Team Jon posts top-tier totals (Team Jon 154.7 in Week3)."
+    },
+    {
+      "player": "Trevor Lawrence / C.J. Stroud / Jordan Love / Jared Goff / Aaron Rodgers",
+      "team": "various",
+      "trend": "Several bench quarterback decisions across weeks led to large unused point totals (Trevor Lawrence 26.24 bench Week5, C.J. Stroud 28.76 bench Week5, Aaron Rodgers bench Week1/Week3). QB benching/lineup choices have swung matchups."
+    },
+    {
+      "player": "Jonathan Taylor / Josh Jacobs / Bijan Robinson",
+      "team": "various",
+      "trend": "Multiple week-to-week RB boom performances have produced single-game carryings of team scoring (Jonathan Taylor multiple 30+ weeks; Bijan solid upside)."
+    }
+  ],
+  "league_wide_insights": {
+    "average_scoring": {
+      "average_team_weekly_score": 109.89,
+      "interpretation": "League scoring around ~110 points per team per week so single players or bench swings of 20-30 points materially affect outcomes."
+    },
+    "defense_and_kicker_impact": "D/ST and kickers have produced unusually large swings in multiple weeks (Vikings D/ST 32, Jaguars 14, Saints 18, Chase McLaughlin 20, Brandon Aubrey 22). These single-week outliers changed several matchups and margins.",
+    "bench_management_consequences": "Repeated pattern across weeks: managers left 20+ point performances on the bench in critical matchups (examples detailed below). That behavior has frequently turned potential wins into losses.",
+    "upsets_and_close_games": {
+      "notable_upsets": [
+        "SnydeRemarks' 161.14 outburst in Week 5 (blowout vs Forte Inch Johnson).",
+        "Multiple tiny margins: Team Santangelo beat Big Trouble by 0.26 points in Week 5; If Ur Not First You're Last beat Team Santangelo by 2 points in Week 2; Jake Butt Stuff narrowly lost/won several close contests driven by single-player zeros."
+      ],
+      "close_game_frequency": "Several games decided by single-digit margins and multiple matchups where bench swaps or single defensive/kicker scores would have flipped outcomes."
+    },
+    "volatility": "High week-to-week variance across many rosters — star players sometimes produce zero or inactive outputs (CeeDee Lamb inactive Week 5; multiple cases of benching high-scoring QBs), creating a volatile league environment."
+  },
+  "notable_owner_behaviors": [
+    {
+      "behavior": "Leaving high-scoring players on bench",
+      "examples": [
+        "Hangin' With Mr. Cooper left Michael Penix Jr. (24.02) on the bench in Week 1.",
+        "Big Trouble in Little Cameron left Daniel Jones (29.48) and Keenan Allen (19.8) on the bench in Week 1.",
+        "Multiple teams left Trevor Lawrence (26.24 bench Week 5), C.J. Stroud (28.76 bench Week 5), Wan'Dale Robinson (28.2 bench Week 3 & Week 4), and Rico Dowdle (32.4 bench Week 5) unused."
+      ],
+      "impact": "These choices produced direct, significant point swings that altered matchup outcomes across several weeks."
+    },
+    {
+      "behavior": "Starting/playing defenses and kickers as consistent edge plays",
+      "examples": [
+        "Teams that started elevated D/STs (Vikings 32, Jaguars 14, Saints 18) reaped outsized returns. Kicker spikes (Chase McLaughlin 20.0, Brandon Aubrey bench 22.0, Ka'imi Fairbairn 18.0) have decided close games."
+      ],
+      "impact": "Managers who targeted high-upside D/ST/kicker weeks gained an edge in close matches."
+    },
+    {
+      "behavior": "Injury/IR management and inactive starters",
+      "examples": [
+        "CeeDee Lamb listed Inactive for Jake Butt Stuff in Week 5; Joe Burrow IR on Xavier's roster in Week 5; Brandon Aiyuk on IR for THE Derbaum in earlier weeks.",
+        "Bench/inactive QB choices (Brock Purdy inactive for Team Jon while Jared Goff was benched) were recurring and often costly."
+      ],
+      "impact": "IR/inactive management materially changed lineup options and contributed to unexpected low team totals or missed starts."
+    }
+  ],
+  "playoff_projection_and_rationale": {
+    "format": "Top 6 teams make playoffs (tiebreakers: record, head-to-head, Points For). Head-to-head not fully available across all ties in provided data; Points For used as next tiebreaker where necessary.",
+    "projected_playoff_teams": [
+      {
+        "seed": 1,
+        "team": "SnydeRemarks",
+        "record": "4-1",
+        "points_for": 674.80,
+        "rationale": "Best record and highest Points For; sustained high outputs and a 3-game winning streak."
+      },
+      {
+        "seed": 2,
+        "team": "Kraft Montgomery Cheese",
+        "record": "4-1",
+        "points_for": 568.88,
+        "rationale": "Also 4-1; Points For lower than SnydeRemarks so seeded second."
+      },
+      {
+        "seed": 3,
+        "team": "The Philly Special",
+        "record": "3-2",
+        "points_for": 557.66,
+        "rationale": "Among 3-2 teams has the highest Points For and several high-ceiling performances that indicate playoff-quality scoring."
+      },
+      {
+        "seed": 4,
+        "team": "Team Jon",
+        "record": "3-2",
+        "points_for": 553.64,
+        "rationale": "Next highest PF among 3-2 teams; balanced roster and recent win."
+      },
+      {
+        "seed": 5,
+        "team": "Jake Butt Stuff",
+        "record": "3-2",
+        "points_for": 553.48,
+        "rationale": "Nearly identical PF to Team Jon (slight PF edge to Team Jon) but still positioned in top six via PF tiebreaker ordering."
+      },
+      {
+        "seed": 6,
+        "team": "If Ur Not First You're Last",
+        "record": "3-2",
+        "points_for": 545.28,
+        "rationale": "Rounded out the sixth seed among the 3-2 group based on Points For; has high-ceiling performances but also recent loss."
+      }
+    ],
+    "notes_on_tiebreakers": "Several teams are tied at 3-2 (The Philly Special, Team Jon, Jake Butt Stuff, If Ur Not First, Kyler?). Head-to-head records were not consistently available across all matchups in the provided dataset; Points For was used to differentiate tied teams when necessary. If head-to-head information is applied later, seeding could change among the 3-2 cluster."
+  },
+  "key_actionable_observations_for_NEXT_RECAP": [
+    "Continue tracking bench-management incidents: across five weeks, leaving 20+ fantasy point players on the bench repeatedly decided matchups.",
+    "Monitor D/ST and kicker volatility — these units continue to produce game-changing outliers and should be highlighted each week.",
+    "Watch teams with PF/record disconnects (Team Santangelo high PF/losing record; Hangin' With Mr. Cooper solid PF but 1-4) for potential regression or bad luck narratives.",
+    "Track repeat individual overperformers (Puka Nacua, Emeka Egbuka, Javonte Williams, Jaxon Smith‑Njigba) as weekly 'must-start' signals for those managers and as matchup keys for opponents."
+  ]
+}

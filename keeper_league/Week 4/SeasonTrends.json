@@ -1,0 +1,301 @@
+{
+  "season": "Weeks 1-3",
+  "weeks_covered": [
+    "Week 1",
+    "Week 2",
+    "Week 3"
+  ],
+  "overall_league_insights": {
+    "average_team_score_per_week": 101.54,
+    "scoring_variance_drivers": [
+      "Quarterback volatility: several QBs swung matchups with large deviations (e.g., Josh Allen +17.93 in Week 1; Patrick Mahomes ranged from +6.21 to -6.65 across weeks).",
+      "D/ST and kicker outliers were decisive in multiple matchups (Vikings D/ST 32.0 Week 3; Chase McLaughlin 20.0 Week 3; Brandon Aubrey 22.0 Week 2).",
+      "Bench management created frequent swing outcomes — multiple teams left 15+ and 20+ point bench performances unused across weeks."
+    ],
+    "game_competitiveness": {
+      "close_games_count": {
+        "week1": 3,
+        "week2": 1,
+        "week3": 2
+      },
+      "notable_close_games": [
+        {
+          "matchup": "Here Comes McBride @ World of Hurts (Week 3)",
+          "margin": 0.10
+        },
+        {
+          "matchup": "Here Comes McBride @ D.J. Chark Week (Week 2)",
+          "margin_note": "Several single-digit and sub-10 margins across Week 1-3; bench decisions would have flipped multiple outcomes."
+        }
+      ]
+    },
+    "common_themes": [
+      "Repeatedly impactful bench decisions: teams frequently left high-scoring players (QBs, WRs, TEs) inactive and lost or narrowly won as a result.",
+      "Defenses and kickers have produced outsized weekly variance relative to projections and were often the difference in matchups.",
+      "No team has separated in the standings; a large cluster of 2-1 teams produces an early league logjam where points-for is already an important tiebreaker."
+    ]
+  },
+  "team_trends": [
+    {
+      "team": "Gronk for my  johnson",
+      "record": "2-1",
+      "points_for": 335.96,
+      "points_against": 273.22,
+      "current_streak": "W1",
+      "notable_trends": [
+        "Very high scoring overall (highest points for in league).",
+        "Huge single-week D/ST return (Vikings D/ST 32.0 in Week 3) and big Jalen Hurts / Courtland Sutton outputs fueled the scoring surge.",
+        "Bench-management cost: Mark Andrews produced 24.1 from the bench in Week 3 (unused)."
+      ]
+    },
+    {
+      "team": "OHHHHHHH YEAHHHHH!!!!",
+      "record": "2-1",
+      "points_for": 322.50,
+      "points_against": 311.06,
+      "current_streak": "W1",
+      "notable_trends": [
+        "Strong rushing production has driven wins (Jonathan Taylor: 28.5 Week 2; 31.3 Week 3).",
+        "QB variance impacted Week 2 (Josh Allen underperformed) but the ground game offset those swings.",
+        "Has benefitted from large single-player weeks and remains among top scoring teams."
+      ]
+    },
+    {
+      "team": "Baker's Brownie Stand",
+      "record": "2-1",
+      "points_for": 319.40,
+      "points_against": 295.46,
+      "current_streak": "W1",
+      "notable_trends": [
+        "Week 3 blowout (130.22) highlighted the team's upside when Garrett Wilson and special teams (Chase McLaughlin 20.0) hit.",
+        "Bench depth has produced but often remained unused (Michael Pittman Jr. 16.3 left on bench Week 3).",
+        "Kicker and D/ST spikes (Chase McLaughlin, Steelers D/ST) have materially altered matchup outcomes in team's favor."
+      ]
+    },
+    {
+      "team": "THE Derbaum",
+      "record": "2-1",
+      "points_for": 319.34,
+      "points_against": 347.00,
+      "current_streak": "L1",
+      "notable_trends": [
+        "Explosive WR weeks (Amon-Ra St. Brown 34.7, Ja'Marr Chase 29.5 in Week 2) produced a big Week 2 total (138.64) but Week 3 blowout loss exposed defensive/consistency issues.",
+        "Season shows high ceiling but also vulnerability to one-week collapses; points-against currently high due to one lopsided loss (to Gronk Week 3).",
+        "Left notable bench scoring unused in Week 3 (Bhayshul Tuten, Elic Ayomanor earlier contributed from bench)."
+      ]
+    },
+    {
+      "team": "I Know Exactly What I\u2019m Doing",
+      "record": "2-1",
+      "points_for": 315.98,
+      "points_against": 293.84,
+      "current_streak": "W1",
+      "notable_trends": [
+        "QB volatility has been a net positive when Caleb Williams started/produced (bench 24.2 Week 1; started 29.12 Week 3).",
+        "Week 2 outlier scoring from kicker and TE (Brandon Aubrey 22.0; Juwan Johnson 13.4) contributed to large win.",
+        "CeeDee Lamb's zero in Week 3 was a major outlier but team overcame it via QB and defense performance."
+      ]
+    },
+    {
+      "team": "Clever Team  Name Incoming",
+      "record": "2-1",
+      "points_for": 282.38,
+      "points_against": 293.04,
+      "current_streak": "L1",
+      "notable_trends": [
+        "Started 2-0 through Week 2 but suffered a heavy Week 3 loss (81.06) that lowered points-per-week.",
+        "Performance has been inconsistent due to RB volatility (Derrick Henry big in Week 1 then low Week 2) and several WR/RB underperformances.",
+        "Bench management cost in multiple weeks (Jauan Jennings 17.4 left inactive Week 2; Ollie Gordon II TD from bench Week 3 for opponent)."
+      ]
+    },
+    {
+      "team": "No Punt Intended",
+      "record": "1-2",
+      "points_for": 335.58,
+      "points_against": 322.28,
+      "current_streak": "L1",
+      "notable_trends": [
+        "Very high scoring despite 1-2 record — this team leads lower-record teams in points for (tremendous offense weeks).",
+        "Bench explosion weeks (Rome Odunze 28.3 bench Week 2; Jake Ferguson 14.7 bench Week 3) indicate depth but also missed lineup optimization.",
+        "Close losses and leaving Jared Goff / other QBs on bench in prior weeks cost opportunities to convert points to wins."
+      ]
+    },
+    {
+      "team": "Goff And Running",
+      "record": "1-2",
+      "points_for": 292.18,
+      "points_against": 299.02,
+      "current_streak": "W1",
+      "notable_trends": [
+        "Struck a big Week 3 win behind David Montgomery's breakout (28.9) and strong bench scoring (Hunter Henry 25.0 left on bench Week 3 for owner to consider).",
+        "Has struggled earlier with bench decisions — Jared Goff produced 33.96 on the bench in Week 2, an obvious missed start.",
+        "Offense can pop when the run game hits; otherwise inconsistent due to QB/WR variance."
+      ]
+    },
+    {
+      "team": "D.J. Chark Week",
+      "record": "1-2",
+      "points_for": 290.96,
+      "points_against": 290.18,
+      "current_streak": "L1",
+      "notable_trends": [
+        "Patrick Mahomes produced in Weeks 1-2 but regressed Week 3; QB downgrade impacted offensive ceiling (13.16 Week 3).",
+        "TE production (Dalton Kincaid Week 3) and RB contributions (Kenneth Walker) have helped, but WRs and QB volatility limited consistency.",
+        "Left bench pieces (George Pickens 15.3) unused in critical weeks."
+      ]
+    },
+    {
+      "team": "Here Comes McBride",
+      "record": "1-2",
+      "points_for": 314.70,
+      "points_against": 312.60,
+      "current_streak": "W1",
+      "notable_trends": [
+        "High offensive totals across weeks but 1-2 record — has had both big bench/starting outputs and costly underperformances (Malik Nabers big drop Week 3).",
+        "Buccaneers D/ST and RB usage (Omarion Hampton) provided key results in the narrow Week 3 win.",
+        "Roster volatility: intermittent WR busts and occasional D/ST/kicker uplifts."
+      ]
+    },
+    {
+      "team": "Puka Puka",
+      "record": "2-1",
+      "points_for": 258.60,
+      "points_against": 274.90,
+      "current_streak": "L1",
+      "notable_trends": [
+        "Started 2-0 but Week 3 collapse dropped points-for to the lowest among 2-1 teams.",
+        "Large missed opportunity from benching Zay Flowers (24.6 left on bench Week 2) and A.J. Brown (bench Week 3 with 19.9).",
+        "High variance at WR/TE spots and some poor QB outings (Dak Prescott had a very low 7.82 in Week 1 and 12.04 Week 2)."
+      ]
+    },
+    {
+      "team": "World of Hurts",
+      "record": "0-3",
+      "points_for": 267.68,
+      "points_against": 305.72,
+      "current_streak": "L3",
+      "notable_trends": [
+        "Only 0-3 team — offense has underperformed most weeks and points-against is already elevated due to lopsided losses.",
+        "QB/WR pairing inconsistencies (Joe Burrow underperformed Week 1; Jordan Love underperformed in Week 3 start) contributed to lack of wins.",
+        "Some bench players produced (Ricky Pearsall, Khalil Shakir) but were insufficient to change outcomes."
+      ]
+    }
+  ],
+  "player_level_trends_affecting_teams": [
+    {
+      "player": "Jonathan Taylor",
+      "teams_impacted": [
+        "OHHHHHHH YEAHHHHH!!!!"
+      ],
+      "trend": "Escalating impact — modest Week 1, then huge back-to-back touchdown weeks (28.5 Week 2, 31.3 Week 3) that won matchups for his owner."
+    },
+    {
+      "player": "Caleb Williams",
+      "teams_impacted": [
+        "I Know Exactly What I\u2019m Doing"
+      ],
+      "trend": "Produced from bench Week 1 (24.2) and then started Week 3 with a large 29.12 — clear positive QB swing when active for that roster."
+    },
+    {
+      "player": "Patrick Mahomes",
+      "teams_impacted": [
+        "D.J. Chark Week"
+      ],
+      "trend": "Strong early weeks (26.02, 22.08) followed by a drop to 13.16 in Week 3 — QB volatility impacted D.J. Chark Week's ability to close matches."
+    },
+    {
+      "player": "Mark Andrews",
+      "teams_impacted": [
+        "Gronk for my  johnson"
+      ],
+      "trend": "Produced 24.1 from the bench in Week 3 — a major unused TE performance that would have increased an already large team total further."
+    },
+    {
+      "player": "Multiple kickers and D/STs",
+      "trend": "Kickers and defenses have shown high week-to-week variance and have been matchup-deciding (examples: Brandon Aubrey 22.0 Week 2; Vikings D/ST 32.0 Week 3; Chase McLaughlin 20.0 Week 3)."
+    }
+  ],
+  "notable_owner_behaviors": [
+    {
+      "behavior": "Repeated benching of high-scoring available players",
+      "examples": [
+        "Goff And Running left Jared Goff on the bench Week 2 while Goff scored 33.96 — largest single-game bench delta noted.",
+        "Multiple owners left 20+ point bench performances unused across weeks (Justin Fields 29.52 Week 1; Rome Odunze 28.3 Week 2; Mark Andrews 24.1 Week 3).",
+        "Puka Puka left Zay Flowers (24.6) on bench in Week 2 and later saw underperformance from starters at the same positions."
+      ]
+    },
+    {
+      "behavior": "Starting speculative defenses/kickers that massively outperformed",
+      "examples": [
+        "I Know Exactly What I\u2019m Doing benefited from Brandon Aubrey 22.0 Week 2 and Seahawks D/ST 17.0 Week 3.",
+        "Gronk for my johnson's Vikings D/ST 32.0 Week 3 swung a matchup by a very large margin."
+      ]
+    },
+    {
+      "behavior": "High variance QB starts vs benches",
+      "examples": [
+        "Teams rotated or left QBs inactive with high weekly variance (Justin Herbert on bench Week 1 for Gronk; Jared Goff benched Week 2).",
+        "Caleb Williams was benched Week 1 but started and produced Week 3, demonstrating how QB lineup choices changed outcomes."
+      ]
+    }
+  ],
+  "playoff_picture_top6_after_week3": {
+    "format": "6 teams make playoffs (by record, then head-to-head, then points for)",
+    "projected_qualifiers": [
+      {
+        "team": "Gronk for my  johnson",
+        "record": "2-1",
+        "points_for": 335.96,
+        "notes": "Leads 2-1 cluster on points-for and has shown high ceiling weeks; currently projected into playoff field based on record then PF."
+      },
+      {
+        "team": "OHHHHHHH YEAHHHHH!!!!",
+        "record": "2-1",
+        "points_for": 322.50,
+        "notes": "Strong multi-week rushing production and top points-for among 2-1 teams; occupies a playoff spot by record + PF."
+      },
+      {
+        "team": "Baker's Brownie Stand",
+        "record": "2-1",
+        "points_for": 319.40,
+        "notes": "High-scoring Week 3 put this team into the upper half of the 2-1 cluster for PF tie-breaker."
+      },
+      {
+        "team": "THE Derbaum",
+        "record": "2-1",
+        "points_for": 319.34,
+        "notes": "Large Week 2 exploded points total; tied with Baker on PF closely and held into projected playoff positions."
+      },
+      {
+        "team": "I Know Exactly What I\u2019m Doing",
+        "record": "2-1",
+        "points_for": 315.98,
+        "notes": "Strong QB/DEF weeks and consistent scoring keep this team within the top-6 projected qualifiers."
+      },
+      {
+        "team": "Clever Team  Name Incoming",
+        "record": "2-1",
+        "points_for": 282.38,
+        "notes": "Lowest points-for among the seven 2-1 teams; currently occupies the sixth projected spot by record, but sits on the bubble due to lower PF."
+      }
+    ],
+    "teams_on_bubble": [
+      {
+        "team": "Puka Puka",
+        "record": "2-1",
+        "points_for": 258.60,
+        "notes": "Also 2-1 but lowest points-for among 2-1 teams; would be the first team excluded from a 6-team playoff field using PF tiebreaker."
+      }
+    ],
+    "notes_on_tiebreakers": [
+      "Seven teams share the top record cluster at 2-1 after Week 3; with only six playoff spots available the points-for tiebreaker is already decisive for inclusion/exclusion.",
+      "Head-to-head has been limited among the 2-1 group; therefore points-for is the practical differentiator at this early stage."
+    ]
+  },
+  "summary_observations_and_watch_points_for_weekly_recap": [
+    "Bench and roster activation decisions have been the single most visible behavioral trend — multiple matchups flipped on unused bench performances. Track owners who continue to leave top-performers on bench.",
+    "Defenses and kickers have produced several matchup-winning weeks; owners who identify and start these units at the right time have reaped outsized benefits.",
+    "The standings are tightly clustered. With seven teams at 2-1, small weekly swings (a single 20+ point bench player or a D/ST/kicker outlier) will reshuffle the early playoff picture quickly.",
+    "Watchlist players/roles that have repeatedly impacted outcomes: Jonathan Taylor (OHHHH), Caleb Williams (I Know), and high-ceiling TEs/bench QBs who have alternated between starting and bench roles producing large deltas."
+  ]
+}

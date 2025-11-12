@@ -1,0 +1,806 @@
+{
+  "week": "Week 3",
+  "overall_note": "Several teams significantly outscored their projections this week (Team Jon, Xavier Marks the Spot, Kraft Montgomery Cheese). Notable D/ST performances swung matchups (Vikings D/ST 32, Buccaneers D/ST 16, Steelers D/ST 15). Multiple teams left high-scoring players on the bench (Hunter Henry 29.0, Dalton Kincaid 17.6, Rashod Bateman 17.3, Jason Myers 17.0), which impacted outcomes in a few close contests. There were a handful of large individual underperformances by expected WRs/QBs (CeeDee Lamb 0.0, Malik Nabers 3.3, Jake Browning 5.9) that changed projected results.",
+  "matchups": [
+    {
+      "matchup": "Jake Butt Stuff @ Team Jon",
+      "winner": "Team Jon",
+      "score": {
+        "home": 154.7,
+        "away": 102.22
+      },
+      "top_performers_vs_projection": [
+        {
+          "player": "Chase McLaughlin",
+          "team": "Team Jon",
+          "position": "K",
+          "actual": 20.0,
+          "projected": 8.57,
+          "delta": 11.43
+        },
+        {
+          "player": "Courtland Sutton",
+          "team": "Team Jon",
+          "position": "FLEX",
+          "actual": 23.8,
+          "projected": 12.57,
+          "delta": 11.23
+        },
+        {
+          "player": "Jahmyr Gibbs",
+          "team": "Team Jon",
+          "position": "RB",
+          "actual": 26.9,
+          "projected": 17.9,
+          "delta": 9.0
+        },
+        {
+          "player": "Jordan Mason",
+          "team": "Team Jon",
+          "position": "RB",
+          "actual": 23.6,
+          "projected": 14.66,
+          "delta": 8.94
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "CeeDee Lamb",
+          "team": "Jake Butt Stuff",
+          "position": "WR",
+          "actual": 0.0,
+          "projected": 20.0,
+          "delta": -20.0
+        },
+        {
+          "player": "Zay Flowers",
+          "team": "Jake Butt Stuff",
+          "position": "FLEX",
+          "actual": 3.3,
+          "projected": 15.94,
+          "delta": -12.64
+        },
+        {
+          "player": "Jared Goff",
+          "team": "Team Jon (bench)",
+          "position": "QB",
+          "actual": 12.68,
+          "projected": 16.43,
+          "delta": -3.75
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Chiefs D/ST",
+          "team": "Jake Butt Stuff (bench)",
+          "actual": 13.0,
+          "projected": 6.79,
+          "delta": 6.21
+        },
+        {
+          "player": "Cam Ward",
+          "team": "Jake Butt Stuff (bench)",
+          "actual": 11.96,
+          "projected": 14.13,
+          "delta": -2.17
+        },
+        {
+          "player": "Jared Goff",
+          "team": "Team Jon (bench)",
+          "actual": 12.68,
+          "projected": 16.43,
+          "delta": -3.75
+        }
+      ],
+      "impactful_transactions": [
+        "Team Jon: QB Brock Purdy - Inactive",
+        "Team Jon: BE Jayden Reed - Inactive",
+        "Team Jon: BE Tyjae Spears - Inactive",
+        "Jake Butt Stuff: BE Dameon Pierce - Inactive",
+        "Jake Butt Stuff: IR Aaron Jones Sr. - Inactive"
+      ],
+      "key_takeaways": {
+        "Team Jon": [
+          "Huge team output (154.7) well above projection (97.69).",
+          "Special teams/kicker (Chase McLaughlin) and WR/WR-adjacent production (Courtland Sutton, Jaxon Smith-Njigba, T.J. Hockenson) were decisive.",
+          "Two strong touchdown-scoring RB performances (Gibbs, Mason) drove the win despite QB Brock Purdy listed Inactive."
+        ],
+        "Jake Butt Stuff": [
+          "CeeDee Lamb's zero receiving yards was the single biggest negative swing vs. projection and a core reason for the loss.",
+          "Caleb Williams had an excellent day (29.12) but the supporting pass-catchers underdelivered (Zay Flowers, CeeDee Lamb).",
+          "Left useful pieces on the bench (Chiefs D/ST produced 13.0 unused) that could have mitigated the shortfall."
+        ]
+      }
+    },
+    {
+      "matchup": "SnydeRemarks @ THE Derbaum",
+      "winner": "SnydeRemarks",
+      "score": {
+        "home": 80.4,
+        "away": 123.02
+      },
+      "top_performers_vs_projection": [
+        {
+          "player": "Buccaneers D/ST",
+          "team": "SnydeRemarks",
+          "position": "D/ST",
+          "actual": 16.0,
+          "projected": 6.98,
+          "delta": 9.02
+        },
+        {
+          "player": "Lamar Jackson",
+          "team": "SnydeRemarks",
+          "position": "QB",
+          "actual": 27.02,
+          "projected": 23.64,
+          "delta": 3.38
+        },
+        {
+          "player": "Christian McCaffrey",
+          "team": "SnydeRemarks",
+          "position": "RB",
+          "actual": 24.0,
+          "projected": 20.97,
+          "delta": 3.03
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Jake Browning",
+          "team": "THE Derbaum",
+          "position": "QB",
+          "actual": 5.9,
+          "projected": 15.76,
+          "delta": -9.86
+        },
+        {
+          "player": "Derrick Henry",
+          "team": "THE Derbaum",
+          "position": "RB",
+          "actual": 10.7,
+          "projected": 16.48,
+          "delta": -5.78
+        },
+        {
+          "player": "Brian Thomas Jr.",
+          "team": "THE Derbaum",
+          "position": "WR",
+          "actual": 7.5,
+          "projected": 15.34,
+          "delta": -7.84
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Chig Okonkwo",
+          "team": "THE Derbaum (bench)",
+          "actual": 11.6,
+          "projected": 9.37,
+          "delta": 2.23
+        },
+        {
+          "player": "Trevor Lawrence",
+          "team": "SnydeRemarks (bench)",
+          "actual": 7.78,
+          "projected": 16.25,
+          "delta": -8.47
+        },
+        {
+          "player": "Rams D/ST",
+          "team": "SnydeRemarks (bench)",
+          "actual": 7.0,
+          "projected": 5.22,
+          "delta": 1.78
+        }
+      ],
+      "impactful_transactions": [
+        "THE Derbaum: IR Brandon Aiyuk - Inactive",
+        "THE Derbaum: BE Jaydon Blue - Inactive",
+        "THE Derbaum: BE J.J. McCarthy - Inactive",
+        "SnydeRemarks: BE Zach Charbonnet - Inactive",
+        "SnydeRemarks: BE Trevor Lawrence - Active on bench"
+      ],
+      "key_takeaways": {
+        "SnydeRemarks": [
+          "Balanced week: QB Lamar Jackson and RB Christian McCaffrey both outperformed expectations and the Buccaneers D/ST provided a big boost.",
+          "Depth played a role — bench D/ST and other options were available though not needed."
+        ],
+        "THE Derbaum": [
+          "Offensive leaders underperformed across the board: QB, top RB and WR all well below projections.",
+          "Turnovers/hurts at QB (2 INTs from Browning) and a muffed fumble on RBs (fumbles listed) contributed to the low team total."
+        ]
+      }
+    },
+    {
+      "matchup": "Xavier Marks the Spot @ Hangin' With Mr. Cooper",
+      "winner": "Xavier Marks the Spot",
+      "score": {
+        "home": 110.32,
+        "away": 166.02
+      },
+      "top_performers_vs_projection": [
+        {
+          "player": "Vikings D/ST",
+          "team": "Xavier Marks the Spot",
+          "position": "D/ST",
+          "actual": 32.0,
+          "projected": 6.99,
+          "delta": 25.01
+        },
+        {
+          "player": "Mark Andrews",
+          "team": "Xavier Marks the Spot",
+          "position": "TE",
+          "actual": 27.1,
+          "projected": 9.34,
+          "delta": 17.76
+        },
+        {
+          "player": "David Montgomery",
+          "team": "Kraft Montgomery Cheese (no, David Montgomery is on Xavier Marks the Spot roster)",
+          "position": "RB",
+          "actual": 29.4,
+          "projected": 12.84,
+          "delta": 16.56
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Calvin Ridley",
+          "team": "Hangin' With Mr. Cooper",
+          "position": "WR",
+          "actual": 3.7,
+          "projected": 12.98,
+          "delta": -9.28
+        },
+        {
+          "player": "Brock Bowers",
+          "team": "Hangin' With Mr. Cooper",
+          "position": "TE",
+          "actual": 9.8,
+          "projected": 14.92,
+          "delta": -5.12
+        },
+        {
+          "player": "Jakobi Meyers",
+          "team": "Hangin' With Mr. Cooper",
+          "position": "WR",
+          "actual": 9.3,
+          "projected": 14.66,
+          "delta": -5.36
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Hunter Henry",
+          "team": "Xavier Marks the Spot (bench)",
+          "actual": 29.0,
+          "projected": 9.08,
+          "delta": 19.92
+        },
+        {
+          "player": "Miles Sanders",
+          "team": "Xavier Marks the Spot (bench)",
+          "actual": 8.3,
+          "projected": 5.56,
+          "delta": 2.74
+        },
+        {
+          "player": "Evan McPherson",
+          "team": "Xavier Marks the Spot (bench)",
+          "actual": 5.0,
+          "projected": 7.62,
+          "delta": -2.62
+        }
+      ],
+      "impactful_transactions": [
+        "Hangin' With Mr. Cooper: BE Jordan Addison - Inactive",
+        "Hangin' With Mr. Cooper: BE Michael Penix Jr. - Active on bench (3.78)",
+        "Xavier Marks the Spot: IR Joe Burrow - Inactive (on roster)"
+      ],
+      "key_takeaways": {
+        "Xavier Marks the Spot": [
+          "Massive week powered by Mark Andrews (2 TDs) and an explosive Vikings D/ST performance (32.0).",
+          "David Montgomery delivered a blowup RB performance that pushed the team far above projection.",
+          "Despite having Hunter Henry on the bench (29.0), starters produced enough to create a dominant total."
+        ],
+        "Hangin' With Mr. Cooper": [
+          "Offense failed to meet expectations: Ravens D/ST scored -6.0 (very negative), and multiple skill players underperformed.",
+          "The team allowed 38 PA through its defense figure, and the lineup left key bench options inactive/underutilized."
+        ]
+      }
+    },
+    {
+      "matchup": "Forte Inch Johnson @ The Philly Special",
+      "winner": "The Philly Special",
+      "score": {
+        "home": 111.94,
+        "away": 98.62
+      },
+      "top_performers_vs_projection": [
+        {
+          "player": "Cam Skattebo",
+          "team": "Forte Inch Johnson",
+          "position": "RB",
+          "actual": 24.1,
+          "projected": 10.13,
+          "delta": 13.97
+        },
+        {
+          "player": "Jalen Hurts",
+          "team": "The Philly Special",
+          "position": "QB",
+          "actual": 29.04,
+          "projected": 20.53,
+          "delta": 8.51
+        },
+        {
+          "player": "Seahawks D/ST",
+          "team": "Forte Inch Johnson",
+          "position": "D/ST",
+          "actual": 17.0,
+          "projected": 6.87,
+          "delta": 10.13
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Ashton Jeanty",
+          "team": "Forte Inch Johnson",
+          "position": "RB",
+          "actual": 6.3,
+          "projected": 15.4,
+          "delta": -9.1
+        },
+        {
+          "player": "James Conner",
+          "team": "The Philly Special",
+          "position": "RB",
+          "actual": 6.7,
+          "projected": 13.43,
+          "delta": -6.73
+        },
+        {
+          "player": "Stefon Diggs",
+          "team": "The Philly Special",
+          "position": "FLEX",
+          "actual": 5.3,
+          "projected": 10.45,
+          "delta": -5.15
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Dallas Goedert",
+          "team": "The Philly Special (bench)",
+          "actual": 10.3,
+          "projected": 8.94,
+          "delta": 1.36
+        },
+        {
+          "player": "Bryce Young",
+          "team": "The Philly Special (bench)",
+          "actual": 11.64,
+          "projected": 14.63,
+          "delta": -2.99
+        },
+        {
+          "player": "Rico Dowdle",
+          "team": "Forte Inch Johnson (bench)",
+          "actual": 10.8,
+          "projected": 5.96,
+          "delta": 4.84
+        }
+      ],
+      "impactful_transactions": [
+        "The Philly Special: IR Joe Mixon - Inactive",
+        "Forte Inch Johnson: BE Rashee Rice - Inactive",
+        "Forte Inch Johnson: BE Justin Fields - Inactive"
+      ],
+      "key_takeaways": {
+        "The Philly Special": [
+          "Jalen Hurts produced a major positive delta, including rushing production and a rushing TD — a decisive factor in a close win.",
+          "WR Ricky Pearsall outperformed his projection and Amon-Ra St. Brown delivered near expectations.",
+          "Kicking and bench depth were underused but not necessary for the win."
+        ],
+        "Forte Inch Johnson": [
+          "Cam Skattebo and the Seahawks D/ST outplayed projections but the offense overall fell short.",
+          "Josh Allen was roughly at projection but missed additional pass-catcher contributions; several projected RB/WR starters underperformed."
+        ]
+      }
+    },
+    {
+      "matchup": "If Ur Not First You're Last @ Kyler? I Barely Know Her",
+      "winner": "Kyler? I Barely Know Her",
+      "score": {
+        "home": 93.66,
+        "away": 75.36
+      },
+      "top_performers_vs_projection": [
+        {
+          "player": "Lions D/ST",
+          "team": "Kyler? I Barely Know Her",
+          "position": "D/ST",
+          "actual": 8.0,
+          "projected": 2.65,
+          "delta": 5.35
+        },
+        {
+          "player": "George Pickens",
+          "team": "Kyler? I Barely Know Her",
+          "position": "WR",
+          "actual": 17.8,
+          "projected": 12.97,
+          "delta": 4.83
+        },
+        {
+          "player": "Bijan Robinson",
+          "team": "Kyler? I Barely Know Her",
+          "position": "RB",
+          "actual": 16.1,
+          "projected": 20.99,
+          "delta": -4.89
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Patrick Mahomes",
+          "team": "If Ur Not First You're Last",
+          "position": "QB",
+          "actual": 13.16,
+          "projected": 19.81,
+          "delta": -6.65
+        },
+        {
+          "player": "Malik Nabers",
+          "team": "If Ur Not First You're Last",
+          "position": "WR",
+          "actual": 3.3,
+          "projected": 19.8,
+          "delta": -16.5
+        },
+        {
+          "player": "Breece Hall",
+          "team": "Kyler? I Barely Know Her",
+          "position": "RB",
+          "actual": 9.2,
+          "projected": 15.94,
+          "delta": -6.74
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Nick Folk",
+          "team": "Kyler? I Barely Know Her (bench)",
+          "actual": 10.0,
+          "projected": 7.76,
+          "delta": 2.24
+        },
+        {
+          "player": "Trey Benson",
+          "team": "Kyler? I Barely Know Her (bench)",
+          "actual": 8.1,
+          "projected": 8.89,
+          "delta": -0.79
+        },
+        {
+          "player": "Elic Ayomanor",
+          "team": "If Ur Not First You're Last (bench)",
+          "actual": 13.8,
+          "projected": 9.82,
+          "delta": 3.98
+        }
+      ],
+      "impactful_transactions": [
+        "Kyler? I Barely Know Her: BE Kaleb Johnson - Inactive",
+        "If Ur Not First You're Last: IR Chris Godwin Jr. - Inactive"
+      ],
+      "key_takeaways": {
+        "Kyler? I Barely Know Her": [
+          "Won despite several starters (Bijan, Breece) finishing below projection — defense and a touchdown from George Pickens helped carry the team.",
+          "Kicker/bench depth added points but were not the primary difference."
+        ],
+        "If Ur Not First You're Last": [
+          "Big misses from Malik Nabers and Patrick Mahomes relative to projections were the main reasons for a low total.",
+          "Rome Odunze and other pieces performed near projection but the key stars did not."
+        ]
+      }
+    },
+    {
+      "matchup": "5WRsAllowedOnRostersNextYear @ Big Trouble in Little Cameron",
+      "winner": "Big Trouble in Little Cameron",
+      "score": {
+        "home": 115.24,
+        "away": 85.74
+      },
+      "top_performers_vs_projection": [
+        {
+          "player": "Jake Ferguson",
+          "team": "Big Trouble in Little Cameron",
+          "position": "TE",
+          "actual": 21.2,
+          "projected": 11.39,
+          "delta": 9.81
+        },
+        {
+          "player": "Keenan Allen",
+          "team": "Big Trouble in Little Cameron",
+          "position": "WR",
+          "actual": 19.5,
+          "projected": 13.36,
+          "delta": 6.14
+        },
+        {
+          "player": "Nico Collins",
+          "team": "Big Trouble in Little Cameron",
+          "position": "WR",
+          "actual": 22.4,
+          "projected": 16.87,
+          "delta": 5.53
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Chase Brown",
+          "team": "Big Trouble in Little Cameron",
+          "position": "RB",
+          "actual": 6.0,
+          "projected": 16.63,
+          "delta": -10.63
+        },
+        {
+          "player": "Tee Higgins",
+          "team": "5WRsAllowedOnRostersNextYear",
+          "position": "WR",
+          "actual": 2.5,
+          "projected": 12.05,
+          "delta": -9.55
+        },
+        {
+          "player": "Travis Kelce",
+          "team": "5WRsAllowedOnRostersNextYear",
+          "position": "TE",
+          "actual": 6.6,
+          "projected": 11.36,
+          "delta": -4.76
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Quinshon Judkins",
+          "team": "Big Trouble in Little Cameron (bench)",
+          "actual": 16.5,
+          "projected": 9.43,
+          "delta": 7.07
+        },
+        {
+          "player": "Ollie Gordon II",
+          "team": "Big Trouble in Little Cameron (bench)",
+          "actual": 9.8,
+          "projected": 2.17,
+          "delta": 7.63
+        },
+        {
+          "player": "Puka Nacua",
+          "team": "5WRsAllowedOnRostersNextYear (starter)",
+          "actual": 22.8,
+          "projected": 19.48,
+          "delta": 3.32
+        }
+      ],
+      "impactful_transactions": [
+        "Big Trouble in Little Cameron: BE DJ Moore - Active on bench (12.8)",
+        "5WRsAllowedOnRostersNextYear: BE C.J. Stroud - Active on bench (10.36)",
+        "5WRsAllowedOnRostersNextYear: BE Jauan Jennings - Inactive"
+      ],
+      "key_takeaways": {
+        "Big Trouble in Little Cameron": [
+          "TE Jake Ferguson had a monster receiving day (13 catches) and both Nico Collins and Keenan Allen outperformed projections to produce a high team total.",
+          "Bench depth (Quinshon Judkins, Ollie Gordon II) also had productive outings though they were unused."
+        ],
+        "5WRsAllowedOnRostersNextYear": [
+          "Puka Nacua performed well, but the team suffered from low outputs from Tee Higgins and Travis Kelce and a negative D/ST result (Bengals D/ST -1.0).",
+          "Kicker Joshua Karty was unusually productive but not enough to offset underperformance elsewhere."
+        ]
+      }
+    },
+    {
+      "matchup": "Team Santangelo @ Kraft Montgomery Cheese",
+      "winner": "Kraft Montgomery Cheese",
+      "score": {
+        "home": 110.7,
+        "away": 117.66
+      },
+      "top_performers_vs_projection": [
+        {
+          "player": "David Montgomery",
+          "team": "Kraft Montgomery Cheese",
+          "position": "RB",
+          "actual": 29.4,
+          "projected": 12.84,
+          "delta": 16.56
+        },
+        {
+          "player": "Steelers D/ST",
+          "team": "Kraft Montgomery Cheese",
+          "position": "D/ST",
+          "actual": 15.0,
+          "projected": 5.81,
+          "delta": 9.19
+        },
+        {
+          "player": "J.K. Dobbins",
+          "team": "Kraft Montgomery Cheese",
+          "position": "FLEX",
+          "actual": 15.3,
+          "projected": 11.75,
+          "delta": 3.55
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Ja'Marr Chase",
+          "team": "Team Santangelo",
+          "position": "WR",
+          "actual": 8.9,
+          "projected": 18.1,
+          "delta": -9.2
+        },
+        {
+          "player": "Saquon Barkley",
+          "team": "Kraft Montgomery Cheese",
+          "position": "RB",
+          "actual": 9.5,
+          "projected": 18.62,
+          "delta": -9.12
+        },
+        {
+          "player": "Justin Herbert",
+          "team": "Team Santangelo",
+          "position": "QB",
+          "actual": 14.6,
+          "projected": 18.43,
+          "delta": -3.83
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Jason Myers",
+          "team": "Team Santangelo (bench)",
+          "position": "K",
+          "actual": 17.0,
+          "projected": 8.07,
+          "delta": 8.93
+        },
+        {
+          "player": "Jordan Love",
+          "team": "Team Santangelo (bench)",
+          "actual": 11.12,
+          "projected": 16.0,
+          "delta": -4.88
+        },
+        {
+          "player": "Rashid Shaheed",
+          "team": "Kraft Montgomery Cheese (bench)",
+          "actual": 8.2,
+          "projected": 10.12,
+          "delta": -1.92
+        }
+      ],
+      "impactful_transactions": [
+        "Team Santangelo: BE Austin Ekeler - Inactive",
+        "Kraft Montgomery Cheese: BE Jayden Daniels - Inactive"
+      ],
+      "key_takeaways": {
+        "Kraft Montgomery Cheese": [
+          "David Montgomery's breakout (151 rushing yards, 2 TDs) created a massive positive delta that overcame other underperformers.",
+          "Defense (Steelers D/ST) added a large complementary scoring boost."
+        ],
+        "Team Santangelo": [
+          "Missed projections from key offensive pieces (Ja'Marr Chase, Justin Herbert) limited scoring despite solid season points for.",
+          "A very productive bench kicker (Jason Myers) was left unused and could have narrowed the gap."
+        ]
+      }
+    },
+    {
+      "matchup": "Dickhole Smashers @ Trying to not finish last",
+      "winner": "Trying to not finish last",
+      "score": {
+        "home": 81.22,
+        "away": 110.62
+      },
+      "top_performers_vs_projection": [
+        {
+          "player": "Jonathan Taylor",
+          "team": "Trying to not finish last",
+          "position": "RB",
+          "actual": 32.8,
+          "projected": 18.71,
+          "delta": 14.09
+        },
+        {
+          "player": "Kyren Williams",
+          "team": "Dickhole Smashers",
+          "position": "RB",
+          "actual": 19.2,
+          "projected": 15.51,
+          "delta": 3.69
+        },
+        {
+          "player": "Harrison Butker",
+          "team": "Trying to not finish last",
+          "position": "K",
+          "actual": 12.0,
+          "projected": 8.24,
+          "delta": 3.76
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Rhamondre Stevenson",
+          "team": "Dickhole Smashers",
+          "position": "FLEX",
+          "actual": 4.6,
+          "projected": 11.86,
+          "delta": -7.26
+        },
+        {
+          "player": "Justin Jefferson",
+          "team": "Dickhole Smashers",
+          "position": "WR",
+          "actual": 12.5,
+          "projected": 19.01,
+          "delta": -6.51
+        },
+        {
+          "player": "Isiah Pacheco",
+          "team": "Dickhole Smashers",
+          "position": "RB",
+          "actual": 5.8,
+          "projected": 11.05,
+          "delta": -5.25
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Dalton Kincaid",
+          "team": "Dickhole Smashers (bench)",
+          "actual": 17.6,
+          "projected": 8.72,
+          "delta": 8.88
+        },
+        {
+          "player": "Rashod Bateman",
+          "team": "Dickhole Smashers (bench)",
+          "actual": 17.3,
+          "projected": 9.56,
+          "delta": 7.74
+        },
+        {
+          "player": "Quentin Johnston",
+          "team": "Trying to not finish last (bench)",
+          "actual": 14.9,
+          "projected": 12.66,
+          "delta": 2.24
+        }
+      ],
+      "impactful_transactions": [
+        "Dickhole Smashers: BE Dalton Kincaid - Active on bench (17.6)",
+        "Dickhole Smashers: BE Rashod Bateman - Active on bench (17.3)",
+        "Dickhole Smashers: BE Aaron Rodgers - Active on bench (11.66)",
+        "Trying to not finish last: BE Tyrone Tracy Jr. - Active on bench (5.6)"
+      ],
+      "key_takeaways": {
+        "Dickhole Smashers": [
+          "Several expected contributors (Justin Jefferson, Rhamondre Stevenson, Isiah Pacheco) underperformed vs. projection and key productive bench players (Dalton Kincaid, Rashod Bateman) were left unused.",
+          "This combination contributed to a home loss despite some solid individual performances."
+        ],
+        "Trying to not finish last": [
+          "Jonathan Taylor exploded for 3 TDs and a huge positive delta that carried the team to victory.",
+          "Kicker Harrison Butker also outperformed his projection, adding marginal but useful points."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+{
+  "week": 10,
+  "matchups": [
+    {
+      "home_team": "Clever Team  Name Incoming",
+      "away_team": "Goff And Running",
+      "winner": "Clever Team  Name Incoming",
+      "score": {
+        "home": 103.46,
+        "away": 87.8
+      },
+      "top_performers_vs_projection": [
+        {
+          "name": "TreVeyon Henderson",
+          "position": "RB",
+          "actual_points": 27.5,
+          "projected_points": 11.72,
+          "delta": 15.78
+        },
+        {
+          "name": "Jauan Jennings",
+          "position": "WR",
+          "actual_points": 14.1,
+          "projected_points": 9.66,
+          "delta": 4.44
+        },
+        {
+          "name": "Cameron Dicker",
+          "position": "K",
+          "actual_points": 13.0,
+          "projected_points": 8.76,
+          "delta": 4.24
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "name": "Justin Fields",
+          "position": "QB",
+          "actual_points": 6.96,
+          "projected_points": 16.72,
+          "delta": -9.76
+        },
+        {
+          "name": "Derrick Henry",
+          "position": "RB",
+          "actual_points": 9.9,
+          "projected_points": 15.13,
+          "delta": -5.23
+        },
+        {
+          "name": "Patriots D/ST",
+          "position": "D/ST",
+          "actual_points": 1.0,
+          "projected_points": 4.54,
+          "delta": -3.54
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "name": "Jayden Higgins",
+          "position": "WR",
+          "actual_points": 12.7,
+          "projected_points": 3.08,
+          "delta": 9.62,
+          "note": "Scored a TD from the bench; significant unused production"
+        },
+        {
+          "name": "Cooper Kupp",
+          "position": "WR",
+          "actual_points": 8.4,
+          "projected_points": 7.09,
+          "delta": 1.31,
+          "note": "Solid receiving day on the bench (74 yards)"
+        },
+        {
+          "name": "Jared Goff",
+          "position": "QB",
+          "actual_points": 24.8,
+          "projected_points": 18.67,
+          "delta": 6.13,
+          "note": "Big QB performance left on the bench for Goff And Running"
+        }
+      ],
+      "impactful_transactions_or_roster_notes": [
+        "Goff And Running left Jared Goff on the bench (24.8 points) while starting Drake Maye; that benching likely cost points.",
+        "Clever Team Name Incoming had Jayden Higgins (12.7, 1 TD) and Cooper Kupp (8.4) on the bench — unused scoring depth.",
+        "Several bench/bye spots noted (Joe Flacco, Chimere Dike BYE; Jayden Daniels inactive) reduced roster flexibility."
+      ],
+      "key_takeaways": {
+        "Clever Team  Name Incoming": "Won on the strength of a breakout RB performance from TreVeyon Henderson (+15.78 vs projection), a TD from Jauan Jennings and an above-projection kicker. Underwhelming QB output (Fields) was offset by other contributors.",
+        "Goff And Running": "Juwan Johnson was a positive outlier (17.2, +10.19) but overall receiving and RB production underperformed. Bench decision to not start Jared Goff (24.8) was costly."
+      }
+    },
+    {
+      "home_team": "Here Comes McBride",
+      "away_team": "D.J. Chark Week",
+      "winner": "Here Comes McBride",
+      "score": {
+        "home": 105.5,
+        "away": 86.68
+      },
+      "top_performers_vs_projection": [
+        {
+          "name": "Trey McBride",
+          "position": "TE",
+          "actual_points": 23.2,
+          "projected_points": 13.48,
+          "delta": 9.72
+        },
+        {
+          "name": "Ladd McConkey",
+          "position": "WR",
+          "actual_points": 18.7,
+          "projected_points": 12.46,
+          "delta": 6.24
+        },
+        {
+          "name": "Broncos D/ST",
+          "position": "D/ST",
+          "actual_points": 16.0,
+          "projected_points": 8.24,
+          "delta": 7.76
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "name": "Bo Nix",
+          "position": "QB",
+          "actual_points": 5.8,
+          "projected_points": 19.12,
+          "delta": -13.32
+        },
+        {
+          "name": "James Cook III",
+          "position": "RB",
+          "actual_points": 8.2,
+          "projected_points": 20.33,
+          "delta": -12.13,
+          "note": "Recorded a fumble"
+        },
+        {
+          "name": "Tetairoa McMillan",
+          "position": "WR",
+          "actual_points": 8.5,
+          "projected_points": 10.1,
+          "delta": -1.6
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "name": "Browns D/ST",
+          "position": "D/ST",
+          "actual_points": 8.0,
+          "projected_points": 6.5,
+          "delta": 1.5,
+          "note": "Usable defensive depth on the bench"
+        },
+        {
+          "name": "Jake Bates",
+          "position": "K",
+          "actual_points": 13.0,
+          "projected_points": 8.81,
+          "delta": 4.19,
+          "note": "Kicker production left on the bench for D.J. Chark Week"
+        }
+      ],
+      "impactful_transactions_or_roster_notes": [
+        "Here Comes McBride had Brock Purdy inactive and CeeDee Lamb on BYE (reduced ceiling at WR/QB).",
+        "D.J. Chark Week left Jake Bates (13.0) on the bench — kicker production that could've narrowed the gap.",
+        "James Cook's fumble and a poor Bo Nix performance limited Here Comes McBride's ceiling; defense and pass-catchers compensated."
+      ],
+      "key_takeaways": {
+        "Here Comes McBride": "Tight end Trey McBride and Broncos D/ST went well above projections, covering for poor QB and lead RB production. Special teams and WR depth helped secure the win.",
+        "D.J. Chark Week": "Jaxson Dart and Eagles D/ST were bright spots, but elite pass catchers Justin Jefferson and Jordan Addison badly underperformed, contributing to the loss."
+      }
+    },
+    {
+      "home_team": "I Know Exactly What I’m Doing",
+      "away_team": "OHHHHHHH YEAHHHHH!!!!",
+      "winner": "I Know Exactly What I’m Doing",
+      "score": {
+        "home": 135.5,
+        "away": 115.74
+      },
+      "top_performers_vs_projection": [
+        {
+          "name": "Seahawks D/ST",
+          "position": "D/ST",
+          "actual_points": 21.0,
+          "projected_points": 6.6,
+          "delta": 14.4
+        },
+        {
+          "name": "Jameson Williams",
+          "position": "FLEX/WR",
+          "actual_points": 20.9,
+          "projected_points": 10.39,
+          "delta": 10.51
+        },
+        {
+          "name": "Caleb Williams",
+          "position": "QB",
+          "actual_points": 25.1,
+          "projected_points": 18.48,
+          "delta": 6.62
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "name": "Oronde Gadsden II",
+          "position": "TE",
+          "actual_points": 2.8,
+          "projected_points": 9.22,
+          "delta": -6.42
+        },
+        {
+          "name": "Quentin Johnston",
+          "position": "WR",
+          "actual_points": 6.7,
+          "projected_points": 9.88,
+          "delta": -3.18
+        },
+        {
+          "name": "Josh Allen",
+          "position": "QB (away)",
+          "actual_points": 19.34,
+          "projected_points": 22.52,
+          "delta": -3.18
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "name": "Dalton Schultz",
+          "position": "TE",
+          "actual_points": 14.8,
+          "projected_points": 7.39,
+          "delta": 7.41,
+          "note": "Strong bench TE performance (TD) not used"
+        },
+        {
+          "name": "Alec Pierce",
+          "position": "WR",
+          "actual_points": 16.4,
+          "projected_points": 8.89,
+          "delta": 7.51,
+          "note": "Big bench receiving day"
+        },
+        {
+          "name": "Daniel Jones",
+          "position": "QB (away bench)",
+          "actual_points": 15.5,
+          "projected_points": 19.95,
+          "delta": -4.45
+        }
+      ],
+      "impactful_transactions_or_roster_notes": [
+        "I Know Exactly What I’m Doing had several BYEs (Tee Higgins, Tony Pollard) which may have influenced lineup construction.",
+        "OHHHHHHH YEAHHHHH!!!! had Brandon McManus miss/score 0 points on a projected 8.02 — a significant negative swing.",
+        "Seahawks D/ST and Jameson Williams vastly outperformed projections to swing the matchup toward the home team."
+      ],
+      "key_takeaways": {
+        "I Know Exactly What I’m Doing": "Big contributions from Seahawks D/ST and Jameson Williams, plus solid QB play from Caleb Williams and WR Nico Collins, overcame a few underperforming starters.",
+        "OHHHHHHH YEAHHHHH!!!!": "Jonathan Taylor delivered a monster game (+28.14 vs projection), but costly underperformance at TE (Brock Bowers) and a zero from the kicker reduced the team's ability to capitalize on Taylor's outing."
+      }
+    },
+    {
+      "home_team": "Gronk for my  johnson",
+      "away_team": "Puka Puka",
+      "winner": "Puka Puka",
+      "score": {
+        "home": 77.0,
+        "away": 90.22
+      },
+      "top_performers_vs_projection": [
+        {
+          "name": "Cam Little",
+          "position": "K",
+          "actual_points": 13.0,
+          "projected_points": 7.54,
+          "delta": 5.46
+        },
+        {
+          "name": "Travis Etienne Jr.",
+          "position": "RB",
+          "actual_points": 14.7,
+          "projected_points": 11.32,
+          "delta": 3.38
+        },
+        {
+          "name": "Ashton Jeanty",
+          "position": "RB",
+          "actual_points": 13.8,
+          "projected_points": 12.16,
+          "delta": 1.64
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "name": "A.J. Brown",
+          "position": "WR",
+          "actual_points": 2.3,
+          "projected_points": 14.21,
+          "delta": -11.91
+        },
+        {
+          "name": "Sam Darnold",
+          "position": "QB",
+          "actual_points": 4.92,
+          "projected_points": 16.63,
+          "delta": -11.71,
+          "note": "Committed 2 fumbles"
+        },
+        {
+          "name": "Bijan Robinson",
+          "position": "RB",
+          "actual_points": 9.8,
+          "projected_points": 17.77,
+          "delta": -7.97
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "name": "Kimani Vidal",
+          "position": "WR (bench)",
+          "actual_points": 17.3,
+          "projected_points": 10.62,
+          "delta": 6.68,
+          "note": "Big bench performance (95 yards, 1 TD)"
+        },
+        {
+          "name": "Aaron Jones Sr.",
+          "position": "RB (bench)",
+          "actual_points": 14.4,
+          "projected_points": 9.95,
+          "delta": 4.45,
+          "note": "Bench produced solid RB scoring"
+        },
+        {
+          "name": "Jaylen Waddle",
+          "position": "WR (home)",
+          "actual_points": 16.9,
+          "projected_points": 11.43,
+          "delta": 5.47
+        }
+      ],
+      "impactful_transactions_or_roster_notes": [
+        "Gronk for my  johnson started Justin Herbert over Jalen Hurts (Hurts was on the bench with 12.02 pts); that QB decision may have limited upside.",
+        "Puka Puka left strong bench assets unused (Kimani Vidal, Aaron Jones) but still outscored the home team.",
+        "Several inactives/BYEs noted for Puka Puka (Dak Prescott, Ja'Marr Chase BYE) — win came despite reduced ceiling."
+      ],
+      "key_takeaways": {
+        "Gronk for my  johnson": "Offensive leaders underperformed (Herbert, Bijan, Courtland Sutton); starting Herbert over Jalen Hurts (bench) was a notable roster choice that limited scoring.",
+        "Puka Puka": "Balanced production from RBs and a clutch kicking day from Cam Little, plus bench depth (Vidal, Aaron Jones) provided the margin of victory despite Puka Nacua and A.J. Brown underperforming."
+      }
+    },
+    {
+      "home_team": "Baker's Brownie Stand",
+      "away_team": "World of Hurts",
+      "winner": "World of Hurts",
+      "score": {
+        "home": 73.5,
+        "away": 118.44
+      },
+      "top_performers_vs_projection": [
+        {
+          "name": "Jahmyr Gibbs",
+          "position": "RB",
+          "actual_points": 36.7,
+          "projected_points": 16.81,
+          "delta": 19.89
+        },
+        {
+          "name": "Jason Myers",
+          "position": "K",
+          "actual_points": 15.0,
+          "projected_points": 8.49,
+          "delta": 6.51
+        },
+        {
+          "name": "Davante Adams",
+          "position": "WR",
+          "actual_points": 16.7,
+          "projected_points": 14.06,
+          "delta": 2.64
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "name": "Jordan Love",
+          "position": "QB (home)",
+          "actual_points": 7.84,
+          "projected_points": 16.99,
+          "delta": -9.15
+        },
+        {
+          "name": "Michael Pittman Jr.",
+          "position": "WR (home)",
+          "actual_points": 2.9,
+          "projected_points": 11.91,
+          "delta": -9.01
+        },
+        {
+          "name": "DJ Moore",
+          "position": "FLEX (home)",
+          "actual_points": 0.0,
+          "projected_points": 9.75,
+          "delta": -9.75
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "name": "Baker Mayfield",
+          "position": "QB (bench)",
+          "actual_points": 22.92,
+          "projected_points": 16.13,
+          "delta": 6.79,
+          "note": "High scoring QB left on the bench for home team"
+        },
+        {
+          "name": "Tyler Allgeier",
+          "position": "RB (bench)",
+          "actual_points": 17.7,
+          "projected_points": 4.64,
+          "delta": 13.06,
+          "note": "Significant bench RB production"
+        },
+        {
+          "name": "Tez Johnson",
+          "position": "WR (away bench)",
+          "actual_points": 18.2,
+          "projected_points": 7.73,
+          "delta": 10.47,
+          "note": "Two TDs from the bench for World of Hurts"
+        }
+      ],
+      "impactful_transactions_or_roster_notes": [
+        "Baker's Brownie Stand had Baker Mayfield on the bench (22.92) while starting Matthew Stafford — bench QB had a strong day.",
+        "World of Hurts benefited from Tez Johnson (bench) scoring 18.2 with 2 TDs; bench depth contributed to the win.",
+        "Several BYEs/inactives reduced available options (Isiah Pacheco BYE; Travis Kelce BYE for World of Hurts)."
+      ],
+      "key_takeaways": {
+        "Baker's Brownie Stand": "Stafford outproduced projection, but multiple offensive skill players (Pittman, DJ Moore, CMC) underperformed or were limited, and the team left high-scoring bench assets unused.",
+        "World of Hurts": "Jahmyr Gibbs exploded for a huge game and combined with consistent WR scoring and an efficient kicker to produce a decisive win; bench TDs added extra margin."
+      }
+    },
+    {
+      "home_team": "THE Derbaum",
+      "away_team": "No Punt Intended",
+      "winner": "THE Derbaum",
+      "score": {
+        "home": 133.82,
+        "away": 122.84
+      },
+      "top_performers_vs_projection": [
+        {
+          "name": "De'Von Achane",
+          "position": "RB",
+          "actual_points": 37.5,
+          "projected_points": 18.74,
+          "delta": 18.76
+        },
+        {
+          "name": "George Kittle",
+          "position": "TE",
+          "actual_points": 18.9,
+          "projected_points": 9.31,
+          "delta": 9.59
+        },
+        {
+          "name": "Parker Washington",
+          "position": "WR",
+          "actual_points": 16.4,
+          "projected_points": 7.81,
+          "delta": 8.59
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "name": "Matt Prater",
+          "position": "K",
+          "actual_points": 1.0,
+          "projected_points": 8.86,
+          "delta": -7.86
+        },
+        {
+          "name": "Bills D/ST",
+          "position": "D/ST",
+          "actual_points": 2.0,
+          "projected_points": 6.31,
+          "delta": -4.31
+        },
+        {
+          "name": "Lamar Jackson",
+          "position": "QB (away)",
+          "actual_points": 16.64,
+          "projected_points": 23.59,
+          "delta": -6.95
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "name": "Brian Robinson Jr.",
+          "position": "RB (bench)",
+          "actual_points": 11.0,
+          "projected_points": 2.92,
+          "delta": 8.08,
+          "note": "Bench touchdown (41 yards) provided strong unused production"
+        },
+        {
+          "name": "J.J. McCarthy",
+          "position": "QB (bench)",
+          "actual_points": 14.72,
+          "projected_points": 17.65,
+          "delta": -2.93
+        },
+        {
+          "name": "Rome Odunze",
+          "position": "WR (away bench)",
+          "actual_points": 17.6,
+          "projected_points": 11.35,
+          "delta": 6.25
+        }
+      ],
+      "impactful_transactions_or_roster_notes": [
+        "THE Derbaum missed kicking value (Matt Prater 1.0) which trimmed margin despite big offensive outputs.",
+        "No Punt Intended had Chargers D/ST on the bench (16.0) producing strong defensive points that were unused.",
+        "Several BYEs/inactives (Brandon Aiyuk inactive; Javonte Williams BYE) affected available options across both rosters."
+      ],
+      "key_takeaways": {
+        "THE Derbaum": "Huge games from De'Von Achane and George Kittle (both far above projection) carried the team; special teams and kicker underperformance slightly compressed the margin.",
+        "No Punt Intended": "Strong performances from Drake London, Chris Olave and Texans D/ST were not enough to overcome THE Derbaum's elite RB/TE outputs; Lamar Jackson and several RBs underperformed relative to projections."
+      }
+    }
+  ],
+  "overall_weekly_note": {
+    "trends_and_observations": [
+      "Several matchups were decided by unusually large individual RB performances (TreVeyon Henderson, Jonathan Taylor, Jahmyr Gibbs, De'Von Achane) — week skewed toward high RB upside.",
+      "Defenses and kickers had outsized impacts in multiple games (Seahawks D/ST 21.0, Broncos D/ST 16.0, Eagles D/ST 12.0, multiple kickers with multi-FG days and a few zero/low outings such as Brandon McManus 0.0 and Matt Prater 1.0).",
+      "A consistent theme: high-value points left on benches influenced several outcomes (notable benchings: Jared Goff 24.8; Baker Mayfield 22.92; Kimani Vidal 17.3; Tez Johnson 18.2; Brian Robinson Jr. 11.0).",
+      "Multiple starters (QBs and WRs) recorded significant underperformances vs projection (Justin Fields, Bo Nix, Jordan Love, Justin Jefferson, A.J. Brown), which swung projected outcomes.",
+      "A mix of BYEs and inactives appears across rosters and likely affected lineup decisions and weekly ceilings."
+    ]
+  }
+}

@@ -1,0 +1,1458 @@
+[
+  {
+    "activity_team": "Xavier Marks the Spot",
+    "activity_name": "DROPPED",
+    "player_name": "Carson Wentz",
+    "player_position": "QB",
+    "player_id": 2573079,
+    "activity_date": "2025-11-11 11:44"
+  },
+  {
+    "activity_team": "5WRsAllowedOnRostersNextYear",
+    "activity_name": "DROPPED",
+    "player_name": "Joshua Karty",
+    "player_position": "K",
+    "player_id": 4566192,
+    "activity_date": "2025-11-09 11:49"
+  },
+  {
+    "activity_team": "5WRsAllowedOnRostersNextYear",
+    "activity_name": "DROPPED",
+    "player_name": "Parker Romo",
+    "player_position": "K",
+    "player_id": 4051167,
+    "activity_date": "2025-11-09 11:48"
+  },
+  {
+    "activity_team": "Trying to not finish last",
+    "activity_name": "FA ADDED",
+    "player_name": "Brandon McManus",
+    "player_position": "K",
+    "player_id": 16339,
+    "activity_date": "2025-11-08 11:25"
+  },
+  {
+    "activity_team": "Hangin' With Mr. Cooper",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Packers D/ST",
+    "player_position": "D/ST",
+    "player_id": -16009,
+    "activity_date": "2025-11-08 03:26"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "DROPPED",
+    "player_name": "Brashard Smith",
+    "player_position": "RB",
+    "player_id": 4596602,
+    "activity_date": "2025-11-07 21:24"
+  },
+  {
+    "activity_team": "Big Trouble in Little Cameron",
+    "activity_name": "FA ADDED",
+    "player_name": "Falcons D/ST",
+    "player_position": "D/ST",
+    "player_id": -16001,
+    "activity_date": "2025-11-07 18:03"
+  },
+  {
+    "activity_team": "Xavier Marks the Spot",
+    "activity_name": "DROPPED",
+    "player_name": "Joey Slye",
+    "player_position": "K",
+    "player_id": 3124084,
+    "activity_date": "2025-11-06 18:36"
+  },
+  {
+    "activity_team": "Hangin' With Mr. Cooper",
+    "activity_name": "DROPPED",
+    "player_name": "Cowboys D/ST",
+    "player_position": "D/ST",
+    "player_id": -16006,
+    "activity_date": "2025-11-06 18:06"
+  },
+  {
+    "activity_team": "Hangin' With Mr. Cooper",
+    "activity_name": "DROPPED",
+    "player_name": "Evan McPherson",
+    "player_position": "K",
+    "player_id": 4360234,
+    "activity_date": "2025-11-06 18:06"
+  },
+  {
+    "activity_team": "The Philly Special",
+    "activity_name": "DROPPED",
+    "player_name": "Bears D/ST",
+    "player_position": "D/ST",
+    "player_id": -16003,
+    "activity_date": "2025-11-06 11:22"
+  },
+  {
+    "activity_team": "Kraft Montgomery Cheese",
+    "activity_name": "FA ADDED",
+    "player_name": "Isaiah Likely",
+    "player_position": "TE",
+    "player_id": 4361050,
+    "activity_date": "2025-11-06 10:20"
+  },
+  {
+    "activity_team": "Kraft Montgomery Cheese",
+    "activity_name": "DROPPED",
+    "player_name": "Kendre Miller",
+    "player_position": "RB",
+    "player_id": 4599739,
+    "activity_date": "2025-11-06 10:19"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Luke Musgrave",
+    "player_position": "TE",
+    "player_id": 4428085,
+    "activity_date": "2025-11-06 04:27"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Alec Pierce",
+    "player_position": "WR",
+    "player_id": 4360078,
+    "activity_date": "2025-11-06 04:27"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "DROPPED",
+    "player_name": "Packers D/ST",
+    "player_position": "D/ST",
+    "player_id": -16009,
+    "activity_date": "2025-11-06 04:27"
+  },
+  {
+    "activity_team": "The Philly Special",
+    "activity_name": "DROPPED",
+    "player_name": "Sean Tucker",
+    "player_position": "RB",
+    "player_id": 4430871,
+    "activity_date": "2025-11-06 04:27"
+  },
+  {
+    "activity_team": "Trying to not finish last",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Darius Slayton",
+    "player_position": "WR",
+    "player_id": 3916945,
+    "activity_date": "2025-11-06 04:27"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Davis Mills",
+    "player_position": "QB",
+    "player_id": 4242546,
+    "activity_date": "2025-11-06 04:27"
+  },
+  {
+    "activity_team": "Jake Butt Stuff",
+    "activity_name": "DROPPED",
+    "player_name": "Andy Borregales",
+    "player_position": "K",
+    "player_id": 4569923,
+    "activity_date": "2025-11-06 04:27"
+  },
+  {
+    "activity_team": "Big Trouble in Little Cameron",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Colston Loveland",
+    "player_position": "TE",
+    "player_id": 4723086,
+    "activity_date": "2025-11-06 04:27"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "FA ADDED",
+    "player_name": "Blake Corum",
+    "player_position": "RB",
+    "player_id": 4429096,
+    "activity_date": "2025-11-02 15:03"
+  },
+  {
+    "activity_team": "Hangin' With Mr. Cooper",
+    "activity_name": "FA ADDED",
+    "player_name": "Cowboys D/ST",
+    "player_position": "D/ST",
+    "player_id": -16006,
+    "activity_date": "2025-11-02 12:58"
+  },
+  {
+    "activity_team": "Kyler? I Barely Know Her",
+    "activity_name": "FA ADDED",
+    "player_name": "Graham Gano",
+    "player_position": "K",
+    "player_id": 12460,
+    "activity_date": "2025-11-02 12:35"
+  },
+  {
+    "activity_team": "Kyler? I Barely Know Her",
+    "activity_name": "DROPPED",
+    "player_name": "Spencer Rattler",
+    "player_position": "QB",
+    "player_id": 4426339,
+    "activity_date": "2025-11-02 12:33"
+  },
+  {
+    "activity_team": "Big Trouble in Little Cameron",
+    "activity_name": "DROPPED",
+    "player_name": "Jonnu Smith",
+    "player_position": "TE",
+    "player_id": 3054212,
+    "activity_date": "2025-11-02 11:00"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Browns D/ST",
+    "player_position": "D/ST",
+    "player_id": -16005,
+    "activity_date": "2025-11-01 03:16"
+  },
+  {
+    "activity_team": "Big Trouble in Little Cameron",
+    "activity_name": "FA ADDED",
+    "player_name": "Terrell Jennings",
+    "player_position": "RB",
+    "player_id": 4427600,
+    "activity_date": "2025-10-31 19:52"
+  },
+  {
+    "activity_team": "Xavier Marks the Spot",
+    "activity_name": "TRADED",
+    "player_name": "Bucky Irving",
+    "player_position": "RB",
+    "player_id": 4596448,
+    "activity_date": "2025-10-31 16:57"
+  },
+  {
+    "activity_team": "THE Derbaum",
+    "activity_name": "FA ADDED",
+    "player_name": "Malik Washington",
+    "player_position": "WR",
+    "player_id": 4569603,
+    "activity_date": "2025-10-30 10:02"
+  },
+  {
+    "activity_team": "The Philly Special",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Cairo Santos",
+    "player_position": "K",
+    "player_id": 17427,
+    "activity_date": "2025-10-30 03:21"
+  },
+  {
+    "activity_team": "The Philly Special",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Bears D/ST",
+    "player_position": "D/ST",
+    "player_id": -16003,
+    "activity_date": "2025-10-30 03:21"
+  },
+  {
+    "activity_team": "Trying to not finish last",
+    "activity_name": "DROPPED",
+    "player_name": "Matthew Golden",
+    "player_position": "WR",
+    "player_id": 4701936,
+    "activity_date": "2025-10-30 03:21"
+  },
+  {
+    "activity_team": "Forte Inch Johnson",
+    "activity_name": "DROPPED",
+    "player_name": "Cam Skattebo",
+    "player_position": "RB",
+    "player_id": 4696981,
+    "activity_date": "2025-10-30 03:21"
+  },
+  {
+    "activity_team": "The Philly Special",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Tua Tagovailoa",
+    "player_position": "QB",
+    "player_id": 4241479,
+    "activity_date": "2025-10-30 03:21"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Chimere Dike",
+    "player_position": "WR",
+    "player_id": 4431268,
+    "activity_date": "2025-10-30 03:21"
+  },
+  {
+    "activity_team": "5WRsAllowedOnRostersNextYear",
+    "activity_name": "DROPPED",
+    "player_name": "Najee Harris",
+    "player_position": "RB",
+    "player_id": 4241457,
+    "activity_date": "2025-10-30 03:21"
+  },
+  {
+    "activity_team": "THE Derbaum",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Brandon Aiyuk",
+    "player_position": "WR",
+    "player_id": 4360438,
+    "activity_date": "2025-10-30 03:21"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "DROPPED",
+    "player_name": "Kirk Cousins",
+    "player_position": "QB",
+    "player_id": 14880,
+    "activity_date": "2025-10-28 20:28"
+  },
+  {
+    "activity_team": "Jake Butt Stuff",
+    "activity_name": "DROPPED",
+    "player_name": "Jerome Ford",
+    "player_position": "RB",
+    "player_id": 4372019,
+    "activity_date": "2025-10-28 14:22"
+  },
+  {
+    "activity_team": "Kyler? I Barely Know Her",
+    "activity_name": "DROPPED",
+    "player_name": "Jacoby Brissett",
+    "player_position": "QB",
+    "player_id": 2578570,
+    "activity_date": "2025-10-26 12:54"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "FA ADDED",
+    "player_name": "Panthers D/ST",
+    "player_position": "D/ST",
+    "player_id": -16029,
+    "activity_date": "2025-10-26 12:38"
+  },
+  {
+    "activity_team": "Xavier Marks the Spot",
+    "activity_name": "FA ADDED",
+    "player_name": "Joey Slye",
+    "player_position": "K",
+    "player_id": 3124084,
+    "activity_date": "2025-10-26 11:36"
+  },
+  {
+    "activity_team": "5WRsAllowedOnRostersNextYear",
+    "activity_name": "DROPPED",
+    "player_name": "Bengals D/ST",
+    "player_position": "D/ST",
+    "player_id": -16004,
+    "activity_date": "2025-10-26 11:27"
+  },
+  {
+    "activity_team": "Forte Inch Johnson",
+    "activity_name": "DROPPED",
+    "player_name": "Mason Taylor",
+    "player_position": "TE",
+    "player_id": 4808766,
+    "activity_date": "2025-10-26 11:21"
+  },
+  {
+    "activity_team": "Forte Inch Johnson",
+    "activity_name": "FA ADDED",
+    "player_name": "Giants D/ST",
+    "player_position": "D/ST",
+    "player_id": -16019,
+    "activity_date": "2025-10-25 12:51"
+  },
+  {
+    "activity_team": "Forte Inch Johnson",
+    "activity_name": "DROPPED",
+    "player_name": "Jake Tonges",
+    "player_position": "TE",
+    "player_id": 4259147,
+    "activity_date": "2025-10-25 12:50"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "FA ADDED",
+    "player_name": "Kirk Cousins",
+    "player_position": "QB",
+    "player_id": 14880,
+    "activity_date": "2025-10-25 12:31"
+  },
+  {
+    "activity_team": "The Philly Special",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Browns D/ST",
+    "player_position": "D/ST",
+    "player_id": -16005,
+    "activity_date": "2025-10-25 03:33"
+  },
+  {
+    "activity_team": "Xavier Marks the Spot",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Texans D/ST",
+    "player_position": "D/ST",
+    "player_id": -16034,
+    "activity_date": "2025-10-25 03:33"
+  },
+  {
+    "activity_team": "The Philly Special",
+    "activity_name": "DROPPED",
+    "player_name": "Ricky Pearsall",
+    "player_position": "WR",
+    "player_id": 4428209,
+    "activity_date": "2025-10-24 17:20"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "DROPPED",
+    "player_name": "Andy Dalton",
+    "player_position": "QB",
+    "player_id": 14012,
+    "activity_date": "2025-10-24 14:42"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "DROPPED",
+    "player_name": "Darren Waller",
+    "player_position": "TE",
+    "player_id": 2576925,
+    "activity_date": "2025-10-23 19:46"
+  },
+  {
+    "activity_team": "Hangin' With Mr. Cooper",
+    "activity_name": "FA ADDED",
+    "player_name": "Evan McPherson",
+    "player_position": "K",
+    "player_id": 4360234,
+    "activity_date": "2025-10-23 17:09"
+  },
+  {
+    "activity_team": "The Philly Special",
+    "activity_name": "DROPPED",
+    "player_name": "Devin Singletary",
+    "player_position": "RB",
+    "player_id": 4040761,
+    "activity_date": "2025-10-23 13:28"
+  },
+  {
+    "activity_team": "Kraft Montgomery Cheese",
+    "activity_name": "FA ADDED",
+    "player_name": "Marcus Mariota",
+    "player_position": "QB",
+    "player_id": 2576980,
+    "activity_date": "2025-10-23 13:21"
+  },
+  {
+    "activity_team": "Xavier Marks the Spot",
+    "activity_name": "FA ADDED",
+    "player_name": "Dylan Sampson",
+    "player_position": "RB",
+    "player_id": 5081397,
+    "activity_date": "2025-10-23 08:15"
+  },
+  {
+    "activity_team": "THE Derbaum",
+    "activity_name": "FA ADDED",
+    "player_name": "Troy Franklin",
+    "player_position": "WR",
+    "player_id": 4431280,
+    "activity_date": "2025-10-23 05:01"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Andy Dalton",
+    "player_position": "QB",
+    "player_id": 14012,
+    "activity_date": "2025-10-23 04:10"
+  },
+  {
+    "activity_team": "Trying to not finish last",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Joe Flacco",
+    "player_position": "QB",
+    "player_id": 11252,
+    "activity_date": "2025-10-23 04:10"
+  },
+  {
+    "activity_team": "THE Derbaum",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Bills D/ST",
+    "player_position": "D/ST",
+    "player_id": -16002,
+    "activity_date": "2025-10-23 04:10"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Brashard Smith",
+    "player_position": "RB",
+    "player_id": 4596602,
+    "activity_date": "2025-10-23 04:10"
+  },
+  {
+    "activity_team": "Trying to not finish last",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Isaiah Davis",
+    "player_position": "RB",
+    "player_id": 4695404,
+    "activity_date": "2025-10-23 04:10"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Kayshon Boutte",
+    "player_position": "WR",
+    "player_id": 4429022,
+    "activity_date": "2025-10-23 04:10"
+  },
+  {
+    "activity_team": "The Philly Special",
+    "activity_name": "DROPPED",
+    "player_name": "Calvin Austin III",
+    "player_position": "WR",
+    "player_id": 4243389,
+    "activity_date": "2025-10-23 04:10"
+  },
+  {
+    "activity_team": "Jake Butt Stuff",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Andy Borregales",
+    "player_position": "K",
+    "player_id": 4569923,
+    "activity_date": "2025-10-23 04:10"
+  },
+  {
+    "activity_team": "Hangin' With Mr. Cooper",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Buccaneers D/ST",
+    "player_position": "D/ST",
+    "player_id": -16027,
+    "activity_date": "2025-10-23 04:10"
+  },
+  {
+    "activity_team": "5WRsAllowedOnRostersNextYear",
+    "activity_name": "DROPPED",
+    "player_name": "Blake Corum",
+    "player_position": "RB",
+    "player_id": 4429096,
+    "activity_date": "2025-10-23 04:10"
+  },
+  {
+    "activity_team": "Big Trouble in Little Cameron",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Will Reichard",
+    "player_position": "K",
+    "player_id": 4567104,
+    "activity_date": "2025-10-23 04:10"
+  },
+  {
+    "activity_team": "THE Derbaum",
+    "activity_name": "DROPPED",
+    "player_name": "Chig Okonkwo",
+    "player_position": "TE",
+    "player_id": 4360635,
+    "activity_date": "2025-10-23 04:10"
+  },
+  {
+    "activity_team": "Kyler? I Barely Know Her",
+    "activity_name": "DROPPED",
+    "player_name": "Sean Tucker",
+    "player_position": "RB",
+    "player_id": 4430871,
+    "activity_date": "2025-10-19 08:19"
+  },
+  {
+    "activity_team": "Kyler? I Barely Know Her",
+    "activity_name": "FA ADDED",
+    "player_name": "Jacoby Brissett",
+    "player_position": "QB",
+    "player_id": 2578570,
+    "activity_date": "2025-10-19 08:18"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Mac Jones",
+    "player_position": "QB",
+    "player_id": 4241464,
+    "activity_date": "2025-10-18 03:39"
+  },
+  {
+    "activity_team": "Xavier Marks the Spot",
+    "activity_name": "FA ADDED",
+    "player_name": "Zavier Scott",
+    "player_position": "RB",
+    "player_id": 4257364,
+    "activity_date": "2025-10-16 19:35"
+  },
+  {
+    "activity_team": "Hangin' With Mr. Cooper",
+    "activity_name": "FA ADDED",
+    "player_name": "Kyle Monangai",
+    "player_position": "RB",
+    "player_id": 4608686,
+    "activity_date": "2025-10-16 12:32"
+  },
+  {
+    "activity_team": "THE Derbaum",
+    "activity_name": "DROPPED",
+    "player_name": "Troy Franklin",
+    "player_position": "WR",
+    "player_id": 4431280,
+    "activity_date": "2025-10-16 12:14"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "FA ADDED",
+    "player_name": "Jeremy McNichols",
+    "player_position": "RB",
+    "player_id": 3127586,
+    "activity_date": "2025-10-16 06:25"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "DROPPED",
+    "player_name": "Isaiah Davis",
+    "player_position": "RB",
+    "player_id": 4695404,
+    "activity_date": "2025-10-16 03:09"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "DROPPED",
+    "player_name": "Mac Jones",
+    "player_position": "QB",
+    "player_id": 4241464,
+    "activity_date": "2025-10-16 03:09"
+  },
+  {
+    "activity_team": "Hangin' With Mr. Cooper",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Chad Ryland",
+    "player_position": "K",
+    "player_id": 4363538,
+    "activity_date": "2025-10-16 03:09"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Falcons D/ST",
+    "player_position": "D/ST",
+    "player_id": -16001,
+    "activity_date": "2025-10-16 03:09"
+  },
+  {
+    "activity_team": "The Philly Special",
+    "activity_name": "DROPPED",
+    "player_name": "Cardinals D/ST",
+    "player_position": "D/ST",
+    "player_id": -16022,
+    "activity_date": "2025-10-16 03:09"
+  },
+  {
+    "activity_team": "THE Derbaum",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Panthers D/ST",
+    "player_position": "D/ST",
+    "player_id": -16029,
+    "activity_date": "2025-10-16 03:09"
+  },
+  {
+    "activity_team": "Hangin' With Mr. Cooper",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Tez Johnson",
+    "player_position": "WR",
+    "player_id": 4608810,
+    "activity_date": "2025-10-16 03:09"
+  },
+  {
+    "activity_team": "Jake Butt Stuff",
+    "activity_name": "FA ADDED",
+    "player_name": "J.J. McCarthy",
+    "player_position": "QB",
+    "player_id": 4433970,
+    "activity_date": "2025-10-12 11:39"
+  },
+  {
+    "activity_team": "Trying to not finish last",
+    "activity_name": "DROPPED",
+    "player_name": "Bills D/ST",
+    "player_position": "D/ST",
+    "player_id": -16002,
+    "activity_date": "2025-10-12 09:10"
+  },
+  {
+    "activity_team": "Kyler? I Barely Know Her",
+    "activity_name": "DROPPED",
+    "player_name": "Nick Folk",
+    "player_position": "K",
+    "player_id": 10621,
+    "activity_date": "2025-10-12 08:43"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "FA ADDED",
+    "player_name": "Chris Boswell",
+    "player_position": "K",
+    "player_id": 17372,
+    "activity_date": "2025-10-11 15:18"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "FA ADDED",
+    "player_name": "Emari Demercado",
+    "player_position": "RB",
+    "player_id": 4362478,
+    "activity_date": "2025-10-11 15:17"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "FA ADDED",
+    "player_name": "Sterling Shepard",
+    "player_position": "WR",
+    "player_id": 2976592,
+    "activity_date": "2025-10-11 15:15"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "DROPPED",
+    "player_name": "Brenton Strange",
+    "player_position": "TE",
+    "player_id": 4430539,
+    "activity_date": "2025-10-11 15:15"
+  },
+  {
+    "activity_team": "Xavier Marks the Spot",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Rams D/ST",
+    "player_position": "D/ST",
+    "player_id": -16014,
+    "activity_date": "2025-10-11 04:11"
+  },
+  {
+    "activity_team": "The Philly Special",
+    "activity_name": "FA ADDED",
+    "player_name": "Ryan Fitzgerald",
+    "player_position": "K",
+    "player_id": 4568263,
+    "activity_date": "2025-10-09 22:09"
+  },
+  {
+    "activity_team": "Dickhole Smashers",
+    "activity_name": "FA ADDED",
+    "player_name": "Emanuel Wilson",
+    "player_position": "RB",
+    "player_id": 4887558,
+    "activity_date": "2025-10-09 19:52"
+  },
+  {
+    "activity_team": "Dickhole Smashers",
+    "activity_name": "FA ADDED",
+    "player_name": "Raiders D/ST",
+    "player_position": "D/ST",
+    "player_id": -16013,
+    "activity_date": "2025-10-09 19:50"
+  },
+  {
+    "activity_team": "Dickhole Smashers",
+    "activity_name": "DROPPED",
+    "player_name": "Tank Bigsby",
+    "player_position": "RB",
+    "player_id": 4429013,
+    "activity_date": "2025-10-09 19:50"
+  },
+  {
+    "activity_team": "Dickhole Smashers",
+    "activity_name": "FA ADDED",
+    "player_name": "Tyquan Thornton",
+    "player_position": "WR",
+    "player_id": 4362921,
+    "activity_date": "2025-10-09 19:50"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "FA ADDED",
+    "player_name": "Mac Jones",
+    "player_position": "QB",
+    "player_id": 4241464,
+    "activity_date": "2025-10-09 15:56"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "FA ADDED",
+    "player_name": "Colston Loveland",
+    "player_position": "TE",
+    "player_id": 4723086,
+    "activity_date": "2025-10-09 09:54"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "DROPPED",
+    "player_name": "Spencer Shrader",
+    "player_position": "K",
+    "player_id": 4571557,
+    "activity_date": "2025-10-09 09:54"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "FA ADDED",
+    "player_name": "Michael Badgley",
+    "player_position": "K",
+    "player_id": 3123052,
+    "activity_date": "2025-10-09 09:53"
+  },
+  {
+    "activity_team": "Forte Inch Johnson",
+    "activity_name": "FA ADDED",
+    "player_name": "Wil Lutz",
+    "player_position": "K",
+    "player_id": 2985659,
+    "activity_date": "2025-10-09 09:48"
+  },
+  {
+    "activity_team": "Trying to not finish last",
+    "activity_name": "DROPPED",
+    "player_name": "Giants D/ST",
+    "player_position": "D/ST",
+    "player_id": -16019,
+    "activity_date": "2025-10-09 09:20"
+  },
+  {
+    "activity_team": "Trying to not finish last",
+    "activity_name": "DROPPED",
+    "player_name": "Brian Robinson Jr.",
+    "player_position": "RB",
+    "player_id": 4241474,
+    "activity_date": "2025-10-09 09:19"
+  },
+  {
+    "activity_team": "Jake Butt Stuff",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Bam Knight",
+    "player_position": "RB",
+    "player_id": 4427728,
+    "activity_date": "2025-10-09 03:04"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Brandon McManus",
+    "player_position": "K",
+    "player_id": 16339,
+    "activity_date": "2025-10-09 03:04"
+  },
+  {
+    "activity_team": "THE Derbaum",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Dillon Gabriel",
+    "player_position": "QB",
+    "player_id": 4427238,
+    "activity_date": "2025-10-09 03:04"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "DROPPED",
+    "player_name": "Rams D/ST",
+    "player_position": "D/ST",
+    "player_id": -16014,
+    "activity_date": "2025-10-09 03:04"
+  },
+  {
+    "activity_team": "Jake Butt Stuff",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Harold Fannin Jr.",
+    "player_position": "TE",
+    "player_id": 5083076,
+    "activity_date": "2025-10-09 03:04"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "AJ Barner",
+    "player_position": "TE",
+    "player_id": 4576297,
+    "activity_date": "2025-10-09 03:04"
+  },
+  {
+    "activity_team": "Big Trouble in Little Cameron",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Hassan Haskins",
+    "player_position": "RB",
+    "player_id": 4372071,
+    "activity_date": "2025-10-09 03:04"
+  },
+  {
+    "activity_team": "THE Derbaum",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Kimani Vidal",
+    "player_position": "RB",
+    "player_id": 4430968,
+    "activity_date": "2025-10-09 03:04"
+  },
+  {
+    "activity_team": "Trying to not finish last",
+    "activity_name": "DROPPED",
+    "player_name": "Darius Slayton",
+    "player_position": "WR",
+    "player_id": 3916945,
+    "activity_date": "2025-10-09 03:04"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "DROPPED",
+    "player_name": "Malik Nabers",
+    "player_position": "WR",
+    "player_id": 4595348,
+    "activity_date": "2025-10-08 10:18"
+  },
+  {
+    "activity_team": "Forte Inch Johnson",
+    "activity_name": "DROPPED",
+    "player_name": "Chris Boswell",
+    "player_position": "K",
+    "player_id": 17372,
+    "activity_date": "2025-10-05 15:54"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "FA ADDED",
+    "player_name": "Isaiah Davis",
+    "player_position": "RB",
+    "player_id": 4695404,
+    "activity_date": "2025-10-05 12:00"
+  },
+  {
+    "activity_team": "Jake Butt Stuff",
+    "activity_name": "DROPPED",
+    "player_name": "Pat Freiermuth",
+    "player_position": "TE",
+    "player_id": 4361411,
+    "activity_date": "2025-10-05 11:58"
+  },
+  {
+    "activity_team": "Kyler? I Barely Know Her",
+    "activity_name": "FA ADDED",
+    "player_name": "Sean Tucker",
+    "player_position": "RB",
+    "player_id": 4430871,
+    "activity_date": "2025-10-05 11:09"
+  },
+  {
+    "activity_team": "Xavier Marks the Spot",
+    "activity_name": "DROPPED",
+    "player_name": "Evan McPherson",
+    "player_position": "K",
+    "player_id": 4360234,
+    "activity_date": "2025-10-04 04:08"
+  },
+  {
+    "activity_team": "Team Santangelo",
+    "activity_name": "FA ADDED",
+    "player_name": "Trevor Etienne",
+    "player_position": "RB",
+    "player_id": 4685350,
+    "activity_date": "2025-10-03 22:28"
+  },
+  {
+    "activity_team": "Kraft Montgomery Cheese",
+    "activity_name": "DROPPED",
+    "player_name": "Marcus Mariota",
+    "player_position": "QB",
+    "player_id": 2576980,
+    "activity_date": "2025-10-02 19:25"
+  },
+  {
+    "activity_team": "Trying to not finish last",
+    "activity_name": "FA ADDED",
+    "player_name": "Giants D/ST",
+    "player_position": "D/ST",
+    "player_id": -16019,
+    "activity_date": "2025-10-02 10:03"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "FA ADDED",
+    "player_name": "Kendrick Bourne",
+    "player_position": "WR",
+    "player_id": 3045523,
+    "activity_date": "2025-10-02 04:36"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Chad Ryland",
+    "player_position": "K",
+    "player_id": 4363538,
+    "activity_date": "2025-10-02 03:08"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "DROPPED",
+    "player_name": "Braelon Allen",
+    "player_position": "RB",
+    "player_id": 4685247,
+    "activity_date": "2025-10-02 03:08"
+  },
+  {
+    "activity_team": "Trying to not finish last",
+    "activity_name": "DROPPED",
+    "player_name": "Chris Rodriguez Jr.",
+    "player_position": "RB",
+    "player_id": 4362619,
+    "activity_date": "2025-10-02 03:08"
+  },
+  {
+    "activity_team": "THE Derbaum",
+    "activity_name": "DROPPED",
+    "player_name": "Brandon Aiyuk",
+    "player_position": "WR",
+    "player_id": 4360438,
+    "activity_date": "2025-10-02 03:08"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "DROPPED",
+    "player_name": "Trevor Lawrence",
+    "player_position": "QB",
+    "player_id": 4360310,
+    "activity_date": "2025-10-02 03:08"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Darren Waller",
+    "player_position": "TE",
+    "player_id": 2576925,
+    "activity_date": "2025-10-02 03:08"
+  },
+  {
+    "activity_team": "Trying to not finish last",
+    "activity_name": "DROPPED",
+    "player_name": "Matthew Golden",
+    "player_position": "WR",
+    "player_id": 4701936,
+    "activity_date": "2025-10-02 03:08"
+  },
+  {
+    "activity_team": "Hangin' With Mr. Cooper",
+    "activity_name": "DROPPED",
+    "player_name": "Packers D/ST",
+    "player_position": "D/ST",
+    "player_id": -16009,
+    "activity_date": "2025-10-02 03:08"
+  },
+  {
+    "activity_team": "THE Derbaum",
+    "activity_name": "DROPPED",
+    "player_name": "Jaydon Blue",
+    "player_position": "RB",
+    "player_id": 4685279,
+    "activity_date": "2025-10-02 03:08"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "DROPPED",
+    "player_name": "Isaiah Likely",
+    "player_position": "TE",
+    "player_id": 4361050,
+    "activity_date": "2025-09-30 15:41"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "DROPPED",
+    "player_name": "Elic Ayomanor",
+    "player_position": "WR",
+    "player_id": 4883647,
+    "activity_date": "2025-09-28 12:55"
+  },
+  {
+    "activity_team": "Trying to not finish last",
+    "activity_name": "FA ADDED",
+    "player_name": "Chris Rodriguez Jr.",
+    "player_position": "RB",
+    "player_id": 4362619,
+    "activity_date": "2025-09-27 23:28"
+  },
+  {
+    "activity_team": "Kraft Montgomery Cheese",
+    "activity_name": "FA ADDED",
+    "player_name": "Marcus Mariota",
+    "player_position": "QB",
+    "player_id": 2576980,
+    "activity_date": "2025-09-27 22:01"
+  },
+  {
+    "activity_team": "Jake Butt Stuff",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Keon Coleman",
+    "player_position": "WR",
+    "player_id": 4635008,
+    "activity_date": "2025-09-27 04:06"
+  },
+  {
+    "activity_team": "Hangin' With Mr. Cooper",
+    "activity_name": "DROPPED",
+    "player_name": "Ravens D/ST",
+    "player_position": "D/ST",
+    "player_id": -16033,
+    "activity_date": "2025-09-27 04:06"
+  },
+  {
+    "activity_team": "The Philly Special",
+    "activity_name": "DROPPED",
+    "player_name": "Cedric Tillman",
+    "player_position": "WR",
+    "player_id": 4369863,
+    "activity_date": "2025-09-26 09:37"
+  },
+  {
+    "activity_team": "Jake Butt Stuff",
+    "activity_name": "DROPPED",
+    "player_name": "Josh Downs",
+    "player_position": "WR",
+    "player_id": 4688813,
+    "activity_date": "2025-09-25 22:38"
+  },
+  {
+    "activity_team": "Jake Butt Stuff",
+    "activity_name": "FA ADDED",
+    "player_name": "Jeremy McNichols",
+    "player_position": "RB",
+    "player_id": 3127586,
+    "activity_date": "2025-09-25 22:36"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Jaguars D/ST",
+    "player_position": "D/ST",
+    "player_id": -16030,
+    "activity_date": "2025-09-25 03:14"
+  },
+  {
+    "activity_team": "Trying to not finish last",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Geno Smith",
+    "player_position": "QB",
+    "player_id": 15864,
+    "activity_date": "2025-09-25 03:14"
+  },
+  {
+    "activity_team": "The Philly Special",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Devin Singletary",
+    "player_position": "RB",
+    "player_id": 4040761,
+    "activity_date": "2025-09-25 03:14"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Tre Tucker",
+    "player_position": "WR",
+    "player_id": 4428718,
+    "activity_date": "2025-09-25 03:14"
+  },
+  {
+    "activity_team": "Big Trouble in Little Cameron",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Chargers D/ST",
+    "player_position": "D/ST",
+    "player_id": -16024,
+    "activity_date": "2025-09-25 03:14"
+  },
+  {
+    "activity_team": "THE Derbaum",
+    "activity_name": "DROPPED",
+    "player_name": "J.J. McCarthy",
+    "player_position": "QB",
+    "player_id": 4433970,
+    "activity_date": "2025-09-25 03:14"
+  },
+  {
+    "activity_team": "Trying to not finish last",
+    "activity_name": "DROPPED",
+    "player_name": "Keon Coleman",
+    "player_position": "WR",
+    "player_id": 4635008,
+    "activity_date": "2025-09-25 03:14"
+  },
+  {
+    "activity_team": "The Philly Special",
+    "activity_name": "DROPPED",
+    "player_name": "James Conner",
+    "player_position": "RB",
+    "player_id": 3045147,
+    "activity_date": "2025-09-23 23:36"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "FA ADDED",
+    "player_name": "Elic Ayomanor",
+    "player_position": "WR",
+    "player_id": 4883647,
+    "activity_date": "2025-09-20 15:36"
+  },
+  {
+    "activity_team": "The Philly Special",
+    "activity_name": "FA ADDED",
+    "player_name": "Commanders D/ST",
+    "player_position": "D/ST",
+    "player_id": -16028,
+    "activity_date": "2025-09-18 21:08"
+  },
+  {
+    "activity_team": "Xavier Marks the Spot",
+    "activity_name": "FA ADDED",
+    "player_name": "Carson Wentz",
+    "player_position": "QB",
+    "player_id": 2573079,
+    "activity_date": "2025-09-18 18:36"
+  },
+  {
+    "activity_team": "5WRsAllowedOnRostersNextYear",
+    "activity_name": "FA ADDED",
+    "player_name": "Bengals D/ST",
+    "player_position": "D/ST",
+    "player_id": -16004,
+    "activity_date": "2025-09-18 14:08"
+  },
+  {
+    "activity_team": "Jake Butt Stuff",
+    "activity_name": "FA ADDED",
+    "player_name": "Jerome Ford",
+    "player_position": "RB",
+    "player_id": 4372019,
+    "activity_date": "2025-09-18 10:50"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "FA ADDED",
+    "player_name": "Kyle Monangai",
+    "player_position": "RB",
+    "player_id": 4608686,
+    "activity_date": "2025-09-18 10:11"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "DROPPED",
+    "player_name": "Wil Lutz",
+    "player_position": "K",
+    "player_id": 2985659,
+    "activity_date": "2025-09-18 03:20"
+  },
+  {
+    "activity_team": "THE Derbaum",
+    "activity_name": "DROPPED",
+    "player_name": "Geno Smith",
+    "player_position": "QB",
+    "player_id": 15864,
+    "activity_date": "2025-09-18 03:20"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Falcons D/ST",
+    "player_position": "D/ST",
+    "player_id": -16001,
+    "activity_date": "2025-09-18 03:20"
+  },
+  {
+    "activity_team": "Kraft Montgomery Cheese",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Mac Jones",
+    "player_position": "QB",
+    "player_id": 4241464,
+    "activity_date": "2025-09-18 03:20"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "DROPPED",
+    "player_name": "JuJu Smith-Schuster",
+    "player_position": "WR",
+    "player_id": 3120348,
+    "activity_date": "2025-09-18 03:20"
+  },
+  {
+    "activity_team": "THE Derbaum",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Troy Franklin",
+    "player_position": "WR",
+    "player_id": 4431280,
+    "activity_date": "2025-09-18 03:20"
+  },
+  {
+    "activity_team": "Hangin' With Mr. Cooper",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Kenneth Gainwell",
+    "player_position": "RB",
+    "player_id": 4371733,
+    "activity_date": "2025-09-18 03:20"
+  },
+  {
+    "activity_team": "Trying to not finish last",
+    "activity_name": "DROPPED",
+    "player_name": "Sam Darnold",
+    "player_position": "QB",
+    "player_id": 3912547,
+    "activity_date": "2025-09-18 03:20"
+  },
+  {
+    "activity_team": "Big Trouble in Little Cameron",
+    "activity_name": "DROPPED",
+    "player_name": "Jaguars D/ST",
+    "player_position": "D/ST",
+    "player_id": -16030,
+    "activity_date": "2025-09-16 08:32"
+  },
+  {
+    "activity_team": "THE Derbaum",
+    "activity_name": "DROPPED",
+    "player_name": "Younghoe Koo",
+    "player_position": "K",
+    "player_id": 3049899,
+    "activity_date": "2025-09-13 20:43"
+  },
+  {
+    "activity_team": "Forte Inch Johnson",
+    "activity_name": "FA ADDED",
+    "player_name": "Jake Tonges",
+    "player_position": "TE",
+    "player_id": 4259147,
+    "activity_date": "2025-09-11 20:33"
+  },
+  {
+    "activity_team": "The Philly Special",
+    "activity_name": "FA ADDED",
+    "player_name": "Juwan Johnson",
+    "player_position": "TE",
+    "player_id": 3929645,
+    "activity_date": "2025-09-11 20:13"
+  },
+  {
+    "activity_team": "The Philly Special",
+    "activity_name": "FA ADDED",
+    "player_name": "Kareem Hunt",
+    "player_position": "RB",
+    "player_id": 3059915,
+    "activity_date": "2025-09-11 20:11"
+  },
+  {
+    "activity_team": "Dickhole Smashers",
+    "activity_name": "FA ADDED",
+    "player_name": "Matt Prater",
+    "player_position": "K",
+    "player_id": 11122,
+    "activity_date": "2025-09-11 19:06"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "DROPPED",
+    "player_name": "Giants D/ST",
+    "player_position": "D/ST",
+    "player_id": -16019,
+    "activity_date": "2025-09-11 04:21"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "JuJu Smith-Schuster",
+    "player_position": "WR",
+    "player_id": 3120348,
+    "activity_date": "2025-09-11 03:56"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "DROPPED",
+    "player_name": "Adam Thielen",
+    "player_position": "WR",
+    "player_id": 16460,
+    "activity_date": "2025-09-11 03:56"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Rams D/ST",
+    "player_position": "D/ST",
+    "player_id": -16014,
+    "activity_date": "2025-09-11 03:56"
+  },
+  {
+    "activity_team": "THE Derbaum",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Elic Ayomanor",
+    "player_position": "WR",
+    "player_id": 4883647,
+    "activity_date": "2025-09-11 03:56"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Harold Fannin Jr.",
+    "player_position": "TE",
+    "player_id": 5083076,
+    "activity_date": "2025-09-11 03:56"
+  },
+  {
+    "activity_team": "Trying to not finish last",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Quentin Johnston",
+    "player_position": "WR",
+    "player_id": 4429025,
+    "activity_date": "2025-09-11 03:56"
+  },
+  {
+    "activity_team": "Dickhole Smashers",
+    "activity_name": "DROPPED",
+    "player_name": "Tyler Bass",
+    "player_position": "K",
+    "player_id": 3917232,
+    "activity_date": "2025-09-07 14:55"
+  },
+  {
+    "activity_team": "Big Trouble in Little Cameron",
+    "activity_name": "DROPPED",
+    "player_name": "Rams D/ST",
+    "player_position": "D/ST",
+    "player_id": -16014,
+    "activity_date": "2025-09-07 12:02"
+  },
+  {
+    "activity_team": "Big Trouble in Little Cameron",
+    "activity_name": "FA ADDED",
+    "player_name": "Rams D/ST",
+    "player_position": "D/ST",
+    "player_id": -16014,
+    "activity_date": "2025-09-07 12:00"
+  },
+  {
+    "activity_team": "If Ur Not First You're Last",
+    "activity_name": "FA ADDED",
+    "player_name": "Adam Thielen",
+    "player_position": "WR",
+    "player_id": 16460,
+    "activity_date": "2025-09-06 07:48"
+  },
+  {
+    "activity_team": "SnydeRemarks",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Isaiah Likely",
+    "player_position": "TE",
+    "player_id": 4361050,
+    "activity_date": "2025-09-04 03:16"
+  },
+  {
+    "activity_team": "THE Derbaum",
+    "activity_name": "WAIVER ADDED",
+    "player_name": "Luther Burden III",
+    "player_position": "WR",
+    "player_id": 4685278,
+    "activity_date": "2025-09-04 03:16"
+  }
+]

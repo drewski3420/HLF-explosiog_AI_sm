@@ -1,0 +1,284 @@
+{
+  "season_overview": {
+    "summary": "Through Week 9 the league has settled into a clear top tier and a crowded middle. Kraft Montgomery Cheese (8-2) and SnydeRemarks (7-3) have the best records; a four-team cluster at 6-4 (Hangin' With Mr. Cooper, Forte Inch Johnson, The Philly Special, 5WRsAllowedOnRostersNextYear) occupies the next rung. The season has been defined by frequent single-player outliers (explosive RB/WR/TE games and occasional QB blowups), consequential bench decisions (many matchups swung by 20+ point bench scores left unused), and several D/ST and kicker performances that created unexpected point swings.",
+    "notable_patterns": [
+      "High variance weeks: many blowouts (multiple 140+ team totals) and frequent single-digit games; outcomes often decided by a single roster decision.",
+      "Frequent large bench swings: managers repeatedly left 20+ point performances unused (examples across weeks: Daniel Jones, Trevor Lawrence, C.J. Stroud, Bijan Robinson, Rico Dowdle, Jordan Love, Justin Fields).",
+      "D/ST and kickers have been more impactful than typical—several weeks featured D/STs or kickers producing double-digit, game-deciding outputs (Vikings D/ST 32, Browns D/ST 24, Saints D/ST 18, multiple kickers 17+).",
+      "Some teams show consistent high outputs (SnydeRemarks, Kraft) while others are boom-or-bust with big wins offset by sudden collapses (THE Derbaum, Jake Butt Stuff)."
+    ]
+  },
+  "standings_after_week_9": {
+    "teams": [
+      {
+        "team": "Kraft Montgomery Cheese",
+        "record": "8-2",
+        "points_for": 993.3,
+        "points_against": 944.28,
+        "trend": "Top of the league — high ceiling weeks and winning more often than not; defense/kicker swings have helped win close matchups."
+      },
+      {
+        "team": "SnydeRemarks",
+        "record": "7-3",
+        "points_for": 1108.56,
+        "points_against": 940.28,
+        "trend": "Elite scoring engine. Regularly posts among the highest single-week totals (multiple 140+ weeks)."
+      },
+      {
+        "team": "Hangin' With Mr. Cooper",
+        "record": "6-4",
+        "points_for": 1065.2,
+        "points_against": 1052.58,
+        "trend": "High-variance, big upside weeks driven by rookie QB/TE breakouts and occasional enormous D/ST games (Browns D/ST 24)."
+      },
+      {
+        "team": "Forte Inch Johnson",
+        "record": "6-4",
+        "points_for": 1027.36,
+        "points_against": 989.88,
+        "trend": "Boom weeks tied to high-performing RBs and surprise RB/bench blowups (Rico Dowdle, Cam Skattebo). Has bench depth that often outperforms."
+      },
+      {
+        "team": "The Philly Special",
+        "record": "6-4",
+        "points_for": 993.42,
+        "points_against": 961.52,
+        "trend": "Balanced attack with explosive WR/TE games occasionally (Amon-Ra, Goedert). Bench depth has sometimes been left unused at the cost of closer contests."
+      },
+      {
+        "team": "5WRsAllowedOnRostersNextYear",
+        "record": "6-4",
+        "points_for": 954.62,
+        "points_against": 951.78,
+        "trend": "Wins built on high WR/Tight end ceilings and quality QB weeks (Stafford); also vulnerable to zero/near-zero RB or kicker games."
+      },
+      {
+        "team": "Big Trouble in Little Cameron",
+        "record": "5-5",
+        "points_for": 923.34,
+        "points_against": 978.26,
+        "trend": "Explosive TE/WR weeks (Jake Ferguson, Keenan Allen) but inconsistent QB/RB production has limited a winning stretch."
+      },
+      {
+        "team": "Kyler? I Barely Know Her",
+        "record": "5-5",
+        "points_for": 914.46,
+        "points_against": 956.24,
+        "trend": "Strong WR performances (George Pickens) and occasional massive RB weeks; affected by byes/inactives at QB in some weeks."
+      },
+      {
+        "team": "Kraft (alt data) / duplicate check",
+        "record": null,
+        "points_for": null,
+        "points_against": null,
+        "trend": "N/A"
+      },
+      {
+        "team": "Jake Butt Stuff",
+        "record": "4-6",
+        "points_for": 936.04,
+        "points_against": 983.0,
+        "trend": "Inconsistent — big QB performances (Caleb Williams) offset by recurring bench/inactive mismanagement and WR/RB underperformances."
+      },
+      {
+        "team": "Trying to not finish last",
+        "record": "4-6",
+        "points_for": 1046.92,
+        "points_against": 977.56,
+        "trend": "Very high potential weeks (Bo Nix, Jonathan Taylor, Joe Flacco + Drake London) but also large collapses; scoring totals show capability to beat anyone on a good week."
+      },
+      {
+        "team": "Team Santangelo",
+        "record": "4-6",
+        "points_for": 1044.0,
+        "points_against": 941.98,
+        "trend": "Massive WR weeks (Ja'Marr Chase, DeVonta Smith) keep team competitive; bench QB decisions (Jordan Love) have been notable."
+      },
+      {
+        "team": "Team Jon",
+        "record": "4-6",
+        "points_for": 826.34,
+        "points_against": 873.98,
+        "trend": "Capable of huge RB/WR weeks (Jahmyr Gibbs breakout) but hampered by inactives at QB and leaving high bench scores unused frequently."
+      },
+      {
+        "team": "Dickhole Smashers",
+        "record": "4-6",
+        "points_for": 742.18,
+        "points_against": 895.72,
+        "trend": "Bench management issues: repeatedly leaves high scoring QBs/WRs on bench; inconsistent RB availability (injuries/inactives) has produced low team totals."
+      },
+      {
+        "team": "If Ur Not First You're Last",
+        "record": "4-6",
+        "points_for": 950.66,
+        "points_against": 921.14,
+        "trend": "Explosive WR weeks (Nabers, Odunze) but streaky Mahomes/Tua performance variation and occasional zero WR weeks have produced swings."
+      },
+      {
+        "team": "THE Derbaum",
+        "record": "3-7",
+        "points_for": 974.94,
+        "points_against": 1077.62,
+        "trend": "High variance: occasional huge wins (Derrick Henry/Deebo early) but many low-output weeks; roster has shown both big bench gems and glaring misses."
+      }
+    ],
+    "notes": [
+      "Standings use Week 9 results. Where available, season points-for/against were taken from latest weekly data.",
+      "Tie-breakers among 6-4 teams were resolved by Points For when head-to-head data was unavailable; the four teams at 6-4 are all competing for seeds 3–6 and separation is narrow."
+    ]
+  },
+  "playoff_projection_top_6": {
+    "method": "Top 6 by record, tie-broken by head-to-head where available then Points For (PF)",
+    "projected_seeds": [
+      {
+        "seed": 1,
+        "team": "Kraft Montgomery Cheese",
+        "record": "8-2",
+        "PF": 993.3
+      },
+      {
+        "seed": 2,
+        "team": "SnydeRemarks",
+        "record": "7-3",
+        "PF": 1108.56
+      },
+      {
+        "seed": 3,
+        "team": "Hangin' With Mr. Cooper",
+        "record": "6-4",
+        "PF": 1065.2
+      },
+      {
+        "seed": 4,
+        "team": "Forte Inch Johnson",
+        "record": "6-4",
+        "PF": 1027.36
+      },
+      {
+        "seed": 5,
+        "team": "The Philly Special",
+        "record": "6-4",
+        "PF": 993.42
+      },
+      {
+        "seed": 6,
+        "team": "5WRsAllowedOnRostersNextYear",
+        "record": "6-4",
+        "PF": 954.62
+      }
+    ],
+    "bubble_notes": [
+      "Four teams at 6-4 made the projected field; small changes in the remaining weeks (single wins or a swing in Points For) can reshuffle seeds.",
+      "Teams with high PF among the 6-4 group (Hangin' and Forte) have an edge for seeding if head-to-head does not separate them."
+    ]
+  },
+  "team_level_trends": {
+    "common_themes": [
+      "Bench management has been the largest consistent factor separating winners from losers; multiple seasons' worth of 'left on bench' 20+ point performances are documented league-wide.",
+      "D/ST and kicker volatility has produced outsized single-week value; managers who consider D/ST/kicker weekly matchups have gained clear advantages in individual weeks.",
+      "Some rosters are built for volatility (high-upside WR/TE stacks), while others have built stronger floors with consistent RB production — both approaches have achieved wins depending on how many single-game outliers hit in a given week."
+    ],
+    "team_examples": [
+      {
+        "team": "SnydeRemarks",
+        "pattern": "Highest ceiling team to date; regularly posts the highest weekly totals and benefits from star RB/QB weeks plus frequent WR breakouts."
+      },
+      {
+        "team": "Kraft Montgomery Cheese",
+        "pattern": "Most consistent top seed: a mix of reliable RBs and opportunistic defensive/kicker weeks that turn close matchups in their favor."
+      },
+      {
+        "team": "Jake Butt Stuff",
+        "pattern": "Inconsistency driven by bench/inactive decisions and underperforming receivers some weeks; big QB weeks have not fully offset roster management issues."
+      },
+      {
+        "team": "THE Derbaum",
+        "pattern": "Boom-or-bust: capable of domination when HB/RB/WR align, but numerous low weeks keep overall record below expectations."
+      }
+    ]
+  },
+  "player_level_trends": {
+    "repeat_overperformers": [
+      {
+        "player": "Christian McCaffrey",
+        "teams_impacted": ["SnydeRemarks"],
+        "evidence": "Multiple massive weeks (Week 1-ish and Week 3, Week 7, Week 9 range) where CMC produced 20+ points; consistently a top weekly scorer for his roster."
+      },
+      {
+        "player": "Lamar Jackson",
+        "teams_impacted": ["SnydeRemarks"],
+        "evidence": "Several strong multi-week QB outputs (Weeks 1, 3, 9) adding consistent upside when healthy/in lineup."
+      },
+      {
+        "player": "Brock Bowers",
+        "teams_impacted": ["Hangin' With Mr. Cooper"],
+        "evidence": "Historic single-week outlier (43.3, Week 9) that produced the largest single-player positive swing recorded in the weekly summaries."
+      },
+      {
+        "player": "Tucker Kraft",
+        "teams_impacted": ["Kraft Montgomery Cheese"],
+        "evidence": "Multiple weeks with TE heavy scoring (33.3 Week 8) that have produced outsized TE contributions for his team."
+      },
+      {
+        "player": "Caleb Williams",
+        "teams_impacted": ["Jake Butt Stuff"],
+        "evidence": "Huge QB outlier in Week 9 (38.7) and other mobile-QB weeks that occasionally carry his team."
+      }
+    ],
+    "repeat_underperformers_or_busts": [
+      {
+        "player": "Derrick Henry",
+        "teams_impacted": ["THE Derbaum"],
+        "evidence": "Recurring underperformance vs projection across multiple weeks (notable very low outputs Weeks 2–4), reducing expected floor for his roster."
+      },
+      {
+        "player": "Malik Nabers",
+        "teams_impacted": ["If Ur Not First You're Last"],
+        "evidence": "Several games with very low output relative to projection (e.g., Week 3, Week 4), creating big negative deltas."
+      },
+      {
+        "player": "Puka Nacua",
+        "teams_impacted": ["5WRsAllowedOnRostersNextYear"],
+        "evidence": "High highs but also dramatic busts (e.g., Week 6 underperformance), demonstrating volatility."
+      }
+    ],
+    "bench_impact_examples": [
+      "Daniel Jones (multiple weeks) and Trevor Lawrence (multiple weeks) produced top-20 QB outputs while frequently sitting on benches; same for C.J. Stroud and Jordan Love in several matchups.",
+      "Big bench RB outputs left unused (Rico Dowdle, Bijan Robinson bench 35.8 in Week 5) changed several matchup outcomes had they been started."
+    ]
+  },
+  "league_wide_insights": {
+    "scoring_environment": "Overall scoring is elevated some weeks (several 140+ team totals) but also sees deep troughs (sub-70 team totals). The environment favors managers who either capture the weekly outlier or maintain a high-floor roster.",
+    "upsets_and_close_games": [
+      "Multiple close games decided by <5 points across the season (examples: Team Santangelo 125.44 vs Big Trouble 125.18 in Week 5; Xavier Marks the Spot 127.8 vs Team Jon 124.26 Week 4; Kraft 114.42 vs Jake Butt Stuff 107.7 Week 9).",
+      "Significant upsets occurred when teams with lower projections benefited from single-player explosions and opponent bench miscues (e.g., Hangin' With Mr. Cooper 157.26 over THE Derbaum 96.34, Week 9 (Brock Bowers' 43.3))."
+    ],
+    "bench_and_inactives_impact": "Frequent — leaving Daniel Jones (29.48), Trevor Lawrence (26+), Jordan Love (28.3), C.J. Stroud (28.76), Bijan Robinson (35.8) and others on the bench recurs as the single largest behavioral impact across matchups.",
+    "defense_and_kicker_influence": "Several weeks where D/ST or kickers provided 10+ points swung close outcomes (Vikings D/ST 32, Buccaneers D/ST 16, multiple kickers 17+). Managers starting favorable D/ST matchups gained outsized edges."
+  },
+  "owner_behaviors_and_management_patterns": {
+    "recurring_risky_behaviors": [
+      "Benching high-scoring QBs or RBs who then post big numbers (multiple managers left Trevor Lawrence, Daniel Jones, Jordan Love on bench in separate weeks).",
+      "Failing to adjust for byes/inactives (example: CeeDee Lamb and Brock Purdy inactives left rosters thin in multiple weeks).",
+      "Holding volatile WRs/TEs as bench lottery tickets instead of starting them when projections favored a start (multiple Week-by-week examples)."
+    ],
+    "recurring_smart_behaviors": [
+      "Active use of streaming D/STs and targeting matchups — several managers earned wins via D/ST choices (Vikings D/ST 32; Browns D/ST 24; Steelers D/ST 16).",
+      "Targeting high-floor RBs and pairing with high-upside WRs has been an effective formula for top teams (examples: Kraft, Forte).",
+      "Occasional aggressive lineup changes (starting a mid-tier kicker/D/ST based on matchup) paid off heavily for some managers."
+    ],
+    "notable_owner_decisions": [
+      "Hangin' With Mr. Cooper started Brock Bowers in Week 9 and received a historic return (43.3) — decisive and high-reward decision.",
+      "Multiple managers repeatedly left large bench scores on the pine (Daniel Jones, Trevor Lawrence, C.J. Stroud, Jordan Love, Bijan Robinson, Rico Dowdle), costing narrow matchups.",
+      "Several owners started defenses or kickers that massively outperformed (Saints D/ST 18, Jaguars D/ST 14, Cameron Dicker 17), demonstrating attention to matchup-based starts."
+    ]
+  },
+  "risks_and_key_issues_for_second_half": {
+    "summary": [
+      "Bench/inactive management will continue to be a primary determinant of weekly outcomes — the league's pattern suggests managing by matchups (especially for D/ST and K) and ensuring bench QBs/RBs/WRs are activated when projections are favorable.",
+      "Tie-breaker sensitivity: the playoff picture is tight for seeds 3–6; small PF swings or one more win/loss could flip seeds significantly.",
+      "Injury/bye scheduling (several teams have already burned through byes and IR lists) will influence lineup flexibility and the ability to absorb low-output weeks."
+    ]
+  }
+}

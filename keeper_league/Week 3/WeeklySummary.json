@@ -1,0 +1,793 @@
+{
+  "week": "Week 3",
+  "matchups": [
+    {
+      "home_team": "Baker's Brownie Stand",
+      "away_team": "Clever Team  Name Incoming",
+      "winner": "Baker's Brownie Stand",
+      "score": {
+        "home": 130.22,
+        "away": 81.06
+      },
+      "home_record": "2-1",
+      "away_record": "2-1",
+      "top_performers_vs_projection": [
+        {
+          "player": "Chase McLaughlin",
+          "team": "Baker's Brownie Stand",
+          "actual": 20.0,
+          "projected": 8.57,
+          "delta": 11.43,
+          "notes": "5/6 FG, 2/2 XP"
+        },
+        {
+          "player": "Geno Smith",
+          "team": "Clever Team  Name Incoming",
+          "actual": 26.06,
+          "projected": 15.25,
+          "delta": 10.81,
+          "notes": "3 TD passing"
+        },
+        {
+          "player": "Steelers D/ST",
+          "team": "Baker's Brownie Stand",
+          "actual": 15.0,
+          "projected": 5.81,
+          "delta": 9.19,
+          "notes": "1 INT, 4 FUM, 5 SACKS"
+        },
+        {
+          "player": "Garrett Wilson",
+          "team": "Baker's Brownie Stand",
+          "actual": 19.4,
+          "projected": 12.78,
+          "delta": 6.62,
+          "notes": "10 REC, 84 yards, 1 TD"
+        },
+        {
+          "player": "Ollie Gordon II",
+          "team": "Clever Team  Name Incoming (BE)",
+          "actual": 9.8,
+          "projected": 1.87,
+          "delta": 7.93,
+          "notes": "38 rush yards, 1 TD (bench)"
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Travis Hunter",
+          "team": "Baker's Brownie Stand (BE)",
+          "actual": 2.6,
+          "projected": 9.28,
+          "delta": -6.68,
+          "notes": "Bench, 1 REC 21 yards"
+        },
+        {
+          "player": "Deebo Samuel",
+          "team": "Clever Team  Name Incoming",
+          "actual": 3.9,
+          "projected": 10.49,
+          "delta": -6.59,
+          "notes": "2 REC for 11 yards"
+        },
+        {
+          "player": "D'Andre Swift",
+          "team": "Clever Team  Name Incoming",
+          "actual": 9.3,
+          "projected": 14.95,
+          "delta": -5.65,
+          "notes": "33 rush yards, 3 REC 45 yards"
+        },
+        {
+          "player": "Derrick Henry",
+          "team": "Clever Team  Name Incoming",
+          "actual": 10.2,
+          "projected": 15.8,
+          "delta": -5.6,
+          "notes": "FUM recorded"
+        },
+        {
+          "player": "Tyler Warren",
+          "team": "Baker's Brownie Stand",
+          "actual": 5.3,
+          "projected": 9.42,
+          "delta": -4.12,
+          "notes": "3 REC 38 yards"
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Michael Pittman Jr.",
+          "team": "Baker's Brownie Stand (BE)",
+          "actual": 16.3,
+          "projected": 8.2,
+          "delta": 8.1,
+          "notes": "6 REC for 73 yards — left on bench"
+        },
+        {
+          "player": "Ollie Gordon II",
+          "team": "Clever Team  Name Incoming (BE)",
+          "actual": 9.8,
+          "projected": 1.87,
+          "delta": 7.93,
+          "notes": "Scored 1 rush TD from bench"
+        },
+        {
+          "player": "Matthew Stafford",
+          "team": "Baker's Brownie Stand (BE)",
+          "actual": 13.84,
+          "projected": 15.97,
+          "delta": -2.13,
+          "notes": "Bench QB with 2 TD/1 INT"
+        }
+      ],
+      "impactful_transactions": [
+        "Michael Pittman Jr. remained on the bench despite 16.3 points (significant unused production).",
+        "Travis Hunter was on the bench and produced only 2.6 points (projected higher).",
+        "Chris Godwin Jr. and Xavier Legette listed as Inactive on Baker's Brownie Stand roster."
+      ],
+      "key_takeaways": {
+        "Baker's Brownie Stand": "Big contributions from Garrett Wilson and the Steelers D/ST plus a huge kicker day from Chase McLaughlin turned a projected close game into a decisive win. Bench depth (Michael Pittman Jr.) produced additional value that went unused.",
+        "Clever Team  Name Incoming": "Geno Smith outperformed heavily but the roster suffered multiple underperformances from WRs and RBs (Deebo, Henry, Swift) and a fumble, limiting scoring despite the QB breakout."
+      }
+    },
+    {
+      "home_team": "Gronk for my  johnson",
+      "away_team": "THE Derbaum",
+      "winner": "Gronk for my  johnson",
+      "score": {
+        "home": 151.24,
+        "away": 88.28
+      },
+      "home_record": "2-1",
+      "away_record": "2-1",
+      "top_performers_vs_projection": [
+        {
+          "player": "Vikings D/ST",
+          "team": "Gronk for my  johnson",
+          "actual": 32.0,
+          "projected": 6.99,
+          "delta": 25.01,
+          "notes": "2 INT, 3 FUM, 4 SACKS"
+        },
+        {
+          "player": "Mark Andrews",
+          "team": "Gronk for my  johnson (BE)",
+          "actual": 24.1,
+          "projected": 7.74,
+          "delta": 16.36,
+          "notes": "6 REC, 91 yards, 2 TDs — left on bench"
+        },
+        {
+          "player": "Cam Skattebo",
+          "team": "Gronk for my  johnson",
+          "actual": 21.1,
+          "projected": 9.13,
+          "delta": 11.97,
+          "notes": "60 rush yards, 1 rush TD, 6 REC 61 yards"
+        },
+        {
+          "player": "Courtland Sutton",
+          "team": "Gronk for my  johnson",
+          "actual": 20.8,
+          "projected": 10.17,
+          "delta": 10.63,
+          "notes": "6 REC for 118 yards, 1 TD"
+        },
+        {
+          "player": "Jalen Hurts",
+          "team": "Gronk for my  johnson",
+          "actual": 29.04,
+          "projected": 20.53,
+          "delta": 8.51,
+          "notes": "3 passing TDs plus rushing TD"
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Trevor Lawrence",
+          "team": "THE Derbaum",
+          "actual": 7.78,
+          "projected": 16.25,
+          "delta": -8.47,
+          "notes": "0 TD, 1 INT"
+        },
+        {
+          "player": "Chase Brown",
+          "team": "THE Derbaum",
+          "actual": 4.0,
+          "projected": 15.04,
+          "delta": -11.04,
+          "notes": "3 rush yards"
+        },
+        {
+          "player": "Chris Boswell",
+          "team": "Gronk for my  johnson",
+          "actual": 3.0,
+          "projected": 8.25,
+          "delta": -5.25,
+          "notes": "0/0 FG, 3/3 XP (low scoring from kicker)"
+        },
+        {
+          "player": "Bijan Robinson",
+          "team": "Gronk for my  johnson",
+          "actual": 13.6,
+          "projected": 18.89,
+          "delta": -5.29,
+          "notes": "72 rush yards"
+        },
+        {
+          "player": "Brian Thomas Jr.",
+          "team": "THE Derbaum",
+          "actual": 6.5,
+          "projected": 12.76,
+          "delta": -6.26,
+          "notes": "2 REC for 55 yards"
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Mark Andrews",
+          "team": "Gronk for my  johnson (BE)",
+          "actual": 24.1,
+          "projected": 7.74,
+          "delta": 16.36,
+          "notes": "Two TDs from the bench — major unused production"
+        },
+        {
+          "player": "Jaylen Waddle",
+          "team": "Gronk for my  johnson (BE)",
+          "actual": 12.4,
+          "projected": 10.33,
+          "delta": 2.07,
+          "notes": "Bench receiver with useful points"
+        },
+        {
+          "player": "Bhayshul Tuten",
+          "team": "THE Derbaum (BE)",
+          "actual": 8.1,
+          "projected": 5.26,
+          "delta": 2.84,
+          "notes": "Bench RB with a TD"
+        }
+      ],
+      "impactful_transactions": [
+        "Mark Andrews was on the bench and produced 24.1 points — significant unused scoring for Gronk for my  johnson.",
+        "Gronk for my  johnson started Vikings D/ST which returned a huge 32.0 points.",
+        "Brandon Aiyuk listed as Inactive for THE Derbaum."
+      ],
+      "key_takeaways": {
+        "Gronk for my  johnson": "Defense and big receiving/rushing performances (Vikings D/ST, Cam Skattebo, Courtland Sutton, Jalen Hurts) drove an outsized scoring week. Bench Mark Andrews was a lost opportunity for even more scoring.",
+        "THE Derbaum": "Turnovers in production from QB Trevor Lawrence and a very poor game from Chase Brown were key reasons for the loss despite Kyren Williams and Harrison providing some positive output."
+      }
+    },
+    {
+      "home_team": "I Know Exactly What I\u2019m Doing",
+      "away_team": "No Punt Intended",
+      "winner": "I Know Exactly What I\u2019m Doing",
+      "score": {
+        "home": 112.32,
+        "away": 98.22
+      },
+      "home_record": "2-1",
+      "away_record": "1-2",
+      "top_performers_vs_projection": [
+        {
+          "player": "Caleb Williams",
+          "team": "I Know Exactly What I\u2019m Doing",
+          "actual": 29.12,
+          "projected": 19.15,
+          "delta": 9.97,
+          "notes": "19/28, 4 TD passing"
+        },
+        {
+          "player": "Seahawks D/ST",
+          "team": "I Know Exactly What I\u2019m Doing",
+          "actual": 17.0,
+          "projected": 6.87,
+          "delta": 10.13,
+          "notes": "1 INT, 2 SACKS"
+        },
+        {
+          "player": "Nico Collins",
+          "team": "I Know Exactly What I\u2019m Doing",
+          "actual": 18.4,
+          "projected": 13.98,
+          "delta": 4.42,
+          "notes": "8 REC for 104 yards, 1 TD"
+        },
+        {
+          "player": "Lamar Jackson",
+          "team": "No Punt Intended",
+          "actual": 27.02,
+          "projected": 23.64,
+          "delta": 3.38,
+          "notes": "3 passing TDs"
+        },
+        {
+          "player": "Jake Ferguson",
+          "team": "No Punt Intended (BE)",
+          "actual": 14.7,
+          "projected": 8.94,
+          "delta": 5.76,
+          "notes": "Bench TE with 13 REC for 82 yards"
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "CeeDee Lamb",
+          "team": "I Know Exactly What I\u2019m Doing",
+          "actual": 0.0,
+          "projected": 16.28,
+          "delta": -16.28,
+          "notes": "0 catches — zero production relative to projection"
+        },
+        {
+          "player": "Breece Hall",
+          "team": "I Know Exactly What I\u2019m Doing",
+          "actual": 7.2,
+          "projected": 14.27,
+          "delta": -7.07,
+          "notes": "Limited rushing and receiving output"
+        },
+        {
+          "player": "Tee Higgins",
+          "team": "I Know Exactly What I\u2019m Doing (BE)",
+          "actual": 2.0,
+          "projected": 9.81,
+          "delta": -7.81,
+          "notes": "Bench receiver with minimal output"
+        },
+        {
+          "player": "Josh Jacobs",
+          "team": "No Punt Intended",
+          "actual": 9.9,
+          "projected": 15.85,
+          "delta": -5.95,
+          "notes": "Under projection"
+        },
+        {
+          "player": "Javonte Williams",
+          "team": "No Punt Intended",
+          "actual": 9.7,
+          "projected": 14.63,
+          "delta": -4.93,
+          "notes": "Under projection"
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Jake Ferguson",
+          "team": "No Punt Intended (BE)",
+          "actual": 14.7,
+          "projected": 8.94,
+          "delta": 5.76,
+          "notes": "13 REC for 82 yards — notable bench production"
+        },
+        {
+          "player": "Quinshon Judkins",
+          "team": "No Punt Intended (BE)",
+          "actual": 16.0,
+          "projected": 8.58,
+          "delta": 7.42,
+          "notes": "Bench RB with 94 rush yards and 1 TD"
+        },
+        {
+          "player": "Kareem Hunt",
+          "team": "I Know Exactly What I\u2019m Doing (BE)",
+          "actual": 10.9,
+          "projected": 8.77,
+          "delta": 2.13,
+          "notes": "Bench RB with a TD"
+        }
+      ],
+      "impactful_transactions": [
+        "CeeDee Lamb produced 0 points for I Know Exactly What I\u2019m Doing — a major deviation from projection.",
+        "No Punt Intended had strong bench performers (Jake Ferguson, Quinshon Judkins) that outscored some starters but remained unused.",
+        "Seahawks D/ST started and returned double-digit bonus production for I Know Exactly What I\u2019m Doing."
+      ],
+      "key_takeaways": {
+        "I Know Exactly What I\u2019m Doing": "Caleb Williams and Seahawks D/ST delivered well above projections; however, zero production from CeeDee Lamb was an unexpected hit that made the win closer than projections implied.",
+        "No Punt Intended": "Lamar Jackson produced as expected and bench assets (Ferguson, Judkins) had big weeks, but starting RBs (Jacobs, Javonte Williams) underperformed relative to projections."
+      }
+    },
+    {
+      "home_team": "Here Comes McBride",
+      "away_team": "World of Hurts",
+      "winner": "Here Comes McBride",
+      "score": {
+        "home": 108.12,
+        "away": 108.02
+      },
+      "home_record": "1-2",
+      "away_record": "0-3",
+      "top_performers_vs_projection": [
+        {
+          "player": "Omarion Hampton",
+          "team": "Here Comes McBride",
+          "actual": 21.9,
+          "projected": 11.17,
+          "delta": 10.73,
+          "notes": "70 rush yards, 1 rush TD, 6 REC for 59 yards"
+        },
+        {
+          "player": "Jahmyr Gibbs",
+          "team": "World of Hurts",
+          "actual": 24.4,
+          "projected": 15.9,
+          "delta": 8.5,
+          "notes": "2 rush TDs"
+        },
+        {
+          "player": "Buccaneers D/ST",
+          "team": "Here Comes McBride",
+          "actual": 16.0,
+          "projected": 6.98,
+          "delta": 9.02,
+          "notes": "1 INT, 1 FUM, 4 SACKS"
+        },
+        {
+          "player": "Colts D/ST",
+          "team": "World of Hurts",
+          "actual": 16.0,
+          "projected": 6.91,
+          "delta": 9.09,
+          "notes": "1 INT, 4 SACKS"
+        },
+        {
+          "player": "DeVonta Smith",
+          "team": "World of Hurts",
+          "actual": 16.0,
+          "projected": 9.99,
+          "delta": 6.01,
+          "notes": "8 REC for 60 yards, 1 TD"
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Malik Nabers",
+          "team": "Here Comes McBride",
+          "actual": 2.3,
+          "projected": 16.48,
+          "delta": -14.18,
+          "notes": "2 REC for 13 yards"
+        },
+        {
+          "player": "Jameson Williams",
+          "team": "Here Comes McBride (BE)",
+          "actual": 5.3,
+          "projected": 11.02,
+          "delta": -5.72,
+          "notes": "Bench WR with limited output"
+        },
+        {
+          "player": "Jordan Love",
+          "team": "World of Hurts",
+          "actual": 11.12,
+          "projected": 16.0,
+          "delta": -4.88,
+          "notes": "1 INT"
+        },
+        {
+          "player": "Ladd McConkey",
+          "team": "Here Comes McBride",
+          "actual": 6.1,
+          "projected": 11.7,
+          "delta": -5.6,
+          "notes": "Under projection"
+        },
+        {
+          "player": "Isiah Pacheco",
+          "team": "World of Hurts",
+          "actual": 5.3,
+          "projected": 9.95,
+          "delta": -4.65,
+          "notes": "Under projection"
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Brenton Strange",
+          "team": "Here Comes McBride (BE)",
+          "actual": 9.1,
+          "projected": 6.01,
+          "delta": 3.09,
+          "notes": "Bench TE with 6 REC for 61 yards"
+        },
+        {
+          "player": "Ricky Pearsall",
+          "team": "World of Hurts (BE)",
+          "actual": 15.7,
+          "projected": 9.9,
+          "delta": 5.8,
+          "notes": "Bench WR with 117 yards"
+        },
+        {
+          "player": "Khalil Shakir",
+          "team": "World of Hurts (BE)",
+          "actual": 12.5,
+          "projected": 8.95,
+          "delta": 3.55,
+          "notes": "Bench WR with a TD"
+        }
+      ],
+      "impactful_transactions": [
+        "Malik Nabers underperformed massively relative to projection (2.3 points), impacting Here Comes McBride's receiving expectations.",
+        "Here Comes McBride started Buccaneers D/ST which returned strong scoring (16.0).",
+        "World of Hurts had high bench production from Ricky Pearsall and Khalil Shakir that did not change the close result."
+      ],
+      "key_takeaways": {
+        "Here Comes McBride": "Strong RB performances (Omarion Hampton, James Cook) and Buccaneers D/ST edged a nail-biter by 0.10 points despite underwhelming WR contributions (Malik Nabers).",
+        "World of Hurts": "Big individual weeks from Jahmyr Gibbs and the Colts D/ST nearly overcame multiple underperforming starters; the matchup was decided by a hair."
+      }
+    },
+    {
+      "home_team": "Goff And Running",
+      "away_team": "Puka Puka",
+      "winner": "Goff And Running",
+      "score": {
+        "home": 104.56,
+        "away": 63.44
+      },
+      "home_record": "1-2",
+      "away_record": "2-1",
+      "top_performers_vs_projection": [
+        {
+          "player": "David Montgomery",
+          "team": "Goff And Running",
+          "actual": 28.9,
+          "projected": 11.7,
+          "delta": 17.2,
+          "notes": "151 rush yards, 2 TDs"
+        },
+        {
+          "player": "Hunter Henry",
+          "team": "Goff And Running (BE)",
+          "actual": 25.0,
+          "projected": 7.35,
+          "delta": 17.65,
+          "notes": "Bench TE with 8 REC for 90 yards and 2 TDs"
+        },
+        {
+          "player": "Keenan Allen",
+          "team": "Goff And Running",
+          "actual": 16.0,
+          "projected": 10.72,
+          "delta": 5.28,
+          "notes": "7 REC for 65 yards and 1 TD"
+        },
+        {
+          "player": "A.J. Brown",
+          "team": "Puka Puka (BE)",
+          "actual": 19.9,
+          "projected": 12.18,
+          "delta": 7.72,
+          "notes": "Bench WR with 6 REC for 109 yards and a TD"
+        },
+        {
+          "player": "J.K. Dobbins",
+          "team": "Goff And Running (BE)",
+          "actual": 14.8,
+          "projected": 10.8,
+          "delta": 4.0,
+          "notes": "Bench RB with a TD"
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Zay Flowers",
+          "team": "Puka Puka",
+          "actual": 2.3,
+          "projected": 13.41,
+          "delta": -11.11,
+          "notes": "2 REC for 13 yards"
+        },
+        {
+          "player": "Saquon Barkley",
+          "team": "Goff And Running",
+          "actual": 7.5,
+          "projected": 17.22,
+          "delta": -9.72,
+          "notes": "Limited production vs projection"
+        },
+        {
+          "player": "Ja'Marr Chase",
+          "team": "Puka Puka",
+          "actual": 6.4,
+          "projected": 14.79,
+          "delta": -8.39,
+          "notes": "Under projection"
+        },
+        {
+          "player": "Ashton Jeanty",
+          "team": "Puka Puka",
+          "actual": 6.3,
+          "projected": 13.92,
+          "delta": -7.62,
+          "notes": "Under projection"
+        },
+        {
+          "player": "Dak Prescott",
+          "team": "Puka Puka",
+          "actual": 12.04,
+          "projected": 18.46,
+          "delta": -6.42,
+          "notes": "2 INTs"
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Hunter Henry",
+          "team": "Goff And Running (BE)",
+          "actual": 25.0,
+          "projected": 7.35,
+          "delta": 17.65,
+          "notes": "Left on bench; would have added major TE scoring"
+        },
+        {
+          "player": "A.J. Brown",
+          "team": "Puka Puka (BE)",
+          "actual": 19.9,
+          "projected": 12.18,
+          "delta": 7.72,
+          "notes": "Bench receiver with TD and 109 yards"
+        },
+        {
+          "player": "J.K. Dobbins",
+          "team": "Goff And Running (BE)",
+          "actual": 14.8,
+          "projected": 10.8,
+          "delta": 4.0,
+          "notes": "Bench RB with 83 yards and a TD"
+        }
+      ],
+      "impactful_transactions": [
+        "Hunter Henry remained on the bench and produced 25.0 points — a substantial unused resource for Goff And Running.",
+        "A.J. Brown was on the bench for Puka Puka and produced 19.9 points.",
+        "Rashee Rice listed Inactive for Goff And Running."
+      ],
+      "key_takeaways": {
+        "Goff And Running": "David Montgomery's 2 TD, 151-yard game created the core of a win; bench depth also provided big value (Hunter Henry, J.K. Dobbins).",
+        "Puka Puka": "Multiple starters (Dak, Ja'Marr Chase, Zay Flowers) underperformed, and strong bench production (A.J. Brown) was left unused, resulting in a lopsided loss."
+      }
+    },
+    {
+      "home_team": "D.J. Chark Week",
+      "away_team": "OHHHHHHH YEAHHHHH!!!!",
+      "winner": "OHHHHHHH YEAHHHHH!!!!",
+      "score": {
+        "home": 94.66,
+        "away": 112.52
+      },
+      "home_record": "1-2",
+      "away_record": "2-1",
+      "top_performers_vs_projection": [
+        {
+          "player": "Jonathan Taylor",
+          "team": "OHHHHHHH YEAHHHHH!!!!",
+          "actual": 31.3,
+          "projected": 17.8,
+          "delta": 13.5,
+          "notes": "102 rush yards, 3 TDs"
+        },
+        {
+          "player": "Jordan Mason",
+          "team": "OHHHHHHH YEAHHHHH!!!!",
+          "actual": 23.6,
+          "projected": 13.28,
+          "delta": 10.32,
+          "notes": "116 rush yards, 2 TDs"
+        },
+        {
+          "player": "Dalton Kincaid",
+          "team": "D.J. Chark Week",
+          "actual": 15.1,
+          "projected": 7.04,
+          "delta": 8.06,
+          "notes": "5 REC for 66 yards and 1 TD"
+        },
+        {
+          "player": "George Pickens",
+          "team": "D.J. Chark Week (BE)",
+          "actual": 15.3,
+          "projected": 10.92,
+          "delta": 4.38,
+          "notes": "Bench WR with a TD"
+        },
+        {
+          "player": "Kenneth Walker III",
+          "team": "D.J. Chark Week",
+          "actual": 17.5,
+          "projected": 15.21,
+          "delta": 2.29,
+          "notes": "2 rush TDs"
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Alvin Kamara",
+          "team": "D.J. Chark Week",
+          "actual": 6.1,
+          "projected": 13.5,
+          "delta": -7.4,
+          "notes": "Limited usage"
+        },
+        {
+          "player": "Patrick Mahomes",
+          "team": "D.J. Chark Week",
+          "actual": 13.16,
+          "projected": 19.81,
+          "delta": -6.65,
+          "notes": "1 TD, no rushing impact"
+        },
+        {
+          "player": "Jerry Jeudy",
+          "team": "OHHHHHHH YEAHHHHH!!!!",
+          "actual": 2.2,
+          "projected": 9.53,
+          "delta": -7.33,
+          "notes": "1 REC for 17 yards"
+        },
+        {
+          "player": "Wan'Dale Robinson",
+          "team": "OHHHHHHH YEAHHHHH!!!!",
+          "actual": 3.1,
+          "projected": 9.07,
+          "delta": -5.97,
+          "notes": "1 REC for 26 yards"
+        },
+        {
+          "player": "Jake Elliott",
+          "team": "OHHHHHHH YEAHHHHH!!!!",
+          "actual": 3.0,
+          "projected": 8.55,
+          "delta": -5.55,
+          "notes": "Kicker with no FGs"
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "George Pickens",
+          "team": "D.J. Chark Week (BE)",
+          "actual": 15.3,
+          "projected": 10.92,
+          "delta": 4.38,
+          "notes": "Produced TD and solid yardage from bench"
+        },
+        {
+          "player": "Daniel Jones",
+          "team": "OHHHHHHH YEAHHHHH!!!! (BE)",
+          "actual": 15.82,
+          "projected": 18.19,
+          "delta": -2.37,
+          "notes": "Bench QB with 228 yards and 1 TD"
+        },
+        {
+          "player": "Eagles D/ST",
+          "team": "D.J. Chark Week (BE)",
+          "actual": 12.0,
+          "projected": 4.72,
+          "delta": 7.28,
+          "notes": "Bench D/ST with strong fantasy output"
+        }
+      ],
+      "impactful_transactions": [
+        "George Pickens was left on the bench for D.J. Chark Week and produced 15.3 points (not used).",
+        "Dalton Kincaid returned strong TE scoring for the home side (15.1) but overall the home roster's key pass-catchers underperformed.",
+        "OHHHHHHH YEAHHHHH!!!! leaned on Jonathan Taylor and Jordan Mason for a dominant ground game."
+      ],
+      "key_takeaways": {
+        "D.J. Chark Week": "Dalton Kincaid and a bench George Pickens provided sparks, but Mahomes, Alvin Kamara and key WRs underperformed, resulting in a loss.",
+        "OHHHHHHH YEAHHHHH!!!!": "A dominant rushing performance from Jonathan Taylor and Jordan Mason carried this team; passing production from Josh Allen was steady enough to support the win."
+      }
+    }
+  ],
+  "weekly_note": {
+    "summary": "Week 3 featured several instances of big bench/unused production and extreme D/ST performances that swung outcomes. Notable D/ST weeks (Vikings, Steelers, Colts, Buccaneers) and unexpected kicker output (Chase McLaughlin) materially altered results versus projections. Multiple matchups were decided by close margins (Here Comes McBride won by 0.10 points). Several teams left high-scoring players on the bench (Mark Andrews, Hunter Henry, A.J. Brown, Michael Pittman Jr., George Pickens), which appears to have been consequential across the week.",
+    "trends": [
+      "Defenses had outsized impacts this week; multiple D/ST units scored double-digit bonuses well above projections.",
+      "Bench/Inactive decisions were particularly impactful — several benches contained 15+ point performances that would have changed many matchups.",
+      "Several projected high-volume WRs and RBs underperformed (CeeDee Lamb, Zay Flowers, Saquon Barkley, Ja'Marr Chase), increasing the variance in outcomes."
+    ]
+  }
+}

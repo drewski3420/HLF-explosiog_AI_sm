@@ -1,0 +1,14 @@
+{
+  "status": "missing_input",
+  "message": "No Previously Generated Season Trend Summary or Weekly Summaries were provided. Cannot produce a fact-driven Season Trend Summary without those inputs.",
+  "required_inputs": [
+    "Previously Generated Season Trend Summary (season_trend_text)",
+    "Weekly Summaries for all past weeks (week-by-week summaries for each team)"
+  ],
+  "notes": "Please supply the previously generated season summary and the weekly summaries for all past weeks. The summary will include team-level trends (streaks, over/under performance, scoring patterns), player-level trends (repeat top performers or underperformers as they impact teams), league-wide insights (upsets, average scoring, close games), notable owner behaviors, and playoff-driven analysis for the top 6 teams.",
+  "league_summary": null,
+  "teams": [],
+  "league_wide_insights": null,
+  "notable_owner_behaviors": null,
+  "playoff_analysis": null
+}

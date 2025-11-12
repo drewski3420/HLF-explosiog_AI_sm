@@ -1,0 +1,332 @@
+Week 10
+--Matchup: Trying to not finish last (W) @ Jake Butt Stuff (L)
+----Winner: Trying to not finish last
+----Home team: Jake Butt Stuff
+------Record: 4-6
+------Season Points For/Against: 1047.24/1108.5
+------Actual/Projected Score: 111.2/110.88
+------Lineup:
+--------QB Caleb Williams - 25.1 Points (18.48 Projected) - Stats: 20/36 220 YDS, 1 TD, 0 INT, 63 RSH YDS, 1 RSH TD, 0 FUM
+--------RB Aaron Jones Sr. - 15.9 Points (11.42 Projected) - Stats: 47 YDS, 1 TD, 3 REC for 22 REC YDS, 0 REC TDs, 0 FUM
+--------RB Jacory Croskey-Merritt - 3.0 Points (9.38 Projected) - Stats: 30 YDS, 0 TD, 0 REC for 0 REC YDS, 0 REC TDs, 0 FUM
+--------WR Garrett Wilson - 0.0 Points (13.73 Projected) - Stats: 0 REC for 0 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------WR Zay Flowers - 12.1 Points (15.63 Projected) - Stats: 4 REC for 75 REC YDS, 0 TDs, 6 RSH YDS, 0 RSH TD, 0 FUM
+--------TE Trey McBride - 27.7 Points (17.17 Projected) - Stats: 9 REC for 127 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------FLEX Harold Fannin Jr. - 8.4 Points (10.12 Projected) - Stats: 4 REC for 44 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------D/ST Ravens D/ST - 6.0 Points (6.14 Projected) - Stats: 2 INT, 1 FUM, 1 SACKS, 365 YDS Allowed, 19 PA
+--------K Jake Bates - 13.0 Points (8.81 Projected) - Stats: 3/3 FG, 3/4 XP
+--------BE CeeDee Lamb - BYE
+--------BE Chiefs D/ST - BYE
+--------BE Keon Coleman - 13.6 Points (8.92 Projected) - Stats: 3 REC for 46 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------BE Bam Knight - 4.3 Points (9.55 Projected) - Stats: 28 YDS, 0 TD, 1 REC for 5 REC YDS, 0 REC TDs, 0 FUM
+--------BE J.J. McCarthy - 14.72 Points (17.65 Projected) - Stats: 20/42 248 YDS, 1 TD, 2 INT, 48 RSH YDS, 0 RSH TD, 0 FUM
+----Away team: Trying to not finish last
+------Record: 5-5
+------Season Points For/Against: 1172.42/1088.76
+------Actual/Projected Score: 125.5/118.36
+------Lineup:
+--------QB Bo Nix - 5.8 Points (19.12 Projected) - Stats: 16/28 150 YDS, 1 TD, 2 INT, -2 RSH YDS, 0 RSH TD, 0 FUM
+--------RB Jonathan Taylor - 49.6 Points (21.25 Projected) - Stats: 244 YDS, 3 TD, 3 REC for 42 REC YDS, 0 REC TDs, 0 FUM
+--------RB Tyrone Tracy Jr. - 8.1 Points (12.47 Projected) - Stats: 71 YDS, 0 TD, 1 REC for 0 REC YDS, 0 REC TDs, 0 FUM
+--------WR Quentin Johnston - 9.2 Points (11.69 Projected) - Stats: 5 REC for 42 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------WR Darius Slayton - 12.9 Points (11.09 Projected) - Stats: 4 REC for 89 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------TE Theo Johnson - 14.5 Points (10.35 Projected) - Stats: 7 REC for 75 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------FLEX Drake London - 24.4 Points (19.83 Projected) - Stats: 6 REC for 104 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------D/ST Patriots D/ST - 1.0 Points (4.54 Projected) - Stats: 0 INT, 0 FUM, 2 SACKS, 371 YDS Allowed, 23 PA
+--------K Brandon McManus - 0.0 Points (8.02 Projected) - Stats: 0/1 FG, 1/1 XP
+--------BE DK Metcalf - 6.5 Points (13.3 Projected) - Stats: 3 REC for 35 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------BE Tony Pollard - BYE
+--------BE Zach Ertz - 9.4 Points (9.53 Projected) - Stats: 4 REC for 54 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------BE Isaiah Davis - 2.1 Points (8.06 Projected) - Stats: 10 YDS, 0 TD, 1 REC for 1 REC YDS, 0 REC TDs, 0 FUM
+--------BE Joe Flacco - BYE
+--Matchup: Kraft Montgomery Cheese (W) @ Dickhole Smashers (L)
+----Winner: Kraft Montgomery Cheese
+----Home team: Dickhole Smashers
+------Record: 3-7
+------Season Points For/Against: 800.42/1015.24
+------Actual/Projected Score: 58.24/81.39
+------Lineup:
+--------QB Aaron Rodgers - 6.44 Points (15.03 Projected) - Stats: 16/31 161 YDS, 1 TD, 2 INT, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------RB Kyren Williams - 22.4 Points (15.59 Projected) - Stats: 73 YDS, 2 TD, 2 REC for 11 REC YDS, 0 REC TDs, 0 FUM
+--------RB Isiah Pacheco - BYE
+--------WR Justin Jefferson - 7.7 Points (19.98 Projected) - Stats: 4 REC for 37 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------WR Rashod Bateman - 4.0 Points (8.86 Projected) - Stats: 1 REC for 10 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------TE Dalton Kincaid - 5.7 Points (9.79 Projected) - Stats: 2 REC for 37 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------FLEX Rhamondre Stevenson - Inactive
+--------D/ST Raiders D/ST - 11.0 Points (3.28 Projected) - Stats: 2 INT, 0 FUM, 2 SACKS, 220 YDS Allowed, 10 PA
+--------K Matt Prater - 1.0 Points (8.86 Projected) - Stats: 0/0 FG, 1/1 XP
+--------BE Terry McLaurin - Inactive
+--------BE Baker Mayfield - 22.92 Points (16.13 Projected) - Stats: 28/43 273 YDS, 3 TD, 0 INT, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------BE Evan Engram - 3.2 Points (7.31 Projected) - Stats: 2 REC for 12 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------BE Tyquan Thornton - BYE
+--------BE Emanuel Wilson - 1.4 Points (6.52 Projected) - Stats: 2 YDS, 0 TD, 1 REC for 2 REC YDS, 0 REC TDs, 0 FUM
+--------IR Jalen Coker - 5.1 Points (5.37 Projected) - Stats: 3 REC for 21 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+----Away team: Kraft Montgomery Cheese
+------Record: 8-2
+------Season Points For/Against: 1112.82/1002.52
+------Actual/Projected Score: 119.52/113.55
+------Lineup:
+--------QB Marcus Mariota - 18.72 Points (16.3 Projected) - Stats: 16/22 213 YDS, 2 TD, 0 INT, 22 RSH YDS, 0 RSH TD, 0 FUM
+--------RB Saquon Barkley - 13.1 Points (16.1 Projected) - Stats: 60 YDS, 0 TD, 3 REC for 41 REC YDS, 0 REC TDs, 0 FUM
+--------RB David Montgomery - 10.1 Points (13.94 Projected) - Stats: 71 YDS, 0 TD, 1 REC for 0 REC YDS, 0 REC TDs, 0 FUM
+--------WR Davante Adams - 19.7 Points (16.47 Projected) - Stats: 6 REC for 77 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------WR Wan'Dale Robinson - 12.2 Points (14.08 Projected) - Stats: 6 REC for 62 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------TE Dalton Schultz - 18.3 Points (9.36 Projected) - Stats: 7 REC for 53 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------FLEX J.K. Dobbins - 9.4 Points (13.23 Projected) - Stats: 77 YDS, 0 TD, 1 REC for 7 REC YDS, 0 REC TDs, 0 FUM
+--------D/ST Steelers D/ST - 5.0 Points (5.31 Projected) - Stats: 0 INT, 0 FUM, 5 SACKS, 314 YDS Allowed, 23 PA
+--------K Cameron Dicker - 13.0 Points (8.76 Projected) - Stats: 3/4 FG, 2/2 XP
+--------BE Jayden Daniels - Inactive
+--------BE Jerry Jeudy - 19.8 Points (9.59 Projected) - Stats: 6 REC for 78 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------BE Rashid Shaheed - 3.3 Points (10.39 Projected) - Stats: 1 REC for 3 REC YDS, 0 TDs, 20 RSH YDS, 0 RSH TD, 0 FUM
+--------BE Saints D/ST - 14.0 Points (4.85 Projected) - Stats: 1 INT, 1 FUM, 2 SACKS, 175 YDS Allowed, 7 PA
+--------BE Isaiah Likely - 3.7 Points (8.16 Projected) - Stats: 2 REC for 17 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------IR Tucker Kraft - Inactive
+--Matchup: 5WRsAllowedOnRostersNextYear (W) @ Team Santangelo (L)
+----Winner: 5WRsAllowedOnRostersNextYear
+----Home team: Team Santangelo
+------Record: 4-6
+------Season Points For/Against: 1127.8/1063.28
+------Actual/Projected Score: 83.8/106.25
+------Lineup:
+--------QB Justin Herbert - 14.7 Points (20.13 Projected) - Stats: 20/33 220 YDS, 1 TD, 0 INT, 19 RSH YDS, 0 RSH TD, 0 FUM
+--------RB James Cook III - 10.7 Points (21.01 Projected) - Stats: 53 YDS, 0 TD, 5 REC for 24 REC YDS, 0 REC TDs, 1 FUM
+--------RB Chuba Hubbard - 2.5 Points (6.18 Projected) - Stats: 14 YDS, 0 TD, 1 REC for 1 REC YDS, 0 REC TDs, 0 FUM
+--------WR DeVonta Smith - 16.9 Points (14.89 Projected) - Stats: 4 REC for 69 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------WR Christian Kirk - 1.3 Points (9.06 Projected) - Stats: 1 REC for 3 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------TE Sam LaPorta - 10.3 Points (13.05 Projected) - Stats: 5 REC for 53 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------FLEX DeMario Douglas - 5.4 Points (9.05 Projected) - Stats: 2 REC for 34 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------D/ST Colts D/ST - 7.0 Points (4.39 Projected) - Stats: 0 INT, 1 FUM, 3 SACKS, 290 YDS Allowed, 25 PA
+--------K Jason Myers - 15.0 Points (8.49 Projected) - Stats: 3/3 FG, 5/5 XP
+--------BE Ja'Marr Chase - BYE
+--------BE Jordan Love - 7.84 Points (16.99 Projected) - Stats: 20/36 176 YDS, 0 TD, 0 INT, 28 RSH YDS, 0 RSH TD, 1 FUM
+--------BE Bhayshul Tuten - 2.0 Points (4.45 Projected) - Stats: 5 YDS, 0 TD, 1 REC for 5 REC YDS, 0 REC TDs, 0 FUM
+--------BE Brandon Aubrey - BYE
+--------BE Trevor Etienne - 0.0 Points (0.15 Projected) - Stats: 0 YDS, 0 TD, 0 REC for 0 REC YDS, 0 REC TDs, 0 FUM
+--------IR Austin Ekeler - Inactive
+----Away team: 5WRsAllowedOnRostersNextYear
+------Record: 6-4
+------Season Points For/Against: 1075.92/1035.58
+------Actual/Projected Score: 121.3/116.88
+------Lineup:
+--------QB Matthew Stafford - 26.9 Points (19.54 Projected) - Stats: 24/36 280 YDS, 4 TD, 0 INT, -3 RSH YDS, 0 RSH TD, 0 FUM
+--------RB Alvin Kamara - 14.5 Points (12.21 Projected) - Stats: 83 YDS, 0 TD, 3 REC for 32 REC YDS, 0 REC TDs, 0 FUM
+--------RB Jaylen Warren - 11.1 Points (15.27 Projected) - Stats: 70 YDS, 0 TD, 2 REC for 21 REC YDS, 0 REC TDs, 0 FUM
+--------WR Puka Nacua - 17.4 Points (23.02 Projected) - Stats: 5 REC for 64 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------WR Jauan Jennings - 17.1 Points (11.88 Projected) - Stats: 6 REC for 71 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 1 FUM
+--------TE Mason Taylor - 1.4 Points (8.27 Projected) - Stats: 1 REC for 4 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------FLEX Jameson Williams - 23.9 Points (12.08 Projected) - Stats: 6 REC for 119 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------D/ST Rams D/ST - 5.0 Points (6.39 Projected) - Stats: 1 INT, 1 FUM, 0 SACKS, 393 YDS Allowed, 26 PA
+--------K Andy Borregales - 4.0 Points (8.22 Projected) - Stats: 0/0 FG, 4/4 XP
+--------BE Tee Higgins - BYE
+--------BE Travis Kelce - BYE
+--------BE C.J. Stroud - Inactive
+--------BE Eagles D/ST - 12.0 Points (3.72 Projected) - Stats: 0 INT, 2 FUM, 3 SACKS, 261 YDS Allowed, 7 PA
+--------BE Samaje Perine - BYE
+--Matchup: If Ur Not First You're Last (W) @ Big Trouble in Little Cameron (L)
+----Winner: If Ur Not First You're Last
+----Home team: Big Trouble in Little Cameron
+------Record: 4-6
+------Season Points For/Against: 1018.34/1094.24
+------Actual/Projected Score: 95.0/108.45
+------Lineup:
+--------QB Daniel Jones - 15.5 Points (19.95 Projected) - Stats: 19/26 255 YDS, 1 TD, 1 INT, 53 RSH YDS, 0 RSH TD, 1 FUM
+--------RB Kenneth Walker III - 8.0 Points (12.51 Projected) - Stats: 67 YDS, 0 TD, 1 REC for 3 REC YDS, 0 REC TDs, 0 FUM
+--------RB Quinshon Judkins - 10.5 Points (15.1 Projected) - Stats: 75 YDS, 0 TD, 2 REC for 10 REC YDS, 0 REC TDs, 0 FUM
+--------WR Nico Collins - 22.6 Points (15.73 Projected) - Stats: 7 REC for 136 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------WR Keenan Allen - 3.9 Points (12.54 Projected) - Stats: 2 REC for 19 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------TE Colston Loveland - 9.5 Points (7.51 Projected) - Stats: 4 REC for 55 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------FLEX DJ Moore - 0.0 Points (11.55 Projected) - Stats: 0 REC for 0 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------D/ST Chargers D/ST - 16.0 Points (5.6 Projected) - Stats: 2 INT, 1 FUM, 3 SACKS, 221 YDS Allowed, 10 PA
+--------K Will Reichard - 9.0 Points (7.96 Projected) - Stats: 2/2 FG, 1/1 XP
+--------BE Chase Brown - BYE
+--------BE Dak Prescott - BYE
+--------BE Jake Ferguson - BYE
+--------BE Terrell Jennings - 0.5 Points (8.51 Projected) - Stats: 5 YDS, 0 TD, 0 REC for 0 REC YDS, 0 REC TDs, 0 FUM
+--------BE Falcons D/ST - 4.0 Points (3.62 Projected) - Stats: 1 INT, 1 FUM, 7 SACKS, 519 YDS Allowed, 31 PA
+--------IR Travis Hunter - Inactive
+----Away team: If Ur Not First You're Last
+------Record: 5-5
+------Season Points For/Against: 1066.64/1016.14
+------Actual/Projected Score: 115.98/103.62
+------Lineup:
+--------QB Davis Mills - 27.68 Points (15.42 Projected) - Stats: 27/45 292 YDS, 2 TD, 1 INT, 20 RSH YDS, 1 RSH TD, 0 FUM
+--------RB Josh Jacobs - 19.7 Points (18.1 Projected) - Stats: 74 YDS, 1 TD, 5 REC for 33 REC YDS, 0 REC TDs, 1 FUM
+--------RB D'Andre Swift - 14.8 Points (13.59 Projected) - Stats: 80 YDS, 0 TD, 5 REC for 18 REC YDS, 0 REC TDs, 0 FUM
+--------WR Rome Odunze - 20.6 Points (13.29 Projected) - Stats: 6 REC for 86 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------WR Tre Tucker - 5.5 Points (10.22 Projected) - Stats: 2 REC for 28 REC YDS, 0 TDs, 7 RSH YDS, 0 RSH TD, 0 FUM
+--------TE AJ Barner - 0.3 Points (7.93 Projected) - Stats: 0 REC for 0 REC YDS, 0 TDs, 3 RSH YDS, 0 RSH TD, 0 FUM
+--------FLEX Alec Pierce - 18.4 Points (10.53 Projected) - Stats: 4 REC for 84 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------D/ST Panthers D/ST - 4.0 Points (6.29 Projected) - Stats: 0 INT, 1 FUM, 2 SACKS, 388 YDS Allowed, 17 PA
+--------K Chris Boswell - 5.0 Points (8.25 Projected) - Stats: 1/2 FG, 1/1 XP
+--------BE Patrick Mahomes - BYE
+--------BE Nick Chubb - 6.2 Points (8.9 Projected) - Stats: 47 YDS, 0 TD, 1 REC for 5 REC YDS, 0 REC TDs, 0 FUM
+--------BE Jaguars D/ST - 8.0 Points (6.03 Projected) - Stats: 1 INT, 1 FUM, 2 SACKS, 412 YDS Allowed, 30 PA
+--------BE Jeremy McNichols - 3.9 Points (5.23 Projected) - Stats: 25 YDS, 0 TD, 1 REC for 4 REC YDS, 0 REC TDs, 0 FUM
+--------BE Kayshon Boutte - Inactive
+--------IR Chris Godwin Jr. - Inactive
+--Matchup: Forte Inch Johnson (W) @ Kyler? I Barely Know Her (L)
+----Winner: Forte Inch Johnson
+----Home team: Kyler? I Barely Know Her
+------Record: 5-5
+------Season Points For/Against: 996.78/1073.98
+------Actual/Projected Score: 82.32/87.35
+------Lineup:
+--------QB Jacoby Brissett - 19.42 Points (15.27 Projected) - Stats: 22/44 258 YDS, 2 TD, 0 INT, 31 RSH YDS, 0 RSH TD, 2 FUM
+--------RB Bijan Robinson - 10.8 Points (20.62 Projected) - Stats: 84 YDS, 0 TD, 2 REC for 4 REC YDS, 0 REC TDs, 0 FUM
+--------RB Breece Hall - 19.5 Points (14.37 Projected) - Stats: 83 YDS, 0 TD, 1 REC for 42 REC YDS, 1 REC TDs, 0 FUM
+--------WR Ladd McConkey - 20.7 Points (15.27 Projected) - Stats: 4 REC for 107 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------WR George Pickens - BYE
+--------TE Michael Mayer - 5.2 Points (6.08 Projected) - Stats: 3 REC for 22 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------FLEX Darnell Mooney - 2.7 Points (8.68 Projected) - Stats: 1 REC for 17 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------D/ST Lions D/ST - 4.0 Points (7.06 Projected) - Stats: 0 INT, 0 FUM, 2 SACKS, 288 YDS Allowed, 22 PA
+--------K Graham Gano - Inactive
+--------BE Kyler Murray - Inactive
+--------BE David Njoku - 10.1 Points (9.15 Projected) - Stats: 2 REC for 21 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------BE Kaleb Johnson - 0.3 Points (0.92 Projected) - Stats: 3 YDS, 0 TD, 0 REC for 0 REC YDS, 0 REC TDs, 0 FUM
+--------BE Jake Elliott - 4.0 Points (8.36 Projected) - Stats: 1/1 FG, 1/1 XP
+--------BE Marvin Mims Jr. - Inactive
+--------IR Trey Benson - Inactive
+----Away team: Forte Inch Johnson
+------Record: 6-4
+------Season Points For/Against: 1145.1/1072.2
+------Actual/Projected Score: 117.74/102.09
+------Lineup:
+--------QB Josh Allen - 19.34 Points (22.52 Projected) - Stats: 28/40 306 YDS, 2 TD, 1 INT, 31 RSH YDS, 0 RSH TD, 1 FUM
+--------RB Ashton Jeanty - 15.3 Points (13.88 Projected) - Stats: 60 YDS, 1 TD, 3 REC for 3 REC YDS, 0 REC TDs, 0 FUM
+--------RB Rico Dowdle - 15.3 Points (18.22 Projected) - Stats: 53 YDS, 1 TD, 3 REC for 10 REC YDS, 0 REC TDs, 0 FUM
+--------WR Tetairoa McMillan - 11.0 Points (12.23 Projected) - Stats: 5 REC for 60 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------WR Rashee Rice - BYE
+--------TE George Kittle - 23.4 Points (11.6 Projected) - Stats: 9 REC for 84 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------FLEX Cooper Kupp - 9.4 Points (8.62 Projected) - Stats: 2 REC for 74 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------D/ST Seahawks D/ST - 21.0 Points (6.6 Projected) - Stats: 0 INT, 2 FUM, 5 SACKS, 335 YDS Allowed, 22 PA
+--------K Wil Lutz - 3.0 Points (8.42 Projected) - Stats: 1/2 FG, 1/1 XP
+--------BE Justin Fields - 6.96 Points (16.72 Projected) - Stats: 6/11 54 YDS, 1 TD, 1 INT, 28 RSH YDS, 0 RSH TD, 0 FUM
+--------BE Tyler Allgeier - 17.7 Points (4.93 Projected) - Stats: 57 YDS, 2 TD, 0 REC for 0 REC YDS, 0 REC TDs, 0 FUM
+--------BE Giants D/ST - -1.0 Points (3.04 Projected) - Stats: 0 INT, 0 FUM, 0 SACKS, 391 YDS Allowed, 24 PA
+--------BE Jaylin Noel - 7.5 Points (2.08 Projected) - Stats: 4 REC for 35 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------BE Devin Singletary - 10.3 Points (9.72 Projected) - Stats: 20 YDS, 0 TD, 3 REC for 53 REC YDS, 0 REC TDs, 0 FUM
+--Matchup: Xavier Marks the Spot (W) @ The Philly Special (L)
+----Winner: Xavier Marks the Spot
+----Home team: The Philly Special
+------Record: 5-5
+------Season Points For/Against: 1090.64/1063.34
+------Actual/Projected Score: 97.22/110.01
+------Lineup:
+--------QB Jalen Hurts - 12.02 Points (21.45 Projected) - Stats: 15/26 183 YDS, 1 TD, 0 INT, 27 RSH YDS, 0 RSH TD, 1 FUM
+--------RB RJ Harvey - 3.8 Points (8.18 Projected) - Stats: 9 YDS, 0 TD, 2 REC for 9 REC YDS, 0 REC TDs, 0 FUM
+--------RB Emari Demercado - 13.4 Points (8.03 Projected) - Stats: 64 YDS, 0 TD, 3 REC for 40 REC YDS, 0 REC TDs, 0 FUM
+--------WR Amon-Ra St. Brown - 16.8 Points (22.31 Projected) - Stats: 5 REC for 58 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------WR Stefon Diggs - 15.6 Points (13.97 Projected) - Stats: 5 REC for 46 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------TE Dallas Goedert - 8.3 Points (10.81 Projected) - Stats: 4 REC for 43 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------FLEX Josh Downs - 1.3 Points (11.21 Projected) - Stats: 1 REC for 3 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------D/ST Jets D/ST - 20.0 Points (5.74 Projected) - Stats: 0 INT, 0 FUM, 6 SACKS, 278 YDS Allowed, 20 PA
+--------K Cairo Santos - 6.0 Points (8.31 Projected) - Stats: 1/1 FG, 3/3 XP
+--------BE Ka'imi Fairbairn - Inactive
+--------BE Kareem Hunt - BYE
+--------BE Juwan Johnson - 19.2 Points (8.95 Projected) - Stats: 4 REC for 92 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------BE Calvin Ridley - BYE
+--------BE Tua Tagovailoa - 10.82 Points (13.77 Projected) - Stats: 15/21 173 YDS, 2 TD, 2 INT, -1 RSH YDS, 0 RSH TD, 0 FUM
+--------IR Joe Mixon - Inactive
+----Away team: Xavier Marks the Spot
+------Record: 5-5
+------Season Points For/Against: 1007.56/1058.48
+------Actual/Projected Score: 101.82/110.57
+------Lineup:
+--------QB Trevor Lawrence - 9.82 Points (13.23 Projected) - Stats: 13/23 158 YDS, 1 TD, 1 INT, 35 RSH YDS, 0 RSH TD, 1 FUM
+--------RB Travis Etienne Jr. - 15.7 Points (12.68 Projected) - Stats: 58 YDS, 1 TD, 2 REC for 19 REC YDS, 0 REC TDs, 0 FUM
+--------RB Rachaad White - 10.4 Points (16.16 Projected) - Stats: 38 YDS, 0 TD, 5 REC for 16 REC YDS, 0 REC TDs, 0 FUM
+--------WR Chris Olave - 21.4 Points (14.57 Projected) - Stats: 5 REC for 104 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------WR Khalil Shakir - 12.8 Points (12.71 Projected) - Stats: 7 REC for 58 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------TE Mark Andrews - 10.4 Points (9.64 Projected) - Stats: 3 REC for 14 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------FLEX A.J. Brown - 3.3 Points (17.16 Projected) - Stats: 2 REC for 13 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------D/ST Texans D/ST - 16.0 Points (6.77 Projected) - Stats: 1 INT, 1 FUM, 5 SACKS, 213 YDS Allowed, 29 PA
+--------K Chad Ryland - 2.0 Points (7.65 Projected) - Stats: 0/0 FG, 2/2 XP
+--------BE Xavier Worthy - BYE
+--------BE Hunter Henry - 1.9 Points (10.65 Projected) - Stats: 1 REC for 9 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------BE Justice Hill - 8.3 Points (6.2 Projected) - Stats: 1 YDS, 1 TD, 1 REC for 12 REC YDS, 0 REC TDs, 0 FUM
+--------BE Carson Wentz - Inactive
+--------BE Dylan Sampson - 0.9 Points (4.88 Projected) - Stats: -4 YDS, 0 TD, 1 REC for 3 REC YDS, 0 REC TDs, 0 FUM
+--------IR Joe Burrow - BYE
+--Matchup: SnydeRemarks (W) @ Hangin' With Mr. Cooper (L)
+----Winner: SnydeRemarks
+----Home team: Hangin' With Mr. Cooper
+------Record: 5-5
+------Season Points For/Against: 1173.8/1191.22
+------Actual/Projected Score: 108.6/118.25
+------Lineup:
+--------QB Drake Maye - 18.1 Points (20.77 Projected) - Stats: 16/31 270 YDS, 2 TD, 1 INT, 13 RSH YDS, 0 RSH TD, 0 FUM
+--------RB De'Von Achane - 40.5 Points (21.49 Projected) - Stats: 174 YDS, 2 TD, 6 REC for 51 REC YDS, 0 REC TDs, 0 FUM
+--------RB Kyle Monangai - 8.8 Points (11.4 Projected) - Stats: 28 YDS, 1 TD, 0 REC for 0 REC YDS, 0 REC TDs, 0 FUM
+--------WR Michael Pittman Jr. - 3.9 Points (14.99 Projected) - Stats: 2 REC for 19 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------WR Jordan Addison - 6.5 Points (12.79 Projected) - Stats: 3 REC for 35 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------TE Brock Bowers - 3.7 Points (15.79 Projected) - Stats: 1 REC for 31 REC YDS, 0 TDs, -4 RSH YDS, 0 RSH TD, 0 FUM
+--------FLEX Jakobi Meyers - 7.1 Points (8.49 Projected) - Stats: 3 REC for 41 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------D/ST Packers D/ST - 7.0 Points (4.99 Projected) - Stats: 0 INT, 1 FUM, 0 SACKS, 294 YDS Allowed, 10 PA
+--------K Cam Little - 13.0 Points (7.54 Projected) - Stats: 3/3 FG, 2/2 XP
+--------BE Ray Davis - 0.8 Points (2.06 Projected) - Stats: -2 YDS, 0 TD, 1 REC for 0 REC YDS, 0 REC TDs, 0 FUM
+--------BE Cade Otton - 17.2 Points (9.62 Projected) - Stats: 9 REC for 82 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------BE Michael Penix Jr. - 10.98 Points (16.01 Projected) - Stats: 12/28 177 YDS, 1 TD, 0 INT, -1 RSH YDS, 0 RSH TD, 1 FUM
+--------BE Kenneth Gainwell - 2.4 Points (8.91 Projected) - Stats: 0 YDS, 0 TD, 2 REC for 4 REC YDS, 0 REC TDs, 0 FUM
+--------BE Tez Johnson - 20.2 Points (9.54 Projected) - Stats: 4 REC for 42 REC YDS, 2 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------IR Omarion Hampton - Inactive
+----Away team: SnydeRemarks
+------Record: 7-3
+------Season Points For/Against: 1247.2/1048.88
+------Actual/Projected Score: 138.64/128.6
+------Lineup:
+--------QB Lamar Jackson - 16.64 Points (23.59 Projected) - Stats: 17/29 176 YDS, 1 TD, 0 INT, 36 RSH YDS, 0 RSH TD, 0 FUM
+--------RB Christian McCaffrey - 17.6 Points (24.46 Projected) - Stats: 30 YDS, 0 TD, 8 REC for 66 REC YDS, 0 REC TDs, 0 FUM
+--------RB Zach Charbonnet - 14.3 Points (9.89 Projected) - Stats: 83 YDS, 1 TD, 0 REC for 0 REC YDS, 0 REC TDs, 0 FUM
+--------WR Jaylen Waddle - 19.4 Points (14.12 Projected) - Stats: 5 REC for 84 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------WR Emeka Egbuka - 23.5 Points (15.63 Projected) - Stats: 6 REC for 115 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------TE Tyler Warren - 17.9 Points (12.44 Projected) - Stats: 8 REC for 99 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------FLEX Marvin Harrison Jr. - 14.3 Points (13.3 Projected) - Stats: 3 REC for 33 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------D/ST Browns D/ST - 8.0 Points (6.5 Projected) - Stats: 1 INT, 0 FUM, 3 SACKS, 169 YDS Allowed, 27 PA
+--------K Michael Badgley - 7.0 Points (8.67 Projected) - Stats: 2/3 FG, 1/2 XP
+--------BE Romeo Doubs - 1.5 Points (12.84 Projected) - Stats: 1 REC for 5 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------BE Sam Darnold - 4.92 Points (16.63 Projected) - Stats: 10/12 178 YDS, 1 TD, 1 INT, -2 RSH YDS, 0 RSH TD, 2 FUM
+--------BE Buccaneers D/ST - -1.0 Points (5.26 Projected) - Stats: 1 INT, 0 FUM, 1 SACKS, 435 YDS Allowed, 28 PA
+--------BE Luke Musgrave - 5.3 Points (8.18 Projected) - Stats: 3 REC for 23 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------BE Brian Robinson Jr. - 11.5 Points (3.06 Projected) - Stats: 41 YDS, 1 TD, 1 REC for 4 REC YDS, 0 REC TDs, 0 FUM
+--------IR Bucky Irving - Inactive
+--Matchup: Team Jon (L) @ THE Derbaum (W)
+----Winner: THE Derbaum
+----Home team: THE Derbaum
+------Record: 4-6
+------Season Points For/Against: 1094.62/1169.42
+------Actual/Projected Score: 119.68/114.99
+------Lineup:
+--------QB Jaxson Dart - 26.28 Points (22.07 Projected) - Stats: 19/29 242 YDS, 0 TD, 0 INT, 66 RSH YDS, 2 RSH TD, 1 FUM
+--------RB Derrick Henry - 11.4 Points (15.82 Projected) - Stats: 75 YDS, 0 TD, 3 REC for 9 REC YDS, 0 REC TDs, 0 FUM
+--------RB TreVeyon Henderson - 28.0 Points (13.23 Projected) - Stats: 147 YDS, 2 TD, 1 REC for 3 REC YDS, 0 REC TDs, 0 FUM
+--------WR Deebo Samuel - 12.9 Points (13.98 Projected) - Stats: 4 REC for 29 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------WR Troy Franklin - 15.0 Points (12.35 Projected) - Stats: 5 REC for 40 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------TE Oronde Gadsden II - 4.3 Points (11.48 Projected) - Stats: 3 REC for 13 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------FLEX Kimani Vidal - 17.8 Points (11.65 Projected) - Stats: 95 YDS, 1 TD, 1 REC for 13 REC YDS, 0 REC TDs, 0 FUM
+--------D/ST Bills D/ST - 2.0 Points (6.31 Projected) - Stats: 2 INT, 0 FUM, 0 SACKS, 370 YDS Allowed, 30 PA
+--------K Eddy Pineiro - 2.0 Points (8.1 Projected) - Stats: 0/0 FG, 2/3 XP
+--------BE Brian Thomas Jr. - Inactive
+--------BE Javonte Williams - BYE
+--------BE Kyle Pitts Sr. - 5.8 Points (11.79 Projected) - Stats: 2 REC for 38 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------BE 49ers D/ST - -5.0 Points (2.74 Projected) - Stats: 0 INT, 0 FUM, 1 SACKS, 401 YDS Allowed, 42 PA
+--------BE Malik Washington - 9.3 Points (9.24 Projected) - Stats: 2 REC for 9 REC YDS, 1 TDs, 4 RSH YDS, 0 RSH TD, 0 FUM
+--------IR Brandon Aiyuk - Inactive
+----Away team: Team Jon
+------Record: 4-6
+------Season Points For/Against: 918.14/993.66
+------Actual/Projected Score: 91.8/87.7
+------Lineup:
+--------QB Brock Purdy - Inactive
+--------RB Jahmyr Gibbs - 38.2 Points (18.23 Projected) - Stats: 142 YDS, 2 TD, 3 REC for 30 REC YDS, 1 REC TDs, 0 FUM
+--------RB Jordan Mason - 4.1 Points (8.17 Projected) - Stats: 25 YDS, 0 TD, 1 REC for 6 REC YDS, 0 REC TDs, 0 FUM
+--------WR Tyreek Hill - Inactive
+--------WR Jaxon Smith-Njigba - 20.3 Points (21.99 Projected) - Stats: 5 REC for 93 REC YDS, 1 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------TE T.J. Hockenson - 2.8 Points (9.59 Projected) - Stats: 2 REC for 8 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------FLEX Courtland Sutton - 5.4 Points (13.3 Projected) - Stats: 3 REC for 24 REC YDS, 0 TDs, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------D/ST Broncos D/ST - 16.0 Points (8.24 Projected) - Stats: 1 INT, 0 FUM, 6 SACKS, 188 YDS Allowed, 7 PA
+--------K Chase McLaughlin - 5.0 Points (8.18 Projected) - Stats: 1/1 FG, 2/2 XP
+--------BE Jayden Reed - Inactive
+--------BE Jared Goff - 24.8 Points (18.67 Projected) - Stats: 25/33 320 YDS, 3 TD, 0 INT, 0 RSH YDS, 0 RSH TD, 0 FUM
+--------BE Woody Marks - 16.1 Points (10.16 Projected) - Stats: 63 YDS, 1 TD, 2 REC for 18 REC YDS, 0 REC TDs, 0 FUM
+--------BE Tyler Loop - 13.0 Points (8.61 Projected) - Stats: 4/5 FG, 1/1 XP
+--------BE Tyjae Spears - BYE

@@ -1,0 +1,1345 @@
+{
+  "week": "Week 9",
+  "overall_notes": "This week featured several large deviations from projections: If Ur Not First You're Last (-45.23 vs proj) and THE Derbaum (-25.67) were notable collapses, while Hangin' With Mr. Cooper (+32.79) and SnydeRemarks (+14.63) outperformed expectations. There were multiple big individual outliers (Caleb Williams, Tee Higgins, Brock Bowers, Dalton Kincaid, Christian McCaffrey, Rico Dowdle) that swung matchups. Several close games: Kraft Montgomery Cheese vs Jake Butt Stuff (114.42-107.70) and 5WRsAllowedOnRostersNextYear vs Trying to not finish last (126.44-121.40).",
+  "matchups": [
+    {
+      "matchup": "Jake Butt Stuff @ Kraft Montgomery Cheese",
+      "winner": "Kraft Montgomery Cheese",
+      "final_score": {
+        "home": 114.42,
+        "away": 107.7
+      },
+      "home_team": {
+        "name": "Kraft Montgomery Cheese",
+        "record": "7-2",
+        "season_points_for": 993.3,
+        "season_points_against": 944.28,
+        "actual_score": 114.42,
+        "projected_score": 104.95,
+        "top_performers_vs_projection": [
+          {
+            "player": "Steelers D/ST",
+            "position": "D/ST",
+            "actual": 16.0,
+            "projected": 3.15,
+            "delta": 12.85,
+            "note": "Huge defensive performance (3 INT, 3 FUM, 5 SACKS) well above projection"
+          },
+          {
+            "player": "Davante Adams",
+            "position": "WR",
+            "actual": 23.0,
+            "projected": 16.14,
+            "delta": 6.86,
+            "note": "Two TDs drove scoring above projection"
+          },
+          {
+            "player": "Dalton Schultz",
+            "position": "FLEX (TE)",
+            "actual": 13.7,
+            "projected": 8.32,
+            "delta": 5.38,
+            "note": "Large return from a modest projection (77 receiving yards)"
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Tucker Kraft",
+            "position": "TE",
+            "actual": 4.0,
+            "projected": 11.31,
+            "delta": -7.31,
+            "note": "Significant shortfall vs expectation"
+          },
+          {
+            "player": "J.K. Dobbins",
+            "position": "RB",
+            "actual": 6.9,
+            "projected": 11.51,
+            "delta": -4.61
+          },
+          {
+            "player": "Jayden Daniels",
+            "position": "QB",
+            "actual": 15.22,
+            "projected": 19.54,
+            "delta": -4.32,
+            "note": "Passing production below projection but rushing TD mitigated loss"
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Rashid Shaheed",
+            "position": "WR",
+            "actual": 11.8,
+            "projected": 10.83,
+            "delta": 0.97
+          },
+          {
+            "player": "Saints D/ST",
+            "position": "D/ST",
+            "actual": -2.0,
+            "projected": 3.49,
+            "delta": -5.49,
+            "note": "Negative bench unit; would have hurt if started"
+          }
+        ],
+        "impactful_transactions": [
+          "Saquon Barkley (BYE) — unavailable",
+          "Jerry Jeudy (BYE) — unavailable",
+          "Kendre Miller listed IR/inactive",
+          "Marcus Mariota on bench with 0.0 points"
+        ],
+        "key_takeaways": [
+          "Victory built on defensive outlier (Steelers D/ST) and big WR performance from Davante Adams.",
+          "Quarterback and one TE underperformed but rushing TD from Daniels and Schultz's receiving yards offset misses.",
+          "Opponent's QB (Caleb Williams) massively overperformed, but Chiefs D/ST was a negative differential for Jake Butt Stuff that helped Kraft secure win."
+        ]
+      },
+      "away_team": {
+        "name": "Jake Butt Stuff",
+        "record": "4-5",
+        "season_points_for": 936.04,
+        "season_points_against": 983.0,
+        "actual_score": 107.7,
+        "projected_score": 118.14,
+        "top_performers_vs_projection": [
+          {
+            "player": "Caleb Williams",
+            "position": "QB",
+            "actual": 38.7,
+            "projected": 20.11,
+            "delta": 18.59,
+            "note": "Huge dual-threat outing (3 pass TDs, 53 rush yards) well above projection"
+          },
+          {
+            "player": "Aaron Jones Sr.",
+            "position": "RB",
+            "actual": 11.8,
+            "projected": 10.7,
+            "delta": 1.1
+          },
+          {
+            "player": "J.J. McCarthy",
+            "position": "Bench QB",
+            "actual": 18.92,
+            "projected": 14.39,
+            "delta": 4.53,
+            "note": "Strong bench QB scoring"
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Keon Coleman",
+            "position": "WR",
+            "actual": 3.7,
+            "projected": 9.82,
+            "delta": -6.12
+          },
+          {
+            "player": "Jacory Croskey-Merritt",
+            "position": "RB",
+            "actual": 5.1,
+            "projected": 10.22,
+            "delta": -5.12
+          },
+          {
+            "player": "Zay Flowers",
+            "position": "FLEX (WR)",
+            "actual": 11.4,
+            "projected": 16.13,
+            "delta": -4.73
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "J.J. McCarthy",
+            "position": "QB",
+            "actual": 18.92,
+            "projected": 14.39
+          },
+          {
+            "player": "Bam Knight",
+            "position": "RB",
+            "actual": 6.7,
+            "projected": 11.97
+          }
+        ],
+        "impactful_transactions": [
+          "Garrett Wilson (BYE) — unavailable",
+          "Harold Fannin Jr. (BYE) — unavailable",
+          "Chiefs D/ST started but underperformed (-1.0)"
+        ],
+        "key_takeaways": [
+          "Caleb Williams carried the offense and far outpaced his projection, but miscues elsewhere (receivers underperforming and D/ST negative) left the team short.",
+          "Bench QB performed well but not started; bye-week absences reduced upside.",
+          "Team scored below projection overall despite huge QB performance."
+        ]
+      }
+    },
+    {
+      "matchup": "Trying to not finish last @ 5WRsAllowedOnRostersNextYear",
+      "winner": "5WRsAllowedOnRostersNextYear",
+      "final_score": {
+        "home": 126.44,
+        "away": 121.4
+      },
+      "home_team": {
+        "name": "5WRsAllowedOnRostersNextYear",
+        "record": "5-4",
+        "season_points_for": 954.62,
+        "season_points_against": 951.78,
+        "actual_score": 126.44,
+        "projected_score": 117.51,
+        "top_performers_vs_projection": [
+          {
+            "player": "Tee Higgins",
+            "position": "WR",
+            "actual": 33.1,
+            "projected": 12.91,
+            "delta": 20.19,
+            "note": "Massive outperformance (2 TDs) — primary game-winner"
+          },
+          {
+            "player": "Matthew Stafford",
+            "position": "QB",
+            "actual": 26.84,
+            "projected": 18.21,
+            "delta": 8.63,
+            "note": "Big passing line (4 TDs) above projection"
+          },
+          {
+            "player": "Jaylen Warren",
+            "position": "RB",
+            "actual": 16.9,
+            "projected": 15.8,
+            "delta": 1.1
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Alvin Kamara",
+            "position": "RB",
+            "actual": 0.7,
+            "projected": 11.4,
+            "delta": -10.7,
+            "note": "Fumbled and limited production — major negative"
+          },
+          {
+            "player": "Samaje Perine",
+            "position": "FLEX (RB)",
+            "actual": 0.5,
+            "projected": 8.64,
+            "delta": -8.14
+          },
+          {
+            "player": "Joshua Karty",
+            "position": "K",
+            "actual": 3.0,
+            "projected": 8.12,
+            "delta": -5.12
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Jameson Williams",
+            "position": "Bench WR",
+            "actual": 16.6,
+            "projected": 11.0,
+            "delta": 5.6
+          },
+          {
+            "player": "Jauan Jennings",
+            "position": "Bench WR",
+            "actual": 14.1,
+            "projected": 12.04,
+            "delta": 2.06
+          }
+        ],
+        "impactful_transactions": [
+          "Eagles D/ST on bye (bench)",
+          "C.J. Stroud on bench (4.36 vs 16.95 proj)"
+        ],
+        "key_takeaways": [
+          "Tee Higgins and Stafford delivered huge performances to push the team over projection.",
+          "Alvin Kamara's near-zero day (and a fumble) was a significant negative but overloaded WR production and bench depth covered the gap.",
+          "Kicking was a weak spot vs projection but did not decide the matchup."
+        ]
+      },
+      "away_team": {
+        "name": "Trying to not finish last",
+        "record": "4-5",
+        "season_points_for": 1046.92,
+        "season_points_against": 977.56,
+        "actual_score": 121.4,
+        "projected_score": 124.77,
+        "top_performers_vs_projection": [
+          {
+            "player": "Drake London",
+            "position": "FLEX (WR)",
+            "actual": 38.8,
+            "projected": 18.11,
+            "delta": 20.69,
+            "note": "Monstrous outing (3 TDs) — main scoring driver"
+          },
+          {
+            "player": "Joe Flacco",
+            "position": "QB",
+            "actual": 30.7,
+            "projected": 17.29,
+            "delta": 13.41,
+            "note": "Huge passing yardage (470) and 4 TDs"
+          },
+          {
+            "player": "Bo Nix",
+            "position": "Bench QB",
+            "actual": 18.52,
+            "projected": 16.63,
+            "delta": 1.89
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Jonathan Taylor",
+            "position": "RB",
+            "actual": 7.7,
+            "projected": 23.36,
+            "delta": -15.66,
+            "note": "Major shortfall vs expectation"
+          },
+          {
+            "player": "DK Metcalf",
+            "position": "WR",
+            "actual": 2.6,
+            "projected": 15.96,
+            "delta": -13.36
+          },
+          {
+            "player": "Tyrone Tracy Jr.",
+            "position": "RB",
+            "actual": 6.7,
+            "projected": 14.43,
+            "delta": -7.73
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Bo Nix",
+            "position": "Bench QB",
+            "actual": 18.52,
+            "projected": 16.63
+          },
+          {
+            "player": "Tony Pollard",
+            "position": "Bench RB",
+            "actual": 7.8,
+            "projected": 9.77
+          }
+        ],
+        "impactful_transactions": [
+          "Isaiah Davis on bye",
+          "Christian Watson inactive (bench 7.8)"
+        ],
+        "key_takeaways": [
+          "Huge games from Joe Flacco and Drake London nearly overcame poor production from key offensive pieces (Taylor, Metcalf).",
+          "This was a high-scoring, close matchup where WR/WR production decided the outcome.",
+          "Bench QB and depth helped keep the team competitive despite major RB shortfalls."
+        ]
+      }
+    },
+    {
+      "matchup": "Dickhole Smashers @ If Ur Not First You're Last",
+      "winner": "Dickhole Smashers",
+      "final_score": {
+        "home": 65.9,
+        "away": 81.62
+      },
+      "home_team": {
+        "name": "If Ur Not First You're Last",
+        "record": "4-5",
+        "season_points_for": 950.66,
+        "season_points_against": 921.14,
+        "actual_score": 65.9,
+        "projected_score": 111.13,
+        "top_performers_vs_projection": [
+          {
+            "player": "Josh Jacobs",
+            "position": "RB",
+            "actual": 20.0,
+            "projected": 18.73,
+            "delta": 1.27
+          },
+          {
+            "player": "AJ Barner",
+            "position": "TE",
+            "actual": 11.5,
+            "projected": 8.98,
+            "delta": 2.52
+          },
+          {
+            "player": "Chris Boswell",
+            "position": "K",
+            "actual": 10.0,
+            "projected": 8.62,
+            "delta": 1.38
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Rome Odunze",
+            "position": "WR",
+            "actual": 0.0,
+            "projected": 14.94,
+            "delta": -14.94,
+            "note": "Zero receiving production — major loss contributor"
+          },
+          {
+            "player": "Kayshon Boutte",
+            "position": "WR",
+            "actual": 0.0,
+            "projected": 9.83,
+            "delta": -9.83
+          },
+          {
+            "player": "Patrick Mahomes",
+            "position": "QB",
+            "actual": 10.5,
+            "projected": 23.28,
+            "delta": -12.78,
+            "note": "No passing TDs and an interception; big miss"
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Noah Fant",
+            "position": "Bench TE",
+            "actual": 10.8,
+            "projected": 7.03,
+            "delta": 3.77
+          },
+          {
+            "player": "Panthers D/ST",
+            "position": "Bench D/ST",
+            "actual": 7.0,
+            "projected": 2.44,
+            "delta": 4.56
+          }
+        ],
+        "impactful_transactions": [
+          "D'Andre Swift listed Inactive",
+          "Jeremy McNichols 0.0 on bench",
+          "Panthers D/ST on bench produced positive points"
+        ],
+        "key_takeaways": [
+          "Complete underperformance from several projected pass-catchers (Odunze, Boutte) and Mahomes resulted in a massive deficit to projection and a loss.",
+          "Kicking and Jacobs provided some stability but were insufficient.",
+          "Bench pieces produced but weren't in lineup to offset starters' failures."
+        ]
+      },
+      "away_team": {
+        "name": "Dickhole Smashers",
+        "record": "3-6",
+        "season_points_for": 742.18,
+        "season_points_against": 895.72,
+        "actual_score": 81.62,
+        "projected_score": 82.86,
+        "top_performers_vs_projection": [
+          {
+            "player": "Dalton Kincaid",
+            "position": "TE",
+            "actual": 22.1,
+            "projected": 8.98,
+            "delta": 13.12,
+            "note": "Massive TE outperformance (101 receiving yards, TD)"
+          },
+          {
+            "player": "Kyren Williams",
+            "position": "RB",
+            "actual": 17.4,
+            "projected": 15.85,
+            "delta": 1.55
+          },
+          {
+            "player": "Justin Jefferson",
+            "position": "WR",
+            "actual": 16.7,
+            "projected": 17.66,
+            "delta": -0.96,
+            "note": "Near-projection from elite WR"
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Aaron Rodgers",
+            "position": "QB",
+            "actual": 12.12,
+            "projected": 17.47,
+            "delta": -5.35
+          },
+          {
+            "player": "Raiders D/ST",
+            "position": "D/ST",
+            "actual": 1.0,
+            "projected": 5.7,
+            "delta": -4.7
+          },
+          {
+            "player": "Matt Prater",
+            "position": "K",
+            "actual": 3.0,
+            "projected": 8.4,
+            "delta": -5.4
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Evan Engram",
+            "position": "Bench TE",
+            "actual": 0.0,
+            "projected": 7.89
+          },
+          {
+            "player": "Emanuel Wilson",
+            "position": "Bench RB",
+            "actual": 2.7,
+            "projected": 7.19
+          }
+        ],
+        "impactful_transactions": [
+          "Isiah Pacheco Inactive",
+          "Rhamondre Stevenson Inactive",
+          "Terry McLaurin Inactive (on bench)"
+        ],
+        "key_takeaways": [
+          "Dalton Kincaid's breakout performance (huge positive delta) was the primary reason the away team won a low-to-moderate scoring contest.",
+          "Quarterback underperformance and defense/kicking misses limited upside but TE and running back production were enough.",
+          "Home team imploded offensively, leaving the matchup uncompetitive."
+        ]
+      }
+    },
+    {
+      "matchup": "Team Santangelo @ Forte Inch Johnson",
+      "winner": "Forte Inch Johnson",
+      "final_score": {
+        "home": 124.92,
+        "away": 119.3
+      },
+      "home_team": {
+        "name": "Forte Inch Johnson",
+        "record": "5-4",
+        "season_points_for": 1027.36,
+        "season_points_against": 989.88,
+        "actual_score": 124.92,
+        "projected_score": 106.67,
+        "top_performers_vs_projection": [
+          {
+            "player": "Rico Dowdle",
+            "position": "RB",
+            "actual": 28.1,
+            "projected": 11.66,
+            "delta": 16.44,
+            "note": "Huge rushing day (130 yards, 2 TDs) well above projection"
+          },
+          {
+            "player": "Josh Allen",
+            "position": "QB",
+            "actual": 28.82,
+            "projected": 21.46,
+            "delta": 7.36,
+            "note": "Rushing scores plus passing yardage exceeded projection"
+          },
+          {
+            "player": "Ashton Jeanty",
+            "position": "RB",
+            "actual": 19.9,
+            "projected": 15.07,
+            "delta": 4.83
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "George Kittle",
+            "position": "TE",
+            "actual": 6.9,
+            "projected": 13.12,
+            "delta": -6.22
+          },
+          {
+            "player": "Tetairoa McMillan",
+            "position": "WR",
+            "actual": 8.6,
+            "projected": 12.88,
+            "delta": -4.28
+          },
+          {
+            "player": "Cooper Kupp",
+            "position": "WR (Inactive)",
+            "actual": null,
+            "projected": null,
+            "delta": null,
+            "note": "Inactive — missing expected starter"
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Devin Singletary",
+            "position": "Bench RB",
+            "actual": 7.1,
+            "projected": 5.53
+          },
+          {
+            "player": "Giants D/ST",
+            "position": "Bench D/ST",
+            "actual": 2.0,
+            "projected": 4.94
+          }
+        ],
+        "impactful_transactions": [
+          "Cooper Kupp listed Inactive — notable absence from starting lineup",
+          "Justin Fields on bye (bench)"
+        ],
+        "key_takeaways": [
+          "Rico Dowdle breakout and Josh Allen's dual-threat production drove a sizable overperformance versus projection.",
+          "Missing Cooper Kupp did not prevent victory thanks to multiple RBs exceeding expectations.",
+          "Seahawks D/ST outperformed and contributed meaningfully to final score."
+        ]
+      },
+      "away_team": {
+        "name": "Team Santangelo",
+        "record": "4-5",
+        "season_points_for": 1044.0,
+        "season_points_against": 941.98,
+        "actual_score": 119.3,
+        "projected_score": 108.98,
+        "top_performers_vs_projection": [
+          {
+            "player": "Sam LaPorta",
+            "position": "TE",
+            "actual": 21.7,
+            "projected": 11.8,
+            "delta": 9.9
+          },
+          {
+            "player": "DeMario Douglas",
+            "position": "FLEX (WR)",
+            "actual": 20.0,
+            "projected": 5.46,
+            "delta": 14.54,
+            "note": "Huge positive vs modest projection (100 receiving yards, TD)"
+          },
+          {
+            "player": "Justin Herbert",
+            "position": "QB",
+            "actual": 27.7,
+            "projected": 21.63,
+            "delta": 6.07
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Chuba Hubbard",
+            "position": "RB",
+            "actual": 1.7,
+            "projected": 7.79,
+            "delta": -6.09
+          },
+          {
+            "player": "Ja'Marr Chase",
+            "position": "WR",
+            "actual": 17.1,
+            "projected": 23.18,
+            "delta": -6.08
+          },
+          {
+            "player": "Brandon Aubrey",
+            "position": "K",
+            "actual": 4.0,
+            "projected": 9.15,
+            "delta": -5.15
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Jordan Love",
+            "position": "Bench QB",
+            "actual": 9.02,
+            "projected": 18.09
+          },
+          {
+            "player": "Bhayshul Tuten",
+            "position": "Bench RB/WR",
+            "actual": 9.6,
+            "projected": 5.41,
+            "note": "Bench TD contribution"
+          }
+        ],
+        "impactful_transactions": [
+          "DeVonta Smith on bye",
+          "Austin Ekeler listed Inactive/IR (inactive)"
+        ],
+        "key_takeaways": [
+          "Close, high-scoring matchup: both teams exceeded projections but Forte benefited from a dominant Dowdle game.",
+          "Team Santangelo produced strong TE and deep-flex production (LaPorta, DeMario Douglas) but underperformance from key WR/bench kicking kept them just short.",
+          "Both teams had notable bench/bye impacts but starters carried most of the scoring."
+        ]
+      }
+    },
+    {
+      "matchup": "Xavier Marks the Spot @ Big Trouble in Little Cameron",
+      "winner": "Big Trouble in Little Cameron",
+      "final_score": {
+        "home": 101.8,
+        "away": 110.96
+      },
+      "home_team": {
+        "name": "Xavier Marks the Spot",
+        "record": "4-5",
+        "season_points_for": 905.74,
+        "season_points_against": 961.26,
+        "actual_score": 101.8,
+        "projected_score": 99.53,
+        "top_performers_vs_projection": [
+          {
+            "player": "Mark Andrews",
+            "position": "TE",
+            "actual": 16.6,
+            "projected": 9.88,
+            "delta": 6.72,
+            "note": "Two TDs from TE above expectation"
+          },
+          {
+            "player": "Travis Etienne Jr.",
+            "position": "RB",
+            "actual": 16.5,
+            "projected": 13.68,
+            "delta": 2.82
+          },
+          {
+            "player": "Trevor Lawrence",
+            "position": "QB",
+            "actual": 21.2,
+            "projected": 16.91,
+            "delta": 4.29
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Chris Olave",
+            "position": "WR",
+            "actual": 8.7,
+            "projected": 14.44,
+            "delta": -5.74
+          },
+          {
+            "player": "Xavier Worthy",
+            "position": "FLEX (WR)",
+            "actual": 6.0,
+            "projected": 11.99,
+            "delta": -5.99
+          },
+          {
+            "player": "Justice Hill",
+            "position": "RB",
+            "actual": 3.5,
+            "projected": 7.19,
+            "delta": -3.69
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Hunter Henry",
+            "position": "Bench TE",
+            "actual": 9.1,
+            "projected": 9.11
+          },
+          {
+            "player": "Will Reichard",
+            "position": "Bench K",
+            "actual": 11.0,
+            "projected": 7.36
+          }
+        ],
+        "impactful_transactions": [
+          "A.J. Brown on bye",
+          "Carson Wentz Inactive"
+        ],
+        "key_takeaways": [
+          "Mark Andrews' two TDs and steady QB/RB play kept Xavier competitive but several WRs underperformed relative to projections.",
+          "Defensive and kicking production were typical; team slightly outscored projection but lost to stronger overall away scoring."
+        ]
+      },
+      "away_team": {
+        "name": "Big Trouble in Little Cameron",
+        "record": "4-5",
+        "season_points_for": 923.34,
+        "season_points_against": 978.26,
+        "actual_score": 110.96,
+        "projected_score": 115.93,
+        "top_performers_vs_projection": [
+          {
+            "player": "DJ Moore",
+            "position": "FLEX (WR)",
+            "actual": 22.98,
+            "projected": 13.09,
+            "delta": 9.89,
+            "note": "Strong flex performance (rush TD included) well above projection"
+          },
+          {
+            "player": "Chase Brown",
+            "position": "RB",
+            "actual": 19.2,
+            "projected": 12.97,
+            "delta": 6.23
+          },
+          {
+            "player": "Kenneth Walker III",
+            "position": "RB",
+            "actual": 8.1,
+            "projected": 12.02,
+            "delta": -3.92,
+            "note": "Included here to show limited RB depth issues; overall team still won"
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Daniel Jones",
+            "position": "QB",
+            "actual": 14.08,
+            "projected": 21.72,
+            "delta": -7.64,
+            "note": "Turnovers (3 INT, 2 fumbles) greatly reduced QB value"
+          },
+          {
+            "player": "Keenan Allen",
+            "position": "WR",
+            "actual": 6.1,
+            "projected": 13.96,
+            "delta": -7.86
+          },
+          {
+            "player": "Jake Ferguson",
+            "position": "TE",
+            "actual": 8.0,
+            "projected": 11.32,
+            "delta": -3.32
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Dak Prescott",
+            "position": "Bench QB",
+            "actual": 15.4,
+            "projected": 18.81
+          },
+          {
+            "player": "Terrell Jennings",
+            "position": "Bench RB/WR",
+            "actual": 11.4,
+            "projected": 8.32
+          }
+        ],
+        "impactful_transactions": [
+          "Dak Prescott on bench",
+          "Brenton Strange Inactive (bench)"
+        ],
+        "key_takeaways": [
+          "Despite a poor game from Daniel Jones due to turnovers, strong flex (DJ Moore) and Chase Brown receiving work allowed the away team to grind out a win.",
+          "The team underperformed its projection overall but still outscored the home side thanks to high-impact skill player games."
+        ]
+      }
+    },
+    {
+      "matchup": "Kyler? I Barely Know Her @ SnydeRemarks",
+      "winner": "SnydeRemarks",
+      "final_score": {
+        "home": 143.96,
+        "away": 88.04
+      },
+      "home_team": {
+        "name": "SnydeRemarks",
+        "record": "6-3",
+        "season_points_for": 1108.56,
+        "season_points_against": 940.28,
+        "actual_score": 143.96,
+        "projected_score": 129.33,
+        "top_performers_vs_projection": [
+          {
+            "player": "Christian McCaffrey",
+            "position": "RB",
+            "actual": 34.3,
+            "projected": 26.05,
+            "delta": 8.25,
+            "note": "High-volume work and receiving TD boosted score"
+          },
+          {
+            "player": "Marvin Harrison Jr.",
+            "position": "FLEX (WR)",
+            "actual": 22.6,
+            "projected": 13.26,
+            "delta": 9.34
+          },
+          {
+            "player": "Lamar Jackson",
+            "position": "QB",
+            "actual": 25.56,
+            "projected": 23.44,
+            "delta": 2.12
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Tyler Warren",
+            "position": "TE",
+            "actual": 7.6,
+            "projected": 13.65,
+            "delta": -6.05
+          },
+          {
+            "player": "Zach Charbonnet",
+            "position": "RB",
+            "actual": 5.6,
+            "projected": 11.15,
+            "delta": -5.55
+          },
+          {
+            "player": "Jaylen Waddle",
+            "position": "WR",
+            "actual": 14.2,
+            "projected": 15.08,
+            "delta": -0.88
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Sam Darnold",
+            "position": "Bench QB",
+            "actual": 27.2,
+            "projected": 18.25,
+            "delta": 8.95
+          },
+          {
+            "player": "Blake Corum",
+            "position": "Bench RB",
+            "actual": 5.8,
+            "projected": 5.25
+          }
+        ],
+        "impactful_transactions": [
+          "Emeka Egbuka on bye",
+          "Browns D/ST on bye"
+        ],
+        "key_takeaways": [
+          "Balanced star performance from Christian McCaffrey and breakout receiving from Marvin Harrison Jr. produced a huge team total.",
+          "Bench QB Sam Darnold showed big scoring that could be useful in future matchups.",
+          "Team comfortably outperformed projection and dominated opponent's scoring."
+        ]
+      },
+      "away_team": {
+        "name": "Kyler? I Barely Know Her",
+        "record": "5-4",
+        "season_points_for": 914.46,
+        "season_points_against": 956.24,
+        "actual_score": 88.04,
+        "projected_score": 99.32,
+        "top_performers_vs_projection": [
+          {
+            "player": "Jacoby Brissett",
+            "position": "QB",
+            "actual": 24.84,
+            "projected": 19.44,
+            "delta": 5.4
+          },
+          {
+            "player": "Bijan Robinson",
+            "position": "RB",
+            "actual": 17.6,
+            "projected": 20.21,
+            "delta": -2.61
+          },
+          {
+            "player": "George Pickens",
+            "position": "WR",
+            "actual": 13.9,
+            "projected": 14.27,
+            "delta": -0.37
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Darnell Mooney",
+            "position": "FLEX (WR)",
+            "actual": 2.5,
+            "projected": 9.73,
+            "delta": -7.23
+          },
+          {
+            "player": "Ladd McConkey",
+            "position": "WR",
+            "actual": 9.6,
+            "projected": 16.09,
+            "delta": -6.49
+          },
+          {
+            "player": "Graham Gano",
+            "position": "K",
+            "actual": 5.0,
+            "projected": 8.16,
+            "delta": -3.16
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Kyler Murray",
+            "position": "Bench QB",
+            "actual": null,
+            "projected": null,
+            "note": "Inactive on bench"
+          },
+          {
+            "player": "Kaleb Johnson",
+            "position": "Bench TE",
+            "actual": 2.3,
+            "projected": 0.0
+          }
+        ],
+        "impactful_transactions": [
+          "Breece Hall on bye",
+          "Kyler Murray inactive (not available)"
+        ],
+        "key_takeaways": [
+          "Offense struggled to reach projection; several pass-catchers underdelivered which made it hard to keep pace with SnydeRemarks' stars.",
+          "Jacoby Brissett was a positive vs projection but not enough; bench/inactive players limited upside.",
+          "Defensive unit performed near expectation but could not change outcome."
+        ]
+      }
+    },
+    {
+      "matchup": "Team Jon @ The Philly Special",
+      "winner": "The Philly Special",
+      "final_score": {
+        "home": 58.6,
+        "away": 107.94
+      },
+      "home_team": {
+        "name": "Team Jon",
+        "record": "4-5",
+        "season_points_for": 826.34,
+        "season_points_against": 873.98,
+        "actual_score": 58.6,
+        "projected_score": 78.84,
+        "top_performers_vs_projection": [
+          {
+            "player": "Jaxon Smith-Njigba",
+            "position": "WR",
+            "actual": 22.0,
+            "projected": 24.5,
+            "delta": -2.5,
+            "note": "High receiving yards but slightly below projection"
+          },
+          {
+            "player": "T.J. Hockenson",
+            "position": "TE",
+            "actual": 9.1,
+            "projected": 9.53,
+            "delta": -0.43
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Jahmyr Gibbs",
+            "position": "RB",
+            "actual": 5.8,
+            "projected": 19.19,
+            "delta": -13.39
+          },
+          {
+            "player": "Tyreek Hill",
+            "position": "WR",
+            "actual": null,
+            "projected": null,
+            "delta": null,
+            "note": "Inactive — major expected scoring absent"
+          },
+          {
+            "player": "Brock Purdy",
+            "position": "QB",
+            "actual": null,
+            "projected": null,
+            "delta": null,
+            "note": "Inactive — QB slot empty/zero"
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Jared Goff",
+            "position": "Bench QB",
+            "actual": 19.36,
+            "projected": 16.7,
+            "delta": 2.66
+          },
+          {
+            "player": "Tyjae Spears",
+            "position": "Bench RB",
+            "actual": 9.2,
+            "projected": 9.54
+          }
+        ],
+        "impactful_transactions": [
+          "Brock Purdy Inactive",
+          "Tyreek Hill Inactive",
+          "Jayden Reed Inactive"
+        ],
+        "key_takeaways": [
+          "Multiple high-profile inactives/byes severely limited scoring (Purdy, Tyreek Hill), producing a large negative vs projection.",
+          "Bench QB Jared Goff had good scoring but remained on bench — potential missed opportunity.",
+          "Team could not replace lost floor from inactive stars."
+        ]
+      },
+      "away_team": {
+        "name": "The Philly Special",
+        "record": "5-4",
+        "season_points_for": 993.42,
+        "season_points_against": 961.52,
+        "actual_score": 107.94,
+        "projected_score": 98.61,
+        "top_performers_vs_projection": [
+          {
+            "player": "RJ Harvey",
+            "position": "RB",
+            "actual": 16.6,
+            "projected": 7.03,
+            "delta": 9.57,
+            "note": "Flex RB TD and receiving production were big positives"
+          },
+          {
+            "player": "Josh Downs",
+            "position": "FLEX (WR)",
+            "actual": 15.7,
+            "projected": 11.1,
+            "delta": 4.6
+          },
+          {
+            "player": "Juwan Johnson",
+            "position": "TE",
+            "actual": 12.1,
+            "projected": 8.3,
+            "delta": 3.8
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Tua Tagovailoa",
+            "position": "QB",
+            "actual": 8.54,
+            "projected": 16.33,
+            "delta": -7.79
+          },
+          {
+            "player": "Stefon Diggs",
+            "position": "WR",
+            "actual": 12.8,
+            "projected": 13.13,
+            "delta": -0.33
+          },
+          {
+            "player": "Bears D/ST",
+            "position": "D/ST",
+            "actual": 1.0,
+            "projected": 5.14,
+            "delta": -4.14
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Ka'imi Fairbairn",
+            "position": "Bench K",
+            "actual": 17.0,
+            "projected": 7.92,
+            "delta": 9.08
+          },
+          {
+            "player": "Jalen Hurts",
+            "position": "Bench QB",
+            "actual": null,
+            "projected": null,
+            "note": "On bye"
+          }
+        ],
+        "impactful_transactions": [
+          "Jalen Hurts on bye",
+          "Dallas Goedert on bye",
+          "Calvin Ridley inactive on bench"
+        ],
+        "key_takeaways": [
+          "Despite Tua underperforming, the Philly Special's depth (RJ Harvey, Juwan Johnson, Josh Downs) produced a comfortable win.",
+          "Special teams/kicking (Cairo Santos) and bench kicker fairbairn had notable outputs, while Bears D/ST was a negative start.",
+          "Team outperformed projection and benefited from opponent's multiple inactives."
+        ]
+      }
+    },
+    {
+      "matchup": "THE Derbaum @ Hangin' With Mr. Cooper",
+      "winner": "Hangin' With Mr. Cooper",
+      "final_score": {
+        "home": 96.34,
+        "away": 157.26
+      },
+      "home_team": {
+        "name": "THE Derbaum",
+        "record": "3-6",
+        "season_points_for": 974.94,
+        "season_points_against": 1077.62,
+        "actual_score": 96.34,
+        "projected_score": 122.01,
+        "top_performers_vs_projection": [
+          {
+            "player": "Jaxson Dart",
+            "position": "QB",
+            "actual": 27.24,
+            "projected": 21.1,
+            "delta": 6.14
+          },
+          {
+            "player": "Eddy Pineiro",
+            "position": "K",
+            "actual": 12.0,
+            "projected": 8.48,
+            "delta": 3.52
+          },
+          {
+            "player": "Oronde Gadsden II",
+            "position": "TE",
+            "actual": 11.8,
+            "projected": 11.3,
+            "delta": 0.5
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Kimani Vidal",
+            "position": "RB",
+            "actual": 3.0,
+            "projected": 15.63,
+            "delta": -12.63
+          },
+          {
+            "player": "Javonte Williams",
+            "position": "FLEX (RB)",
+            "actual": 7.3,
+            "projected": 16.19,
+            "delta": -8.89
+          },
+          {
+            "player": "Deebo Samuel",
+            "position": "WR",
+            "actual": 9.4,
+            "projected": 14.43,
+            "delta": -5.03
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "TreVeyon Henderson",
+            "position": "Bench RB",
+            "actual": 12.7,
+            "projected": 11.66
+          },
+          {
+            "player": "Bills D/ST",
+            "position": "Bench D/ST",
+            "actual": 5.0,
+            "projected": 3.36
+          }
+        ],
+        "impactful_transactions": [
+          "Brandon Aiyuk inactive",
+          "Some bench pieces outscored starters but were not started"
+        ],
+        "key_takeaways": [
+          "Significant misses from expected running backs (Kimani Vidal, Javonte Williams) and pass-catchers left the home team far below projection.",
+          "Jaxson Dart and kicker were positives but insufficient to match the opponent explosion."
+        ]
+      },
+      "away_team": {
+        "name": "Hangin' With Mr. Cooper",
+        "record": "5-4",
+        "season_points_for": 1065.2,
+        "season_points_against": 1052.58,
+        "actual_score": 157.26,
+        "projected_score": 124.47,
+        "top_performers_vs_projection": [
+          {
+            "player": "Brock Bowers",
+            "position": "TE",
+            "actual": 43.3,
+            "projected": 12.69,
+            "delta": 30.61,
+            "note": "Historic TE day: 12 receptions, 3 TDs — massive outlier"
+          },
+          {
+            "player": "Cowboys D/ST",
+            "position": "D/ST",
+            "actual": 13.0,
+            "projected": 4.99,
+            "delta": 8.01
+          },
+          {
+            "player": "Kyle Monangai",
+            "position": "RB",
+            "actual": 22.8,
+            "projected": 15.36,
+            "delta": 7.44
+          }
+        ],
+        "underperformers_vs_projection": [
+          {
+            "player": "Drake Maye",
+            "position": "QB",
+            "actual": 16.36,
+            "projected": 20.62,
+            "delta": -4.26
+          },
+          {
+            "player": "Jordan Addison",
+            "position": "WR",
+            "actual": 8.4,
+            "projected": 12.55,
+            "delta": -4.15
+          },
+          {
+            "player": "Jakobi Meyers",
+            "position": "WR",
+            "actual": 6.3,
+            "projected": 11.51,
+            "delta": -5.21
+          }
+        ],
+        "notable_bench_players": [
+          {
+            "player": "Michael Penix Jr.",
+            "position": "Bench QB",
+            "actual": 22.74,
+            "projected": 14.15,
+            "delta": 8.59
+          },
+          {
+            "player": "Evan McPherson",
+            "position": "K",
+            "actual": 10.0,
+            "projected": 8.28,
+            "delta": 1.72
+          }
+        ],
+        "impactful_transactions": [
+          "Ray Davis on bench (0.0)",
+          "Kenneth Gainwell on bench contributed modestly"
+        ],
+        "key_takeaways": [
+          "Brock Bowers' extraordinary game single-handedly lifted the team to a blowout win; combined with a high-performing defense, the team obliterated expectations.",
+          "Several starters underperformed but overall offensive explosion overcame those misses.",
+          "This was the week's largest positive swing vs projection for a team."
+        ]
+      }
+    }
+  ]
+}

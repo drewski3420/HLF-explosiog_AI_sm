@@ -1,0 +1,316 @@
+{
+  "season": "Through Week 4",
+  "summary": {
+    "league_scoring_average_per_team_per_week": 104.60,
+    "overall_notes": "Weeks 1-4 show high variance driven by QB explosions, repeat WR/RB breakouts, and unusually large D/ST and kicker outliers. Bench management is the dominant recurring theme: numerous matchups were decided by owners leaving 15+ and even 20+ point players on the bench. Close games represent a meaningful share of matchups (about 25%) including a 0.10-point game in Week 3.",
+    "data_used_weeks": [
+      "Week 1",
+      "Week 2",
+      "Week 3",
+      "Week 4"
+    ]
+  },
+  "standings": {
+    "summary": "Records and points for through 4 weeks (wins-losses), sorted by record then points for.",
+    "teams": [
+      {
+        "team": "Gronk for my  johnson",
+        "record": "3-1",
+        "wins": 3,
+        "losses": 1,
+        "points_for": 442.86,
+        "avg_points_per_game": 110.72,
+        "last4": ["W","L","W","W"],
+        "current_streak": "W2",
+        "trend_notes": "High-scoring team driven by multi-positional production (Jalen Hurts, Courtland Sutton, occasional huge D/ST weeks). Bench management sometimes produced large unused scores (Mark Andrews 24.1 left on bench Week 3)."
+      },
+      {
+        "team": "THE Derbaum",
+        "record": "3-1",
+        "wins": 3,
+        "losses": 1,
+        "points_for": 411.20,
+        "avg_points_per_game": 102.80,
+        "last4": ["W","W","L","W"],
+        "current_streak": "W1",
+        "trend_notes": "Amon-Ra St. Brown and Ja'Marr Chase had massive directional impacts in Week 2 and again Week 4; team has leaned on elite WR weeks to generate ceiling. Bench has had upside pieces left unused at times (Keon Coleman, Dalton Kincaid earlier)."
+      },
+      {
+        "team": "Puka Puka",
+        "record": "3-1",
+        "wins": 3,
+        "losses": 1,
+        "points_for": 408.56,
+        "avg_points_per_game": 102.14,
+        "last4": ["W","W","L","W"],
+        "current_streak": "W1",
+        "trend_notes": "Explosive Week 4 (149.96) after a quieter Week 3. Production has been balanced across QB (Dak Prescott), rookie RB (Ashton Jeanty), and Puka Nacua. Volatile WR outcomes (A.J. Brown had a 1.7-point blowup Week 4) have created large week-to-week swings."
+      },
+      {
+        "team": "No Punt Intended",
+        "record": "2-2",
+        "wins": 2,
+        "losses": 2,
+        "points_for": 468.36,
+        "avg_points_per_game": 117.09,
+        "last4": ["L","W","L","W"],
+        "current_streak": "W1",
+        "trend_notes": "Highest points-for in the league despite a .500 record; two extremely large individual weeks (Week 2 and Week 4) plus several big bench outputs (Rome Odunze 28.3, Justin Fields multiple bench weeks) indicate the team regularly produces elite weekly ceilings but has had a volatile floor."
+      },
+      {
+        "team": "Baker's Brownie Stand",
+        "record": "2-2",
+        "wins": 2,
+        "losses": 2,
+        "points_for": 441.56,
+        "avg_points_per_game": 110.39,
+        "last4": ["W","L","W","L"],
+        "current_streak": "L1",
+        "trend_notes": "Consistently high-scoring (Christian McCaffrey, Garrett Wilson, and huge kicker/D/ST weeks). Has left high-upside QBs and WRs on the bench (Matthew Stafford 27.4 left unused Week 4; Michael Pittman Jr. left on the bench Week 3)."
+      },
+      {
+        "team": "D.J. Chark Week",
+        "record": "2-2",
+        "wins": 2,
+        "losses": 2,
+        "points_for": 438.26,
+        "avg_points_per_game": 109.57,
+        "last4": ["L","W","L","W"],
+        "current_streak": "W1",
+        "trend_notes": "One of the most explosive single-game outputs (147.3 in Week 4). George Pickens and Patrick Mahomes have provided big upside weeks; bench QB/WR depth (Jaxson Dart, Jordan Addison) has shown additional scoring upside when unused."
+      },
+      {
+        "team": "OHHHHHHH YEAHHHHH!!!!",
+        "record": "2-2",
+        "wins": 2,
+        "losses": 2,
+        "points_for": 430.96,
+        "avg_points_per_game": 107.74,
+        "last4": ["W","L","W","L"],
+        "current_streak": "L1",
+        "trend_notes": "Jonathan Taylor produced back-to-back huge games that have been the core of team scoring; Josh Allen produced an enormous Week 1 outing as well. Bench QB decisions (Daniel Jones, Justin Fields on various benches) have been notable misses."
+      },
+      {
+        "team": "Here Comes McBride",
+        "record": "2-2",
+        "wins": 2,
+        "losses": 2,
+        "points_for": 434.24,
+        "avg_points_per_game": 108.56,
+        "last4": ["L","L","W","W"],
+        "current_streak": "W2",
+        "trend_notes": "Turnaround over Weeks 3-4 with strong RB production (Omarion Hampton, James Cook). Repeated WR letdowns (Malik Nabers underperformed multiple weeks) have created weekly ceiling constraints."
+      },
+      {
+        "team": "Goff And Running",
+        "record": "1-3",
+        "wins": 1,
+        "losses": 3,
+        "points_for": 401.88,
+        "avg_points_per_game": 100.47,
+        "last4": ["L","L","W","L"],
+        "current_streak": "L1",
+        "trend_notes": "High variance tied to RB usage (David Montgomery had a monster Week 3) and significant bench misses: Jared Goff produced 33.96 on the bench Week 2 and Hunter Henry had a 25.0 bench outing Week 3 that was unused."
+      },
+      {
+        "team": "Clever Team  Name Incoming",
+        "record": "2-2",
+        "wins": 2,
+        "losses": 2,
+        "points_for": 360.46,
+        "avg_points_per_game": 90.12,
+        "last4": ["W","W","L","L"],
+        "current_streak": "L2",
+        "trend_notes": "Strong early start (2-0) fell to a two-game skid through Week 4. QB Geno Smith has shown high variance (big Week 3, quieter in Week 4). Multiple bench/unused positives (Jauan Jennings 17.4 left on bench Week 2, Geno Smith benched previously) indicate lineup swings affected outcomes."
+      },
+      {
+        "team": "World of Hurts",
+        "record": "0-4",
+        "wins": 0,
+        "losses": 4,
+        "points_for": 372.16,
+        "avg_points_per_game": 93.04,
+        "last4": ["L","L","L","L"],
+        "current_streak": "L4",
+        "trend_notes": "No wins yet. Several weeks of unfortunate bench/inactive patterns and inconsistent QB/WR outputs. Notably left Kenneth Gainwell on the bench for a 28.4-point outing Week 4; key players (Joe Burrow, others) were unavailable or underperformed at times."
+      }
+    ]
+  },
+  "team_level_trends": {
+    "common_themes": [
+      "Bench management is the single largest recurring factor: many teams left 15-30 point performances on the bench in multiple weeks, directly changing likely outcomes.",
+      "Teams with the highest points-for are not all winning at a higher rate (e.g., No Punt Intended leads in PF but sits at 2-2) — variance and matchup timing matters.",
+      "Defense and kicker variance has been unusually impactful: several D/STs and kickers produced large bonus weeks that swung matchups (Vikings D/ST 32.0, Lions D/ST 20.0, Brandon Aubrey 22.0, Cairo Santos 19.0).",
+      "High weekly ceilings often come from multi-player contributions rather than one single outlier on some rosters (e.g., Week 4 Puka Puka and D.J. Chark Week)."
+    ],
+    "notable_team_behaviors": [
+      {
+        "team": "No Punt Intended",
+        "behavior": "Extremely high ceiling weeks but volatile due to key starters underperforming in some weeks and benches left with productive players (Justin Fields, Rome Odunze)."
+      },
+      {
+        "team": "Gronk for my  johnson",
+        "behavior": "Benefit from explosive individual game scripts (defense or multi-TD weeks) and have capitalized on D/ST surges; also had major unused bench value (Mark Andrews Week 3)."
+      },
+      {
+        "team": "World of Hurts",
+        "behavior": "Sitting 0-4, pattern of unused high-scoring bench plays (Kenneth Gainwell Week 4) and unavailability of expected starters (Joe Burrow inactive) limiting chances."
+      }
+    ]
+  },
+  "player_level_trends": {
+    "repeat_top_performers": [
+      {
+        "player": "Amon-Ra St. Brown",
+        "team_impact": "THE Derbaum",
+        "notes": "Huge weeks in Week 2 (34.7) and Week 4 (22.5). He has been the most consistent elite producer league-wide; big WR weeks drive THE Derbaum's ceiling."
+      },
+      {
+        "player": "Puka Nacua",
+        "team_impact": "Puka Puka",
+        "notes": "Multiple strong performances (Week 2, Week 4) contributing to Puka Puka's high ceilings."
+      },
+      {
+        "player": "Jonathan Taylor",
+        "team_impact": "OHHHHHHH YEAHHHHH!!!!",
+        "notes": "Two consecutive monster games (Week 2 and Week 3) and remains a primary weekly engine for that roster."
+      },
+      {
+        "player": "David Montgomery",
+        "team_impact": "Goff And Running",
+        "notes": "Massive Week 3 (28.9) — examples like this provide single-game spikes that can flip weeks even on losing teams."
+      }
+    ],
+    "repeat_underperformers": [
+      {
+        "player": "Ja'Marr Chase",
+        "team_impact": "THE Derbaum / Puka Puka matchups",
+        "notes": "Multiple low-output weeks (Week 1: 3.6; Week 3: 6.4; Week 4: 4.8) representing a concerning trend relative to projections."
+      },
+      {
+        "player": "CeeDee Lamb",
+        "team_impact": "I Know Exactly What I’m Doing",
+        "notes": "Zero output in Week 3 (0.0) caused a major negative swing for the team that week."
+      }
+    ],
+    "notable_bench_production_patterns": [
+      "Several teams left 20+ point bench performances across weeks: Justin Fields (27-29 range on benches across weeks), Rome Odunze (28.3 bench Week 2), Kenneth Gainwell (28.4 bench Week 4), Mark Andrews (24.1 bench Week 3), George Pickens (29.4 started Week 4; had bench weeks too).",
+      "This repeated bench production indicates managers frequently failed to adjust starting lineups to capture sudden breakouts or QB changes."
+    ]
+  },
+  "league_wide_insights": {
+    "close_games": {
+      "count": 6,
+      "total_matchups": 24,
+      "percentage": 25,
+      "notable_games": [
+        {
+          "matchup": "Here Comes McBride vs World of Hurts (Week 3)",
+          "margin": 0.10,
+          "note": "Narrowest result in the period — single play or bench swap could have reversed it."
+        },
+        {
+          "matchup": "Gronk for my  johnson vs THE Derbaum (Week 1)",
+          "margin": 7.84
+        },
+        {
+          "matchup": "OHHHHHHH YEAHHHHH!!!! vs No Punt Intended (Week 1)",
+          "margin": 7.30
+        },
+        {
+          "matchup": "Gronk for my  johnson vs Clever Team Name Incoming (Week 2)",
+          "margin": 7.94
+        },
+        {
+          "matchup": "Gronk for my  johnson vs World of Hurts (Week 4)",
+          "margin": 2.42
+        }
+      ]
+    },
+    "scoring_outliers": {
+      "offense": [
+        "No Punt Intended (avg 117.1) and three other teams averaging ~110+ indicate extremely high ceilings at the top end.",
+        "Individual outlier performances: Josh Allen 38.76 (Week 1), Jonathan Taylor 31.3 (Week 3), George Pickens 29.4 (Week 4)."
+      ],
+      "defense_and_kicker": [
+        "D/ST and kicker variance has been decisive in several matchups: Vikings D/ST 32.0 (Week 3), Lions D/ST 20.0 (Week 4), Brandon Aubrey 22.0 (Week 2), Cairo Santos 19.0 (Week 4)."
+      ]
+    },
+    "upsets_and_surprises": [
+      "Some large single-week blowouts that were unpredicted by team point totals (e.g., Gronk for my johnson beat THE Derbaum 151.24-88.28 in Week 3) demonstrate weekly volatility.",
+      "Several teams with top-3 points-for (No Punt Intended, Baker's Brownie Stand, Gronk for my johnson) all have different records, showing that high PF doesn't guarantee consistent W-L outcomes in early season."
+    ]
+  },
+  "notable_owner_behaviors": {
+    "recurring_patterns": [
+      "Leaving high-scoring QBs on the bench multiple weeks (examples: Justin Fields left on bench for No Punt Intended Week 4, Matthew Stafford left on bench for Baker's Brownie Stand Week 4, Jared Goff left on bench for Goff And Running Week 2).",
+      "Repeatedly leaving WR/RB breakout performances on benches (Rome Odunze 28.3 for No Punt Intended Week 2; Mark Andrews 24.1 left for Gronk Week 3; Kenneth Gainwell 28.4 bench Week 4).",
+      "Frequent influence from inactives/IR — several rosters were forced to play around unavailable players (Mike Evans, Brandon Aiyuk, George Kittle, Najee Harris, Joe Mixon, Austin Ekeler) with measurable impact on weekly scoring."
+    ],
+    "examples_of_smart_or_risky_moves": [
+      {
+        "example": "I Know Exactly What I’m Doing (Week 2)",
+        "behavior": "Started a kicker (Brandon Aubrey) who scored 22.0 — high-risk/high-reward roster choices paid off that week."
+      },
+      {
+        "example": "Gronk for my  johnson (Week 3)",
+        "behavior": "Started Vikings D/ST and a diversified receiving/rushing attack; D/ST returned 32 points and greatly amplified the win margin."
+      },
+      {
+        "example": "No Punt Intended (Week 4)",
+        "behavior": "Despite having elite bench scoring available, the roster still managed the league's highest PF; shows depth but also missed opportunities to convert more wins via active lineup adjustments."
+      }
+    ]
+  },
+  "playoff_analysis": {
+    "format_assumed": "Top 6 teams make playoffs, ordered by record; ties decided by head-to-head among tied teams, then points for.",
+    "projected_playoff_field_top6": [
+      {
+        "seed": 1,
+        "team": "Gronk for my  johnson",
+        "record": "3-1",
+        "rationale": "Best tiebreak among 3-1 teams by points for (442.86)."
+      },
+      {
+        "seed": 2,
+        "team": "THE Derbaum",
+        "record": "3-1",
+        "rationale": "Second among 3-1 teams by points for (411.20)."
+      },
+      {
+        "seed": 3,
+        "team": "Puka Puka",
+        "record": "3-1",
+        "rationale": "Third among 3-1 teams by points for (408.56)."
+      },
+      {
+        "seed": 4,
+        "team": "No Punt Intended",
+        "record": "2-2",
+        "rationale": "Highest points-for among 2-2 teams (468.36) and thus wins the tie-break cluster for remaining playoff slots."
+      },
+      {
+        "seed": 5,
+        "team": "Baker's Brownie Stand",
+        "record": "2-2",
+        "rationale": "Second-highest PF among 2-2 teams (441.56)."
+      },
+      {
+        "seed": 6,
+        "team": "D.J. Chark Week",
+        "record": "2-2",
+        "rationale": "Third-highest PF among 2-2 teams (438.26)."
+      }
+    ],
+    "notes_on_tiebreaks": "Three teams sit at 3-1; one head-to-head result exists among them (Gronk beat THE Derbaum Week 3). Because not all tied teams have head-to-head results, points-for was used to order the remaining tie positions. Among the many 2-2 teams, the three highest points-for fill the last three playoff berths."
+  },
+  "key_takeaways_for_newsletter_basis": {
+    "bullet_points": [
+      "Bench management has been the single-biggest determinant of close outcomes — multiple matchups were swung by leaving 15-30 point bench performances unused.",
+      "A small group of teams produce the league's highest ceilings (No Punt Intended, Baker's Brownie Stand, Gronk for my johnson, D.J. Chark Week) but records are distributed; early season variance is large.",
+      "D/STs and kickers have produced surprising weekly value and changed match outcomes several times; owners who prioritized streaming or high-floor choices saw outsized week-to-week benefits.",
+      "Playoff picture (top 6 as of Week 4): Gronk for my johnson, THE Derbaum, Puka Puka, No Punt Intended, Baker's Brownie Stand, D.J. Chark Week — determined by record, then points-for where head-to-head didn't resolve ties.",
+      "Watch lists emerging from performance trends: Amon-Ra St. Brown, Puka Nacua, Jonathan Taylor, David Montgomery (as high-ceiling contributors); Ja'Marr Chase and select inactive/underperforming starters are the cautionary names."
+    ]
+  }
+}

@@ -1,0 +1,691 @@
+{
+  "previous_summary": "{season_trend_text}",
+  "league_summary": {
+    "week": "Week 1",
+    "average_points_per_team": 95.37,
+    "total_teams": 12,
+    "close_games_count": 3,
+    "close_games": [
+      {
+        "matchup": "Gronk for my  johnson @ Here Comes McBride",
+        "margin": 7.84
+      },
+      {
+        "matchup": "THE Derbaum @ D.J. Chark Week",
+        "margin": 8.20
+      },
+      {
+        "matchup": "OHHHHHHH YEAHHHHH!!!! @ No Punt Intended",
+        "margin": 7.30
+      }
+    ],
+    "notable_variance_notes": [
+      "Quarterback performance showed large variance week-to-week: extreme positive outings (Josh Allen +17.93 vs projection; Patrick Mahomes +6.21) and notable QB misses (Bo Nix -11.68; Joe Burrow -11.16; Dak Prescott -8.71).",
+      "Bench management was a dominant theme league-wide: multiple teams left 20+ point bench scorers unused (examples across matchups). Those bench decisions altered several close results.",
+      "Defensive and kicker starts produced swing outcomes in a couple matchups (Broncos D/ST 16.0; Kicker Cam Little 15.0)."
+    ],
+    "highest_single_outperformance": {
+      "player": "Josh Allen",
+      "points": 38.76,
+      "vs_projection_diff": 17.93,
+      "team": "OHHHHHHH YEAHHHHH!!!!"
+    },
+    "league_level_takeaway": "After Week 1 the league shows high variance driven by QB and bench decisions. Average team score (~95.4) is a useful baseline; teams scoring notably above it (114.06, 111.42, 106.76, 104.98, 102.88) captured wins, but several losses (106.76, 95.04, 91.72, 85.52, 84.22, 80.98, 74.42) show that leaving bench production unused or relying on underperforming starters can flip results."
+  },
+  "team_trends": {
+    "Clever Team  Name Incoming": {
+      "record": "1-0",
+      "points_for": 111.42,
+      "streak": "W1",
+      "summary": "Decisive opening-week win powered by a huge Derrick Henry outing and Deebo Samuel. Strong starting lineup with minimal missed starters.",
+      "key_positive_players": [
+        {
+          "name": "Derrick Henry",
+          "position": "RB",
+          "points": 28.7,
+          "impact": "Massive outperformance (+13.21) drove team scoring."
+        },
+        {
+          "name": "Deebo Samuel",
+          "position": "WR",
+          "points": 19.1,
+          "impact": "Top WR contribution above projection (+9.05)."
+        }
+      ],
+      "key_negative_players": [
+        {
+          "name": "Cooper Kupp",
+          "position": "WR",
+          "points": 2.5,
+          "impact": "Significant underperformance (-7.57) but did not cost the game."
+        }
+      ],
+      "bench_notes": [
+        {
+          "name": "Geno Smith",
+          "position": "QB",
+          "points": 17.48,
+          "status": "bench",
+          "note": "Positive bench QB output but unused."
+        }
+      ]
+    },
+    "I Know Exactly What I\u2019m Doing": {
+      "record": "0-1",
+      "points_for": 80.98,
+      "streak": "L1",
+      "summary": "Struggled due to multiple key WRs underperforming and left high-scoring bench assets unused; bench management cost swing points.",
+      "key_positive_players": [
+        {
+          "name": "Breece Hall",
+          "position": "RB",
+          "points": 15.5,
+          "impact": "Provided some steady RB production."
+        }
+      ],
+      "key_negative_players": [
+        {
+          "name": "Nico Collins",
+          "position": "WR",
+          "points": 4.0,
+          "impact": "Large negative vs projection (-10.39)."
+        },
+        {
+          "name": "Tee Higgins",
+          "position": "WR",
+          "points": 4.8,
+          "impact": "Underperformed (-8.0) contributing to low team score."
+        }
+      ],
+      "bench_notes": [
+        {
+          "name": "Caleb Williams",
+          "position": "QB",
+          "points": 24.2,
+          "status": "bench",
+          "note": "Left on bench despite huge QB output."
+        },
+        {
+          "name": "Travis Etienne Jr.",
+          "position": "RB",
+          "points": 17.1,
+          "status": "bench",
+          "note": "Unused high-scoring bench RB."
+        },
+        {
+          "name": "Aaron Jones Sr.",
+          "position": "RB",
+          "points": 14.2,
+          "status": "bench",
+          "note": "Unused contributor; combined bench misses were decisive."
+        }
+      ]
+    },
+    "Gronk for my  johnson": {
+      "record": "1-0",
+      "points_for": 102.88,
+      "streak": "W1",
+      "summary": "Close opening win with steady QB/RB production; missed opportunity by leaving Justin Herbert on bench who outscored starters.",
+      "key_positive_players": [
+        {
+          "name": "Jalen Hurts",
+          "position": "QB",
+          "points": 24.28,
+          "impact": "Solid QB floor output."
+        },
+        {
+          "name": "Bijan Robinson",
+          "position": "RB",
+          "points": 21.4,
+          "impact": "Strong RB performance above projection (+3.52)."
+        }
+      ],
+      "key_negative_players": [
+        {
+          "name": "Mark Andrews",
+          "position": "TE",
+          "points": 1.0,
+          "impact": "Severe underperformance (-8.74) hurt positional scoring."
+        }
+      ],
+      "bench_notes": [
+        {
+          "name": "Justin Herbert",
+          "position": "QB",
+          "points": 27.92,
+          "status": "bench",
+          "note": "Significant unused upside; starter decisions nearly cost margin."
+        }
+      ]
+    },
+    "Here Comes McBride": {
+      "record": "0-1",
+      "points_for": 95.04,
+      "streak": "L1",
+      "summary": "A competitive loss buoyed by Broncos D/ST; suffered from low QB play and some WRs underperforming.",
+      "key_positive_players": [
+        {
+          "name": "Broncos D/ST",
+          "position": "D/ST",
+          "points": 16.0,
+          "impact": "Provided an unexpected defensive scoring boost (+8.24)."
+        }
+      ],
+      "key_negative_players": [
+        {
+          "name": "Bo Nix",
+          "position": "QB",
+          "points": 6.84,
+          "impact": "Major negative relative to projection (-11.68)."
+        },
+        {
+          "name": "Malik Nabers",
+          "position": "WR",
+          "points": 9.6,
+          "impact": "Below projection (-6.1), limiting offense."
+        }
+      ],
+      "bench_notes": [
+        {
+          "name": "Cam Ward",
+          "position": "QB",
+          "points": 2.48,
+          "status": "bench",
+          "note": "Bench QB also underperformed."
+        }
+      ]
+    },
+    "Baker's Brownie Stand": {
+      "record": "1-0",
+      "points_for": 104.98,
+      "streak": "W1",
+      "summary": "Win driven by WR performance and QB meeting projection; bench had additional unused WR scoring that could have increased margin.",
+      "key_positive_players": [
+        {
+          "name": "Baker Mayfield",
+          "position": "QB",
+          "points": 22.58,
+          "impact": "Above-projection QB that kept team competitive."
+        },
+        {
+          "name": "Garrett Wilson",
+          "position": "WR",
+          "points": 19.0,
+          "impact": "High WR output (+8.37) was a primary scoring driver."
+        }
+      ],
+      "key_negative_players": [
+        {
+          "name": "D/ST Steelers",
+          "position": "D/ST",
+          "points": 1.0,
+          "impact": "Scored well below expectation (-7.27), but team overcame it."
+        }
+      ],
+      "bench_notes": [
+        {
+          "name": "Michael Pittman Jr.",
+          "position": "WR",
+          "points": 17.0,
+          "status": "bench",
+          "note": "Unused 17-point bench asset."
+        }
+      ]
+    },
+    "Goff And Running": {
+      "record": "0-1",
+      "points_for": 91.72,
+      "streak": "L1",
+      "summary": "Loss marked by underperforming RBs and a D/ST that produced far below projection; left several productive WRs on bench.",
+      "key_positive_players": [
+        {
+          "name": "Saquon Barkley",
+          "position": "RB",
+          "points": 16.4,
+          "impact": "Solid but below projection and not enough to carry team."
+        }
+      ],
+      "key_negative_players": [
+        {
+          "name": "David Montgomery",
+          "position": "RB",
+          "points": 6.3,
+          "impact": "Low output (-4.95) contributed to weak rushing scoring."
+        }
+      ],
+      "bench_notes": [
+        {
+          "name": "Keenan Allen",
+          "position": "WR",
+          "points": 16.3,
+          "status": "bench",
+          "note": "Left a high-scoring WR on bench; combined with other missed bench starters it cost points."
+        },
+        {
+          "name": "Hollywood Brown",
+          "position": "WR",
+          "points": 14.9,
+          "status": "bench",
+          "note": "Another unused bench WR with significant production."
+        },
+        {
+          "name": "J.K. Dobbins",
+          "position": "RB",
+          "points": 13.8,
+          "status": "bench",
+          "note": "Bench RB produced well but was not used."
+        }
+      ]
+    },
+    "THE Derbaum": {
+      "record": "1-0",
+      "points_for": 92.42,
+      "streak": "W1",
+      "summary": "Narrow win despite underperformance from several top skill players; bench decisions left additional scoring unused.",
+      "key_positive_players": [
+        {
+          "name": "Kyren Williams",
+          "position": "RB",
+          "points": 17.4,
+          "impact": "Key contributor to the win."
+        },
+        {
+          "name": "George Kittle",
+          "position": "TE",
+          "points": 12.6,
+          "impact": "Solid TE production helped offset WR/QB misses."
+        }
+      ],
+      "key_negative_players": [
+        {
+          "name": "Ja'Marr Chase",
+          "position": "WR",
+          "points": 3.6,
+          "impact": "Severe underperformance (-12.88) threatened team’s scoring."
+        },
+        {
+          "name": "Amon-Ra St. Brown",
+          "position": "WR",
+          "points": 6.5,
+          "impact": "Below expected output (-7.21)."
+        },
+        {
+          "name": "Trevor Lawrence",
+          "position": "QB",
+          "points": 10.32,
+          "impact": "Underperformed relative to projection (-7.66)."
+        }
+      ],
+      "bench_notes": [
+        {
+          "name": "Keon Coleman",
+          "position": "WR",
+          "points": 21.2,
+          "status": "bench",
+          "note": "Left a 20+ point bench WR unused."
+        },
+        {
+          "name": "J.J. McCarthy",
+          "position": "QB",
+          "points": 22.22,
+          "status": "bench",
+          "note": "Bench QB also produced well but was unused."
+        },
+        {
+          "name": "Dalton Kincaid",
+          "position": "TE",
+          "points": 12.8,
+          "status": "bench",
+          "note": "High TE bench output unused."
+        }
+      ]
+    },
+    "D.J. Chark Week": {
+      "record": "0-1",
+      "points_for": 84.22,
+      "streak": "L1",
+      "summary": "Loss despite Patrick Mahomes' big week and a strong D/ST; weakened by poor receiver production and matchup inefficiency.",
+      "key_positive_players": [
+        {
+          "name": "Patrick Mahomes",
+          "position": "QB",
+          "points": 26.02,
+          "impact": "High QB output kept team competitive."
+        },
+        {
+          "name": "Broncos D/ST",
+          "position": "D/ST",
+          "points": 16.0,
+          "impact": "Provided notable defensive scoring."
+        }
+      ],
+      "key_negative_players": [
+        {
+          "name": "Terry McLaurin",
+          "position": "WR",
+          "points": 3.7,
+          "impact": "Severely below projection (-7.68)."
+        }
+      ],
+      "bench_notes": []
+    },
+    "OHHHHHHH YEAHHHHH!!!!": {
+      "record": "1-0",
+      "points_for": 114.06,
+      "streak": "W1",
+      "summary": "Best team score in Week 1; win driven by an explosive Josh Allen and a flex WR breakout (Emeka Egbuka). Strong special teams output also contributed.",
+      "key_positive_players": [
+        {
+          "name": "Josh Allen",
+          "position": "QB",
+          "points": 38.76,
+          "impact": "Huge QB outing (highest outperformance league-wide) that carried the team."
+        },
+        {
+          "name": "Emeka Egbuka",
+          "position": "WR",
+          "points": 21.6,
+          "impact": "Flex WR provided major unexpected scoring (+10.33)."
+        },
+        {
+          "name": "Cam Little",
+          "position": "K",
+          "points": 15.0,
+          "impact": "Kicker scoring was unusually high and impactful."
+        }
+      ],
+      "key_negative_players": [
+        {
+          "name": "Xavier Worthy",
+          "position": "WR",
+          "points": 0.0,
+          "impact": "Zero production from WR slot (-14.36 vs projection) but team still won comfortably."
+        },
+        {
+          "name": "Jonathan Taylor",
+          "position": "RB",
+          "points": 11.3,
+          "impact": "Below projection (-5.77), but offset by other scoring."
+        }
+      ],
+      "bench_notes": [
+        {
+          "name": "Jayden Reed",
+          "position": "WR",
+          "points": 12.0,
+          "status": "bench",
+          "note": "Decent bench WR unused."
+        }
+      ]
+    },
+    "No Punt Intended": {
+      "record": "0-1",
+      "points_for": 106.76,
+      "streak": "L1",
+      "summary": "High-scoring loss — strong QB output from Lamar Jackson but leaving very high-scoring bench players (Justin Fields, Javonte Williams) on the bench cost a potential comeback.",
+      "key_positive_players": [
+        {
+          "name": "Lamar Jackson",
+          "position": "QB",
+          "points": 29.36,
+          "impact": "Excellent QB outing that kept team in range."
+        }
+      ],
+      "key_negative_players": [
+        {
+          "name": "Jerome Ford",
+          "position": "RB",
+          "points": 1.0,
+          "impact": "Severe RB flop (-11.36) limited rushing scoring."
+        },
+        {
+          "name": "Drake London",
+          "position": "WR",
+          "points": 9.5,
+          "impact": "Below projection and not enough to support Lamar's output."
+        }
+      ],
+      "bench_notes": [
+        {
+          "name": "Justin Fields",
+          "position": "QB",
+          "points": 29.52,
+          "status": "bench",
+          "note": "Huge bench QB left unused; this was a primary missed opportunity."
+        },
+        {
+          "name": "Javonte Williams",
+          "position": "RB",
+          "points": 19.4,
+          "status": "bench",
+          "note": "Another significant bench miss."
+        }
+      ]
+    },
+    "Puka Puka": {
+      "record": "1-0",
+      "points_for": 85.52,
+      "streak": "W1",
+      "summary": "Low-scoring win centered on WR Puka Nacua; suffered from Dak Prescott and A.J. Brown underperforming but opponent did not capitalize.",
+      "key_positive_players": [
+        {
+          "name": "Puka Nacua",
+          "position": "WR",
+          "points": 18.1,
+          "impact": "Top WR output that anchored scoring."
+        },
+        {
+          "name": "Kyle Pitts Sr.",
+          "position": "TE",
+          "points": 9.4,
+          "impact": "TE production contributed to a tight win."
+        }
+      ],
+      "key_negative_players": [
+        {
+          "name": "Dak Prescott",
+          "position": "QB",
+          "points": 7.82,
+          "impact": "Major QB underperformance (-8.71) yet team still won."
+        },
+        {
+          "name": "A.J. Brown",
+          "position": "WR",
+          "points": 1.3,
+          "impact": "Severe WR underperformance (-12.64)."
+        }
+      ],
+      "bench_notes": [
+        {
+          "name": "Zay Flowers",
+          "position": "WR",
+          "points": 24.6,
+          "status": "bench",
+          "note": "Left a clear 20+ point bench asset unused; could have transformed the margin."
+        }
+      ]
+    },
+    "World of Hurts": {
+      "record": "0-1",
+      "points_for": 74.42,
+      "streak": "L1",
+      "summary": "Struggled offensively with poor QB and WR output; one of the lowest team scores of Week 1.",
+      "key_positive_players": [
+        {
+          "name": "Chuba Hubbard",
+          "position": "RB",
+          "points": 16.4,
+          "impact": "Was one of the few reliable scorers for the team."
+        }
+      ],
+      "key_negative_players": [
+        {
+          "name": "Joe Burrow",
+          "position": "QB",
+          "points": 8.82,
+          "impact": "Major QB miss (-11.16) that severely limited team scoring."
+        },
+        {
+          "name": "Jahmyr Gibbs",
+          "position": "RB",
+          "points": 10.0,
+          "impact": "Below projection (-6.62) and insufficient to offset QB issues."
+        }
+      ],
+      "bench_notes": [
+        {
+          "name": "Jordan Love",
+          "position": "QB",
+          "points": 15.92,
+          "status": "bench",
+          "note": "Decent bench QB left unused."
+        }
+      ]
+    }
+  },
+  "player_level_trends": {
+    "week_observations": [
+      {
+        "type": "repeat_top_performers",
+        "notes": "Week 1 showed individual outliers rather than repeats (Josh Allen, Derrick Henry, Justin/Caleb Williams bench highlights). As the season continues, watch for whether high-week QBs remain volatile or stabilize."
+      },
+      {
+        "type": "notable_underperformers",
+        "notes": "Several expected WR/QB contributors severely underperformed in Week 1 (Ja'Marr Chase, A.J. Brown, Nico Collins, Cooper Kupp) demonstrating early-season volatility at skill positions."
+      }
+    ],
+    "players_of_note_by_impact": [
+      {
+        "player": "Josh Allen",
+        "team": "OHHHHHHH YEAHHHHH!!!!",
+        "week_impact": "Game-changing QB outing that carried team to top score of the week."
+      },
+      {
+        "player": "Derrick Henry",
+        "team": "Clever Team  Name Incoming",
+        "week_impact": "Led RB scoring for his team and was primary reason for decisive win."
+      },
+      {
+        "player": "Justin Fields",
+        "team": "No Punt Intended",
+        "week_impact": "Bench QB who outscored used starters; leaving him off lineup was a notable owner miss."
+      },
+      {
+        "player": "Zay Flowers",
+        "team": "Puka Puka",
+        "week_impact": "24.6 bench points exemplify league-wide bench-mismanagement trend."
+      }
+    ]
+  },
+  "owner_behaviors": {
+    "common_patterns": [
+      "Multiple owners left 20+ point bench assets unused (Caleb Williams, Justin Herbert, Keon Coleman, Keenan Allen, Zay Flowers, Justin Fields, J.J. McCarthy).",
+      "Some owners elected to start defenses or kickers that far outscored their projections (Broncos D/ST, Cam Little) — showing payoff for contrarian lineup choices.",
+      "Several owners started QBs who massively underperformed (Bo Nix, Joe Burrow, Dak Prescott), indicating early-season QB risk in start/sit decisions."
+    ],
+    "notable_individual_decisions": [
+      {
+        "owner_team": "I Know Exactly What I\u2019m Doing",
+        "behavior": "Left Caleb Williams, Travis Etienne Jr., and Aaron Jones Sr. on bench; missed over ~55 combined points that would have flipped the game."
+      },
+      {
+        "owner_team": "Gronk for my  johnson",
+        "behavior": "Bench Justin Herbert despite 27.92 points; conservative QB choice narrowly preserved win but reduced margin."
+      },
+      {
+        "owner_team": "No Punt Intended",
+        "behavior": "Left both Justin Fields and Javonte Williams on bench; two large missed opportunities directly correlated with a narrow loss."
+      },
+      {
+        "owner_team": "Puka Puka",
+        "behavior": "Started Dak Prescott and A.J. Brown despite both underperforming and left Zay Flowers (24.6) on bench."
+      }
+    ]
+  },
+  "playoff_projection_after_week_1": {
+    "playoff_format": "Top 6 teams make playoffs (record, then head-to-head, then Points For)",
+    "seeding_note": "All teams are 1-0 or 0-1; seeding among 1-0 teams determined by Points For. Head-to-head not applicable beyond match results.",
+    "projected_playoff_teams_by_seed": [
+      {
+        "seed": 1,
+        "team": "OHHHHHHH YEAHHHHH!!!!",
+        "record": "1-0",
+        "points_for": 114.06,
+        "comment": "Highest PF among winners; top seed after Week 1."
+      },
+      {
+        "seed": 2,
+        "team": "Clever Team  Name Incoming",
+        "record": "1-0",
+        "points_for": 111.42,
+        "comment": "Second-highest PF; strong opening-week margin."
+      },
+      {
+        "seed": 3,
+        "team": "Baker's Brownie Stand",
+        "record": "1-0",
+        "points_for": 104.98,
+        "comment": "High-scoring winner likely to hold favorable early seeding."
+      },
+      {
+        "seed": 4,
+        "team": "Gronk for my  johnson",
+        "record": "1-0",
+        "points_for": 102.88,
+        "comment": "Won a close matchup; PF keeps them near top half."
+      },
+      {
+        "seed": 5,
+        "team": "THE Derbaum",
+        "record": "1-0",
+        "points_for": 92.42,
+        "comment": "Narrow win and lower PF places them in middle of playoff picture."
+      },
+      {
+        "seed": 6,
+        "team": "Puka Puka",
+        "record": "1-0",
+        "points_for": 85.52,
+        "comment": "Lowest PF among winners but still occupies final playoff spot after Week 1."
+      }
+    ],
+    "not_in_playoffs_initially": [
+      {
+        "team": "No Punt Intended",
+        "record": "0-1",
+        "points_for": 106.76,
+        "comment": "High PF but 0-1 starts place team outside playoff bracket; tiebreakers favor 1-0 teams."
+      },
+      {
+        "team": "Here Comes McBride",
+        "record": "0-1",
+        "points_for": 95.04
+      },
+      {
+        "team": "Goff And Running",
+        "record": "0-1",
+        "points_for": 91.72
+      },
+      {
+        "team": "C.J. Chark Week",
+        "record": "0-1",
+        "points_for": 84.22
+      },
+      {
+        "team": "I Know Exactly What I\u2019m Doing",
+        "record": "0-1",
+        "points_for": 80.98
+      },
+      {
+        "team": "World of Hurts",
+        "record": "0-1",
+        "points_for": 74.42
+      }
+    ],
+    "playoff_takeaway": "After one week, playoff spots are populated by the six 1-0 teams sorted by Points For. Several 0-1 teams posted league-average-or-better scoring (e.g., No Punt Intended 106.76) and remain well-positioned to climb into playoff contention with a win in Week 2; early PF will be an important tiebreaker as teams accumulate similar records."
+  },
+  "week_level_conclusion": {
+    "summary": "Week 1 highlighted extreme week-to-week variance (particularly at QB) and consistent, league-wide bench mismanagement that affected multiple outcomes. The average team score (~95.4) is a useful benchmark; winners generally outscored that by a comfortable margin. Early playoff seeding is primarily a snapshot based on Week 1 Points For among 1-0 teams; many 0-1 teams still have high PF and can rebound quickly. Owners who regularly check and optimize benches should expect to gain an edge in what looks to be a season where one or two lineup decisions per week can swing match results.",
+    "data_driven_restriction": "All statements here are derived solely from the Week 1 weekly summaries and the previously provided season summary text."
+  }
+}
