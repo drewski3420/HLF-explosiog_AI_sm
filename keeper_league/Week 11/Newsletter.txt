@@ -1,0 +1,192 @@
+Last Week’s Recap
+
+Overview
+- Week 11 produced several narrow outcomes and multiple matchup-swinging performances from unexpected sources. Key league-wide patterns: bench management directly altered results in multiple matchups, D/ST and kicker weeks produced decisive point swings, and high variance at RB/WR/TE led to upsets and close finishes.
+- Notable single-week scoring events: Steelers D/ST 22.0, Jason Myers 14.0, Josh Allen 42.68, Kenneth Gainwell 26.0, Sean Tucker 33.0, Bijan Robinson 28.3, Christian McCaffrey 32.6, George Kittle 21.7, Travis Kelce 19.6 (on bench), Christian Watson 18.6 (on bench).
+
+Match-by-match summaries
+
+1) Clever Team Name Incoming (Away) @ Here Comes McBride (Home)
+- Result: Here Comes McBride won 148.30 – 112.96.
+- Standouts vs projections:
+  - Sean Tucker (home): 33.0 (proj 9.47; +23.53) — 106 rush yards, 2 rush TD, 2 rec for 34 yards, 1 rec TD.
+  - Tetairoa McMillan (home): 29.0 (proj 10.87; +18.13) — 8 rec, 130 yards, 2 TD.
+  - Trey McBride (home): 22.5 (proj 15.21; +7.29) — 10 rec, 115 yards, 1 TD.
+  - TreVeyon Henderson (away): 29.8 (proj 12.8; +17.0) — 62 rush yards, 2 rush TD, 5 rec 31 yards, 1 rec TD.
+  - Joe Flacco (away) underperformed: 9.86 (proj 16.66; -6.8).
+- Bench/roster notes: Brock Purdy and Bo Nix were benched despite scoring (Purdy 19.3 on bench). Trey Benson and Omarion Hampton inactive. Sam LaPorta inactive on away bench.
+- Key takeaway: Here Comes McBride was carried by unexpected RB/WR explosions and a strong TE performance; bench QB production on the home side was unused but not needed. Clever Team Name Incoming got strong RB scoring but insufficient QB/WR support.
+
+2) I Know Exactly What I’m Doing (Away) @ Goff And Running (Home)
+- Result: I Know Exactly What I’m Doing won 97.72 – 67.74.
+- Standouts vs projections:
+  - Nico Collins (away): 19.7 (proj 13.69; +6.01) — 9 rec, 92 yards, 1 TD.
+  - Tre Tucker (away): 12.7 (proj 9.16; +3.54) — 4 rec, 47 yards, 1 TD.
+  - Tyler Loop (K, home): 12.0 (proj 7.85; +4.15).
+  - Caleb Williams (away) underperformed: 10.32 (proj 19.55; -9.23).
+  - Drake Maye (home) underperformed: 15.44 (proj 22.42; -6.98).
+- Bench/roster notes: Jameson Williams produced 17.7 on the away bench. J.K. Dobbins inactive (home).
+- Key takeaway: Away team won on WR production and bench depth; home team’s starters (QB and WRs) failed to meet projections, producing a low total.
+
+3) Gronk for my johnson (Away) @ D.J. Chark Week (Home)
+- Result: Gronk for my johnson won 95.00 – 93.54 (close margin).
+- Standouts vs projections:
+  - Bijan Robinson (away): 28.3 (proj 18.35; +9.95) — 104 rush yards, 2 rush TD.
+  - George Pickens (home): 24.9 (proj 12.1; +12.8) — 9 rec, 144 yards, 1 TD.
+  - Kenneth Walker III (home): 18.6 (proj 9.98; +8.62).
+  - Justin Jefferson (home) underperformed: 8.6 (proj 16.26; -7.66).
+  - Jalen Hurts (away) underperformed: 14.5 (proj 21.64; -7.14).
+- Bench/roster notes: Mark Andrews scored 14.2 on the away bench; Christian Watson scored 18.6 on the home bench and was left unused.
+- Key takeaway: Bijan Robinson’s rushing performance was decisive for the away team; the home team’s leaving Christian Watson on the bench and underperformance from expected leaders (Jefferson, Chubb) were critical.
+
+4) Baker's Brownie Stand (Away) @ OHHHHHHH YEAHHHHH!!!! (Home)
+- Result: Baker's Brownie Stand won 101.82 – 99.98.
+- Standouts vs projections:
+  - Josh Allen (home): 42.68 (proj 20.7; +21.98) — 317 pass yards, 3 pass TD, 2 INT, 40 rush yards, 3 rush TD.
+  - Christian McCaffrey (away): 32.6 (proj 23.13; +9.47) — 81 rush yards, 2 rush TD, 5 rec 40 yards, 1 rec TD.
+  - Steelers D/ST (away): 22.0 (proj 6.3; +15.7) — 1 INT, 1 fumble, 1 sack; held opponent to 12 points.
+  - Emeka Egbuka (home) underperformed: 6.5 (proj 14.08; -7.58).
+- Bench/roster notes: Tyreek Hill inactive/IR (away). Garrett Wilson on bench with 0.0.
+- Key takeaway: The away team’s D/ST explosion plus McCaffrey produced the margin; the home team had a huge QB outing from Allen but lacked supporting scoring.
+
+5) THE Derbaum (Away) @ Puka Puka (Home)
+- Result: THE Derbaum won 115.12 – 97.22.
+- Standouts vs projections:
+  - George Kittle (away): 21.7 (proj 11.36; +10.34) — 6 rec, 67 yards, 2 TD.
+  - Dak Prescott (home) produced 24.32 (proj 17.86; +6.46) — 25/33, 268 yards, 4 TD.
+  - Travis Etienne Jr. (home): 19.3 (proj 13.18; +6.12).
+  - Ja’Marr Chase (home) severely underperformed: 4.5 (proj 18.18; -13.68).
+  - Ashton Jeanty (home) underperformed: 6.4 (proj 17.14; -10.74).
+- Bench/roster notes: Bhayshul Tuten (away) scored 13.4 on the bench and added value despite bench status. A.J. Brown was left on Puka Puka’s bench.
+- Key takeaway: THE Derbaum’s TE scoring (Kittle) plus steady RB/bench contributions overcame Puka Puka’s QB/RB/WR underperformance and fumble turnover by Nacua.
+
+6) No Punt Intended (Away) @ World of Hurts (Home)
+- Result: World of Hurts won 100.96 – 75.32.
+- Standouts vs projections:
+  - Kenneth Gainwell (home): 26.0 (proj 7.91; +18.09) — 24 rush yards, 7 rec, 81 yards, 2 rec TD.
+  - Jason Myers (K, home): 14.0 (proj 8.11; +5.89).
+  - Travis Kelce (home) scored 19.6 on bench (9 rec, 91 yards, 1 TD) — notable missed start.
+  - Lamar Jackson (away) severely underperformed: 4.72 (proj 19.68; -14.96) — 2 INT.
+  - Josh Jacobs (away) severely underperformed: 4.0 (proj 20.33; -16.33).
+- Bench/roster notes: Travis Kelce left on the bench despite big scoring. Marvin Harrison Jr. inactive on the away side.
+- Key takeaway: Home team won due to a breakout receiving RB performance and kicker; away team collapsed around QB and lead RB underperformance.
+
+Weekly patterns and notable notes
+- Bench management swings: multiple teams left high-scoring players on benches (Travis Kelce 19.6, Christian Watson 18.6, Jameson Williams 17.7, Brock Purdy 19.3) that would have materially affected results.
+- D/ST and kicker variance: Defensive units and kickers produced several multi-score weeks that flipped matchups (Steelers D/ST 22.0; Tyler Loop 12.0; Jason Myers 14.0).
+- High variance at skill positions: RB/WR/TE deviations from projections produced narrow results and upsets across the slate.
+
+Season Trends
+
+League-wide metrics (through Week 10 / season context included through Week 11 recaps)
+- League average team score per week: 104.14 points.
+- Total points scored league-wide to date: 12,497.16.
+- Major themes:
+  - Persistent bench-management impact: owners frequently left 15+ and 20+ point performances unused; this has been the most-cited behavioral factor shifting results.
+  - Running back and tight-end breakouts have been primary drivers of wins (examples: Christian McCaffrey, Jonathan Taylor, Bijan Robinson, De’Von Achane, George Kittle, Brock Bowers).
+  - D/ST and kicker variance continues to have outsized effects in tight matchups.
+  - QB variance influenced many close games: some QBs massively outperformed (Josh Allen, Caleb Williams in certain weeks) while others had game-changing collapses (Lamar Jackson, Justin Herbert on bench weeks).
+
+Team-level trends (records, scoring patterns, volatility, owner behaviors)
+- Here Comes McBride (8-3, PF 1216.76): Balanced scoring; W6 streak; medium-high volatility; strong bench additions; benefits from opportunistic D/ST and TE weeks.
+- Gronk for my johnson (7-4, PF 1201.2): High ceiling and highest PF among contenders; volatility at RB and occasional bench misusage (benching Herbert/Andrews at times).
+- THE Derbaum (7-4, PF 1193.06): RB/TE-driven scoring (Kittle, Achane); medium-high volatility; bench depth adds value.
+- Puka Puka (7-4, PF 1167.2): High-variance offense; capable of 140+ or sub-90 totals; notable repeat performers include Dak, Puka Nacua, Ja’Marr Chase when on.
+- Baker’s Brownie Stand (6-5, PF 1150.40): Relies on McCaffrey and occasional D/ST; mid-tier playoff chances; impacted by Tyreek Hill inactivity/IR.
+- OHHHHHHH YEAHHHHH!!!! (5-6, PF 1162.66): RB/TE explosive weeks, but kicker/D/ST volatility and byes reduce consistency.
+- No Punt Intended (5-6, PF 1188.26): High PF season-wise; QB/RB dependent; vulnerable to QB volatility.
+- Clever Team Name Incoming (5-6, PF 1082.94): Mix of TE/WR production and spot RB explosions; medium volatility.
+- I Know Exactly What I’m Doing (5-6, PF 1131.64): High-ceiling weeks driven by Caleb Williams and WRs; inconsistent bench management.
+- Goff And Running (4-7, PF 1025.22): Underperforming PF; dependent on RB health; repeated benching of productive QBs.
+- World of Hurts (4-7, PF 1096.02): Occasional large single-player explosions; overall inconsistent roster output.
+- D.J. Chark Week (3-8, PF 1087.48): Very high volatility; occasional massive weeks offset by multiple low totals.
+
+Player-level trends
+- Consistent/high-ceiling performers: Christian McCaffrey, Jonathan Taylor, Jahmyr Gibbs, Caleb Williams (QB), Brock Bowers (TE).
+- High-variance/repeat underperformers: Justin Fields (very variable), Puka Nacua (inconsistent), Bijan Robinson (boom/bust tendencies).
+- Tight ends have been game-changers: Brock Bowers, Dalton Kincaid, George Kittle, Trey McBride and others have produced match-deciding weeks.
+
+Owner behavior and lineup management
+- Recurring pattern: many owners regularly leave 15+ point bench performances inactive; this has directly influenced multiple narrow losses.
+- Smart choices observed: rostering and starting matchup-appropriate D/STs and kickers that outperformed projections; picking up high-upside waiver adds quickly when opportunities arose.
+- Risky choices observed: benching high-scoring QBs and elite skill players during pivotal weeks (examples include benching Kelce, Herbert, Goff in multiple weeks).
+
+Playoff picture and implications (top 6 seeds, through current standings)
+- Current top-six by record / PF and primary notes:
+  1. Here Comes McBride — 8-3, PF 1216.76 (seed 1). Strong scoring and streak; deep bench.
+  2. Gronk for my johnson — 7-4, PF 1201.2 (seed 2). Highest ceiling; needs to manage RB/TE volatility.
+  3. THE Derbaum — 7-4, PF 1193.06 (seed 3). RB/TE breakouts; avoid kicker/D/ST zeroes.
+  4. Puka Puka — 7-4, PF 1167.2 (seed 4). High ceiling but volatile; bench misplays have cost points.
+  5. No Punt Intended — 5-6, PF 1188.26 (seed 5 via PF). High scoring season but QB/RB dependent.
+  6. OHHHHHHH YEAHHHHH!!!! — 5-6, PF 1162.66 (seed 6). Relies on RB/TE game-breakers; bench and D/ST choices critical.
+
+Playoff drivers and risks
+- Drivers: teams with highest PF (Gronk, No Punt Intended) have the greatest ceilings; RB/WR/TE breakouts will continue to be primary win paths.
+- Risks: high variance across QB/RB/TE and unpredictability of D/ST and kickers; bench mismanagement can flip tight playoff matchups.
+
+Closing observations (data-driven)
+- The league average weekly team score (~104.1) is a useful baseline; many winning weeks significantly exceed that while losses often fall well below.
+- Bench management is the most frequently cited factor changing outcomes; consider tracking bench risk frequency as a metric.
+- Playoff seeding 3–6 remains fluid — a couple of high/low weeks or lineup decisions could reshuffle positions.
+
+Next Week’s Preview
+
+Standings snapshot (top to bottom; wins–losses – points for)
+- 1) Here Comes McBride: 8-3 — PF 1216.76 — Streak W6 — Playoff chance 100.0%
+- 2) Gronk for my johnson: 7-4 — PF 1201.20 — W1 — Playoff chance 94.375%
+- 3) THE Derbaum: 7-4 — PF 1193.06 — W2 — Playoff chance 97.5%
+- 4) Puka Puka: 7-4 — PF 1167.20 — L1 — Playoff chance 94.525%
+- 5) Baker’s Brownie Stand: 6-5 — PF 1150.40 — W1 — Playoff chance 64.45%
+- 6) OHHHHHHH YEAHHHHH!!!!: 5-6 — PF 1162.66 — L2 — Playoff chance 36.175%
+- 7) No Punt Intended: 5-6 — PF 1188.26 — L2 — Playoff chance 47.70%
+- 8) Clever Team Name Incoming: 5-6 — PF 1082.94 — L1 — Playoff chance 19.95%
+- 9) I Know Exactly What I’m Doing: 5-6 — PF 1131.64 — W3 — Playoff chance 35.4%
+- 10) Goff And Running: 4-7 — PF 1025.22 — L3 — Playoff chance 4.10%
+- 11) World of Hurts: 4-7 — PF 1096.02 — W1 — Playoff chance 5.525%
+- 12) D.J. Chark Week: 3-8 — PF 1087.48 — L6 — Playoff chance 0.3%
+
+Key matchups and projections (next week)
+- Clever Team Name Incoming @ Here Comes McBride
+  - Projected winner: Here Comes McBride (proj score 113.79 vs 101.21).
+  - Notable roster impacts: Here Comes McBride has Bo Nix/Brock Purdy/J.J. McCarthy available; Omarion Hampton and Trey Benson inactive; Tetairoa McMillan, Trey McBride expected contributors. Clever is missing Jayden Daniels and Sam LaPorta (inactive); projected heavy RB/WR usage from Derrick Henry, TreVeyon Henderson, D’Andre Swift.
+  - Watch: Here Comes McBride’s depth and recent momentum vs Clever’s RB upside. Bench management (Purdy/Nix/Fields on benches historically) remains relevant.
+
+- I Know Exactly What I’m Doing @ Goff And Running
+  - Projected winner: Goff And Running (proj 97.42 vs 96.99) — very close.
+  - Notable: Drake Maye projected high for Goff And Running; I Know Exactly What I’m Doing fields Caleb Williams and multiple WRs (Collins, Higgins, Johnston). J.K. Dobbins and Rhamondre Stevenson inactive for home side.
+  - Watch: QB matchups and whether Maye meets projection; close projection suggests lineup decisions (which QB to start) will matter.
+
+- Gronk for my johnson @ D.J. Chark Week
+  - Projected winner: Gronk for my johnson (proj 113.77 vs 94.26).
+  - Notable: Gronk projects heavy with Jalen Hurts, Bijan Robinson, and Jaxon Smith-Njigba. D.J. Chark Week has Patrick Mahomes available but multiple inactives (Alvin Kamara BYE, Terry McLaurin inactive) and Dalton Kincaid inactive.
+  - Watch: Gronk’s high projected ceiling vs reduced depth on home side. Mahomes’ projection is moderate — decision differential could tighten gap.
+
+- Baker’s Brownie Stand @ OHHHHHHH YEAHHHHH!!!!
+  - Projected winner: OHHHHHHH YEAHHHHH!!!! (proj 105.88 vs 92.16).
+  - Notable: Baker’s side missing Tyreek Hill and multiple WRs (Garrett Wilson projected 0.0). Christian McCaffrey is a major driver for Baker’s. Home side has Brock Bowers, Emeka Egbuka, and available Josh Allen (projected 20.7).
+  - Watch: Allen’s ceiling vs Baker’s reliance on McCaffrey; home team’s WR/TE depth and the effect of multiple byes on both benches.
+
+- THE Derbaum @ Puka Puka
+  - Projected winner: Puka Puka (proj 122.72 vs 120.27) — close, high-projection game.
+  - Notable: Both teams project very high totals. Puka Puka has Dak, Ja’Marr Chase, Puka Nacua, Rico Dowdle, Travis Etienne in projected roles. THE Derbaum features De’Von Achane (high projection 24.96), Kyren Williams, Amon-Ra St. Brown, and George Kittle.
+  - Watch: This is a high-ceiling matchup; small differences (bench activation, K/DEF) could decide outcome. Turnovers or bench misplays are likely decisive.
+
+- No Punt Intended @ World of Hurts
+  - Projected winner: No Punt Intended (proj 125.21 vs 102.63).
+  - Notable: No Punt Intended projects a very high total with Lamar Jackson, Josh Jacobs, Jaylen Warren, Javonte Williams and Drake London active; Marvin Harrison Jr. is inactive. World of Hurts projects Jahmyr Gibbs and Davante Adams as primary scorers; Joe Burrow is inactive.
+  - Watch: No Punt Intended’s projected offensive firepower stands out; Joe Burrow inactive for World of Hurts reduces their ceiling. Expect a potential large-scoring win for No Punt Intended if projections hold.
+
+Roster and lineup factors to monitor
+- Injuries/Inactive/BYE impacts: Several teams have notable inactives and BYEs next week (e.g., Tyreek Hill inactive/IR, Jonathan Taylor BYE, Daniel Jones BYE, some teams missing key WRs or RBs). Review each team’s inactives before lock.
+- Bench risk remains high: prior weeks show owners leaving multi-touchdown players on bench (e.g., Kelce, Watson, Andrews). Managers should re-check bench players with high projections before lock.
+- D/ST and kicker decisions: low-cost but high-variance spots (D/ST, kickers) have been decisive — consider matchup-based starts rather than default rostering.
+
+Immediate scheduling notes
+- The Week 12 schedule (remaining schedule list provided) repeats matchups in forthcoming weeks; managers should plan for recurring head-to-head opponents and upcoming bye patterns.
+
+Summary guidance for managers (fact-based)
+- Double-check inactives/BYs and confirm starters at QB/TE/RB/WR where viable bench options exist; prior weeks show a 15–20+ point swing from bench mismanagement.
+- Prioritize starting high-floor high-upside RB/WR/TE when available; D/ST/kicker matchup selection can flip close games.
+- For close projected matchups, small decisions — starting a kicker or an available bench receiver/TE — are historically decisive in this league.
+
+End of summary.

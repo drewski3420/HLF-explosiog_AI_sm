@@ -1,6 +1,29 @@
 Week 10
 --Standings:
------------------------------------------------------# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances1.|Kraft Montgomery Cheese|8|2|1112.82|1002.52|3 Wins | 99.97500000000001# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances2.|SnydeRemarks|7|3|1247.1999999999998|1048.88|2 Wins | 98.97500000000001# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances3.|Forte Inch Johnson|6|4|1145.1000000000001|1072.2|3 Wins | 86.35000000000001# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances4.|5WRsAllowedOnRostersNextYear|6|4|1075.9199999999998|1035.58|4 Wins | 83.25# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances5.|Hangin' With Mr. Cooper|5|5|1173.7999999999997|1191.22|1 Losses | 63.625# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances6.|Trying to not finish last|5|5|1172.42|1088.76|1 Wins | 62.775000000000006# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances7.|The Philly Special|5|5|1090.64|1063.34|1 Losses | 55.425000000000004# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances8.|If Ur Not First You're Last|5|5|1066.6399999999999|1016.14|1 Wins | 48.699999999999996# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances9.|Xavier Marks the Spot|5|5|1007.56|1058.48|1 Wins | 34.0# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances10.|Kyler? I Barely Know Her|5|5|996.78|1073.98|3 Losses | 40.825# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances11.|Team Santangelo|4|6|1127.8|1063.28|2 Losses | 25.724999999999998# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances12.|THE Derbaum|4|6|1094.62|1169.42|1 Wins | 30.7# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances13.|Jake Butt Stuff|4|6|1047.24|1108.5|3 Losses | 33.025# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances14.|Big Trouble in Little Cameron|4|6|1018.3399999999999|1094.24|1 Losses | 22.725# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances15.|Team Jon|4|6|918.1399999999999|993.66|3 Losses | 13.450000000000001# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances16.|Dickhole Smashers|3|7|800.4199999999998|1015.24|1 Losses | 0.475----------------------------------------------------------------------------------------------------------Season To Date Top Scorer: SnydeRemarksSeason To Date Lower Scorer: Dickhole SmashersSeason To Date Most Points Against: Hangin' With Mr. Cooper-------------------------------------------------------Matchup: Trying to not finish last @ Jake Butt Stuff
+-----------------------------------------------------
+# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances
+1.|Kraft Montgomery Cheese|8|2|1112.82|1002.52|3 Wins | 99.97500000000001
+2.|SnydeRemarks|7|3|1247.1999999999998|1048.88|2 Wins | 98.97500000000001
+3.|Forte Inch Johnson|6|4|1145.1000000000001|1072.2|3 Wins | 86.35000000000001
+4.|5WRsAllowedOnRostersNextYear|6|4|1075.9199999999998|1035.58|4 Wins | 83.25
+5.|Hangin' With Mr. Cooper|5|5|1173.7999999999997|1191.22|1 Losses | 63.625
+6.|Trying to not finish last|5|5|1172.42|1088.76|1 Wins | 62.775000000000006
+7.|The Philly Special|5|5|1090.64|1063.34|1 Losses | 55.425000000000004
+8.|If Ur Not First You're Last|5|5|1066.6399999999999|1016.14|1 Wins | 48.699999999999996
+9.|Xavier Marks the Spot|5|5|1007.56|1058.48|1 Wins | 34.0
+10.|Kyler? I Barely Know Her|5|5|996.78|1073.98|3 Losses | 40.825
+11.|Team Santangelo|4|6|1127.8|1063.28|2 Losses | 25.724999999999998
+12.|THE Derbaum|4|6|1094.62|1169.42|1 Wins | 30.7
+13.|Jake Butt Stuff|4|6|1047.24|1108.5|3 Losses | 33.025
+14.|Big Trouble in Little Cameron|4|6|1018.3399999999999|1094.24|1 Losses | 22.725
+15.|Team Jon|4|6|918.1399999999999|993.66|3 Losses | 13.450000000000001
+16.|Dickhole Smashers|3|7|800.4199999999998|1015.24|1 Losses | 0.475
+-----------------------------------------------------
+Season To Date Top Scorer: SnydeRemarks
+Season To Date Lower Scorer: Dickhole Smashers
+Season To Date Most Points Against: Hangin' With Mr. Cooper
+-----------------------------------------------------
+--Matchup: Trying to not finish last @ Jake Butt Stuff
 ----Projected Winner: Trying to not finish last
 ----Home team: Jake Butt Stuff
 ------Record: 4-6
@@ -332,7 +355,8 @@ Week 10
 --------K Chase McLaughlin - 8.18 Points Projected
 --------K Tyler Loop - 8.61 Points Projected
 -----------------------------------------------------Remaining Schedules
---Week 11 schedule:----Jake Butt Stuff @ Dickhole Smashers
+--Week 11 schedule:
+----Jake Butt Stuff @ Dickhole Smashers
 ----Team Santangelo @ Trying to not finish last
 ----Big Trouble in Little Cameron @ Kraft Montgomery Cheese
 ----Kyler? I Barely Know Her @ 5WRsAllowedOnRostersNextYear
@@ -340,7 +364,8 @@ Week 10
 ----Hangin' With Mr. Cooper @ Forte Inch Johnson
 ----THE Derbaum @ Xavier Marks the Spot
 ----Team Jon @ SnydeRemarks
---Week 12 schedule:----Jake Butt Stuff @ Dickhole Smashers
+--Week 12 schedule:
+----Jake Butt Stuff @ Dickhole Smashers
 ----Team Santangelo @ Trying to not finish last
 ----Big Trouble in Little Cameron @ Kraft Montgomery Cheese
 ----Kyler? I Barely Know Her @ 5WRsAllowedOnRostersNextYear
@@ -348,7 +373,8 @@ Week 10
 ----Hangin' With Mr. Cooper @ Forte Inch Johnson
 ----THE Derbaum @ Xavier Marks the Spot
 ----Team Jon @ SnydeRemarks
---Week 13 schedule:----Jake Butt Stuff @ Dickhole Smashers
+--Week 13 schedule:
+----Jake Butt Stuff @ Dickhole Smashers
 ----Team Santangelo @ Trying to not finish last
 ----Big Trouble in Little Cameron @ Kraft Montgomery Cheese
 ----Kyler? I Barely Know Her @ 5WRsAllowedOnRostersNextYear
@@ -356,31 +382,8 @@ Week 10
 ----Hangin' With Mr. Cooper @ Forte Inch Johnson
 ----THE Derbaum @ Xavier Marks the Spot
 ----Team Jon @ SnydeRemarks
---Week 14 schedule:----Jake Butt Stuff @ Dickhole Smashers
-----Team Santangelo @ Trying to not finish last
-----Big Trouble in Little Cameron @ Kraft Montgomery Cheese
-----Kyler? I Barely Know Her @ 5WRsAllowedOnRostersNextYear
-----The Philly Special @ If Ur Not First You're Last
-----Hangin' With Mr. Cooper @ Forte Inch Johnson
-----THE Derbaum @ Xavier Marks the Spot
-----Team Jon @ SnydeRemarks
---Week 15 schedule:----Jake Butt Stuff @ Dickhole Smashers
-----Team Santangelo @ Trying to not finish last
-----Big Trouble in Little Cameron @ Kraft Montgomery Cheese
-----Kyler? I Barely Know Her @ 5WRsAllowedOnRostersNextYear
-----The Philly Special @ If Ur Not First You're Last
-----Hangin' With Mr. Cooper @ Forte Inch Johnson
-----THE Derbaum @ Xavier Marks the Spot
-----Team Jon @ SnydeRemarks
---Week 16 schedule:----Jake Butt Stuff @ Dickhole Smashers
-----Team Santangelo @ Trying to not finish last
-----Big Trouble in Little Cameron @ Kraft Montgomery Cheese
-----Kyler? I Barely Know Her @ 5WRsAllowedOnRostersNextYear
-----The Philly Special @ If Ur Not First You're Last
-----Hangin' With Mr. Cooper @ Forte Inch Johnson
-----THE Derbaum @ Xavier Marks the Spot
-----Team Jon @ SnydeRemarks
---Week 17 schedule:----Jake Butt Stuff @ Dickhole Smashers
+--Week 14 schedule:
+----Jake Butt Stuff @ Dickhole Smashers
 ----Team Santangelo @ Trying to not finish last
 ----Big Trouble in Little Cameron @ Kraft Montgomery Cheese
 ----Kyler? I Barely Know Her @ 5WRsAllowedOnRostersNextYear

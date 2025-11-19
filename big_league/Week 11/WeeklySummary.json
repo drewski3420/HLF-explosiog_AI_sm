@@ -1,0 +1,803 @@
+{
+  "week": 11,
+  "matchups": [
+    {
+      "game": "Jake Butt Stuff @ Dickhole Smashers",
+      "winner": "Jake Butt Stuff",
+      "score": {
+        "winner_score": 102.72,
+        "loser_score": 46.14
+      },
+      "top_performers_vs_projection": [
+        {
+          "player": "Trey McBride",
+          "team": "Jake Butt Stuff",
+          "actual": 27.5,
+          "projected": 18.95,
+          "delta": 8.55
+        },
+        {
+          "player": "CeeDee Lamb",
+          "team": "Jake Butt Stuff",
+          "actual": 17.6,
+          "projected": 19.37,
+          "delta": -1.77
+        },
+        {
+          "player": "Emanuel Wilson",
+          "team": "Dickhole Smashers (BENCH)",
+          "actual": 13.9,
+          "projected": 5.81,
+          "delta": 8.09
+        },
+        {
+          "player": "Kyren Williams",
+          "team": "Dickhole Smashers",
+          "actual": 16.6,
+          "projected": 13.89,
+          "delta": 2.71
+        },
+        {
+          "player": "Ravens D/ST",
+          "team": "Jake Butt Stuff",
+          "actual": 11.0,
+          "projected": 6.25,
+          "delta": 4.75
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Aaron Rodgers",
+          "team": "Dickhole Smashers",
+          "actual": 9.44,
+          "projected": 18.91,
+          "delta": -9.47
+        },
+        {
+          "player": "Justin Jefferson",
+          "team": "Dickhole Smashers",
+          "actual": 11.1,
+          "projected": 19.55,
+          "delta": -8.45
+        },
+        {
+          "player": "Caleb Williams",
+          "team": "Jake Butt Stuff",
+          "actual": 10.32,
+          "projected": 19.55,
+          "delta": -9.23
+        },
+        {
+          "player": "Raiders D/ST",
+          "team": "Dickhole Smashers",
+          "actual": 1.0,
+          "projected": 4.08,
+          "delta": -3.08
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Bam Knight",
+          "team": "Jake Butt Stuff (BENCH)",
+          "actual": 14.5,
+          "projected": 11.16
+        },
+        {
+          "player": "Emanuel Wilson",
+          "team": "Dickhole Smashers (BENCH)",
+          "actual": 13.9,
+          "projected": 5.81
+        },
+        {
+          "player": "Baker Mayfield",
+          "team": "Dickhole Smashers (BENCH)",
+          "actual": 16.82,
+          "projected": 17.35
+        }
+      ],
+      "impactful_transactions": [],
+      "key_takeaways": {
+        "Jake Butt Stuff": [
+          "Tight end Trey McBride significantly outscored projection and was a primary scoring driver.",
+          "Ravens D/ST outperformed expectations and contributed meaningful points.",
+          "Caleb Williams underperformed relative to projection but the receiving corps + TE production was enough to win."
+        ],
+        "Dickhole Smashers": [
+          "Multiple starters were inactive (Isiah Pacheco, Rashod Bateman, Dalton Kincaid, Rhamondre Stevenson) which severely limited ceiling.",
+          "Aaron Rodgers and Justin Jefferson both well below projection; offense struggled to put up points.",
+          "Strong bench performances (Emanuel Wilson) did not offset inactive starters or QB/WR underperformance."
+        ]
+      }
+    },
+    {
+      "game": "Team Santangelo @ Trying to not finish last",
+      "winner": "Trying to not finish last",
+      "score": {
+        "winner_score": 105.16,
+        "loser_score": 62.44
+      },
+      "top_performers_vs_projection": [
+        {
+          "player": "Sean Tucker",
+          "team": "Trying to not finish last",
+          "actual": 34.0,
+          "projected": 10.23,
+          "delta": 23.77
+        },
+        {
+          "player": "Tyrone Tracy Jr.",
+          "team": "Trying to not finish last",
+          "actual": 17.9,
+          "projected": 12.56,
+          "delta": 5.34
+        },
+        {
+          "player": "James Cook III",
+          "team": "Team Santangelo",
+          "actual": 20.4,
+          "projected": 18.51,
+          "delta": 1.89
+        },
+        {
+          "player": "Jason Myers",
+          "team": "Team Santangelo",
+          "actual": 14.0,
+          "projected": 8.11,
+          "delta": 5.89
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Justin Herbert",
+          "team": "Team Santangelo",
+          "actual": 3.34,
+          "projected": 19.57,
+          "delta": -16.23
+        },
+        {
+          "player": "Ja'Marr Chase",
+          "team": "Team Santangelo",
+          "actual": 6.0,
+          "projected": 22.3,
+          "delta": -16.3
+        },
+        {
+          "player": "DeVonta Smith",
+          "team": "Team Santangelo",
+          "actual": 1.8,
+          "projected": 15.27,
+          "delta": -13.47
+        },
+        {
+          "player": "Joe Flacco",
+          "team": "Trying to not finish last",
+          "actual": 9.86,
+          "projected": 16.66,
+          "delta": -6.8
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Jordan Love",
+          "team": "Team Santangelo (BENCH)",
+          "actual": 17.66,
+          "projected": 16.34
+        },
+        {
+          "player": "Bhayshul Tuten",
+          "team": "Team Santangelo (BENCH)",
+          "actual": 13.4,
+          "projected": 4.78
+        },
+        {
+          "player": "Tony Pollard",
+          "team": "Trying to not finish last (BENCH)",
+          "actual": 5.6,
+          "projected": 9.3
+        }
+      ],
+      "impactful_transactions": [],
+      "key_takeaways": {
+        "Trying to not finish last": [
+          "Sean Tucker delivered a massive outperformance and was the game's primary difference maker.",
+          "Drake London and steady RB production provided balanced scoring despite QB Joe Flacco underperforming.",
+          "Kicker Lucas Havrisik missed extra points (1/3), a noteworthy special-teams issue."
+        ],
+        "Team Santangelo": [
+          "Justin Herbert and top WRs (Chase, Smith) significantly underperformed and tanked the team's projection.",
+          "James Cook and kicker Jason Myers helped salvage some points but not enough to keep pace.",
+          "Bench depth (Jordan Love, Bhayshul Tuten) had usable scoring but were not active to change the result."
+        ]
+      }
+    },
+    {
+      "game": "Big Trouble in Little Cameron @ Kraft Montgomery Cheese",
+      "winner": "Big Trouble in Little Cameron",
+      "score": {
+        "winner_score": 118.12,
+        "loser_score": 91.02
+      },
+      "top_performers_vs_projection": [
+        {
+          "player": "Dak Prescott",
+          "team": "Big Trouble in Little Cameron",
+          "actual": 24.32,
+          "projected": 17.86,
+          "delta": 6.46
+        },
+        {
+          "player": "Nico Collins",
+          "team": "Big Trouble in Little Cameron",
+          "actual": 24.2,
+          "projected": 16.36,
+          "delta": 7.84
+        },
+        {
+          "player": "Kenneth Walker III",
+          "team": "Big Trouble in Little Cameron",
+          "actual": 20.1,
+          "projected": 10.72,
+          "delta": 9.38
+        },
+        {
+          "player": "Steelers D/ST",
+          "team": "Kraft Montgomery Cheese",
+          "actual": 22.0,
+          "projected": 6.3,
+          "delta": 15.7
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Davante Adams",
+          "team": "Kraft Montgomery Cheese",
+          "actual": 7.1,
+          "projected": 15.7,
+          "delta": -8.6
+        },
+        {
+          "player": "Saquon Barkley",
+          "team": "Kraft Montgomery Cheese",
+          "actual": 10.0,
+          "projected": 15.53,
+          "delta": -5.53
+        },
+        {
+          "player": "Quinshon Judkins",
+          "team": "Big Trouble in Little Cameron",
+          "actual": 5.9,
+          "projected": 14.06,
+          "delta": -8.16
+        },
+        {
+          "player": "Falcons D/ST",
+          "team": "Big Trouble in Little Cameron",
+          "actual": -1.0,
+          "projected": 5.94,
+          "delta": -6.94
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Rashid Shaheed",
+          "team": "Kraft Montgomery Cheese (BENCH)",
+          "actual": 4.9,
+          "projected": 9.58
+        },
+        {
+          "player": "Colston Loveland",
+          "team": "Big Trouble in Little Cameron (BENCH)",
+          "actual": 7.0,
+          "projected": 6.61
+        }
+      ],
+      "impactful_transactions": [],
+      "key_takeaways": {
+        "Big Trouble in Little Cameron": [
+          "Balanced attack: QB, WR (Nico Collins) and RB Kenneth Walker all outperformed and combined for a big team total.",
+          "Falcons D/ST severely underperformed projection and cost some expected points."
+        ],
+        "Kraft Montgomery Cheese": [
+          "Steelers D/ST massively overperformed and provided a big chunk of points.",
+          "Top offensive pieces (Davante Adams, Saquon) were underwhelming relative to projections leading to the loss."
+        ]
+      }
+    },
+    {
+      "game": "Kyler? I Barely Know Her @ 5WRsAllowedOnRostersNextYear",
+      "winner": "5WRsAllowedOnRostersNextYear",
+      "score": {
+        "winner_score": 118.8,
+        "loser_score": 117.38
+      },
+      "top_performers_vs_projection": [
+        {
+          "player": "Travis Kelce",
+          "team": "5WRsAllowedOnRostersNextYear",
+          "actual": 24.1,
+          "projected": 10.03,
+          "delta": 14.07
+        },
+        {
+          "player": "Bijan Robinson",
+          "team": "Kyler? I Barely Know Her",
+          "actual": 30.3,
+          "projected": 20.6,
+          "delta": 9.7
+        },
+        {
+          "player": "George Pickens",
+          "team": "Kyler? I Barely Know Her",
+          "actual": 29.4,
+          "projected": 14.7,
+          "delta": 14.7
+        },
+        {
+          "player": "Jameson Williams",
+          "team": "5WRsAllowedOnRostersNextYear",
+          "actual": 19.7,
+          "projected": 12.59,
+          "delta": 7.11
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Puka Nacua",
+          "team": "5WRsAllowedOnRostersNextYear",
+          "actual": 14.3,
+          "projected": 20.5,
+          "delta": -6.2
+        },
+        {
+          "player": "Matthew Stafford",
+          "team": "5WRsAllowedOnRostersNextYear",
+          "actual": 13.2,
+          "projected": 18.05,
+          "delta": -4.85
+        },
+        {
+          "player": "David Njoku",
+          "team": "Kyler? I Barely Know Her",
+          "actual": 1.7,
+          "projected": 8.25,
+          "delta": -6.55
+        },
+        {
+          "player": "Ladd McConkey",
+          "team": "Kyler? I Barely Know Her",
+          "actual": 4.3,
+          "projected": 15.25,
+          "delta": -10.95
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Jauan Jennings",
+          "team": "5WRsAllowedOnRostersNextYear (BENCH)",
+          "actual": 9.4,
+          "projected": 14.22
+        },
+        {
+          "player": "Kyler Murray",
+          "team": "Kyler? I Barely Know Her (BENCH)",
+          "actual": 0.0,
+          "projected": 0.0
+        },
+        {
+          "player": "Michael Mayer",
+          "team": "Kyler? I Barely Know Her (BENCH)",
+          "actual": 4.3,
+          "projected": 8.02
+        }
+      ],
+      "impactful_transactions": [],
+      "key_takeaways": {
+        "5WRsAllowedOnRostersNextYear": [
+          "Travis Kelce and Jameson Williams produced well above projections and were key to the narrow win.",
+          "Stafford and Puka underperformed vs. projections but roster depth compensated enough to edge a one-point victory."
+        ],
+        "Kyler? I Barely Know Her": [
+          "Huge performances from Bijan Robinson and George Pickens nearly overcame underperformance from several other pass-catchers.",
+          "Close loss decided by slim margin (1.42 points); team had significant upside but inconsistent supporting pieces."
+        ]
+      }
+    },
+    {
+      "game": "The Philly Special @ If Ur Not First You're Last",
+      "winner": "If Ur Not First You're Last",
+      "score": {
+        "winner_score": 109.74,
+        "loser_score": 95.8
+      },
+      "top_performers_vs_projection": [
+        {
+          "player": "Michael Wilson",
+          "team": "If Ur Not First You're Last",
+          "actual": 33.5,
+          "projected": 10.62,
+          "delta": 22.88
+        },
+        {
+          "player": "A.J. Barner",
+          "team": "If Ur Not First You're Last",
+          "actual": 17.1,
+          "projected": 7.71,
+          "delta": 9.39
+        },
+        {
+          "player": "Stefon Diggs",
+          "team": "The Philly Special",
+          "actual": 19.5,
+          "projected": 13.89,
+          "delta": 5.61
+        },
+        {
+          "player": "Cairo Santos",
+          "team": "The Philly Special",
+          "actual": 15.0,
+          "projected": 8.26,
+          "delta": 6.74
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Amon-Ra St. Brown",
+          "team": "The Philly Special",
+          "actual": 6.2,
+          "projected": 20.18,
+          "delta": -13.98
+        },
+        {
+          "player": "Jalen Hurts",
+          "team": "The Philly Special",
+          "actual": 14.5,
+          "projected": 21.64,
+          "delta": -7.14
+        },
+        {
+          "player": "Dallas Goedert",
+          "team": "The Philly Special",
+          "actual": 4.4,
+          "projected": 11.11,
+          "delta": -6.71
+        },
+        {
+          "player": "Josh Jacobs",
+          "team": "If Ur Not First You're Last",
+          "actual": 4.0,
+          "projected": 21.9,
+          "delta": -17.9
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Jaguars D/ST",
+          "team": "If Ur Not First You're Last (BENCH)",
+          "actual": 12.0,
+          "projected": 5.66
+        },
+        {
+          "player": "Davis Mills",
+          "team": "If Ur Not First You're Last (BENCH)",
+          "actual": 16.36,
+          "projected": 17.73
+        },
+        {
+          "player": "Calvin Ridley",
+          "team": "The Philly Special (BENCH)",
+          "actual": 2.3,
+          "projected": 8.73
+        }
+      ],
+      "impactful_transactions": [],
+      "key_takeaways": {
+        "If Ur Not First You're Last": [
+          "Michael Wilson delivered a massive breakout game and AJ Barner also outperformed, providing the core of the team's scoring.",
+          "Big upside from TE and WR production overcame poor Josh Jacobs output."
+        ],
+        "The Philly Special": [
+          "Hurts and top WR Amon-Ra St. Brown both underperformed, which sank the team's projection.",
+          "Stefon Diggs and kicker Cairo Santos helped close the gap but couldn't match opponent's hot WR/TE day."
+        ]
+      }
+    },
+    {
+      "game": "Hangin' With Mr. Cooper @ Forte Inch Johnson",
+      "winner": "Forte Inch Johnson",
+      "score": {
+        "winner_score": 174.28,
+        "loser_score": 123.74
+      },
+      "top_performers_vs_projection": [
+        {
+          "player": "Josh Allen",
+          "team": "Forte Inch Johnson",
+          "actual": 42.68,
+          "projected": 20.7,
+          "delta": 21.98
+        },
+        {
+          "player": "Tetairoa McMillan",
+          "team": "Forte Inch Johnson",
+          "actual": 33.0,
+          "projected": 13.47,
+          "delta": 19.53
+        },
+        {
+          "player": "George Kittle",
+          "team": "Forte Inch Johnson",
+          "actual": 24.7,
+          "projected": 13.86,
+          "delta": 10.84
+        },
+        {
+          "player": "Kenneth Gainwell",
+          "team": "Hangin' With Mr. Cooper",
+          "actual": 29.5,
+          "projected": 9.58,
+          "delta": 19.92
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Josh Jacobs",
+          "team": "If Ur Not First You're Last",
+          "actual": 4.0,
+          "projected": 21.9,
+          "delta": -17.9
+        },
+        {
+          "player": "De'Von Achane",
+          "team": "Hangin' With Mr. Cooper",
+          "actual": 21.5,
+          "projected": 27.88,
+          "delta": -6.38
+        },
+        {
+          "player": "Ashton Jeanty",
+          "team": "Forte Inch Johnson",
+          "actual": 9.4,
+          "projected": 18.82,
+          "delta": -9.42
+        },
+        {
+          "player": "Rico Dowdle",
+          "team": "Forte Inch Johnson",
+          "actual": 15.0,
+          "projected": 19.44,
+          "delta": -4.44
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Justin Fields",
+          "team": "Forte Inch Johnson (BENCH)",
+          "actual": 19.34,
+          "projected": 16.28
+        },
+        {
+          "player": "Cooper Kupp",
+          "team": "Forte Inch Johnson (BENCH)",
+          "actual": 5.3,
+          "projected": 8.03
+        },
+        {
+          "player": "Michael Penix Jr.",
+          "team": "Hangin' With Mr. Cooper (BENCH)",
+          "actual": 7.9,
+          "projected": 15.65
+        }
+      ],
+      "impactful_transactions": [],
+      "key_takeaways": {
+        "Forte Inch Johnson": [
+          "Explosive week: Josh Allen, Tetairoa McMillan and George Kittle all massively exceeded projections leading to a league-high team score.",
+          "Kicker Wil Lutz also well over projection and added uncommon scoring value."
+        ],
+        "Hangin' With Mr. Cooper": [
+          "Kenneth Gainwell produced far beyond expectation and was a major contributor, but the opponent's offensive outburst was too large to overcome.",
+          "Quarterback Drake Maye and De'Von Achane underperformed relative to projections, limiting ceiling."
+        ]
+      }
+    },
+    {
+      "game": "THE Derbaum @ Xavier Marks the Spot",
+      "winner": "THE Derbaum",
+      "score": {
+        "winner_score": 129.92,
+        "loser_score": 89.32
+      },
+      "top_performers_vs_projection": [
+        {
+          "player": "TreVeyon Henderson",
+          "team": "THE Derbaum",
+          "actual": 32.3,
+          "projected": 14.03,
+          "delta": 18.27
+        },
+        {
+          "player": "Derrick Henry",
+          "team": "THE Derbaum",
+          "actual": 20.2,
+          "projected": 14.62,
+          "delta": 5.58
+        },
+        {
+          "player": "Deebo Samuel",
+          "team": "THE Derbaum",
+          "actual": 20.7,
+          "projected": 13.89,
+          "delta": 6.81
+        },
+        {
+          "player": "Mark Andrews",
+          "team": "Xavier Marks the Spot",
+          "actual": 15.7,
+          "projected": 9.04,
+          "delta": 6.66
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Khalil Shakir",
+          "team": "Xavier Marks the Spot",
+          "actual": 0.7,
+          "projected": 12.87,
+          "delta": -12.17
+        },
+        {
+          "player": "Rachaad White",
+          "team": "Xavier Marks the Spot",
+          "actual": 8.2,
+          "projected": 14.17,
+          "delta": -5.97
+        },
+        {
+          "player": "Javonte Williams",
+          "team": "THE Derbaum",
+          "actual": 10.3,
+          "projected": 16.07,
+          "delta": -5.77
+        },
+        {
+          "player": "49ers D/ST",
+          "team": "THE Derbaum",
+          "actual": 1.0,
+          "projected": 5.29,
+          "delta": -4.29
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Eddy Pineiro",
+          "team": "THE Derbaum (BENCH)",
+          "actual": 14.0,
+          "projected": 8.36
+        },
+        {
+          "player": "Hunter Henry",
+          "team": "Xavier Marks the Spot (BENCH)",
+          "actual": 8.5,
+          "projected": 10.01
+        }
+      ],
+      "impactful_transactions": [],
+      "key_takeaways": {
+        "THE Derbaum": [
+          "Run game dominated: TreVeyon Henderson and Derrick Henry combined for the lion's share of offense and greatly exceeded projections.",
+          "Even with some underperformance at RB depth (Javonte Williams), the top-end production carried the team to a comfortable win."
+        ],
+        "Xavier Marks the Spot": [
+          "Major disappointment from pass-catching options (Khalil Shakir) and Rachaad White, which crippled scoring.",
+          "Mark Andrews was a bright spot but not enough to offset overall offensive deficiencies."
+        ]
+      }
+    },
+    {
+      "game": "Team Jon @ SnydeRemarks",
+      "winner": "Team Jon",
+      "score": {
+        "winner_score": 101.8,
+        "loser_score": 100.92
+      },
+      "top_performers_vs_projection": [
+        {
+          "player": "Christian McCaffrey",
+          "team": "SnydeRemarks",
+          "actual": 35.1,
+          "projected": 26.25,
+          "delta": 8.85
+        },
+        {
+          "player": "Brock Purdy",
+          "team": "Team Jon",
+          "actual": 19.3,
+          "projected": 19.0,
+          "delta": 0.3
+        },
+        {
+          "player": "Jahmyr Gibbs",
+          "team": "Team Jon",
+          "actual": 19.6,
+          "projected": 17.39,
+          "delta": 2.21
+        },
+        {
+          "player": "Browns D/ST",
+          "team": "SnydeRemarks",
+          "actual": 16.0,
+          "projected": 5.08,
+          "delta": 10.92
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "player": "Lamar Jackson",
+          "team": "SnydeRemarks",
+          "actual": 4.72,
+          "projected": 19.68,
+          "delta": -14.96
+        },
+        {
+          "player": "Jaylen Waddle",
+          "team": "SnydeRemarks",
+          "actual": 8.2,
+          "projected": 16.8,
+          "delta": -8.6
+        },
+        {
+          "player": "Jaxon Smith-Njigba",
+          "team": "Team Jon",
+          "actual": 20.6,
+          "projected": 22.97,
+          "delta": -2.37
+        },
+        {
+          "player": "Sam Darnold",
+          "team": "SnydeRemarks (BENCH)",
+          "actual": 4.26,
+          "projected": 15.01,
+          "delta": -10.75
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "player": "Sam Darnold",
+          "team": "SnydeRemarks (BENCH)",
+          "actual": 4.26,
+          "projected": 15.01
+        },
+        {
+          "player": "Jared Goff",
+          "team": "Team Jon (BENCH)",
+          "actual": 12.1,
+          "projected": 16.25
+        },
+        {
+          "player": "Tyler Loop",
+          "team": "Team Jon (BENCH KICKER)",
+          "actual": 12.0,
+          "projected": 7.85
+        }
+      ],
+      "impactful_transactions": [],
+      "key_takeaways": {
+        "Team Jon": [
+          "Consistent contributions from Brock Purdy, Jahmyr Gibbs and Jaxon Smith-Njigba were enough to narrowly win a one-point game.",
+          "Bench kicker Tyler Loop provided solid backup scoring."
+        ],
+        "SnydeRemarks": [
+          "Lamar Jackson's massive underperformance was the decisive negative factor despite Christian McCaffrey and Browns D/ST posting big numbers.",
+          "Strong defensive scoring (Browns D/ST) kept the matchup close, but offensive failures cost the win."
+        ]
+      }
+    }
+  ],
+  "overall_weekly_note": {
+    "summary": "High-scoring week with multiple large individual outperformance games and several very close matchups. Several teams won thanks to single breakout performers (e.g., Josh Allen + Tetairoa McMillan; Michael Wilson; TreVeyon Henderson; Sean Tucker). Quarterback underperformance affected outcomes in multiple matchups (Aaron Rodgers, Justin Herbert, Lamar Jackson). There were two one-point-ish games (5WRsAllowedOnRostersNextYear vs Kyler? I Barely Know Her by 1.42 points; Team Jon vs SnydeRemarks by 0.88 points), and one extremely high team score (Forte Inch Johnson 174.28). No explicit roster transaction logs provided in the data.",
+    "notable_bench_notes": [
+      "Several benches contained usable/large scores that were not activated: Emanuel Wilson (13.9), Bam Knight (14.5), Justin Fields (19.34) and Davis Mills (16.36) — these could have swung closer matchups.",
+      "Kickers and D/STs had outsized impacts in some matchups (Steelers D/ST 22.0; Browns D/ST 16.0; Wil Lutz 18.0; Eddy Pineiro 14.0)."
+    ]
+  }
+}

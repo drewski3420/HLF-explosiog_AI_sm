@@ -1,0 +1,264 @@
+{
+  "previous_season_trend_summary": "{season_trend_text}",
+  "summary_timestamp": "Through Week 10",
+  "league_wide": {
+    "average_team_score_per_week": 104.14,
+    "total_points_scored_league_wide": 12497.16,
+    "major_themes": [
+      "Bench management repeatedly determined outcomes: across weeks many owners left 15+ and even 20+ point performances on the bench (examples cited in weekly notes include Caleb Williams, Justin Herbert, Jared Goff, Matthew Stafford, Justin Fields, Jaxson Dart, Romeo Doubs, Woody Marks, Kenneth Gainwell, Kayshon Boutte, Rico Dowdle, Tucker Kraft).",
+      "Running back breakouts were a frequent driver of wins (notable RB weeks: Jonathan Taylor, Christian McCaffrey, Jahmyr Gibbs, TreVeyon Henderson, De'Von Achane, Bijan Robinson, Josh Jacobs, Saquon Barkley, Rico Dowdle).",
+      "Tight end and WR single-game explosions also swung matchups (Brock Bowers, Dalton Kincaid, Troy Franklin, Drake London, Tee Higgins).",
+      "D/ST and kicker variance had outsized effects in multiple matchups (Seahawks D/ST 21.0 Week 10; Steelers D/ST 16.0 Week 9; Raiders/Rams/Chargers swings; several kickers posted multi-FG 10+ point weeks while others had zero outings).",
+      "QB variance influenced close games — several QBs both massively outperformed and underperformed projections in pivotal matchups (Caleb Williams, Josh Allen, Patrick Mahomes, Justin Herbert, Jaxson Dart)."
+    ],
+    "close_games_and_upsets": [
+      "Multiple weeks produced narrow margins where a single lineup decision flipped a result (examples across Week 1–10: OHHHHHHH YEAHHHHH!!!! vs No Punt Intended by ~7.3 in Week 1; THE Derbaum vs D.J. Chark Week won by 0.10 in Week 3; Baker's Brownie Stand edged D.J. Chark Week by 0.66 in Week 6).",
+      "Several teams outscored their projections by very large margins and pulled off upset-style wins vs higher-projected opponents (e.g., Puka Puka and D.J. Chark Week multi-player explosions in Week 4 and Week 6).",
+      "TE and WR outlier games produced surprise outcomes (Brock Bowers’ 37.3-point week in Week 9 swung a 32-point margin; Dalton Kincaid and Sam LaPorta had multi-week breakout impacts)."
+    ]
+  },
+  "team_trends": {
+    "Puka Puka": {
+      "record": "7-3",
+      "points_for": 1069.98,
+      "recent_streak": "W1 (won Week 10)",
+      "scoring_pattern": "High-variance offense driven by RB/WR mix and occasional elite kicker output; multiple multi-player blowup games (Rico Dowdle, Dak, Puka Nacua, Ja'Marr Chase).",
+      "volatility": "High — several weeks with 140+ or sub-90 totals depending on QB/RB performance and bench choices.",
+      "notable_repeat_performers_for_team": [
+        "Rico Dowdle (huge weeks Week 5/6), Puka Nacua (several high-output WR weeks), Dak Prescott (several strong QB weeks when started)"
+      ],
+      "owner_behavior_notes": "Has produced and also left big bench scores (RJ Harvey, Rico Dowdle some weeks unused); active in adding kickers/DSTs as needed."
+    },
+    "Here Comes McBride": {
+      "record": "7-3",
+      "points_for": 1068.46,
+      "recent_streak": "W3 (won Weeks 8, 9, 10)",
+      "scoring_pattern": "Balanced scoring with boom weeks from QB and RB/TE usage (Bo Nix, James Cook, Trey McBride); defense contributions (Broncos D/ST) have also been decisive.",
+      "volatility": "Medium-high — capable of multi-positional blowups; benefits from opportunistic D/ST and TE weeks.",
+      "notable_repeat_performers_for_team": [
+        "Bo Nix (multiple strong dual-threat weeks), Trey McBride (multiple weeks of high TE scoring), James Cook (major weeks)"
+      ],
+      "owner_behavior_notes": "Typically finds productive waiver additions and fields strong bench depth (Browns D/ST, Kyle Monangai) though occasionally leaves bench TD weeks unused."
+    },
+    "Gronk for my  johnson": {
+      "record": "6-4",
+      "points_for": 1106.20,
+      "recent_streak": "L1 (lost Week 10)",
+      "scoring_pattern": "High ceiling offense when RBs/TE/WR align; defense and kicker occasionally provide large positive deltas (e.g., Raiders D/ST).",
+      "volatility": "High — has delivered 170+ point explosion (Week 6) and also had quieter weeks.",
+      "notable_repeat_performers_for_team": [
+        "Bijan Robinson (when healthy produces high volume), Jalen Hurts, Jaxon Smith-Njigba"
+      ],
+      "owner_behavior_notes": "Owner has on multiple occasions left very high bench QB/WR scoring unused (Justin Herbert, Mark Andrews bench instances), indicating occasional lineup mis-choices despite roster depth."
+    },
+    "THE Derbaum": {
+      "record": "6-4",
+      "points_for": 1077.94,
+      "recent_streak": "W1 (won Week 10)",
+      "scoring_pattern": "Often powered by RB and TE breakouts (De'Von Achane, George Kittle) and occasional WR surges (Troy Franklin).",
+      "volatility": "Medium-high — capable of both large overperformance and sudden shortfalls (kicker/TE zeroes impacted results some weeks).",
+      "notable_repeat_performers_for_team": [
+        "De'Von Achane (multiple big weeks), Amon-Ra St. Brown (earlier big outputs when active)"
+      ],
+      "owner_behavior_notes": "Has generated elite RB/TE weeks; bench decisions sometimes leave additional scoring (Harold Fannin Jr., JJ McCarthy) unused."
+    },
+    "No Punt Intended": {
+      "record": "5-5",
+      "points_for": 1112.94,
+      "recent_streak": "L1 (lost Week 10)",
+      "scoring_pattern": "High total points for the season; scoring often comes from RB and WR breakouts (Drake London, Josh Jacobs) but highly susceptible to QB volatility (Justin Fields, Lamar Jackson availability).",
+      "volatility": "High — large swings based on QB health and which RB/WR break out.",
+      "notable_repeat_performers_for_team": [
+        "Drake London (several multi-TD weeks), Josh Jacobs, Jake Ferguson (TE weeks)"
+      ],
+      "owner_behavior_notes": "Frequently leaves bench stars unused (Marvin Harrison Jr., Justin Fields at times); active in waiver adds for D/ST and TEs."
+    },
+    "OHHHHHHH YEAHHHHH!!!!": {
+      "record": "5-5",
+      "points_for": 1062.68,
+      "recent_streak": "L1 (lost Week 10)",
+      "scoring_pattern": "Riding RB/TE big games (Jonathan Taylor, Brock Bowers) with occasional massive single-game outputs but also vulnerable to WR/TE busts.",
+      "volatility": "High — some weeks dominated by a single player (Jonathan Taylor, Brock Bowers).",
+      "notable_repeat_performers_for_team": [
+        "Jonathan Taylor (multiple huge outings), Emeka Egbuka (breakout weeks)"
+      ],
+      "owner_behavior_notes": "Occasional kicker/D/ST zeros have hurt (Brandon McManus zero), and bench QBs (Daniel Jones) sometimes left inactive despite usable scoring."
+    },
+    "Clever Team  Name Incoming": {
+      "record": "5-5",
+      "points_for": 969.98,
+      "recent_streak": "W2 (won Weeks 9 and 10)",
+      "scoring_pattern": "Often relies on a mix of TE and WR production (Sam LaPorta, Kendrick Bourne, Deebo Samuel) with spot RB explosions; projections frequently under/over due to RB health and QB play.",
+      "volatility": "Medium — capable of steady weeks but has had sizable misses (Geno Smith, Derrick Henry busts).",
+      "notable_repeat_performers_for_team": [
+        "Sam LaPorta, D'Andre Swift (periodic strong weeks), Jauan Jennings"
+      ],
+      "owner_behavior_notes": "Has repeatedly left positive bench scores unused (Jayden Higgins, Cooper Kupp on bench in some weeks); active in FA adds (kickers)."
+    },
+    "I Know Exactly What I\u2019m Doing": {
+      "record": "4-6",
+      "points_for": 1033.92,
+      "recent_streak": "W1 (won Week 10)",
+      "scoring_pattern": "High-ceiling weeks when Caleb Williams and top WRs connect; also hit by catastrophic single-player zeroes and QB collapses (Caleb Williams had a huge Week 10 but also poor showings).",
+      "volatility": "High — QB/WR variance drives large score swings.",
+      "notable_repeat_performers_for_team": [
+        "Caleb Williams (big Week 10), CeeDee Lamb (when active), Seahawks D/ST pops"
+      ],
+      "owner_behavior_notes": "Bench management has been inconsistent — multiple weeks with high-scoring bench players (Tee Higgins, Dalton Schultz) left unused."
+    },
+    "Goff And Running": {
+      "record": "4-6",
+      "points_for": 957.48,
+      "recent_streak": "L2 (lost Weeks 9 and 10)",
+      "scoring_pattern": "Dependent on RB health and occasional high WR output (DK Metcalf, Keenan Allen) but has suffered repeated RB pair underperformances and volatile D/ST results.",
+      "volatility": "High downside risk when RBs fail to produce; occasional bench-star misusage (Jared Goff left on bench in Weeks 2 and 10).",
+      "notable_repeat_performers_for_team": [
+        "Drake Maye (when started has produced), David Montgomery (one big week but also bust), Rashee Rice"
+      ],
+      "owner_behavior_notes": "Multiple instances of benching highly productive QBs (Jared Goff) and leaving bench TE/RB scoring on sidelines."
+    },
+    "D.J. Chark Week": {
+      "record": "3-7",
+      "points_for": 993.94,
+      "recent_streak": "L2 (lost Weeks 9 and 10)",
+      "scoring_pattern": "Weekly range swings — high-end outputs tied to Patrick Mahomes and WR/TE weeks (Dalton Kincaid) but offset by large QB/RB busts and bench misusage (Jaxson Dart, George Pickens).",
+      "volatility": "Very high — a handful of massive weeks offset by several low totals.",
+      "notable_repeat_performers_for_team": [
+        "Patrick Mahomes (when at full output) and George Pickens; Dalton Kincaid has delivered notable TE weeks"
+      ],
+      "owner_behavior_notes": "Frequently left a high-scoring bench QB (Jaxson Dart) unused; active in waiver adds (Christian Watson)."
+    },
+    "World of Hurts": {
+      "record": "3-7",
+      "points_for": 995.06,
+      "recent_streak": "W1 (won Week 10)",
+      "scoring_pattern": "Produces large single-player explosions (Jahmyr Gibbs, Davante Adams) but overall roster has inconsistent QB/RB production leading to several lopsided losses.",
+      "volatility": "High — occasional enormous wins and severe losses (some weeks well below projection).",
+      "notable_repeat_performers_for_team": [
+        "Jahmyr Gibbs (multiple huge weeks), Davante Adams, Rachaad White"
+      ],
+      "owner_behavior_notes": "Bench depth has produced strong one-off weeks (Tez Johnson, Isiah Pacheco), indicating active waiver management, but inconsistent starting decisions have cost points."
+    }
+  },
+  "player_level_trends": {
+    "consistent_top_or_high-ceiling_performers": [
+      {
+        "player": "Christian McCaffrey",
+        "note": "Multiple multi-week high outputs (Weeks 4, 9, etc.). Team wins often connected to his performance."
+      },
+      {
+        "player": "Jonathan Taylor",
+        "note": "Repeatedly provided massive single-game outputs (Weeks 1, 3, 6, 8) — high weekly ceiling."
+      },
+      {
+        "player": "Jahmyr Gibbs",
+        "note": "Explosive performances (Week 10 and others) — strong RB weeks have swung multiple matchups."
+      },
+      {
+        "player": "Caleb Williams",
+        "note": "High ceiling QB; Week 9/10 huge games moved his team strongly when started."
+      },
+      {
+        "player": "Brock Bowers",
+        "note": "TE outlier (Week 9 37.3) demonstrating that TE explosions have been decisive in some weeks."
+      }
+    ],
+    "repeat_underperformers_or_high_variance_players": [
+      {
+        "player": "Justin Fields",
+        "note": "Large variance; weeks with big bench production left unused and also poor starter games (e.g., Week 10 low output) — owner choices around him impacted outcomes."
+      },
+      {
+        "player": "Puka Nacua",
+        "note": "Had several low-output games relative to projection alongside high-output games; injury/BYE/inactivity also affected usage."
+      },
+      {
+        "player": "Bijan Robinson",
+        "note": "Has both huge weeks and games well below projection (e.g., Week 7 massive negative vs projection), reflecting volatility."
+      }
+    ],
+    "notable_te_impact": [
+      "Brock Bowers, Dalton Kincaid, George Kittle, Trey McBride and Dallas Goedert each had weeks where TE scoring meaningfully shifted matchup outcomes — TE volatility has been a recurring league factor."
+    ]
+  },
+  "owner_behaviors_and_lineup_management": {
+    "recurring_patterns": [
+      "Many owners repeatedly left 15+ and 20+ point bench performances inactive; this is the most frequently noted behavioral pattern across weekly recaps and is tied to multiple narrow losses.",
+      "Some owners showed successful bench construction (multiple usable bench players like Jaxson Dart, Keenan Allen, Matthew Stafford, Marvin Harrison Jr.), but did not consistently deploy them.",
+      "Active waiver behavior is visible: several FA/waiver adds (kickers, D/STs, and receivers) were recorded week-to-week — owners are adjusting rosters frequently for matchup value."
+    ],
+    "examples_of_risky_choices": [
+      "Leaving high-scoring QBs (Jared Goff Week 2/10, Justin Herbert in multiple weeks, C.J. Stroud in certain weeks) on the bench when starters underperformed.",
+      "Not starting large bench RB/WR performances (Rome Odunze, RJ Harvey, Kenneth Gainwell, Rico Dowdle, Tucker Kraft) in weeks where starters had low outputs."
+    ],
+    "examples_of_smart_choices": [
+      "Starting D/STs or kickers that outperformed projections in matchup-specific weeks (Patriots D/ST, Seahawks D/ST, Steelers D/ST, certain kickers) — these decisions sometimes swung close results.",
+      "Targeting high-upside RB/WR/TE adds that produced immediate returns (waiver pickups like Tez Johnson, Kimani Vidal in weeks they scored)."
+    ]
+  },
+  "playoff_analysis_top_6": {
+    "playoff_criteria": "Top 6 teams by record, then head-to-head, then Points For (PF). Using records through Week 10 and PF as tiebreaker where required.",
+    "playoff_teams_ordered": [
+      {
+        "seed": 1,
+        "team": "Puka Puka",
+        "record": "7-3",
+        "points_for": 1069.98,
+        "notes": "Strong overall scoring, multiple high-ceiling weeks. Offense capable of large outputs but also volatility when key starters underproduce. Needs consistent QB/RB/WR alignment in playoffs."
+      },
+      {
+        "seed": 2,
+        "team": "Here Comes McBride",
+        "record": "7-3",
+        "points_for": 1068.46,
+        "notes": "On a three-game winning streak entering playoffs window; balanced attack with Bo Nix and breakout RB/TE weeks — momentum and depth are advantages."
+      },
+      {
+        "seed": 3,
+        "team": "Gronk for my  johnson",
+        "record": "6-4",
+        "points_for": 1106.20,
+        "notes": "Highest PF among playoff teams — big ceiling. Multiple dominant single-game outputs show ability to close matchups; must manage volatility at RB and ensure TE/WR stability."
+      },
+      {
+        "seed": 4,
+        "team": "THE Derbaum",
+        "record": "6-4",
+        "points_for": 1077.94,
+        "notes": "Multiple RB/TE breakout weeks; solid mid-season form and bench depth. Kicker/D/ST variance has trimmed margin in some weeks; playoff success may hinge on avoiding zeroes from those spots."
+      },
+      {
+        "seed": 5,
+        "team": "No Punt Intended",
+        "record": "5-5",
+        "points_for": 1112.94,
+        "notes": "High-season PF places them into playoffs via tiebreaker; offense produces a lot but is QB/RB dependent. Has shown ability to outscore opponents in shootouts — wildcard pick with upside."
+      },
+      {
+        "seed": 6,
+        "team": "OHHHHHHH YEAHHHHH!!!!",
+        "record": "5-5",
+        "points_for": 1062.68,
+        "notes": "Earned final spot by PF among 5-5 teams. Relies on RB/TE game-breaking weeks; kicker/D/ST volatility and bench choices will be critical if advancing."
+      }
+    ],
+    "playoff_drivers_and_risks": {
+      "drivers": [
+        "Teams with the highest PF (Gronk, No Punt Intended) show the highest ceilings — RB and WR breakouts will continue to be the main path to playoff wins.",
+        "Depth in bench (proven by multiple bench-scorers across weeks) is a differentiator in tight matchups; teams that have been faster to add productive bench pieces often overcame starter shortfalls."
+      ],
+      "risks": [
+        "All six playoff teams display high variance in key positions (QB, RB, TE) — a single bad week from a top scorer or a missed bench decision can flip a playoff matchup.",
+        "D/ST and kicker swings remain unpredictable — playoff outcomes could hinge on these lower-roster spots given tight point spreads in many recent weeks."
+      ]
+    }
+  },
+  "closing_observations": {
+    "data_driven_notes": [
+      "Across 10 weeks the league average weekly team score is ~104.1 points; many winning teams exceeded that average substantially in winning weeks but large negative swings have created lopsided losses.",
+      "Bench management is the single most-cited manager behavior affecting results in the weekly summaries; multiple owners have left 20+ point bench performances unused multiple times.",
+      "Playoff positions are not secure: seeds 3–6 are closely bunched by PF and could flip with a couple of weeks of different lineup choices or big breakout/adds."
+    ],
+    "suggested_next_steps_for_recorder": "This summary is descriptive/analytic only (per instructions). For future newsletters, consider adding an owner-by-owner 'bench risk score' (frequency of leaving 15+ points unused) and a weekly volatility index per position to quantify matchup risk."
+  }
+}

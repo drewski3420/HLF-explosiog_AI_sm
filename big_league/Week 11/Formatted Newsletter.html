@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Week 11 Newsletter</title>
+<style>
+  :root{
+    --accent:#1a73e8;
+    --text:#111827;
+    --muted:#6b7280;
+    --bg:#f8fafc;
+    --card:#ffffff;
+    --border:#e5e7eb;
+    --good:#0ea5e9;
+    --bad:#ef4444;
+  }
+  html,body{
+    padding:0;
+    margin:0;
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+    color:var(--text);
+    background:var(--bg);
+    line-height:1.6;
+  }
+  .container{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 24px 16px 56px;
+  }
+  header{
+    background: linear-gradient(180deg, #ffffff 0%, #f3f6fb 100%);
+    border:1px solid var(--border);
+    border-radius:14px;
+    padding:28px 22px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.04);
+  }
+  h1{
+    margin:0 0 6px;
+    font-size: clamp(1.6rem, 2.2vw, 2.2rem);
+    color: var(--accent);
+    letter-spacing:.3px;
+  }
+  .subtitle{
+    margin: 8px 0 0;
+    color: var(--muted);
+  }
+  section{
+    margin-top: 28px;
+  }
+  h2{
+    margin:0 0 14px;
+    font-size: clamp(1.25rem, 2vw, 1.6rem);
+    color: var(--accent);
+  }
+  h3{
+    margin:0 0 10px;
+    font-size: 1.05rem;
+  }
+  p{ margin: 8px 0; }
+  ul{ margin: 8px 0 8px 20px; }
+  li{ margin: 4px 0; }
+  .card{
+    background: var(--card);
+    border:1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.04);
+  }
+  .stack > * + * { margin-top: 12px; }
+  .pill{
+    display:inline-block;
+    padding: 2px 8px;
+    border:1px solid var(--border);
+    border-radius: 999px;
+    font-size: .8rem;
+    color: var(--muted);
+    background:#fff;
+  }
+  .kicker{ color: var(--muted); font-size: .95rem; }
+  .highlight{ color: var(--accent); font-weight: 700; }
+  strong.stat{
+    font-weight: 800;
+    color: var(--accent);
+  }
+  .matchups{
+    display:grid;
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+  @media (min-width: 920px){
+    .matchups{
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  .list-columns{
+    display:grid;
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+  @media (min-width: 700px){
+    .list-columns{
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  .good{ color: var(--good); font-weight:700; }
+  .bad{ color: var(--bad); font-weight:700; }
+  footer{
+    margin-top: 28px;
+    padding-top: 16px;
+    color: var(--muted);
+  }
+</style>
+</head>
+<body>
+  <div class="container">
+    <header class="card">
+      <span class="pill">Week 11</span>
+      <h1>Where the waiver wire is still the church nobody attends until it's time to beg forgiveness.</h1>
+      <p class="subtitle">High scores, hairline losses, and more bench regrets than an IKEA returns desk.</p>
+      <p><em>Week 11 in one sentence:</em> Forte Inch Johnson detonated the scoreboard, a few teams lost by less than a grocery receipt, and roughly half the league quietly asked “did I just bench the guy who scored 30?”</p>
+    </header>
+
+    <section aria-labelledby="recap">
+      <h2 id="recap">Last Week’s Recap</h2>
+
+      <article class="card stack">
+        <h3>Quick league snapshot</h3>
+        <ul>
+          <li>Highest single-team score: <strong>Forte Inch Johnson — <span class="stat">174.28</span></strong> (this is not a drill).</li>
+          <li>Lowest single-team score: <strong>Dickhole Smashers — <span class="stat">46.14</span></strong> (a performance measured in apologies).</li>
+          <li>Biggest margin of victory: <strong>Jake Butt Stuff</strong> blasted the <strong>Dickhole Smashers</strong> by <strong class="stat">56.58</strong> points (<strong>102.72–46.14</strong>).</li>
+          <li>Closest games: Two nail-biters — <strong>5WRsAllowedOnRostersNextYear</strong> beat <strong>Kyler? I Barely Know Her</strong> <strong>118.80–117.38</strong> (<strong class="stat">1.42</strong>) and <strong>Team Jon</strong> squeaked past <strong>SnydeRemarks</strong> <strong>101.80–100.92</strong> (<strong class="stat">0.88</strong>). Bring scalpels.</li>
+        </ul>
+
+        <div class="list-columns">
+          <div>
+            <h3>Top performers</h3>
+            <ul>
+              <li><strong>Josh Allen</strong> — <span class="stat">42.68</span></li>
+              <li><strong>Christian McCaffrey</strong> — <span class="stat">35.1</span></li>
+              <li><strong>Sean Tucker</strong> — <span class="stat">34.0</span></li>
+              <li><strong>Tetairoa McMillan</strong> — <span class="stat">33.0</span></li>
+              <li><strong>Michael Wilson</strong> — <span class="stat">33.5</span></li>
+              <li><strong>TreVeyon Henderson</strong> — <span class="stat">32.3</span></li>
+              <li><strong>Kenneth Gainwell</strong> — <span class="stat">29.5</span></li>
+              <li><strong>George Pickens</strong> — <span class="stat">29.4</span></li>
+              <li><strong>Bijan Robinson</strong> — <span class="stat">30.3</span></li>
+              <li><strong>Trey McBride</strong> — <span class="stat">27.5</span></li>
+              <li><strong>Travis Kelce</strong> — <span class="stat">24.1</span></li>
+              <li><strong>George Kittle</strong> — <span class="stat">24.7</span></li>
+              <li><strong>Steelers D/ST</strong> — <span class="stat">22.0</span></li>
+              <li><strong>Deebo Samuel</strong> — <span class="stat">20.7</span></li>
+              <li><strong>Jameson Williams</strong> — <span class="stat">19.7</span></li>
+            </ul>
+          </div>
+          <div>
+            <h3>Underperformers</h3>
+            <ul>
+              <li><strong>Lamar Jackson</strong> — <span class="bad">4.72</span></li>
+              <li><strong>Josh Jacobs</strong> — <span class="bad">4.0</span></li>
+              <li><strong>Justin Herbert</strong> — <span class="bad">3.34</span></li>
+              <li><strong>Ja’Marr Chase</strong> — <span class="bad">6.0</span></li>
+              <li><strong>Khalil Shakir</strong> — <span class="bad">0.7</span></li>
+              <li><strong>Rachaad White</strong> — <span class="bad">8.2</span></li>
+              <li><strong>Davante Adams</strong> — non-factor</li>
+              <li><strong>Saquon Barkley</strong> — non-factor</li>
+              <li>Team low: <strong>Dickhole Smashers</strong> — <span class="bad stat">46.14</span></li>
+            </ul>
+          </div>
+          <div>
+            <h3>Notable bench/roster moments</h3>
+            <ul>
+              <li><strong>Emanuel Wilson</strong> — <span class="stat">13.9</span> left on the bench (Dickhole Smashers).</li>
+              <li>Forced inactives hit: <strong>Isiah Pacheco</strong>, <strong>Rhamondre Stevenson</strong>, <strong>Rashod Bateman</strong>, <strong>Dalton Kincaid</strong> (Dickhole Smashers).</li>
+              <li><strong>Ashton Jeanty</strong> and <strong>Rico Dowdle</strong> underperformed projections (Forte Inch Johnson) — team still exploded.</li>
+              <li>Supporting cast volatility: <strong>Puka Nacua</strong> only <span class="bad">14.3</span> (5WRsAllowedOnRostersNextYear).</li>
+            </ul>
+          </div>
+        </div>
+      </article>
+
+      <article class="card">
+        <h3>Top matchups (bite-sized recaps)</h3>
+        <div class="matchups">
+          <div class="card">
+            <h3>Jake Butt Stuff <strong class="stat">102.72</strong> — Dickhole Smashers <strong class="stat">46.14</strong></h3>
+            <ul>
+              <li><strong>The headliner:</strong> Jake Butt Stuff leaned on <strong>Trey McBride’s 27.5</strong> and a stout <strong>Ravens D/ST</strong> to turn what looked like a toss-up into a beating. Dickhole Smashers were ghosted by forced inactives (<em>Isiah Pacheco, Rhamondre Stevenson, Rashod Bateman, Dalton Kincaid</em>) and produced the week’s nadir.</li>
+              <li><strong>Bench crime scene:</strong> Dickhole left <strong>Emanuel Wilson (13.9)</strong> lounging on the pine like a bad sunburn.</li>
+              <li><strong>Where they'd time travel:</strong> Dickhole Smashers: Back to the waiver wire with a fire extinguisher; Jake Butt Stuff: To the draft board, smugly.</li>
+            </ul>
+          </div>
+          <div class="card">
+            <h3>Trying to not finish last <strong class="stat">105.16</strong> — Team Santangelo <strong class="stat">62.44</strong></h3>
+            <ul>
+              <li><strong>Verdict:</strong> A shocking <strong>Sean Tucker 34.0</strong> turned an ordinary Tuesday into a rout; Team Santangelo’s pass game imploded (<strong>Justin Herbert 3.34</strong>, <strong>Ja’Marr Chase 6.0</strong>).</li>
+              <li><strong>Takeaway:</strong> One RB eruption plus opponent QB doom makes fantasy feel unfair and wonderful simultaneously.</li>
+              <li><strong>Who they'd summon:</strong> Team Santangelo: A sports psychologist; Trying to not finish last: A marching band to celebrate survival.</li>
+            </ul>
+          </div>
+          <div class="card">
+            <h3>Big Trouble in Little Cameron <strong class="stat">118.12</strong> — Kraft Montgomery Cheese <strong class="stat">91.02</strong></h3>
+            <ul>
+              <li><strong>Verdict:</strong> Dak, Nico Collins, and Kenneth Walker III combined for a tidy offense to outscore a Kraft team that cashed in on a <strong>Steelers D/ST</strong> payday (<strong>22.0</strong>) but couldn’t keep pace.</li>
+              <li><strong>Punchline:</strong> Balanced gameplan beat D/ST-luck; Kraft’s <strong>Davante Adams</strong> and <strong>Saquon Barkley</strong> were non-factors.</li>
+              <li><strong>Decisive detail:</strong> Big Trouble’s QB/WR combo punched through while Kraft’s core simply didn’t show up.</li>
+            </ul>
+          </div>
+          <div class="card">
+            <h3>5WRsAllowedOnRostersNextYear <strong class="stat">118.80</strong> — Kyler? I Barely Know Her <strong class="stat">117.38</strong></h3>
+            <ul>
+              <li><strong>Verdict:</strong> <strong>Kelce</strong> awakened with <strong>24.1</strong> and <strong>Jameson Williams</strong> added <strong>19.7</strong> to squeak past a <strong>Bijan/George Pickens</strong> fireworks show (<strong>Bijan 30.3</strong>, <strong>Pickens 29.4</strong>).</li>
+              <li><strong>Bench dagger:</strong> Both teams had inconsistent supporting pieces (<strong>Puka Nacua</strong> was only <strong>14.3</strong> for 5WRs), proving that fantasy is a cruel coin flip.</li>
+              <li><strong>Who they'd summon:</strong> 5WRsAllowed…: A wizard who specializes in tight ends; Kyler?: A time machine to fix inactives.</li>
+            </ul>
+          </div>
+          <div class="card">
+            <h3>If Ur Not First You're Last <strong class="stat">109.74</strong> — The Philly Special <strong class="stat">95.80</strong></h3>
+            <ul>
+              <li><strong>Verdict:</strong> <strong>Michael Wilson</strong> exploded for <strong>33.5</strong> and <strong>A.J. Barner</strong> added <strong>17.1</strong> to cover <strong>Josh Jacobs’ dud (4.0)</strong> and beat Philly’s steady-but-not-stellar Hurts/Diggs day.</li>
+              <li><strong>Takeaway:</strong> Your WR can carry you when your RB is asleep; also: kickers and D/STs are cheating sometimes (<strong>Cairo Santos 15.0</strong> for Philly).</li>
+              <li><strong>Where they'd time travel:</strong> Philly Special: To the fourth quarter with Jalen Hurts on a heater; If Ur Not First…: To the trophy case, politely.</li>
+            </ul>
+          </div>
+          <div class="card">
+            <h3>Forte Inch Johnson <strong class="stat">174.28</strong> — Hangin' With Mr. Cooper <strong class="stat">123.74</strong></h3>
+            <ul>
+              <li><strong>Verdict:</strong> The single-week blowout of the year: <strong>Josh Allen (42.68)</strong>, <strong>Tetairoa McMillan (33.0)</strong> and <strong>George Kittle (24.7)</strong> made the scoreboard cry.</li>
+              <li>Hangin' With Mr. Cooper still hit <strong>123.74</strong> (<strong>Kenneth Gainwell 29.5</strong>), which in most weeks would be trophy-worthy — but not this one.</li>
+              <li><strong>Bench gag:</strong> Forte’s <strong>Ashton Jeanty/Rico Dowdle</strong> underperformed their projections, and yet the team still exploded (golf clap to efficiency).</li>
+              <li><strong>Where they'd time travel:</strong> Forte Inch Johnson: To a highlight reel narrated by Morgan Freeman; Hangin' With Mr. Cooper: Back to the practice squad.</li>
+            </ul>
+          </div>
+          <div class="card">
+            <h3>THE Derbaum <strong class="stat">129.92</strong> — Xavier Marks the Spot <strong class="stat">89.32</strong></h3>
+            <ul>
+              <li><strong>Verdict:</strong> <strong>TreVeyon Henderson (32.3)</strong> and <strong>Derrick Henry (20.2)</strong> turned THE Derbaum’s backfield into a steamroller; Xavier’s pass-catchers couldn’t answer.</li>
+              <li><strong>Notable:</strong> <strong>Deebo Samuel</strong> gave a respectable <strong>20.7</strong> but Xavier’s <strong>Khalil Shakir (0.7)</strong> and <strong>Rachaad White (8.2)</strong> flopped.</li>
+              <li><strong>Who they'd summon:</strong> Xavier: A veteran WR whisperer; THE Derbaum: A forklift to lift morale.</li>
+            </ul>
+          </div>
+          <div class="card">
+            <h3>Team Jon <strong class="stat">101.80</strong> — SnydeRemarks <strong class="stat">100.92</strong></h3>
+            <ul>
+              <li><strong>Verdict:</strong> The season’s other fingernail-on-the-chalkboard game — Team Jon eked out the win despite <strong>Christian McCaffrey 35.1</strong> (SnydeRemarks), because <strong>Lamar Jackson</strong> cratered to <strong>4.72</strong>.</li>
+              <li><strong>Takeaway:</strong> Even a McCaffrey earthquake can be neutralized by a QB sinkhole. Start your QBs, people.</li>
+              <li><strong>Decisive moment:</strong> Lamar Jackson’s meltdown turned a probable stomp into a squeaker.</li>
+            </ul>
+          </div>
+        </div>
+      </article>
+    </section>
+
+    <section aria-labelledby="trends">
+      <h2 id="trends">Season Trends</h2>
+
+      <article class="card">
+        <h3>Playoff Picture (short & snarky)</h3>
+        <ul>
+          <li>Current projected top six (per the snapshot you all forwarded): <strong>1) Kraft Montgomery Cheese</strong>, <strong>2) SnydeRemarks</strong>, <strong>3) Forte Inch Johnson</strong>, <strong>4) 5WRsAllowedOnRostersNextYear</strong>, <strong>5) Trying to not finish last</strong>, <strong>6) Team Santangelo</strong>. Yes, Team Santangelo is listed as the 6-seed in this projection—fantasy math is messy and sometimes vindictive.</li>
+          <li>On the bubble: Teams sitting at <strong>5-6</strong> and <strong>6-5</strong> records (<strong>THE Derbaum</strong>, <strong>Hangin' With Mr. Cooper</strong>, <strong>Big Trouble</strong>, <strong>Kyler?</strong>, <strong>Xavier</strong>, <strong>Team Jon</strong>) — they’re alive, hungry, and likely refreshing the waiver wire like it’s a Netflix show.</li>
+        </ul>
+        <h3 class="kicker">Quick conditionals (useful if you like drama):</h3>
+        <ul>
+          <li>How Team Santangelo stays in: Win next week and lean on projected opponent slip-ups and bench misfires from challengers (schedule specifics not provided; monitor week-by-week).</li>
+          <li>How a 5-6 team climbs in: Win two of the next three head-to-heads and exploit the league’s penchant for one-point head-scratchers — bye weeks and inactives will be decisive.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <h3>Recurring feature — Which Marvel character are you?</h3>
+        <ul>
+          <li><strong>Kraft Montgomery Cheese:</strong> Professor X — mastermind with a fragile human shell (but effective).</li>
+          <li><strong>SnydeRemarks:</strong> Iron Man — flashy points, ego intact, sometimes misses the landing.</li>
+          <li><strong>Forte Inch Johnson:</strong> The Hulk — when it clicks, everything explodes (and nearby defenses tremble).</li>
+          <li><strong>5WRsAllowedOnRostersNextYear:</strong> Dr. Strange — wizardry at TE-time and portals to scoring.</li>
+          <li><strong>Trying to not finish last:</strong> Hawkeye — quietly efficient and suddenly crucial.</li>
+          <li><strong>THE Derbaum:</strong> Thor — a hammering ground game that arrives with authority.</li>
+          <li><strong>Dickhole Smashers:</strong> Loki — chaotic, sometimes brilliant, often punished.</li>
+          <li><strong>Team Jon:</strong> Captain America — steady, moral, occasionally outpaced by flash.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <h3>Terrible Movie I Actually Own (one-paragraph indulgence)</h3>
+        <p>I own and will defend The Adventures of Pluto Nash on principle: it flopped harder than a bench QBs’ ad-lib, but there’s something indulgent about a spectacular failure — much like some of your weekly lineups. If your team feels like a $100 million bust this week, at least you’re entertaining.</p>
+      </article>
+    </section>
+
+    <section aria-labelledby="preview">
+      <h2 id="preview">Next Week’s Preview</h2>
+
+      <article class="card">
+        <h3>Weekly “Start/Don’t-Die” checklist (actionable, short)</h3>
+        <ul>
+          <li>Do not leave known inactives on your roster: we saw multiple losses owed to <strong>Isiah Pacheco</strong>, <strong>Kyler Murray</strong>, <strong>Jayden Daniels</strong>, <strong>Joe Burrow</strong> situations.</li>
+          <li><strong>Start:</strong> <strong class="good">De’Von Achane</strong> (<em>Hangin' With Mr. Cooper</em> projects him <strong>27.88</strong> next week) — when his workload looks this healthy, ride him.</li>
+          <li><strong>Sit/Consider benching:</strong> <strong class="bad">Tyreek Hill</strong> — listed as inactive for <em>Team Jon</em> next week (set your emergency WR).</li>
+          <li><strong>Stream aggressively:</strong> D/STs and kickers have swung weeks (<strong>Steelers 22.0</strong>, <strong>Browns 16.0</strong>, <strong>Wil Lutz 18.0</strong>, <strong>Eddy Pineiro 14.0</strong>). If you’re in a one-point game, treat D/ST like a high-yield brownie.</li>
+        </ul>
+      </article>
+    </section>
+
+    <footer>
+      <p><strong>Sign-off:</strong> Lock your lineups, check inactives, and stop benching guys who go nuclear (I see you, Dickhole Smashers). Complain to the commissioner in the group chat, donate a beer to the eventual champ, and for the love of fantasy, don’t trust kickers unless you’re ready to be pleasantly surprised. See you in Week 12 — bring outrage and waiver claims.</p>
+    </footer>
+  </div>
+</body>
+</html>

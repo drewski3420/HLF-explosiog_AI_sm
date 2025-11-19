@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Week 11: Bench players scored a touchdown, owners scored a shrug.</title>
+  <style>
+    :root{
+      --bg:#ffffff;
+      --text:#1a1f2b;
+      --muted:#5a6473;
+      --accent:#1f7aec;
+      --soft:#f4f7fb;
+      --border:#e6ebf2;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      background:var(--bg);
+      color:var(--text);
+      font:16px/1.6 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      -webkit-font-smoothing:antialiased;
+      -moz-osx-font-smoothing:grayscale;
+    }
+    .wrap{
+      max-width:960px;
+      margin:0 auto;
+      padding:24px clamp(16px, 4vw, 28px);
+    }
+    header.site-header{
+      padding:12px 0 8px;
+    }
+    h1{
+      font-size:clamp(1.6rem, 2.6vw, 2.2rem);
+      line-height:1.25;
+      margin:0 0 8px;
+      letter-spacing:-0.01em;
+    }
+    .dek{
+      margin:0;
+      color:var(--muted);
+    }
+    main{
+      margin-top:24px;
+    }
+    section{
+      background:var(--soft);
+      border:1px solid var(--border);
+      border-radius:12px;
+      padding:18px;
+      margin:18px 0;
+    }
+    h2{
+      font-size:clamp(1.25rem, 2vw, 1.5rem);
+      margin:0 0 12px;
+      letter-spacing:-0.01em;
+    }
+    h3{
+      font-size:clamp(1.05rem, 1.6vw, 1.2rem);
+      margin:16px 0 8px;
+    }
+    p{
+      margin:8px 0 10px;
+    }
+    ul{
+      margin:8px 0 10px 20px;
+      padding:0;
+    }
+    li + li{ margin-top:6px; }
+    article{
+      background:#fff;
+      border:1px solid var(--border);
+      border-radius:10px;
+      padding:14px;
+      margin:12px 0;
+    }
+    .meta{
+      display:flex;
+      flex-wrap:wrap;
+      gap:10px;
+      margin:6px 0 8px;
+      color:var(--muted);
+      font-size:0.95rem;
+    }
+    .pill{
+      display:inline-block;
+      padding:2px 10px;
+      border-radius:999px;
+      background:var(--soft);
+      border:1px solid var(--border);
+      font-weight:600;
+      color:var(--accent);
+    }
+    .stat{
+      font-weight:700;
+      color:var(--accent);
+    }
+    .note{
+      color:var(--muted);
+      font-style:italic;
+    }
+    .grid{
+      display:grid;
+      gap:12px;
+    }
+    @media (min-width:720px){
+      .grid.two{ grid-template-columns:1fr 1fr; }
+      .grid.three{ grid-template-columns:repeat(3, 1fr); }
+    }
+    footer{
+      margin:26px 0 8px;
+      color:var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="site-header">
+      <h1>Week 11: Bench players scored a touchdown, owners scored a shrug.</h1>
+      <p class="dek">If fantasy football were a movie, this week would be a low-budget heist where everyone forgot the blueprint but still walked away with someone else’s jewelry. Bench management decided outcomes more than skill; kickers and defenses had their moment in the sun; and yes, someone left <strong>Travis Kelce</strong> in a box marked “maybe?”</p>
+    </header>
+
+    <main>
+      <section aria-labelledby="recap">
+        <h2 id="recap">Last Week’s Recap</h2>
+
+        <p><strong>Week 11 in one sentence:</strong> Bench blunders and unpredictable RB/TE explosions turned a predictable midseason slog into a soap opera of one-point losses and “why did I do that?” texts.</p>
+
+        <section>
+          <h3>Quick league snapshot</h3>
+          <ul>
+            <li><strong>Highest single-team score:</strong> <em>Here Comes McBride</em> exploded for <strong class="stat">148.30</strong> points and probably took the mercy route home.</li>
+            <li><strong>Lowest single-team score:</strong> <em>Goff And Running</em> flopped to <strong class="stat">67.74</strong> — at least their bench didn’t rub it in (it did).</li>
+            <li><strong>Biggest upset (by headline-readability):</strong> <em>I Know Exactly What I’m Doing</em> routed <em>Goff And Running</em> <strong>97.72–67.74</strong> — sometimes “exactly” is just lucky.</li>
+            <li><strong>Closest game:</strong> <em>Gronk for my johnson</em> edged <em>D.J. Chark Week</em> <strong>95.00–93.54</strong> — the league’s version of a Tinder date that ends with both regretting nothing.</li>
+          </ul>
+        </section>
+
+        <div class="grid two">
+          <section>
+            <h3>Top performers</h3>
+            <ul>
+              <li><strong>Josh Allen</strong> — <span class="stat">42.68</span></li>
+              <li><strong>Sean Tucker</strong> — <span class="stat">33.0</span></li>
+              <li><strong>Christian McCaffrey</strong> — <span class="stat">32.6</span></li>
+              <li><strong>Tetairoa McMillan</strong> — <span class="stat">29.0</span></li>
+              <li><strong>TreVeyon Henderson</strong> — <span class="stat">29.8</span></li>
+              <li><strong>Bijan Robinson</strong> — <span class="stat">28.3</span></li>
+              <li><strong>Dak Prescott</strong> — <span class="stat">24.32</span></li>
+              <li><strong>George Pickens</strong> — <span class="stat">24.9</span></li>
+              <li><strong>George Kittle</strong> — <span class="stat">21.7</span></li>
+              <li><strong>Steelers D/ST</strong> — <span class="stat">22.0</span></li>
+              <li><strong>Kenneth Gainwell</strong> — <span class="stat">26.0</span></li>
+              <li><strong>Jason Myers</strong> — <span class="stat">14.0</span></li>
+            </ul>
+          </section>
+
+          <section>
+            <h3>Underperformers</h3>
+            <ul>
+              <li><strong>Ja’Marr Chase</strong> — <span class="stat">4.5</span></li>
+              <li><strong>Goff And Running</strong> — <span class="stat">67.74</span> (team total)</li>
+              <li><strong>Lamar Jackson</strong> — cratered <span class="note">(no stat provided)</span></li>
+              <li><strong>Josh Jacobs</strong> — cratered <span class="note">(no stat provided)</span></li>
+            </ul>
+          </section>
+        </div>
+
+        <section>
+          <h3>Notable bench performances</h3>
+          <ul>
+            <li><strong>Travis Kelce</strong> — <span class="stat">19.6</span> (benched)</li>
+            <li><strong>Brock Purdy</strong> — <span class="stat">19.3</span> (benched)</li>
+            <li><strong>Jameson Williams</strong> — <span class="stat">17.7</span> (benched)</li>
+            <li><strong>Mark Andrews</strong> — <span class="stat">14.2</span> (benched)</li>
+            <li><strong>Christian Watson</strong> — <span class="stat">18.6</span> (benched)</li>
+            <li><strong>A.J. Brown</strong> — benched <span class="note">(no stat provided)</span></li>
+            <li><strong>Bhayshul Tuten</strong> — <span class="stat">13.4</span> (benched)</li>
+          </ul>
+        </section>
+
+        <section>
+          <h3>Matchups (your weekly soap-opera recaps)</h3>
+
+          <article>
+            <h3>Clever Team Name Incoming @ Here Comes McBride — 112.96 @ 148.30</h3>
+            <p><span class="pill">Headline</span> “Here Comes McBride turns a Clever idea into a masterpiece 🎯”</p>
+            <p><strong>Recap:</strong> Here Comes McBride blew the doors off Clever Team Name Incoming <strong>148.30–112.96</strong>, thanks to <strong>Sean Tucker’s 33.0</strong> and <strong>Tetairoa McMillan’s 29.0</strong> — both of whom made fantasy managers question childhood life choices. Clever’s <strong>TreVeyon Henderson</strong> put up <strong>29.8</strong> and still lost, which is the fantasy equivalent of scoring a hat trick in a 4–3 defeat.</p>
+            <p><strong>Bench gag:</strong> <em>Brock Purdy</em> sat and scored <strong>19.3</strong> on the bench like a guy who brought a gun to a pillow fight.</p>
+            <p class="note"><strong>Time-travel quip:</strong> Here Comes McBride: To last week, to steal everyone’s waiver wire picks. Clever Team Name Incoming: Back to the draft, with a notebook labeled “This time I start the QBs.”</p>
+          </article>
+
+          <article>
+            <h3>I Know Exactly What I’m Doing @ Goff And Running — 97.72 @ 67.74</h3>
+            <p><span class="pill">Headline</span> “I Know Exactly What I’s modest 30-point mood swing”</p>
+            <p><strong>Recap:</strong> I Know Exactly What I’m Doing quietly handled Goff And Running <strong>97.72–67.74</strong> by riding <strong>Nico Collins’ 19.7</strong> and some trading-card-level WR depth. Home team’s QB situation (and probably morale) underperformed across the board, leaving Goff And Running to contemplate whether benching three productive guys was performance art.</p>
+            <p><strong>Bench gag:</strong> <em>Jameson Williams</em> scored <strong>17.7</strong> on the away bench and sent a passive-aggressive GIF to the owner who left him inactive.</p>
+            <p class="note"><strong>Time-travel quip:</strong> I Know Exactly What I’m Doing: To the last five minutes before lineup lock, to actually read injury reports. Goff And Running: To their group chat, to ask why someone forgot how to start players.</p>
+          </article>
+
+          <article>
+            <h3>Gronk for my johnson @ D.J. Chark Week — 95.00 @ 93.54</h3>
+            <p><span class="pill">Headline</span> “Gronk squeaks by D.J. Chark Week in a thriller — bench revenge nearly served”</p>
+            <p><strong>Recap:</strong> Gronk for my johnson edged D.J. Chark Week <strong>95.00–93.54</strong> as <strong>Bijan Robinson’s 28.3</strong> carried the day and <strong>Mark Andrews’ 14.2</strong> sat on the bench like an offended benchwarmer. <strong>George Pickens’ 24.9</strong> nearly spoiled the party, and <strong>Kenneth Walker III</strong> chipped in the kind of RB output that makes you both proud and afraid.</p>
+            <p><strong>Decisive blunder:</strong> <em>Christian Watson</em> had <strong>18.6</strong> on D.J. Chark Week’s bench and was left unused — the fantasy equivalent of leaving the parachute at the baggage claim.</p>
+            <p class="note"><strong>Time-travel quip:</strong> Gronk for my johnson: To next week’s trophy photos. D.J. Chark Week: Back to the waiver wire, with an apology to every unsponsored player.</p>
+          </article>
+
+          <article>
+            <h3>Baker's Brownie Stand @ OHHHHHHH YEAHHHHH!!!! — 101.82 @ 99.98</h3>
+            <p><span class="pill">Headline</span> “Baker’s Brownie Stand takes a slightly stale cake 101.82–99.98”</p>
+            <p><strong>Recap:</strong> Baker’s Brownie Stand beat OHHHHHHH YEAHHHHH!!!! <strong>101.82–99.98</strong>, with <strong>Christian McCaffrey’s 32.6</strong> and a <strong>Steelers D/ST</strong> explosion (<strong>22.0</strong>) doing the heavy lifting. <strong>Josh Allen</strong> threw a <strong>42.68</strong> day for the home team — the kind of performance that usually buys you a win, not a consolation prize.</p>
+            <p><strong>Bench gag:</strong> Home team left <em>Travis Kelce</em> on the bench with <strong>19.6</strong> points, which is the fantasy equivalent of turning down free money to remain an artist.</p>
+            <p class="note"><strong>Time-travel quip:</strong> Baker’s Brownie Stand: To the waiver wire, picking up the Steelers for shits and giggles. OHHHHHHH YEAHHHHH!!!!: To the list of “Why I Don’t Trust My Own Hands.”</p>
+          </article>
+
+          <article>
+            <h3>THE Derbaum @ Puka Puka — 115.12 @ 97.22</h3>
+            <p><span class="pill">Headline</span> “THE Derbaum wins a chess match while Puka Puka tried to play checkers”</p>
+            <p><strong>Recap:</strong> THE Derbaum took Puka Puka <strong>115.12–97.22</strong> thanks to <strong>George Kittle’s 21.7</strong> and bench sneaks, while Puka’s <strong>Dak</strong> tossed <strong>24.32</strong> and <strong>Travis Etienne</strong> did his Etienne thing but not enough. <strong>Ja’Marr Chase</strong> had a shockingly quiet night (<strong>4.5</strong>) and <strong>A.J. Brown</strong> was apparently left on Puka’s bench, which makes for great therapy later.</p>
+            <p><strong>Bench gag:</strong> <em>Bhayshul Tuten</em> scored <strong>13.4</strong> on the away bench and waved at the owner as they walked off the field.</p>
+            <p class="note"><strong>Time-travel quip:</strong> THE Derbaum: To the offseason, to polish a trophy he doesn’t yet have. Puka Puka: To the bench, to have a long talk about trust.</p>
+          </article>
+
+          <article>
+            <h3>No Punt Intended @ World of Hurts — 75.32 @ 100.96</h3>
+            <p><span class="pill">Headline</span> “World of Hurts puts the hurt on No Punt Intended (and also their QB)”</p>
+            <p><strong>Recap:</strong> World of Hurts beat No Punt Intended <strong>100.96–75.32</strong> in a game where <strong>Kenneth Gainwell</strong> exploded for <strong>26.0</strong> and <strong>Jason Myers</strong> contributed <strong>14.0</strong> — yes, a kicker was a difference-maker, and nobody was surprised the kicker took it personally. <strong>Lamar Jackson</strong> and <strong>Josh Jacobs</strong> both cratered for No Punt Intended, ending the day in the fantasy equivalent of a group therapy session.</p>
+            <p><strong>Bench gag:</strong> <em>Travis Kelce’s</em> <strong>19.6</strong> sat on the bench like a loaded joke nobody wanted to hear.</p>
+            <p class="note"><strong>Time-travel quip:</strong> World of Hurts: To the trophy case, to see if anything smells like victory. No Punt Intended: Back to their lineup notes with a single tear.</p>
+          </article>
+        </section>
+      </section>
+
+      <section aria-labelledby="trends">
+        <h2 id="trends">Season Trends</h2>
+
+        <section>
+          <h3>Playoff Picture — who’s snug, who’s sweating, who’s a ghost</h3>
+          <ul>
+            <li><strong>Locked in:</strong> <em>Here Comes McBride</em> — <strong>8-3</strong>, PF <strong>1216.76</strong> — playoff chance <strong class="stat">100.0%</strong> (so yes, they’re buying the champagne).</li>
+            <li><strong>Very likely/barely breathing comfy:</strong> <em>Gronk for my johnson</em> (<strong>7-4</strong>, <strong>94.38%</strong>), <em>THE Derbaum</em> (<strong>7-4</strong>, <strong>97.5%</strong>), <em>Puka Puka</em> (<strong>7-4</strong>, <strong>94.525%</strong>). Treat them like solid but not invincible teams.</li>
+            <li><strong>On the bubble:</strong> <em>Baker’s Brownie Stand</em> (<strong>6-5</strong>, <strong>64.45%</strong>), <em>No Punt Intended</em> (<strong>5-6</strong>, <strong>47.70%</strong>), <em>OHHHHHHH YEAHHHHH!!!!</em> (<strong>5-6</strong>, <strong>36.175%</strong>). One hot streak or one bench-ruining mistake from any of these could flip seeds.</li>
+            <li><strong>Hanging by a thread:</strong> <em>Clever Team Name Incoming</em> (<strong>5-6</strong>, <strong>19.95%</strong>), <em>I Know Exactly What I’m Doing</em> (<strong>5-6</strong>, <strong>35.4%</strong>).</li>
+            <li><strong>Long shots / nearly eliminated:</strong> <em>Goff And Running</em> (<strong>4-7</strong>, <strong>4.10%</strong>), <em>World of Hurts</em> (<strong>4-7</strong>, <strong>5.525%</strong>), <em>D.J. Chark Week</em> (<strong>3-8</strong>, <strong>0.3%</strong>).</li>
+            <li><strong>How Baker’s Brownie Stand makes the playoffs:</strong> Win next week and they’ll probably climb into the top 6; if they lose, their 64% evaporates quickly. <span class="note">(Exact multi-team scenarios depend on other results and head‑to‑head tiebreakers — schedule data not provided for full scenario math.)</span></li>
+            <li><strong>How No Punt Intended makes it:</strong> They have the PF ammo (<strong>1188.26</strong>) — string together timely starts and exploit any of the 7–4 teams’ slippage and they’re back in business.</li>
+          </ul>
+        </section>
+
+        <section>
+          <h3>Recurring Feature — Which Marvel character are you? (your teams, in one sentence each)</h3>
+          <ul>
+            <li><strong>Here Comes McBride:</strong> Captain America — steady, moral, ends up saving the playoffs.</li>
+            <li><strong>Gronk for my johnson:</strong> Thor — swings a hammer (Bijan) and causes collateral delight.</li>
+            <li><strong>THE Derbaum:</strong> Doctor Strange — weird magic (TE scoring) that somehow works.</li>
+            <li><strong>Puka Puka:</strong> Spider-Man — electrifying when it hits, awkward at dinner.</li>
+            <li><strong>Baker’s Brownie Stand:</strong> Iron Man — flashy skill players, occasionally distracted by shiny things.</li>
+            <li><strong>OHHHHHHH YEAHHHHH!!!!:</strong> Hulk — explodes loudly and then sulks.</li>
+            <li><strong>No Punt Intended:</strong> Quicksilver — lots of speed/potential but trips at the finish.</li>
+            <li><strong>Clever Team Name Incoming:</strong> Ant-Man — underrated until he’s not.</li>
+            <li><strong>I Know Exactly What I’m Doing:</strong> Loki — scheming and occasionally terrifying.</li>
+            <li><strong>Goff And Running:</strong> Hawkeye — competent, but misses the big shot sometimes.</li>
+            <li><strong>World of Hurts:</strong> Nick Fury — pulls surprises out of a trench coat.</li>
+            <li><strong>D.J. Chark Week:</strong> Deadpool — chaotic, entertaining, and probably wearing something ridiculous.</li>
+          </ul>
+        </section>
+      </section>
+
+      <section aria-labelledby="preview">
+        <h2 id="preview">Next Week’s Preview</h2>
+
+        <section>
+          <h3>Actionable, data-proven advice</h3>
+          <ul>
+            <li><strong>Check your benches:</strong> this league’s single biggest swing has been leaving <strong>15–20+ point</strong> players inactive (<em>Kelce, Watson, Purdy, Andrews</em>, etc.). Don’t be that person.</li>
+            <li><strong>Kicker and D/ST matter:</strong> <em>Jason Myers (14.0)</em> and <em>Steelers D/ST (22.0)</em> swung weeks — pick them by matchup, not loyalty.</li>
+            <li><strong>Start RB/TE upside:</strong> recent weeks show RB/TE breakouts are the strongest path to victory.</li>
+          </ul>
+        </section>
+
+        <section>
+          <h3>Final word</h3>
+          <p>Lock your lineups, mourn your benched hero privately, and if you want to avoid the “I left <strong>Kelce</strong> on the bench” talk at the next draft party, donate a six-pack to the eventual trophy holder. I’ll be back next week to roast your roster decisions and celebrate other people’s dumb luck.</p>
+        </section>
+      </section>
+    </main>
+
+    <footer>
+      <p class="note">Week 11 recap compiled from league notes and matchup summaries.</p>
+    </footer>
+  </div>
+</body>
+</html>

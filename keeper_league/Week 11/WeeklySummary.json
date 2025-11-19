@@ -1,0 +1,693 @@
+{
+  "week": "11",
+  "matchups": [
+    {
+      "matchup": "Clever Team Name Incoming (Away) @ Here Comes McBride (Home)",
+      "winner": "Here Comes McBride",
+      "score": {
+        "home": 148.3,
+        "away": 112.96
+      },
+      "top_performers_vs_projection": [
+        {
+          "name": "Sean Tucker",
+          "team_side": "home",
+          "actual": 33.0,
+          "projected": 9.47,
+          "delta": 23.53,
+          "stats_note": "106 rush yards, 2 rush TD, 2 rec for 34 yards and 1 rec TD"
+        },
+        {
+          "name": "Tetairoa McMillan",
+          "team_side": "home",
+          "actual": 29.0,
+          "projected": 10.87,
+          "delta": 18.13,
+          "stats_note": "8 rec for 130 yards, 2 TD"
+        },
+        {
+          "name": "Trey McBride",
+          "team_side": "home",
+          "actual": 22.5,
+          "projected": 15.21,
+          "delta": 7.29,
+          "stats_note": "10 rec for 115 yards, 1 TD"
+        },
+        {
+          "name": "Eddy Pineiro (K)",
+          "team_side": "home",
+          "actual": 14.0,
+          "projected": 8.36,
+          "delta": 5.64,
+          "stats_note": "3/3 FG, 2/4 XP"
+        },
+        {
+          "name": "TreVeyon Henderson",
+          "team_side": "away",
+          "actual": 29.8,
+          "projected": 12.8,
+          "delta": 17.0,
+          "stats_note": "62 rush yards, 2 rush TD, 5 rec for 31 yards and 1 rec TD"
+        },
+        {
+          "name": "Derrick Henry",
+          "team_side": "away",
+          "actual": 19.2,
+          "projected": 13.69,
+          "delta": 5.51,
+          "stats_note": "103 rush yards, 1 rush TD"
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "name": "J.J. McCarthy",
+          "team_side": "home",
+          "actual": 6.0,
+          "projected": 18.41,
+          "delta": -12.41,
+          "stats_note": "16/32 150 yards, 1 TD, 2 INT"
+        },
+        {
+          "name": "Ladd McConkey",
+          "team_side": "home",
+          "actual": 2.8,
+          "projected": 12.43,
+          "delta": -9.63,
+          "stats_note": "3 rec for 13 yards"
+        },
+        {
+          "name": "Joe Flacco",
+          "team_side": "away",
+          "actual": 9.86,
+          "projected": 16.66,
+          "delta": -6.8,
+          "stats_note": "23/40 199 yards, 1 TD, 1 INT"
+        },
+        {
+          "name": "D'Andre Swift",
+          "team_side": "away",
+          "actual": 9.0,
+          "projected": 13.31,
+          "delta": -4.31,
+          "stats_note": "90 rush yards, no receptions"
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "name": "Brock Purdy",
+          "team_side": "home",
+          "actual": 19.3,
+          "projected": 19.0,
+          "delta": 0.3,
+          "note": "3 TD passing, was benched"
+        },
+        {
+          "name": "Bo Nix",
+          "team_side": "home",
+          "actual": 12.6,
+          "projected": 17.53,
+          "delta": -4.93,
+          "note": "295 yards passing on bench"
+        },
+        {
+          "name": "Justin Fields",
+          "team_side": "away",
+          "actual": 19.34,
+          "projected": 16.28,
+          "delta": 3.06,
+          "note": "Produced 19.34 on bench (rushed TD)"
+        },
+        {
+          "name": "Devin Singletary",
+          "team_side": "away",
+          "actual": 17.2,
+          "projected": 8.66,
+          "delta": 8.54,
+          "note": "Scored 2 rush TDs on the bench"
+        }
+      ],
+      "impactful_transactions_and_notes": [
+        "Home: Trey Benson listed Inactive (on bench/inactive)",
+        "Home: Omarion Hampton listed Inactive (IR)",
+        "Away: Sam LaPorta listed Inactive on bench",
+        "Several bench QBs (Brock Purdy, Bo Nix) produced notable points while not starting"
+      ],
+      "key_takeaways": {
+        "Here Comes McBride": "Dominant week driven by unexpected big contributions from RB Sean Tucker and WR Tetairoa McMillan; tight end Trey McBride provided a strong floor. Kicker outperformance and overall depth sealed a solid win.",
+        "Clever Team Name Incoming": "Strong rushing days from TreVeyon Henderson and Derrick Henry kept this team competitive, but QB Flacco and several skill players underperformed relative to projections. Bench produced usable points (Fields, Singletary) but didn't help the starting lineup enough."
+      }
+    },
+    {
+      "matchup": "I Know Exactly What I’m Doing (Away) @ Goff And Running (Home)",
+      "winner": "I Know Exactly What I’m Doing",
+      "score": {
+        "home": 67.74,
+        "away": 97.72
+      },
+      "top_performers_vs_projection": [
+        {
+          "name": "Nico Collins",
+          "team_side": "away",
+          "actual": 19.7,
+          "projected": 13.69,
+          "delta": 6.01,
+          "stats_note": "9 rec for 92 yards, 1 TD"
+        },
+        {
+          "name": "Tre Tucker",
+          "team_side": "away",
+          "actual": 12.7,
+          "projected": 9.16,
+          "delta": 3.54,
+          "stats_note": "4 rec for 47 yards, 1 TD"
+        },
+        {
+          "name": "Tyler Loop (K)",
+          "team_side": "home",
+          "actual": 12.0,
+          "projected": 7.85,
+          "delta": 4.15,
+          "stats_note": "3/3 FG, 2/2 XP"
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "name": "Caleb Williams",
+          "team_side": "away",
+          "actual": 10.32,
+          "projected": 19.55,
+          "delta": -9.23,
+          "stats_note": "16/32 193 yards, no TDs"
+        },
+        {
+          "name": "Breece Hall",
+          "team_side": "away",
+          "actual": 7.4,
+          "projected": 12.75,
+          "delta": -5.35,
+          "stats_note": "58 rush yards"
+        },
+        {
+          "name": "Drake Maye",
+          "team_side": "home",
+          "actual": 15.44,
+          "projected": 22.42,
+          "delta": -6.98,
+          "stats_note": "25/34 281 yards, 1 TD"
+        },
+        {
+          "name": "Rashee Rice",
+          "team_side": "home",
+          "actual": 6.8,
+          "projected": 13.32,
+          "delta": -6.52,
+          "stats_note": "6 rec for 38 yards"
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "name": "Jameson Williams",
+          "team_side": "away",
+          "actual": 17.7,
+          "projected": 10.69,
+          "delta": 7.01,
+          "note": "Big bench receiver (4 rec for 88 yards, 1 TD)"
+        },
+        {
+          "name": "Jakobi Meyers",
+          "team_side": "home",
+          "actual": 8.9,
+          "projected": 7.65,
+          "delta": 1.25,
+          "note": "Bench WR contributed 64 yards"
+        },
+        {
+          "name": "Jared Goff (bench)",
+          "team_side": "home",
+          "actual": 12.1,
+          "projected": 16.25,
+          "delta": -4.15,
+          "note": "Benched starter with modest output"
+        }
+      ],
+      "impactful_transactions_and_notes": [
+        "Home: J.K. Dobbins listed Inactive",
+        "Away: Quentin Johnston recorded 0 points on bench (0/0)",
+        "Multiple bench WR/TE usage — Jameson Williams provided significant bench scoring for the away team"
+      ],
+      "key_takeaways": {
+        "I Know Exactly What I’m Doing": "Won with solid WR production (Nico Collins, Tre Tucker). QB and RB units underperformed vs projections but receiving corps made the difference. Bench provided additional value (Jameson Williams).",
+        "Goff And Running": "Offense underwhelmed across starters; kicker Tyler Loop was a rare positive. Several expected contributors (Drake Maye, Saquon, Rashee Rice) fell short of projections, leading to a low team total."
+      }
+    },
+    {
+      "matchup": "Gronk for my johnson (Away) @ D.J. Chark Week (Home)",
+      "winner": "Gronk for my johnson",
+      "score": {
+        "home": 93.54,
+        "away": 95.0
+      },
+      "top_performers_vs_projection": [
+        {
+          "name": "George Pickens",
+          "team_side": "home",
+          "actual": 24.9,
+          "projected": 12.1,
+          "delta": 12.8,
+          "stats_note": "9 rec for 144 yards, 1 TD"
+        },
+        {
+          "name": "Bijan Robinson",
+          "team_side": "away",
+          "actual": 28.3,
+          "projected": 18.35,
+          "delta": 9.95,
+          "stats_note": "104 rush yards, 2 rush TD"
+        },
+        {
+          "name": "Kenneth Walker III",
+          "team_side": "home",
+          "actual": 18.6,
+          "projected": 9.98,
+          "delta": 8.62,
+          "stats_note": "67 rush yards, 1 rush TD and 3 rec for 44 yards"
+        },
+        {
+          "name": "Christian Watson (bench)",
+          "team_side": "home",
+          "actual": 18.6,
+          "projected": 7.68,
+          "delta": 10.92,
+          "stats_note": "Bench: 4 rec for 46 yards, 2 TD"
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "name": "Justin Jefferson",
+          "team_side": "home",
+          "actual": 8.6,
+          "projected": 16.26,
+          "delta": -7.66,
+          "stats_note": "5 rec for 61 yards"
+        },
+        {
+          "name": "Nick Chubb",
+          "team_side": "home",
+          "actual": 1.7,
+          "projected": 8.24,
+          "delta": -6.54,
+          "stats_note": "17 rush yards"
+        },
+        {
+          "name": "Jalen Hurts",
+          "team_side": "away",
+          "actual": 14.5,
+          "projected": 21.64,
+          "delta": -7.14,
+          "stats_note": "14/28 135 yards, 31 rush yards, 1 rush TD"
+        },
+        {
+          "name": "Jaylen Waddle",
+          "team_side": "away",
+          "actual": 6.7,
+          "projected": 13.95,
+          "delta": -7.25,
+          "stats_note": "3 rec for 52 yards"
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "name": "Mark Andrews",
+          "team_side": "away",
+          "actual": 14.2,
+          "projected": 7.4,
+          "delta": 6.8,
+          "note": "Bench TE delivered significant points"
+        },
+        {
+          "name": "Christian Watson",
+          "team_side": "home",
+          "actual": 18.6,
+          "projected": 7.68,
+          "delta": 10.92,
+          "note": "Two TD receiving on bench"
+        },
+        {
+          "name": "Justin Herbert (bench)",
+          "team_side": "away",
+          "actual": 3.34,
+          "projected": 19.57,
+          "delta": -16.23,
+          "note": "Bench QB badly underperformed"
+        }
+      ],
+      "impactful_transactions_and_notes": [
+        "Home: Several bench/inactive designations (Alvin Kamara BYE, Terry McLaurin Inactive, Bucky Irving Inactive, Dalton Kincaid Inactive). Christian Watson and Ravens D/ST were left on bench but produced",
+        "Away: Mark Andrews and Justin Herbert remained on the bench; Herbert produced very little while Andrews provided solid bench scoring",
+        "Multiple starters (Chubb, Jefferson) underperformed expectations which tightened a close result"
+      ],
+      "key_takeaways": {
+        "Gronk for my johnson": "Bijan Robinson carried the offense with a big rushing day. Team overcame underperformance from QB Hurts and some WRs thanks to strong RB and bench TE Mark Andrews.",
+        "D.J. Chark Week": "Big performances from George Pickens and Kenneth Walker kept this game extremely close. However, losses from expected producers (Justin Jefferson, Nick Chubb) and leaving Christian Watson on the bench were notable roster missteps."
+      }
+    },
+    {
+      "matchup": "Baker's Brownie Stand (Away) @ OHHHHHHH YEAHHHHH!!!! (Home)",
+      "winner": "Baker's Brownie Stand",
+      "score": {
+        "home": 99.98,
+        "away": 101.82
+      },
+      "top_performers_vs_projection": [
+        {
+          "name": "Josh Allen",
+          "team_side": "home",
+          "actual": 42.68,
+          "projected": 20.7,
+          "delta": 21.98,
+          "stats_note": "317 pass yards, 3 pass TDs, 2 INT, 40 rush yards, 3 rush TDs"
+        },
+        {
+          "name": "Christian McCaffrey",
+          "team_side": "away",
+          "actual": 32.6,
+          "projected": 23.13,
+          "delta": 9.47,
+          "stats_note": "81 rush yards, 2 rush TDs, 5 rec for 40 yards, 1 rec TD"
+        },
+        {
+          "name": "Tyrone Tracy Jr.",
+          "team_side": "home",
+          "actual": 15.9,
+          "projected": 11.3,
+          "delta": 4.6,
+          "stats_note": "88 rush yards, 4 rec for 51 yards"
+        },
+        {
+          "name": "Steelers D/ST",
+          "team_side": "away",
+          "actual": 22.0,
+          "projected": 6.3,
+          "delta": 15.7,
+          "stats_note": "1 INT, 1 FUM, 1 sack; held opponent to 12 points"
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "name": "Emeka Egbuka",
+          "team_side": "home",
+          "actual": 6.5,
+          "projected": 14.08,
+          "delta": -7.58,
+          "stats_note": "5 rec for 40 yards"
+        },
+        {
+          "name": "DJ Moore",
+          "team_side": "away",
+          "actual": 2.6,
+          "projected": 8.09,
+          "delta": -5.49,
+          "stats_note": "1 rec for 18 yards"
+        },
+        {
+          "name": "Woody Marks",
+          "team_side": "home",
+          "actual": 5.6,
+          "projected": 12.87,
+          "delta": -7.27,
+          "stats_note": "44 rush yards"
+        },
+        {
+          "name": "Brock Bowers",
+          "team_side": "home",
+          "actual": 10.7,
+          "projected": 13.95,
+          "delta": -3.25,
+          "stats_note": "7 rec for 72 yards"
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "name": "Matthew Stafford",
+          "team_side": "away",
+          "actual": 13.2,
+          "projected": 18.05,
+          "delta": -4.85,
+          "note": "Bench QB had 2 TDs in relief"
+        },
+        {
+          "name": "Bam Knight",
+          "team_side": "home",
+          "actual": 12.5,
+          "projected": 10.25,
+          "delta": 2.25,
+          "note": "Bench RB scored a TD"
+        },
+        {
+          "name": "Garrett Wilson (bench)",
+          "team_side": "away",
+          "actual": 0.0,
+          "projected": 0.0,
+          "note": "Was on bench and scored 0"
+        }
+      ],
+      "impactful_transactions_and_notes": [
+        "Home: Jonathan Taylor on BYE, several bench players and byes reduced depth (Jonathan Taylor BYE, Daniel Jones BYE, Michael Pittman Jr. BYE)",
+        "Away: Tyreek Hill listed Inactive/IR (on IR), Garrett Wilson on bench with 0 points",
+        "Steelers D/ST pickup/start produced a matchup-swinging 22 points for the away team"
+      ],
+      "key_takeaways": {
+        "Baker's Brownie Stand": "Steelers D/ST explosively outscored projections and, combined with Christian McCaffrey's strong performance, provided the margin of victory despite an otherwise modest QB showing.",
+        "OHHHHHHH YEAHHHHH!!!!": "Josh Allen put up an enormous fantasy line but the team lacked additional supporting scoring; several starters and bench byes limited upside and the opponent's D/ST made the difference."
+      }
+    },
+    {
+      "matchup": "THE Derbaum (Away) @ Puka Puka (Home)",
+      "winner": "THE Derbaum",
+      "score": {
+        "home": 97.22,
+        "away": 115.12
+      },
+      "top_performers_vs_projection": [
+        {
+          "name": "George Kittle",
+          "team_side": "away",
+          "actual": 21.7,
+          "projected": 11.36,
+          "delta": 10.34,
+          "stats_note": "6 rec for 67 yards, 2 TD"
+        },
+        {
+          "name": "Dak Prescott",
+          "team_side": "home",
+          "actual": 24.32,
+          "projected": 17.86,
+          "delta": 6.46,
+          "stats_note": "25/33 268 yards, 4 TD"
+        },
+        {
+          "name": "Travis Etienne Jr.",
+          "team_side": "home",
+          "actual": 19.3,
+          "projected": 13.18,
+          "delta": 6.12,
+          "stats_note": "73 rush yards, 2 rush TD"
+        },
+        {
+          "name": "Bhayshul Tuten (bench)",
+          "team_side": "away",
+          "actual": 13.4,
+          "projected": 4.31,
+          "delta": 9.09,
+          "stats_note": "Bench RB 74 yards, 1 TD"
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "name": "Ja'Marr Chase",
+          "team_side": "home",
+          "actual": 4.5,
+          "projected": 18.18,
+          "delta": -13.68,
+          "stats_note": "3 rec for 30 yards"
+        },
+        {
+          "name": "Ashton Jeanty",
+          "team_side": "home",
+          "actual": 6.4,
+          "projected": 17.14,
+          "delta": -10.74,
+          "stats_note": "7 rush yards, 6 rec for 27 yards"
+        },
+        {
+          "name": "Puka Nacua",
+          "team_side": "home",
+          "actual": 10.8,
+          "projected": 16.59,
+          "delta": -5.79,
+          "stats_note": "7 rec for 75 yards and 1 fumble"
+        },
+        {
+          "name": "De'Von Achane",
+          "team_side": "away",
+          "actual": 19.0,
+          "projected": 24.96,
+          "delta": -5.96,
+          "stats_note": "120 rush yards but no TD"
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "name": "Bhayshul Tuten",
+          "team_side": "away",
+          "actual": 13.4,
+          "projected": 4.31,
+          "delta": 9.09,
+          "note": "Bench RB scored a TD and provided strong yardage"
+        },
+        {
+          "name": "Trevor Lawrence (bench)",
+          "team_side": "away",
+          "actual": 15.02,
+          "projected": 15.23,
+          "delta": -0.21,
+          "note": "Bench QB produced expected value"
+        },
+        {
+          "name": "A.J. Brown (bench)",
+          "team_side": "home",
+          "actual": 8.4,
+          "projected": 13.12,
+          "delta": -4.72,
+          "note": "Left on bench; underprojected receiver"
+        }
+      ],
+      "impactful_transactions_and_notes": [
+        "Home: Sam Darnold on bench produced only 4.26 vs 15.01 projection",
+        "Away: Bhayshul Tuten provided unexpected bench scoring; Trevor Lawrence and others remained on bench",
+        "Several key starters for Puka Puka (Jeanty, Chase, Pitts) severely underperformed relative to projections"
+      ],
+      "key_takeaways": {
+        "THE Derbaum": "Win driven by tight end George Kittle's two TDs and steady contributions from Kyren Williams and Chase Brown. Bench RB Tuten added extra value.",
+        "Puka Puka": "High-projection players (Ja'Marr Chase, Ashton Jeanty, Puka Nacua) failed to meet expectations despite Dak Prescott and Travis Etienne finding some success; turnovers (Nacua fumble) and a thin bench limited recovery."
+      }
+    },
+    {
+      "matchup": "No Punt Intended (Away) @ World of Hurts (Home)",
+      "winner": "World of Hurts",
+      "score": {
+        "home": 100.96,
+        "away": 75.32
+      },
+      "top_performers_vs_projection": [
+        {
+          "name": "Kenneth Gainwell",
+          "team_side": "home",
+          "actual": 26.0,
+          "projected": 7.91,
+          "delta": 18.09,
+          "stats_note": "24 rush yards, 7 rec for 81 yards, 2 rec TD"
+        },
+        {
+          "name": "Travis Kelce (bench)",
+          "team_side": "home",
+          "actual": 19.6,
+          "projected": 7.89,
+          "delta": 11.71,
+          "stats_note": "Bench TE 9 rec for 91 yards, 1 TD"
+        },
+        {
+          "name": "Jason Myers (K)",
+          "team_side": "home",
+          "actual": 14.0,
+          "projected": 8.11,
+          "delta": 5.89,
+          "stats_note": "4/5 FG"
+        },
+        {
+          "name": "Jordan Love",
+          "team_side": "home",
+          "actual": 17.66,
+          "projected": 16.34,
+          "delta": 1.32,
+          "stats_note": "Threw 2 TD"
+        }
+      ],
+      "underperformers_vs_projection": [
+        {
+          "name": "Lamar Jackson",
+          "team_side": "away",
+          "actual": 4.72,
+          "projected": 19.68,
+          "delta": -14.96,
+          "stats_note": "14/25 193 yards, 2 INT"
+        },
+        {
+          "name": "Josh Jacobs",
+          "team_side": "away",
+          "actual": 4.0,
+          "projected": 20.33,
+          "delta": -16.33,
+          "stats_note": "40 rush yards, no TD"
+        },
+        {
+          "name": "DeVonta Smith",
+          "team_side": "home",
+          "actual": 1.3,
+          "projected": 12.32,
+          "delta": -11.02,
+          "stats_note": "1 rec for 8 yards"
+        },
+        {
+          "name": "Jaylen Warren",
+          "team_side": "away",
+          "actual": 7.7,
+          "projected": 17.7,
+          "delta": -10.0,
+          "stats_note": "62 rush yards"
+        }
+      ],
+      "notable_bench_players": [
+        {
+          "name": "Travis Kelce",
+          "team_side": "home",
+          "actual": 19.6,
+          "projected": 7.89,
+          "delta": 11.71,
+          "note": "Big bench TE score (9 rec, 91 yards, 1 TD) left unused"
+        },
+        {
+          "name": "Tucker Kraft (bench)",
+          "team_side": "away",
+          "actual": null,
+          "projected": 0,
+          "note": "Listed inactive or bench (no points listed)"
+        },
+        {
+          "name": "Marvin Harrison Jr.",
+          "team_side": "away",
+          "actual": null,
+          "projected": null,
+          "note": "Inactive"
+        }
+      ],
+      "impactful_transactions_and_notes": [
+        "Home: Travis Kelce was on the bench despite scoring 19.6 — a notable lost opportunity to increase the margin",
+        "Away: Marvin Harrison Jr. listed Inactive; several key starters (Lamar Jackson, Josh Jacobs) severely underperformed",
+        "Away: Chargers D/ST on bench produced -1.0 (negative) while Texans D/ST starter produced 10.0"
+      ],
+      "key_takeaways": {
+        "World of Hurts": "Huge outperformance from Kenneth Gainwell and veteran kicker Jason Myers plus defensive solidity delivered the win. Notably, Travis Kelce scored big on the bench — a missed starting opportunity.",
+        "No Punt Intended": "Collapsed around QB and lead RB: Lamar Jackson and Josh Jacobs combined to drastically underperform projections, leading to a low team total despite other role players trying to contribute."
+      }
+    }
+  ],
+  "weekly_note": {
+    "summary": "Week 11 featured several narrow outcomes and a handful of matchup-swinging performances from unexpected sources. Multiple teams benefited from high D/ST or kicker outputs (Steelers D/ST 22.0, Jaguars D/ST 12.0, Jason Myers 14.0) and bench players who outscored typical starters (Travis Kelce 19.6 on bench, Christian Watson 18.6 on bench, Jameson Williams 17.7 on bench). Conversely, several projected high scorers failed to deliver (Lamar Jackson, Josh Jacobs, Ja'Marr Chase, Sam Darnold), skewing results. There were multiple close finishes (Gronk for my johnson by ~1.5, Baker's Brownie Stand by ~1.8), demonstrating how single player decisions (benching a hot player or starting a defense) materially affected outcomes.",
+    "notable_trends": [
+      "Bench management mattered: several teams left players on the bench who significantly outscored starters (Travis Kelce, Christian Watson, Jameson Williams).",
+      "D/ST and kickers swung matchups: Steelers D/ST (22.0) and kickers like Tyler Loop and Jason Myers outperformed and were decisive.",
+      "High variance at skill positions: multiple RBs/WRs had very large positive or negative deviations from projections, producing several upsets and close games."
+    ]
+  }
+}

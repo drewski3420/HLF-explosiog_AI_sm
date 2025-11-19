@@ -1,0 +1,295 @@
+{
+  "metadata": {
+    "generated_from": "Weekly Summaries Weeks 1-10 (provided)",
+    "notes": "All observations are drawn only from the supplied weekly summaries. Where a team record is quoted it reflects the most recent record given in the supplied weekly data for that team."
+  },
+  "league_level_trends": {
+    "scoring_environment": {
+      "description": "Through the provided weeks the league has been high-variance with many very high-scoring team weeks (100+ and 150+ outputs) and frequent single-player blowups driving outcomes.",
+      "evidence": [
+        "Multiple team outputs above 140 points (SnydeRemarks 161.14 Week 5, Hangin' With Mr. Cooper 157.26 Week 9, Trying to not finish last 153.16 Week 7).",
+        "Regular 100+ team totals across many matchups (common each week)."
+      ]
+    },
+    "upsets_and_close_games": {
+      "description": "There have been many tight contests and upsets, frequently decided by bench decisions or D/ST/kicker outperformance.",
+      "evidence": [
+        "Multiple one- and two-point games (Team Santangelo 125.44 beat Big Trouble 125.18 — Week 5; multiple 2–4 point margins noted across weeks).",
+        "Frequent examples of managers leaving 20+ fantasy points on the bench that would have swung close games (e.g., Daniel Jones 29.48 Week 1 bench for Big Trouble in Little Cameron; Wan'Dale Robinson 28.2 Week 5 bench for Kraft Montgomery Cheese; Trevor Lawrence 33.96 Week 2 bench for Team Jon)."
+      ]
+    },
+    "defense_and_kicking_impact": {
+      "description": "D/ST and kickers have been unusually decisive at times — multiple weeks show D/STs or kickers creating double-digit deltas vs projection and directly affecting outcomes.",
+      "examples": [
+        "Vikings D/ST 32.0 (Week 3) — enormous swing.",
+        "Browns D/ST 24.0 (Week 9) and Seahawks D/ST 21.0 (Week 10) large positive deltas.",
+        "Kickers with outsized weeks: Jason Myers 17.0 (Week 10), Cameron Dicker 17.0 (Week 6), Eddy Pineiro 17.0 (Week 9)."
+      ]
+    },
+    "bench_and_inactive_pattern": {
+      "description": "A persistent league-wide pattern is high-value pieces on benches (or listed Inactive/IR) causing dramatic missed opportunities. Owners frequently have hard decisions on start/sit for mid-week injuries/bye/inactives, and many have been decisive for results.",
+      "notable_instances": [
+        "Numerous bench missteps where teammates recorded 20+ points on the pine: Romeo Doubs 29.8 Week 4 (bench), Bijan Robinson 35.8 Week 5 (bench), Rico Dowdle 32.4 Week 5 (bench), C.J. Stroud 28.76 Week 5 (bench).",
+        "Multiple teams listing expected starters as Inactive/IR (CeeDee Lamb listed Inactive multiple weeks; Joe Burrow IR on Xavier Marks the Spot)."
+      ]
+    }
+  },
+  "team_trends": [
+    {
+      "team": "Kraft Montgomery Cheese",
+      "latest_record_note": "listed as 8-2 in Week 10 data",
+      "season_trend_summary": "Consistently among the top teams — multiple strong weeks from RB/TE and occasional D/ST/kicker surges. Has won by leaning on steady RB production and boom TE/kicker weeks.",
+      "scoring_pattern": "Balanced scoring with occasional huge single-player surges (e.g., David Montgomery 29.4 Week 3; Tucker Kraft 33.3 Week 8). Often posts 110+ when healthy.",
+      "bench_behavior_examples": "Left Wan'Dale Robinson (28.2) on bench in Week 5; has a history of strong bench depth that sometimes goes unused.",
+      "notable_player_impact": "Wins often driven by J.K. Dobbins / Saquon Barkley carrying workload; special teams (kickers) and D/ST have also delivered in key weeks.",
+      "key_weaknesses": "Vulnerable when RBs or primary WRs have off games (several weeks show Saquon/Dobbins underperforming)."
+    },
+    {
+      "team": "SnydeRemarks",
+      "latest_record_note": "7-3 reported in Week 9 and continued high scoring into Week 10",
+      "season_trend_summary": "One of the most consistently high-scoring teams. Multiple weeks with balanced star output (Lamar Jackson, Christian McCaffrey, Marvin Harrison Jr., Emeka Egbuka).",
+      "scoring_pattern": "Often exceeds projections when both RB (McCaffrey) and at least one WR break out; 150+ point weeks were recorded (161.14 Week 5).",
+      "bench_behavior_examples": "Has had bench QB/bench RB scoring (Sam Darnold, Zach Charbonnet) in multiple weeks but often doesn't need them because starters produce.",
+      "notable_player_impact": "Christian McCaffrey repeatedly produces top-tier fantasy weeks and is frequently the engine behind large team totals.",
+      "key_weaknesses": "When QB play is limited (Mac Jones start weeks or Lamar on bye/IR) or WRs underperform, even SnydeRemarks' high floor can wobble."
+    },
+    {
+      "team": "Forte Inch Johnson",
+      "latest_record_note": "6-4 listed in Week 10 snapshot",
+      "season_trend_summary": "Roster has shown volatility but upside — multiple weeks with large RB or QB-driven outputs and a few D/ST spikes.",
+      "scoring_pattern": "Wins often result when a mid-tier RB/rookie or starting QB outperforms (e.g., large Cam Skattebo / Rico Dowdle weeks).",
+      "bench_behavior_examples": "Has left Justin Fields on bench in a few large weeks; bench RBs have produced unexpectedly large points (Rico Dowdle), sometimes unused.",
+      "notable_player_impact": "Josh Allen weeks are big drivers when he scores; when he underperforms the team leans on RB surges.",
+      "key_weaknesses": "Dependent on breakout performance from non-elite RBs or QB rushing — inconsistent when those fail."
+    },
+    {
+      "team": "5WRsAllowedOnRostersNextYear",
+      "latest_record_note": "5-4 after Week 9 (then continued to post wins)",
+      "season_trend_summary": "Offense leans on a WR/TE/QB combination; capable of big weeks when WRs (Puka Nacua, Tee Higgins, Jameson Williams) click.",
+      "scoring_pattern": "Can produce 120+ when Stafford/receiver tandem clicks (Week 8/9 examples). Also susceptible to single-player collapses (Puka or Kamara underperforming).",
+      "bench_behavior_examples": "Left key bench pieces on bye/inactive at times; has benched C.J. Stroud and C.J. Stroud/Jameson Williams in impactful weeks.",
+      "notable_player_impact": "When Matthew Stafford and Tee Higgins connect (Week 9), team spikes; Alvin Kamara volatility has created large positive or negative swings.",
+      "key_weaknesses": "High variance at RB and bench/bye exposure at key WR slots creates instability some weeks."
+    },
+    {
+      "team": "Kyler? I Barely Know Her",
+      "latest_record_note": "5-5 range across late weeks (record fluctuated around .500 in latest weeks)",
+      "season_trend_summary": "Team has relied heavily on receiver explosions and Bijan/other RB pieces. Some large blowups by George Pickens and Bijan Robinson (including large bench totals).",
+      "scoring_pattern": "When receivers and an RB both produce, team posts 120+; otherwise vulnerable to sub-100 weeks.",
+      "bench_behavior_examples": "Left Bijan Robinson on the bench for at least one very large outing (35.8 Week 5 bench) — a recurring theme of high bench scores.",
+      "notable_player_impact": "George Pickens has produced multiple 20+ point weeks and been a decisive factor.",
+      "key_weaknesses": "Bench/injury management (Kyler Murray inactive in some weeks) and BYE weeks for core pieces have created inconsistent outputs."
+    },
+    {
+      "team": "Team Santangelo",
+      "latest_record_note": "roughly .500 through Week 10 (4-6 shown earlier then large scoring weeks)",
+      "season_trend_summary": "Very boom-or-bust: massive single-game explosions (Week 7: Ja'Marr Chase + DeVonta Smith both huge; Week 10: James Cook 33.6), and several close losses where bench QB/players were unused.",
+      "scoring_pattern": "High ceiling (130+), occasionally low floor when WR/RB misfires occur.",
+      "bench_behavior_examples": "Notable benching of Jordan Love (28.3) in Week 8; has left high-scoring bench assets unused in multiple weeks.",
+      "notable_player_impact": "Ja'Marr Chase and Justin Herbert spikes have powered the largest wins.",
+      "key_weaknesses": "Injuries/BYEs to RBs (Austin Ekeler/Chuba Hubbard negative influences) and bench management have cost several close matchups."
+    },
+    {
+      "team": "Trying to not finish last",
+      "latest_record_note": "appears as a high-scoring, top-tier Points For team (season PF among the league leaders in later weeks)",
+      "season_trend_summary": "Despite the name, this team often posts one of the league's highest seasonal point totals; multiple landmark outputs driven by Jonathan Taylor/Bo Nix/Drake London.",
+      "scoring_pattern": "Explosive RB weeks (Jonathan Taylor multiple 30+ and even 49.6 in Week 10) and massive QB weeks drive victories.",
+      "bench_behavior_examples": "Left Joe Flacco (24.32) and DK Metcalf on the bench in separate weeks — both impactful bench decisions.",
+      "notable_player_impact": "Jonathan Taylor's boom weeks are frequently decisive; Joe Flacco and Drake London have also produced game-changing weeks.",
+      "key_weaknesses": "High variance in WR support and occasional QB turnover weeks (Bo Nix poor in select matchups)."
+    },
+    {
+      "team": "Jake Butt Stuff",
+      "latest_record_note": "staggered around .500 late in season (sample week snapshots show 4-6 in Week 10)",
+      "season_trend_summary": "High volatility: massive wins early (Week 1 big output) but several weeks lost due to WR/QB busts and multiple inactive/star absences (CeeDee Lamb inactives).",
+      "scoring_pattern": "Very sensitive to WR performance (CeeDee Lamb, Garrett Wilson, Zay Flowers). Caleb Williams has had very big weeks and very poor ones.",
+      "bench_behavior_examples": "Left J.J. McCarthy, Chiefs D/ST, and other high scorers on bench in different weeks; CeeDee Lamb listed Inactive multiple times.",
+      "notable_player_impact": "Caleb Williams career-like weeks are major drivers; Trey McBride has provided TE breakout weeks several times.",
+      "key_weaknesses": "Roster stability due to inactives and bye scheduling; WR inconsistency."
+    },
+    {
+      "team": "Hangin' With Mr. Cooper",
+      "latest_record_note": "hovered around .500 in late weeks (examples 5-4 / 3-4 shown in different weeks)",
+      "season_trend_summary": "Spikes when rookie QBs and rookie/young RBs produce (Drake Maye, De'Von Achane). Has one of the single biggest one-week outputs driven by Brock Bowers (historic 43.3 TE week).",
+      "scoring_pattern": "Can produce extreme outliers when TE or a rookie RB/WR explodes; but also has low-floor weeks when key WRs underperform or DST/K marks negative.",
+      "bench_behavior_examples": "Left Michael Penix Jr., Kenneth Gainwell, and other useful bench options unused in high-impact weeks.",
+      "notable_player_impact": "Brock Bowers' 43.3 week and Buccaneers D/ST's 25.0 week were decisive match swing examples.",
+      "key_weaknesses": "Negative DST outings and inactive starters have been costly in some matchups."
+    },
+    {
+      "team": "THE Derbaum",
+      "latest_record_note": "varied; several losing-leaning weeks late in the sample (e.g., 3-6 / 4-6 entries)",
+      "season_trend_summary": "Roster shows heavy dependence on RBs (Derrick Henry/Javonte Williams) and occasional WR breakouts; several weeks with turnovers and underperformance at RB/QB limited success.",
+      "scoring_pattern": "When Javonte Williams or Jaxson Dart have big days, the team hits 110+; otherwise frequently in the middle 80–110 range.",
+      "bench_behavior_examples": "Has left Kimani Vidal and other high-scoring bench pieces unused in multiple weeks.",
+      "notable_player_impact": "Jaxson Dart multi-week good QB scoring and periodic Javonte Williams spikes.",
+      "key_weaknesses": "Derrick Henry inconsistent relative to projections and multiple weeks with low RB production."
+    },
+    {
+      "team": "Big Trouble in Little Cameron",
+      "latest_record_note": "around .500 with multiple volatile weeks (records in late weeks ~4-5)",
+      "season_trend_summary": "TE and WR have been sources of upside (Jake Ferguson, Keenan Allen, Nico Collins) but QB/other RB volatility has limited consistency.",
+      "scoring_pattern": "Can produce 110+ when Jake Ferguson and top WRs combine; low if QB/primary WRs underperform.",
+      "bench_behavior_examples": "Left Daniel Jones on bench in several weeks with large QB bench scores.",
+      "notable_player_impact": "Jake Ferguson and Quinshon Judkins have produced multiple positive deltas.",
+      "key_weaknesses": "Reliance on a small set of pass-catchers and bench QB decisions."
+    },
+    {
+      "team": "Xavier Marks the Spot",
+      "latest_record_note": "middle of the pack; record around .500 in later weeks",
+      "season_trend_summary": "High variance — weeks with massive D/ST or TE/kicker outputs contrast with matchups where A.J. Brown or other stars flop.",
+      "scoring_pattern": "Has posted both dominant wins (powered by Vikings D/ST 32.0, Mark Andrews) and low outputs when A.J. Brown or other stars crater.",
+      "bench_behavior_examples": "Multiple cases of strong bench scoring unused (Justice Hill 28.7 bench; Trevor Lawrence bench in prior weeks).",
+      "notable_player_impact": "Mark Andrews and A.J. Brown have the largest single-week influence on outcomes.",
+      "key_weaknesses": "High susceptibility to a single star’s failure and BYE/inactive windows for key players (Joe Burrow IR earlier)."
+    },
+    {
+      "team": "Dickhole Smashers",
+      "latest_record_note": "3-7 listed in Week 10 snapshot",
+      "season_trend_summary": "Struggled to string wins; occasionally produces big TE or RB weeks but often hampered by QB inactives/benching decisions and WR inconsistency.",
+      "scoring_pattern": "When Dalton Kincaid or Kyren Williams turns in a big week, results improve; otherwise low outputs are common.",
+      "bench_behavior_examples": "Frequently leaves high-scoring bench assets (Aaron Rodgers 22.56 Week 7; Justin Jefferson bench weeks) unused.",
+      "notable_player_impact": "Dalton Kincaid's breakout weeks and Kyren Williams 30+ weeks are primary positive drivers.",
+      "key_weaknesses": "Roster inactives (Terry McLaurin, Isiah Pacheco on occasion) and poor QB starts have been recurring issues."
+    },
+    {
+      "team": "The Philly Special",
+      "latest_record_note": "around .500 in late weeks (5-5 in Week 10 sample)",
+      "season_trend_summary": "High weekly variance; has a few massive WR/TE outputs (Amon-Ra St. Brown, Dallas Goedert) and has leveraged unusual kicker/defensive weeks to win close matchups.",
+      "scoring_pattern": "Wins often rely on a single mammoth WR or TE game and steadier QB weeks; when Hurts underperforms, bench depth tends to step in to salvage totals.",
+      "bench_behavior_examples": "Left Dallas Goedert and Stefon Diggs on the bench in different weeks when either could have swung a close result.",
+      "notable_player_impact": "Amon-Ra St. Brown and Jalen Hurts produce most of the team's ceiling; RJ Harvey and bench RB upside have surfaced in a few weeks.",
+      "key_weaknesses": "When Hurts or core WRs are quiet, the team has a lower floor despite occasional defensive/kicker surges."
+    }
+  ],
+  "player_level_trends": {
+    "consistent_high_performers": [
+      {
+        "player": "Christian McCaffrey",
+        "impact": "Multiple weeks of 20+ points and occasional 30+ outputs that single-handedly lift SnydeRemarks' weekly totals (notable weeks: 24.1 Week 5; 39.1 Week 7; 34.3 Week 9)."
+      },
+      {
+        "player": "Patrick Mahomes",
+        "impact": "Several above-projection QB performances that produced +6 to +11 deltas in winning weeks (example Week 6 and Week 4)."
+      },
+      {
+        "player": "Josh Allen",
+        "impact": "Several monster weeks (Week 1 38.76; other weeks large) that pushed Forte Inch Johnson to strong team totals when paired with supporting WR/RB play."
+      },
+      {
+        "player": "Jonathan Taylor",
+        "impact": "Explosive RB weeks including 49.6 in Week 10 that decisively swing matchups for Trying to not finish last."
+      },
+      {
+        "player": "Brock Bowers",
+        "impact": "Historic single-week performance (43.3 Week 9) that resulted in the largest individual positional outlier recorded in the supplied weeks."
+      }
+    ],
+    "repeat_underperformers_vs_projection": [
+      {
+        "player": "Derrick Henry",
+        "pattern": "Several weeks well under projection (Week 2 2.3; Week 3 and others) contributing to THE Derbaum's inconsistent outputs."
+      },
+      {
+        "player": "A.J. Brown",
+        "pattern": "Multiple dud weeks relative to projection (0–4 point games in some weeks) that have compressed Xavier Marks the Spot's scoring when other pieces didn't pick up slack."
+      },
+      {
+        "player": "Puka Nacua",
+        "pattern": "Notable large negative deviations in select weeks (Week 6 and Week 8 cases where he missed target projections) producing volatility in 5WRsAllowedOnRostersNextYear's results."
+      }
+    ],
+    "notable_bench_heatmap": {
+      "description": "Across the season there is a recurrent pattern of 20+ point bench performances that influence matchup outcomes if started.",
+      "examples": [
+        "Daniel Jones 29.48 bench (Week 1) for Big Trouble in Little Cameron.",
+        "Bijan Robinson 35.8 bench (Week 5) for Kyler? I Barely Know Her.",
+        "Rico Dowdle 32.4 bench (Week 5) for Forte Inch Johnson.",
+        "Trevor Lawrence 33.96 bench (Week 2) for Team Jon; Jordan Love 28.3 bench (Week 8) for Team Santangelo."
+      ]
+    }
+  },
+  "owner_behavior_patterns": {
+    "common_smart_behaviors": [
+      "Starting/designing rosters to take advantage of high-upside RB weeks (e.g., prioritizing Jonathan Taylor and Christian McCaffrey in starting lineups when they erupted).",
+      "Streaming defenses / kickers in weeks where opponent matchups led to outsized returns (many managers earned double-digit D/ST or kicker deltas)."
+    ],
+    "common_risky_behaviors": [
+      "Leaving obvious high-scorers on the bench in several decisive weeks (a persistent theme across managers).",
+      "Occasional failure to adjust for inactives/BYE scheduling (CeeDee Lamb and Joe Burrow inactives were left on rosters in startable slots).",
+      "Overreliance on single WR/TE without sufficient RB floor/bench coverage leading to low floors in some weeks."
+    ],
+    "impact_examples": [
+      "Big Trouble in Little Cameron losing despite Daniel Jones (29.48) and Keenan Allen (19.8) on the bench (Week 1) — a direct example of unused bench value.",
+      "Teams leaving C.J. Stroud (28.76) or Trevor Lawrence (33.96) inactive on the bench in weeks where the starting QB underperformed."
+    ]
+  },
+  "league_wide_metrics_and_insights": {
+    "average_scoring": {
+      "description": "The league median weekly team score appears elevated with frequent 100+ weekly outputs; the environment is higher variance than a typical balanced league because of repeated player blowups and large D/ST kicker swings.",
+      "supporting_examples": [
+        "Many weekly matchups featured combined totals > 220 (e.g., Team Santangelo 145.78 vs If Ur Not First You're Last 142.78 in Week 2, combined 288.56).",
+        "Frequent instances of single-team 140–160 outputs."
+      ]
+    },
+    "games_decided_by_bench_or_role_players": {
+      "description": "A meaningful share of games were decided by bench/role-player performance or by a single-player explosion (TE/WR/RB).",
+      "examples": [
+        "Romeo Doubs 29.8 bench Week 4 (SnydeRemarks), Bijan Robinson 35.8 bench Week 5 (Kyler?), Brock Bowers 43.3 Week 9 (Hangin' With Mr. Cooper)."
+      ]
+    },
+    "defense_kicker_influence": {
+      "description": "D/ST and kickers have created frequent multi-score differences vs projection, often deciding close matchups.",
+      "examples": [
+        "Vikings D/ST 32.0 (Week 3), Browns D/ST 24.0 (Week 9), Cameron Dicker 17.0 (Week 6)."
+      ]
+    }
+  },
+  "playoff_driven_analysis": {
+    "methodology_note": "Playoff analysis is based on standings snapshots and points-for information included in the supplied weekly summaries; where records diverge across different week snapshots the selection uses the latest explicit record reported in the provided data and Points For as the tiebreaker.",
+    "projected_playoff_teams (6 seeds)": [
+      {
+        "seed": 1,
+        "team": "Kraft Montgomery Cheese",
+        "rationale": "Consistently top record in the supplied data (listed 8-2 in Week 10) and regular high Points For; multiple solid wins and strong depth."
+      },
+      {
+        "seed": 2,
+        "team": "SnydeRemarks",
+        "rationale": "High season scoring (one of the largest season Points For totals in later weeks) and repeated large weekly outputs; recorded 7-3 in late sample."
+      },
+      {
+        "seed": 3,
+        "team": "Forte Inch Johnson",
+        "rationale": "Appears repeatedly among winners with large single-player weeks and a reported 6-4 snapshot in Week 10; strong upside weeks from Kittle/Allen/Skattebo/Dowdle."
+      },
+      {
+        "seed": 4,
+        "team": "5WRsAllowedOnRostersNextYear",
+        "rationale": "Multiple mid-to-high season point totals and decisive wins anchored by Stafford / tee Higgins / Jameson Williams weeks; consistent top-half results in later weeks."
+      },
+      {
+        "seed": 5,
+        "team": "Trying to not finish last",
+        "rationale": "Very high season Points For in the supplied dataset (frequent huge RB weeks from Jonathan Taylor and other big single-game performances), which would serve as a tiebreaker if records are close."
+      },
+      {
+        "seed": 6,
+        "team": "Team Santangelo",
+        "rationale": "High ceiling weeks (e.g. Ja'Marr Chase + DeVonta Smith explosions, James Cook big outings) and a season Points For that ranks among the upper third of teams in the provided snapshots."
+      }
+    ],
+    "playoff_risks_and_matchup_notes": {
+      "general": "All six projected seeds possess boom-bust characteristics that could produce early-round upsets; teams with higher Points For but injury/bye exposure may be vulnerable to lower-seeded teams with steadier weekly floors.",
+      "specific_points": [
+        "Kraft Montgomery Cheese: strong season-long PF but has shown susceptibility when multiple RBs/WRs fail in the same week — a plausible upset vector for a hot lower seed.",
+        "SnydeRemarks: high ceiling fuelled by McCaffrey — health and QB stability are key; absence of Marvin Harrison Jr. (BYE/IR windows) has occasionally reduced outputs.",
+        "Forte Inch Johnson & 5WRsAllowedOnRostersNextYear: both rely on high single-player variance (RB/WR blowups); head-to-head will likely hinge on bench management and D/ST/kicker streaming."
+      ]
+    }
+  },
+  "closing_notes": {
+    "summary": "The supplied season weeks depict a league defined by volatility: many weeks are decided by single-player explosions, managers frequently leave large scoring on benches, and D/ST/kickers have created outsized swings. Any weekly recap or primer should emphasize bench/inactive management and that a single misplaced bench/inactive decision has repeatedly decided matchups.",
+    "caveat": "Records and standings were derived from the provided weekly snapshots. For precise final seeding and head-to-head tiebreakers, use the league platform’s official standings and head-to-head logs in combination with total Points For, as some weeks provide only partial standing snapshots."
+  }
+}
