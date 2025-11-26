@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Week 12 Newsletter</title>
+<style>
+  :root{
+    --bg: #f8fafc;
+    --surface: #ffffff;
+    --text: #0f172a;
+    --muted: #475569;
+    --border: #e5e7eb;
+    --accent: #2563eb;
+    --accent-2: #0ea5e9;
+    --success: #16a34a;
+    --warning: #d97706;
+    --danger: #dc2626;
+    --chip-bg: rgba(37, 99, 235, 0.08);
+  }
+
+  /* Base */
+  html, body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", sans-serif;
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .newsletter {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 24px;
+  }
+
+  /* Typography */
+  h1, h2, h3 {
+    line-height: 1.25;
+    margin: 0 0 10px 0;
+  }
+
+  h1 {
+    font-size: clamp(1.6rem, 2.2vw + 1rem, 2.25rem);
+    letter-spacing: -0.02em;
+  }
+
+  h2 {
+    font-size: clamp(1.25rem, 1.4vw + 0.8rem, 1.5rem);
+    color: var(--accent);
+    margin-top: 24px;
+  }
+
+  h3 {
+    font-size: clamp(1.05rem, 1.1vw + 0.8rem, 1.2rem);
+    color: var(--text);
+  }
+
+  p {
+    margin: 0 0 12px 0;
+  }
+
+  /* Blocks */
+  .hero {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 6px solid var(--accent);
+    border-radius: 12px;
+    padding: 18px 20px;
+    box-shadow: 0 1px 0 rgba(15, 23, 42, 0.04);
+    margin-bottom: 18px;
+  }
+
+  section {
+    margin-top: 18px;
+  }
+
+  article.card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 18px;
+    box-shadow: 0 1px 0 rgba(15, 23, 42, 0.04);
+    margin-bottom: 14px;
+  }
+
+  .callout {
+    border-left: 4px solid var(--accent-2);
+    background: #ecfeff;
+    color: #0c4a6e;
+    padding: 10px 12px;
+    border-radius: 8px;
+    margin: 12px 0 4px 0;
+  }
+
+  /* Lists */
+  ul {
+    margin: 8px 0 10px 18px;
+    padding: 0;
+  }
+  li { margin: 6px 0; }
+
+  /* Utilities */
+  .muted { color: var(--muted); }
+  .stat, .score {
+    display: inline-block;
+    font-weight: 700;
+    color: var(--accent);
+    background: var(--chip-bg);
+    padding: 2px 8px;
+    border-radius: 999px;
+    margin: 0 2px;
+  }
+  .meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 6px 0 0 0;
+  }
+  .meta .pill {
+    background: #f1f5f9;
+    color: #334155;
+    border: 1px solid var(--border);
+    padding: 4px 8px;
+    border-radius: 999px;
+    font-size: 0.9rem;
+  }
+
+  .subtle {
+    font-size: 0.95rem;
+    color: var(--muted);
+  }
+
+  .decisive {
+    border-left: 4px solid var(--warning);
+    background: #fff7ed;
+    color: #9a3412;
+    padding: 8px 10px;
+    border-radius: 8px;
+    margin-top: 8px;
+  }
+
+  footer.signoff {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 6px solid var(--success);
+    border-radius: 12px;
+    padding: 16px 18px;
+    box-shadow: 0 1px 0 rgba(15, 23, 42, 0.04);
+    margin: 22px 0;
+  }
+
+  /* Responsive tweaks */
+  @media (max-width: 680px) {
+    .newsletter { padding: 16px; }
+    .hero, article.card, footer.signoff { padding: 14px; }
+    ul { margin-left: 16px; }
+  }
+</style>
+</head>
+<body>
+<main class="newsletter">
+
+  <header class="hero">
+    <h1>Week 12: The week the waiver wire cried and special teams stole someone's lunch money</h1>
+    <p>If fantasy football were a soap opera, Week 12 was the episode where the janitor (kickers/DSTs) walked in with a machine gun and emptied the plot. Explosions from a single RB, bench‑management malpractice, and a <strong class="stat">0.26</strong>-point nailbiter made it feel less like a sport and more like a reality show with spreadsheets.</p>
+    <div class="callout">
+      <strong>Week 12 in one sentence:</strong>
+      <em>One running back (Jahmyr Gibbs) screamed so loud the rest of the league had to change their pickup lines — and several managers will be paying for benching mistakes in therapy.</em>
+    </div>
+  </header>
+
+  <section aria-labelledby="recap">
+    <h2 id="recap">Last Week’s Recap</h2>
+
+    <article class="card">
+      <h3>Quick league snapshot</h3>
+      <ul>
+        <li><strong>Highest single‑team score:</strong> <em>World of Hurts</em> — <span class="score">152.96</span> (yes, that’s a real number and not a video game cheat code).</li>
+        <li><strong>Lowest team score:</strong> <em>I Know Exactly What I’m Doing</em> — <span class="score">77.96</span> (the irony is delicious).</li>
+        <li><strong>Biggest blowout:</strong> <em>THE Derbaum</em> put the clamps on <em>D.J. Chark Week</em>, <span class="score">128.74–98.38</span> (a tidy <strong class="stat">30.36</strong> cushion).</li>
+        <li><strong>Closest game:</strong> <em>Here Comes McBride</em> edged <em>Gronk for my johnson</em> by <strong class="stat">0.26</strong> points — so close you could taste the waiver wire panic.</li>
+      </ul>
+    </article>
+
+    <article class="card">
+      <h3>Clever Team Name Incoming (98.22) vs I Know Exactly What I’m Doing (77.96) — The Patriots tuckered out the plan 📣</h3>
+      <p>Clever Team Name Incoming scraped together a win, <span class="score">98.22–77.96</span>, powered by <strong>Derrick Henry (21.8)</strong> and <strong>Colston Loveland</strong>’s useful TE day (<strong>12.9</strong>). Patriots D/ST and <strong>Ka’imi Fairbairn</strong> showing up like extras who stole the scene was the real theme. Meanwhile <em>I Know Exactly What I’m Doing</em> lived up to their name only in irony — too many zeros (<strong>Jameson Williams 0.0</strong>, <strong>Dalton Schultz 1.3</strong>) and the Falcons D/ST that would’ve flipped the script sat on the bench.</p>
+      <ul>
+        <li><strong>Top performers:</strong> Derrick Henry (<strong class="stat">21.8</strong>), Colston Loveland (<strong class="stat">12.9</strong>), Patriots D/ST, Ka’imi Fairbairn</li>
+        <li><strong>Underperformers:</strong> Jameson Williams (<strong class="stat">0.0</strong>), Dalton Schultz (<strong class="stat">1.3</strong>)</li>
+        <li><strong>Notable bench:</strong> Falcons D/ST (on bench)</li>
+      </ul>
+      <p class="subtle"><em>Where they'd time travel:</em> Clever Team Name Incoming — to Week 1 trophy photo op; I Know Exactly What I’m Doing — back to the draft board with a magnifying glass.</p>
+    </article>
+
+    <article class="card">
+      <h3>Here Comes McBride (104.02) vs Gronk for my johnson (103.76) — 0.26 reasons to change your ringtone 🎯</h3>
+      <p>This was a full‑blown heart attack: <em>Here Comes McBride</em> squeaks past <span class="score">104.02–103.76</span> thanks to a <strong>Rams D/ST</strong> explosion (<strong class="stat">20.0</strong>) and steady contributors like <strong>James Cook</strong> and <strong>Michael Wilson</strong>. <em>Gronk for my johnson</em> had elite outputs — <strong>Jaxon Smith‑Njigba (33.1)</strong> and <strong>Jalen Hurts (30.86)</strong> — yet <strong>Brock Purdy’s</strong> disaster week (<strong class="stat">7.32</strong>) and the defensive swing cost them. If you left a starting DST on your bench this week, please accept this virtual hug and a stern lecture.</p>
+      <ul>
+        <li><strong>Top performers:</strong> Rams D/ST (<strong class="stat">20.0</strong>), Jaxon Smith‑Njigba (<strong class="stat">33.1</strong>), Jalen Hurts (<strong class="stat">30.86</strong>)</li>
+        <li><strong>Underperformers:</strong> Brock Purdy (<strong class="stat">7.32</strong>)</li>
+        <li><strong>Notable bench:</strong> A starting DST left on the bench (regret level: maximum)</li>
+      </ul>
+      <p class="subtle"><em>Where they'd time travel:</em> Here Comes McBride — to the commissioner’s inbox demanding a recount; Gronk for my johnson — to the waiver wire to adopt a DST named “responsibility.”</p>
+      <div class="decisive"><strong>Decisive moment:</strong> Rams D/ST outperforming expectations + Purdy’s dud = <strong class="stat">0.26</strong> heartbreak.</div>
+    </article>
+
+    <article class="card">
+      <h3>Goff And Running (95.16) vs Baker’s Brownie Stand (80.94) — Stafford benched, Henry fed 🥊</h3>
+      <p><em>Goff And Running</em> won <span class="score">95.16–80.94</span> largely on the arms and hands of <strong>Hunter Henry (21.0)</strong> and <strong>Rashee Rice</strong> showing up. <em>Baker’s Brownie Stand</em> had <strong>DJ Moore</strong> doing DJ Moore things (<strong class="stat">20.9</strong>) but <strong>Baker Mayfield</strong> bombing (<strong class="stat">3.54</strong>) and several inactives (Tyreek Hill BYE for next week noted elsewhere) made life hard; <strong>Matthew Stafford</strong> was apparently on a permanent vacation from the starting lineup.</p>
+      <ul>
+        <li><strong>Top performers:</strong> Hunter Henry (<strong class="stat">21.0</strong>), Rashee Rice, DJ Moore (<strong class="stat">20.9</strong>)</li>
+        <li><strong>Underperformers:</strong> Baker Mayfield (<strong class="stat">3.54</strong>)</li>
+        <li><strong>Notable bench:</strong> Matthew Stafford (benched)</li>
+      </ul>
+      <p class="subtle"><em>Where they'd time travel:</em> Goff And Running — to a sports documentary narrated by someone with respect for tight ends; Baker’s Brownie Stand — to the section of the fantasy manual titled “Start your QBs, stupid.”</p>
+    </article>
+
+    <article class="card">
+      <h3>THE Derbaum (128.74) vs D.J. Chark Week (98.38) — The WRs who showed up, won 🏆</h3>
+      <p><em>THE Derbaum</em> steamrolled to a comfortable <span class="score">128.74–98.38</span>, <strong>Amon‑Ra St. Brown (25.4)</strong> and <strong>Emanuel Wilson (25.5)</strong> leading the charge — balanced scores, no drama. <em>D.J. Chark Week</em> had bright spots (<strong>George Pickens 25.1</strong>) but major misses from expected stars (ahem, Justin Jefferson and Alvin Kamara if you had them) left too much void. This was the cleanest win of the week: good plan executed.</p>
+      <ul>
+        <li><strong>Top performers:</strong> Amon‑Ra St. Brown (<strong class="stat">25.4</strong>), Emanuel Wilson (<strong class="stat">25.5</strong>), George Pickens (<strong class="stat">25.1</strong>)</li>
+        <li><strong>Underperformers:</strong> Expected stars underwhelmed (Justin Jefferson, Alvin Kamara — if rostered)</li>
+      </ul>
+      <p class="subtle"><em>Where they'd time travel:</em> THE Derbaum — to the highlight reel montage; D.J. Chark Week — to the “we’ll get ‘em next time” pep talk.</p>
+    </article>
+
+    <article class="card">
+      <h3>No Punt Intended (109.72) vs OHHHHHHH YEAHHHHH!!!! (81.42) — Browns special teams stole the sandwich 🥪</h3>
+      <p><em>No Punt Intended</em> edged into a comfortable <span class="score">109.72–81.42</span> victory mostly because <strong>Browns D/ST (17.0)</strong> and <strong>Andy Borregales (18.0)</strong> decided to cosplay as a fantasy offense. <strong>Lamar Jackson</strong> had an ugly week (<strong class="stat">7.22</strong>) but the kicking/DST output turned a meh day into a W. <em>OHHHHHHH YEAHHHHH!!!!</em> could’ve flipped this — <strong>Wan’Dale Robinson</strong> burned them for <strong class="stat">26.1</strong> and remained on the pine. That bench decision will be a tattoo on somebody’s conscience.</p>
+      <ul>
+        <li><strong>Top performers:</strong> Browns D/ST (<strong class="stat">17.0</strong>), Andy Borregales (<strong class="stat">18.0</strong>)</li>
+        <li><strong>Underperformers:</strong> Lamar Jackson (<strong class="stat">7.22</strong>)</li>
+        <li><strong>Notable bench:</strong> Wan’Dale Robinson (<strong class="stat">26.1</strong>)</li>
+      </ul>
+      <p class="subtle"><em>Where they'd time travel:</em> No Punt Intended — to a “how to exploit DSTs” webinar; OHHHHHHH YEAHHHHH!!!! — to their own bench to perform an exorcism.</p>
+    </article>
+
+    <article class="card">
+      <h3>World of Hurts (152.96) vs Puka Puka (133.06) — Jahmyr Gibbs: one‑man confetti cannon 🎆</h3>
+      <p><em>World of Hurts</em> detonated for <span class="score">152.96</span>, led by a jaw‑dropping <strong>Jahmyr Gibbs (49.9)</strong> and a <strong>Packers D/ST (18.0)</strong> that decided to be relevant. <em>Puka Puka</em> scored <span class="score">133.06</span> — <strong>Dak Prescott (27.06)</strong> and <strong>A.J. Brown (21.0)</strong> were productive — but Gibbs’ solo opera made the difference. High‑scoring, high‑variance, and now every manager will be muttering “Gibbs? Add him?” like a cult.</p>
+      <ul>
+        <li><strong>Top performers:</strong> Jahmyr Gibbs (<strong class="stat">49.9</strong>), Packers D/ST (<strong class="stat">18.0</strong>), Dak Prescott (<strong class="stat">27.06</strong>), A.J. Brown (<strong class="stat">21.0</strong>)</li>
+      </ul>
+      <p class="subtle"><em>Where they'd time travel:</em> World of Hurts — back to the draft to brag about draft day destiny; Puka Puka — to a therapist’s couch to work through trust issues with WR1s.</p>
+    </article>
+  </section>
+
+  <section aria-labelledby="trends">
+    <h2 id="trends">Season Trends</h2>
+
+    <article class="card">
+      <h3>Playoff Picture — short and not gentle</h3>
+      <ul>
+        <li><strong>Locked in (per current projections):</strong> <em>Here Comes McBride</em> (projected <strong class="stat">9‑3</strong>), <em>THE Derbaum</em> (projected <strong class="stat">8‑4</strong>) — both showing <strong class="stat">100%</strong> projected chances. Two teams with tiny temper tantrums and large trophy ambitions.</li>
+        <li><strong>Currently projected playoff teams:</strong> Here Comes McBride, THE Derbaum, Puka Puka, Gronk for my johnson, Baker’s Brownie Stand, No Punt Intended.</li>
+        <li><strong>On the bubble / still alive:</strong> Clever Team Name Incoming, I Know Exactly What I’m Doing, World of Hurts, OHHHHHHH YEAHHHHH!!!! — high Points For or momentum means they can leap in if the math goes their way.</li>
+      </ul>
+      <p><strong>How OHHHHHHH YEAHHHHH!!!! makes the playoffs:</strong> Win next week and hope No Punt Intended loses (or loses in points‑for tiebreaker); bench miracles and DST luck will be required.</p>
+      <p><strong>How I Know Exactly What I’m Doing makes the playoffs:</strong> Start scoring instead of starting zeros — specifically, get the Falcons D/ST or active WRs into the lineup and string together a couple wins while the bubble teams wobble.</p>
+    </article>
+
+    <article class="card">
+      <h3>Marvel assignment — which character are you? (because every manager secretly wants a cape)</h3>
+      <ul>
+        <li><strong>Here Comes McBride</strong> — Captain America: steady, top‑seed vibes, moral victory dances.</li>
+        <li><strong>THE Derbaum</strong> — Thor: swings a hammer (or WRs) and when he hits, the scoreboard trembles.</li>
+        <li><strong>Puka Puka</strong> — Spider‑Man: flashy, high ceiling, occasionally caught in his own web.</li>
+        <li><strong>Gronk for my johnson</strong> — The Hulk: massive outputs when unhinged; terrifying when he smashes.</li>
+        <li><strong>Baker’s Brownie Stand</strong> — Doctor Strange: a little mystical, sometimes clutch, sometimes maddeningly inscrutable.</li>
+        <li><strong>No Punt Intended</strong> — Hawkeye: picks their spots; when the small things land, wins happen.</li>
+        <li><strong>World of Hurts</strong> — Iron Man: brilliant solo performances and expensive gadgets (by which I mean Jahmyr Gibbs).</li>
+        <li><strong>OHHHHHHH YEAHHHHH!!!!</strong> — Star‑Lord: flashy playlist, questionable choices, still lovable.</li>
+        <li><strong>THE Clever Team Name Incoming</strong> — Black Panther: silent killer, runs efficient offense.</li>
+        <li><strong>I Know Exactly What I’m Doing</strong> — Loki: chaos personified, dramatic flair, please don’t give them the crown.</li>
+        <li><strong>D.J. Chark Week</strong> — Ant‑Man: explodes intermittently and leaves you wondering how.</li>
+        <li><strong>Goff And Running</strong> — Nick Fury: underrated, sticks together when it counts (but also, where’s the plan?).</li>
+      </ul>
+    </article>
+
+    <article class="card">
+      <h3>Terrible Movie I Actually Own (recurring feature)</h3>
+      <p>I own a copy of “D2: The Mighty Ducks” not out of nostalgia but as a reminder: even if your team gets crushed by special teams, there’s always a chance to skate back into relevancy with grit, a weird motivational speech, and someone named Afterburner who inexplicably becomes the hero. Also, it’s the only movie that justifies drafting a kicker in Round 12.</p>
+    </article>
+  </section>
+
+  <section aria-labelledby="preview">
+    <h2 id="preview">Next Week’s Preview</h2>
+
+    <article class="card">
+      <h3>Actionable to‑dos (for managers who like winning)</h3>
+      <ul>
+        <li>Confirm QB/K/DST starts now — multiple BYEs and inactives are floating like landmines.</li>
+        <li>Stream D/ST and kickers this week — history says bite the biscuit on DEF/K matchups.</li>
+        <li>Bench check: if your bench projects higher than your starters, swap them. This league’s history is a shrine to bench‑madness.</li>
+        <li>If you’re on the bubble: prioritize matchup‑based adds, avoid putting all your hopes on a single RB repeat (Jahmyr was an orgy of points this week; he’s not a guaranteed religion).</li>
+      </ul>
+    </article>
+  </section>
+
+  <footer class="signoff">
+    <h2>Sign‑off — set your lineup or be sad about it on Sunday night</h2>
+    <p>Set your lineups, stop treating the waiver wire like a suggestion, and if you bench a 26‑point player this week, at least own your sins in the group chat. Trophy beer money is due; the commissioner won’t accept excuses, only receipts.</p>
+  </footer>
+
+</main>
+</body>
+</html>

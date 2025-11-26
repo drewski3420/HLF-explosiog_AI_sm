@@ -1,0 +1,373 @@
+Week 12
+--Standings:
+-----------------------------------------------------
+# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances
+1.|Forte Inch Johnson|8|4|1435.8000000000002|1306.86|5 Wins | 100.0
+2.|Kraft Montgomery Cheese|8|4|1312.36|1241.4|2 Losses | 99.45
+3.|SnydeRemarks|7|5|1439.84|1272.72|2 Losses | 96.275
+4.|Trying to not finish last|7|5|1371.8000000000002|1243.48|3 Wins | 85.8
+5.|5WRsAllowedOnRostersNextYear|7|5|1305.1399999999999|1269.12|1 Losses | 79.825
+6.|Hangin' With Mr. Cooper|6|6|1413.6999999999998|1475.92|1 Wins | 76.14999999999999
+7.|THE Derbaum|6|6|1339.94|1327.72|3 Wins | 64.14999999999999
+8.|The Philly Special|6|6|1307.2|1281.6|1 Wins | 50.475
+9.|Big Trouble in Little Cameron|6|6|1276.3200000000002|1216.86|2 Wins | 46.0
+10.|Jake Butt Stuff|6|6|1266.22|1233.6|2 Wins | 38.025
+11.|If Ur Not First You're Last|6|6|1245.36|1227.34|1 Losses | 29.2
+12.|Xavier Marks the Spot|6|6|1218.9199999999998|1280.12|1 Wins | 23.974999999999998
+13.|Kyler? I Barely Know Her|5|7|1206.4399999999998|1287.0|5 Losses | 7.75
+14.|Team Jon|5|7|1130.86|1211.0|1 Losses | 2.9000000000000004
+15.|Team Santangelo|4|8|1269.2|1284.7|4 Losses | 0.025
+16.|Dickhole Smashers|3|9|878.1599999999999|1257.82|3 Losses | 0.0
+-----------------------------------------------------
+Season To Date Top Scorer: SnydeRemarks
+Season To Date Lower Scorer: Dickhole Smashers
+Season To Date Most Points Against: Hangin' With Mr. Cooper
+-----------------------------------------------------
+--Matchup: Team Santangelo @ Jake Butt Stuff
+----Projected Winner: Jake Butt Stuff
+----Home team: Jake Butt Stuff
+------Record: 6-6
+------Season Points For/Against: 1266.22/1233.6
+------Projected Score: 116.55
+------Lineup:
+--------QB Caleb Williams - 17.73 Points Projected
+--------QB J.J. McCarthy - 14.18 Points Projected
+--------RB Aaron Jones Sr. - 13.53 Points Projected
+--------RB Jacory Croskey-Merritt - BYE
+--------RB Bam Knight - 11.42 Points Projected
+--------WR CeeDee Lamb - 18.2 Points Projected
+--------WR Garrett Wilson - Inactive
+--------WR Zay Flowers - 13.2 Points Projected
+--------WR Keon Coleman - Inactive
+--------TE Trey McBride - 17.88 Points Projected
+--------TE Harold Fannin Jr. - 9.06 Points Projected
+--------D/ST Chiefs D/ST - 3.9 Points Projected
+--------D/ST Ravens D/ST - 6.6 Points Projected
+--------K Jake Bates - 8.93 Points Projected
+----Away team: Team Santangelo
+------Record: 4-8
+------Season Points For/Against: 1269.2/1284.7
+------Projected Score: 80.09
+------Lineup:
+--------QB Justin Herbert - BYE
+--------QB Jordan Love - 17.41 Points Projected
+--------RB James Cook III - 15.77 Points Projected
+--------RB Chuba Hubbard - 4.85 Points Projected
+--------RB Austin Ekeler - BYE
+--------RB Bhayshul Tuten - 7.4 Points Projected
+--------WR Ja'Marr Chase - Inactive
+--------WR DeVonta Smith - 14.76 Points Projected
+--------WR DeMario Douglas - 6.66 Points Projected
+--------WR Christian Kirk - 5.15 Points Projected
+--------TE Sam LaPorta - Inactive
+--------D/ST Colts D/ST - 3.96 Points Projected
+--------D/ST Bears D/ST - 4.74 Points Projected
+--------K Brandon Aubrey - 8.72 Points Projected
+--------K Jason Myers - 8.5 Points Projected
+--Matchup: Dickhole Smashers @ Big Trouble in Little Cameron
+----Projected Winner: Big Trouble in Little Cameron
+----Home team: Big Trouble in Little Cameron
+------Record: 6-6
+------Season Points For/Against: 1276.32/1216.86
+------Projected Score: 108.41
+------Lineup:
+--------QB Dak Prescott - 17.71 Points Projected
+--------QB Daniel Jones - 19.93 Points Projected
+--------RB Chase Brown - 15.53 Points Projected
+--------RB Kenneth Walker III - 13.81 Points Projected
+--------RB Quinshon Judkins - 13.94 Points Projected
+--------WR Nico Collins - 16.45 Points Projected
+--------WR DJ Moore - 8.55 Points Projected
+--------WR Keenan Allen - BYE
+--------WR Christian Watson - 11.65 Points Projected
+--------TE Jake Ferguson - 9.81 Points Projected
+--------TE Colston Loveland - 6.12 Points Projected
+--------D/ST Chargers D/ST - BYE
+--------D/ST Falcons D/ST - 5.09 Points Projected
+--------K Will Reichard - 7.52 Points Projected
+----Away team: Dickhole Smashers
+------Record: 3-9
+------Season Points For/Against: 878.16/1257.82
+------Projected Score: 61.74
+------Lineup:
+--------QB Baker Mayfield - 14.56 Points Projected
+--------QB Aaron Rodgers - Inactive
+--------RB Kyren Williams - 14.98 Points Projected
+--------RB Isiah Pacheco - Inactive
+--------RB Rhamondre Stevenson - 14.08 Points Projected
+--------RB Emanuel Wilson - 14.53 Points Projected
+--------WR Justin Jefferson - 17.51 Points Projected
+--------WR Terry McLaurin - BYE
+--------WR Rashod Bateman - Inactive
+--------WR Jalen Coker - 5.94 Points Projected
+--------WR Tyquan Thornton - 2.53 Points Projected
+--------TE Evan Engram - BYE
+--------TE Dalton Kincaid - Inactive
+--------D/ST Raiders D/ST - 7.08 Points Projected
+--------K Matt Prater - 8.09 Points Projected
+--Matchup: Trying to not finish last @ Kyler? I Barely Know Her
+----Projected Winner: Trying to not finish last
+----Home team: Kyler? I Barely Know Her
+------Record: 5-7
+------Season Points For/Against: 1206.44/1287.0
+------Projected Score: 103.08
+------Lineup:
+--------QB Kyler Murray - Inactive
+--------QB Jacoby Brissett - 16.74 Points Projected
+--------RB Bijan Robinson - 21.67 Points Projected
+--------RB Breece Hall - 14.23 Points Projected
+--------RB Kaleb Johnson - Inactive
+--------RB Trey Benson - Inactive
+--------WR Ladd McConkey - BYE
+--------WR George Pickens - 16.57 Points Projected
+--------WR Darnell Mooney - 11.17 Points Projected
+--------WR Marvin Mims Jr. - BYE
+--------TE David Njoku - 6.66 Points Projected
+--------TE Michael Mayer - 7.07 Points Projected
+--------D/ST Lions D/ST - 7.66 Points Projected
+--------K Jake Elliott - 8.38 Points Projected
+----Away team: Trying to not finish last
+------Record: 7-5
+------Season Points For/Against: 1371.8/1243.48
+------Projected Score: 107.15
+------Lineup:
+--------QB Bo Nix - BYE
+--------QB Joe Flacco - 15.41 Points Projected
+--------RB Jonathan Taylor - 20.52 Points Projected
+--------RB Tony Pollard - 10.0 Points Projected
+--------RB Tyrone Tracy Jr. - 12.86 Points Projected
+--------RB Sean Tucker - 10.51 Points Projected
+--------WR Drake London - Inactive
+--------WR DK Metcalf - 13.73 Points Projected
+--------WR Quentin Johnston - BYE
+--------WR Darius Slayton - 9.97 Points Projected
+--------WR Luther Burden III - 7.59 Points Projected
+--------TE Zach Ertz - BYE
+--------TE Theo Johnson - 9.73 Points Projected
+--------D/ST Patriots D/ST - 5.85 Points Projected
+--------K Harrison Butker - 8.57 Points Projected
+--Matchup: Kraft Montgomery Cheese @ The Philly Special
+----Projected Winner: The Philly Special
+----Home team: The Philly Special
+------Record: 6-6
+------Season Points For/Against: 1307.2/1281.6
+------Projected Score: 114.18
+------Lineup:
+--------QB Jalen Hurts - 22.41 Points Projected
+--------QB Tua Tagovailoa - BYE
+--------RB RJ Harvey - BYE
+--------RB Kareem Hunt - 13.54 Points Projected
+--------RB Emari Demercado - Inactive
+--------RB Blake Corum - 7.85 Points Projected
+--------WR Amon-Ra St. Brown - 20.2 Points Projected
+--------WR Stefon Diggs - 16.55 Points Projected
+--------WR Josh Downs - 10.73 Points Projected
+--------WR Chimere Dike - 10.36 Points Projected
+--------TE Dallas Goedert - 11.29 Points Projected
+--------TE Juwan Johnson - 9.26 Points Projected
+--------D/ST Saints D/ST - 4.88 Points Projected
+--------K Ka'imi Fairbairn - 7.93 Points Projected
+--------K Cairo Santos - 8.2 Points Projected
+----Away team: Kraft Montgomery Cheese
+------Record: 8-4
+------Season Points For/Against: 1312.36/1241.4
+------Projected Score: 109.78
+------Lineup:
+--------QB Jayden Daniels - BYE
+--------QB Tyler Shough - 15.97 Points Projected
+--------RB Saquon Barkley - 16.8 Points Projected
+--------RB David Montgomery - 13.01 Points Projected
+--------RB J.K. Dobbins - BYE
+--------WR Davante Adams - 16.78 Points Projected
+--------WR Jerry Jeudy - 9.94 Points Projected
+--------WR Rashid Shaheed - 7.84 Points Projected
+--------WR Wan'Dale Robinson - 14.1 Points Projected
+--------TE Tucker Kraft - Inactive
+--------TE Dalton Schultz - 10.25 Points Projected
+--------TE Isaiah Likely - 7.64 Points Projected
+--------D/ST Steelers D/ST - 4.26 Points Projected
+--------K Cameron Dicker - BYE
+--------K Harrison Mevis - 8.67 Points Projected
+--Matchup: 5WRsAllowedOnRostersNextYear @ Hangin' With Mr. Cooper
+----Projected Winner: 5WRsAllowedOnRostersNextYear
+----Home team: Hangin' With Mr. Cooper
+------Record: 6-6
+------Season Points For/Against: 1413.7/1475.92
+------Projected Score: 111.81
+------Lineup:
+--------QB Drake Maye - 24.96 Points Projected
+--------QB Michael Penix Jr. - Inactive
+--------RB De'Von Achane - BYE
+--------RB Omarion Hampton - BYE
+--------RB Ray Davis - 1.85 Points Projected
+--------RB Kenneth Gainwell - 10.53 Points Projected
+--------RB Kyle Monangai - 7.85 Points Projected
+--------WR Jakobi Meyers - 10.42 Points Projected
+--------WR Michael Pittman Jr. - 15.56 Points Projected
+--------WR Jordan Addison - 11.91 Points Projected
+--------WR Tez Johnson - 5.03 Points Projected
+--------TE Brock Bowers - 15.15 Points Projected
+--------TE Cade Otton - 9.49 Points Projected
+--------D/ST Packers D/ST - 7.48 Points Projected
+--------K Cam Little - 7.95 Points Projected
+----Away team: 5WRsAllowedOnRostersNextYear
+------Record: 7-5
+------Season Points For/Against: 1305.14/1269.12
+------Projected Score: 123.51
+------Lineup:
+--------QB C.J. Stroud - Inactive
+--------QB Matthew Stafford - 19.64 Points Projected
+--------RB Alvin Kamara - 13.75 Points Projected
+--------RB Jaylen Warren - 14.38 Points Projected
+--------RB Chris Rodriguez Jr. - BYE
+--------WR Puka Nacua - 20.71 Points Projected
+--------WR Tee Higgins - 15.69 Points Projected
+--------WR Jameson Williams - 12.88 Points Projected
+--------WR Jauan Jennings - 14.05 Points Projected
+--------TE Travis Kelce - 11.84 Points Projected
+--------TE Mason Taylor - 9.02 Points Projected
+--------D/ST Eagles D/ST - 4.25 Points Projected
+--------D/ST Rams D/ST - 5.66 Points Projected
+--------K Andy Borregales - 8.96 Points Projected
+--Matchup: If Ur Not First You're Last @ THE Derbaum
+----Projected Winner: If Ur Not First You're Last
+----Home team: THE Derbaum
+------Record: 6-6
+------Season Points For/Against: 1339.94/1327.72
+------Projected Score: 99.86
+------Lineup:
+--------QB Jaxson Dart - Inactive
+--------QB Geno Smith - 12.6 Points Projected
+--------RB Derrick Henry - 17.12 Points Projected
+--------RB TreVeyon Henderson - 14.47 Points Projected
+--------RB Javonte Williams - 14.24 Points Projected
+--------RB Kimani Vidal - BYE
+--------WR Brian Thomas Jr. - Inactive
+--------WR Deebo Samuel - BYE
+--------WR Troy Franklin - BYE
+--------WR Andrei Iosivas - 8.71 Points Projected
+--------WR Parker Washington - 8.76 Points Projected
+--------TE Kyle Pitts Sr. - 10.86 Points Projected
+--------TE Oronde Gadsden II - BYE
+--------D/ST 49ers D/ST - 5.04 Points Projected
+--------K Brandon McManus - 8.06 Points Projected
+----Away team: If Ur Not First You're Last
+------Record: 6-6
+------Season Points For/Against: 1245.36/1227.34
+------Projected Score: 102.72
+------Lineup:
+--------QB Patrick Mahomes - 21.07 Points Projected
+--------QB Davis Mills - 16.48 Points Projected
+--------RB Josh Jacobs - Inactive
+--------RB D'Andre Swift - 14.81 Points Projected
+--------RB Nick Chubb - 6.36 Points Projected
+--------RB Jeremy McNichols - BYE
+--------RB Michael Carter - 9.36 Points Projected
+--------WR Rome Odunze - 13.35 Points Projected
+--------WR Chris Godwin Jr. - 7.49 Points Projected
+--------WR Alec Pierce - 11.41 Points Projected
+--------WR Michael Wilson - 13.01 Points Projected
+--------TE AJ Barner - 8.13 Points Projected
+--------TE Brock Wright - 8.73 Points Projected
+--------D/ST Jaguars D/ST - 6.26 Points Projected
+--------K Chris Boswell - 8.32 Points Projected
+--Matchup: Forte Inch Johnson @ Team Jon
+----Projected Winner: Forte Inch Johnson
+----Home team: Team Jon
+------Record: 5-7
+------Season Points For/Against: 1130.86/1211.0
+------Projected Score: 83.55
+------Lineup:
+--------QB Brock Purdy - 20.39 Points Projected
+--------QB Jared Goff - 17.75 Points Projected
+--------RB Jahmyr Gibbs - 21.02 Points Projected
+--------RB Jordan Mason - 4.89 Points Projected
+--------RB Woody Marks - 13.63 Points Projected
+--------RB Tyjae Spears - 9.58 Points Projected
+--------WR Tyreek Hill - BYE
+--------WR Jaxon Smith-Njigba - 21.34 Points Projected
+--------WR Courtland Sutton - BYE
+--------WR Jayden Reed - Inactive
+--------TE T.J. Hockenson - 8.16 Points Projected
+--------D/ST Broncos D/ST - BYE
+--------K Chase McLaughlin - 7.75 Points Projected
+--------K Tyler Loop - 8.7 Points Projected
+----Away team: Forte Inch Johnson
+------Record: 8-4
+------Season Points For/Against: 1435.8/1306.86
+------Projected Score: 127.08
+------Lineup:
+--------QB Josh Allen - 19.13 Points Projected
+--------QB Justin Fields - Inactive
+--------RB Ashton Jeanty - 15.28 Points Projected
+--------RB Tyler Allgeier - 6.79 Points Projected
+--------RB Rico Dowdle - 18.69 Points Projected
+--------RB Devin Singletary - 9.86 Points Projected
+--------WR Tetairoa McMillan - 16.32 Points Projected
+--------WR Rashee Rice - 17.65 Points Projected
+--------WR Cooper Kupp - 8.73 Points Projected
+--------WR Jaylin Noel - 1.95 Points Projected
+--------TE George Kittle - 15.2 Points Projected
+--------D/ST Seahawks D/ST - 7.08 Points Projected
+--------D/ST Giants D/ST - 2.81 Points Projected
+--------K Evan McPherson - 7.87 Points Projected
+--Matchup: Xavier Marks the Spot @ SnydeRemarks
+----Projected Winner: SnydeRemarks
+----Home team: SnydeRemarks
+------Record: 7-5
+------Season Points For/Against: 1439.84/1272.72
+------Projected Score: 127.38
+------Lineup:
+--------QB Lamar Jackson - 21.17 Points Projected
+--------QB Sam Darnold - 15.16 Points Projected
+--------RB Christian McCaffrey - 26.08 Points Projected
+--------RB Zach Charbonnet - 9.82 Points Projected
+--------RB Bucky Irving - Inactive
+--------RB Brian Robinson Jr. - 4.87 Points Projected
+--------WR Marvin Harrison Jr. - Inactive
+--------WR Jaylen Waddle - BYE
+--------WR Emeka Egbuka - 16.84 Points Projected
+--------WR Romeo Doubs - 12.36 Points Projected
+--------WR Ricky Pearsall - 10.31 Points Projected
+--------TE Tyler Warren - 14.77 Points Projected
+--------D/ST Browns D/ST - 7.72 Points Projected
+--------D/ST Buccaneers D/ST - 2.69 Points Projected
+--------K Michael Badgley - 8.31 Points Projected
+----Away team: Xavier Marks the Spot
+------Record: 6-6
+------Season Points For/Against: 1218.92/1280.12
+------Projected Score: 107.65
+------Lineup:
+--------QB Joe Burrow - Inactive
+--------QB Trevor Lawrence - 15.35 Points Projected
+--------RB Travis Etienne Jr. - 13.59 Points Projected
+--------RB Dylan Sampson - 3.09 Points Projected
+--------RB Rachaad White - 10.87 Points Projected
+--------RB Chris Brooks - 8.23 Points Projected
+--------WR A.J. Brown - 16.27 Points Projected
+--------WR Xavier Worthy - 11.35 Points Projected
+--------WR Chris Olave - 17.02 Points Projected
+--------WR Khalil Shakir - 11.52 Points Projected
+--------TE Mark Andrews - 10.04 Points Projected
+--------TE Hunter Henry - 11.45 Points Projected
+--------D/ST Texans D/ST - 5.27 Points Projected
+--------K Chad Ryland - 7.72 Points Projected
+-----------------------------------------------------Remaining Schedules
+--Week 13 schedule:
+----Jake Butt Stuff @ Big Trouble in Little Cameron
+----Kyler? I Barely Know Her @ Team Santangelo
+----The Philly Special @ Dickhole Smashers
+----Hangin' With Mr. Cooper @ Trying to not finish last
+----THE Derbaum @ Kraft Montgomery Cheese
+----Team Jon @ 5WRsAllowedOnRostersNextYear
+----SnydeRemarks @ If Ur Not First You're Last
+----Xavier Marks the Spot @ Forte Inch Johnson
+--Week 14 schedule:
+----Jake Butt Stuff @ Big Trouble in Little Cameron
+----Kyler? I Barely Know Her @ Team Santangelo
+----The Philly Special @ Dickhole Smashers
+----Hangin' With Mr. Cooper @ Trying to not finish last
+----THE Derbaum @ Kraft Montgomery Cheese
+----Team Jon @ 5WRsAllowedOnRostersNextYear
+----SnydeRemarks @ If Ur Not First You're Last
+----Xavier Marks the Spot @ Forte Inch Johnson

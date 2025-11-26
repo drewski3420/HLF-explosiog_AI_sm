@@ -1,0 +1,309 @@
+Week 12
+--Standings:
+-----------------------------------------------------
+# | Team Name | Wins | Losses | PF | PA | Streak | Playoff Chances
+1.|Here Comes McBride|9|3|1320.78|1214.16|7 Wins | 100.0
+2.|THE Derbaum|8|4|1321.8|1271.6|3 Wins | 100.0
+3.|Puka Puka|7|5|1300.26|1228.56|2 Losses | 92.15
+4.|Gronk for my  johnson|7|5|1304.96|1098.86|1 Losses | 93.35
+5.|No Punt Intended|6|6|1297.98|1320.94|1 Wins | 73.825
+6.|Baker's Brownie Stand |6|6|1231.34|1295.2|1 Losses | 58.775
+7.|Clever Team  Name Incoming|6|6|1181.16|1211.22|1 Wins | 27.35
+8.|I Know Exactly What I’m Doing|5|7|1209.6000000000001|1231.96|1 Losses | 13.900000000000002
+9.|World of Hurts|5|7|1248.98|1310.68|3 Wins | 16.625
+10.|OHHHHHHH YEAHHHHH!!!!|5|7|1244.08|1295.3|3 Losses | 17.8
+11.|Goff And Running|5|7|1120.38|1263.42|1 Wins | 6.225
+12.|D.J. Chark Week|3|9|1185.8600000000001|1225.28|7 Losses | 0.0
+-----------------------------------------------------
+Season To Date Top Scorer: THE Derbaum
+Season To Date Lower Scorer: Goff And Running
+Season To Date Most Points Against: No Punt Intended
+-----------------------------------------------------
+--Matchup: I Know Exactly What I’m Doing @ Clever Team  Name Incoming
+----Projected Winner: I Know Exactly What I’m Doing
+----Home team: Clever Team  Name Incoming
+------Record: 6-6
+------Season Points For/Against: 1181.16/1211.22
+------Projected Score: 97.54
+------Lineup:
+--------QB Jayden Daniels - BYE
+--------QB Joe Flacco - 15.41 Points Projected
+--------QB Davis Mills - 16.48 Points Projected
+--------RB Derrick Henry - 16.4 Points Projected
+--------RB TreVeyon Henderson - 13.2 Points Projected
+--------RB D'Andre Swift - 13.65 Points Projected
+--------RB Devin Singletary - 9.08 Points Projected
+--------WR Deebo Samuel - BYE
+--------WR Cooper Kupp - 7.23 Points Projected
+--------WR Matthew Golden - Inactive
+--------WR Jauan Jennings - 11.89 Points Projected
+--------WR Jayden Higgins - 7.32 Points Projected
+--------TE Sam LaPorta - Inactive
+--------TE Colston Loveland - 4.91 Points Projected
+--------D/ST Patriots D/ST - 5.85 Points Projected
+--------K Cameron Dicker - BYE
+--------K Ka'imi Fairbairn - 7.93 Points Projected
+----Away team: I Know Exactly What I’m Doing
+------Record: 5-7
+------Season Points For/Against: 1209.6/1231.96
+------Projected Score: 104.78
+------Lineup:
+--------QB Caleb Williams - 17.73 Points Projected
+--------RB Breece Hall - 13.19 Points Projected
+--------RB Kareem Hunt - 12.39 Points Projected
+--------RB Emari Demercado - Inactive
+--------RB Chris Rodriguez Jr. - BYE
+--------WR Tee Higgins - 12.91 Points Projected
+--------WR Nico Collins - 13.64 Points Projected
+--------WR Quentin Johnston - BYE
+--------WR Tre Tucker - 7.87 Points Projected
+--------WR Alec Pierce - 9.54 Points Projected
+--------WR Jameson Williams - 11.04 Points Projected
+--------TE Dalton Schultz - 8.08 Points Projected
+--------TE Oronde Gadsden II - BYE
+--------TE AJ Barner - 6.69 Points Projected
+--------D/ST Seahawks D/ST - 7.08 Points Projected
+--------D/ST Falcons D/ST - 5.09 Points Projected
+--------K Brandon Aubrey - 8.72 Points Projected
+--Matchup: Here Comes McBride @ Gronk for my  johnson
+----Projected Winner: Here Comes McBride
+----Home team: Gronk for my  johnson
+------Record: 7-5
+------Season Points For/Against: 1304.96/1098.86
+------Projected Score: 110.43
+------Lineup:
+--------QB Jalen Hurts - 22.41 Points Projected
+--------QB Justin Herbert - BYE
+--------QB C.J. Stroud - Inactive
+--------RB Bijan Robinson - 19.19 Points Projected
+--------RB Cam Skattebo - Inactive
+--------RB Tony Pollard - 8.74 Points Projected
+--------RB Tyjae Spears - 8.02 Points Projected
+--------RB Chris Brooks - 7.42 Points Projected
+--------WR Jaxon Smith-Njigba - 17.68 Points Projected
+--------WR Courtland Sutton - BYE
+--------WR Jaylen Waddle - BYE
+--------WR Stefon Diggs - 13.6 Points Projected
+--------WR Josh Downs - 8.45 Points Projected
+--------TE Mark Andrews - 8.43 Points Projected
+--------TE Dallas Goedert - 9.0 Points Projected
+--------D/ST Bengals D/ST - 3.04 Points Projected
+--------K Chris Boswell - 8.32 Points Projected
+----Away team: Here Comes McBride
+------Record: 9-3
+------Season Points For/Against: 1320.78/1214.16
+------Projected Score: 112.01
+------Lineup:
+--------QB Bo Nix - BYE
+--------QB Brock Purdy - 20.39 Points Projected
+--------RB Omarion Hampton - BYE
+--------RB James Cook III - 14.82 Points Projected
+--------RB Zach Charbonnet - 9.39 Points Projected
+--------RB Trey Benson - Inactive
+--------RB Kyle Monangai - 7.32 Points Projected
+--------RB Sean Tucker - 9.61 Points Projected
+--------WR Tetairoa McMillan - 13.34 Points Projected
+--------WR Ladd McConkey - BYE
+--------WR CeeDee Lamb - 14.93 Points Projected
+--------WR Ricky Pearsall - 8.68 Points Projected
+--------WR Michael Wilson - 10.57 Points Projected
+--------TE Trey McBride - 14.31 Points Projected
+--------D/ST Broncos D/ST - BYE
+--------D/ST Rams D/ST - 5.66 Points Projected
+--------K Jake Elliott - 8.38 Points Projected
+--Matchup: Goff And Running @ Baker's Brownie Stand 
+----Projected Winner: Goff And Running
+----Home team: Baker's Brownie Stand 
+------Record: 6-6
+------Season Points For/Against: 1231.34/1295.2
+------Projected Score: 78.67
+------Lineup:
+--------QB Baker Mayfield - 14.56 Points Projected
+--------QB Matthew Stafford - 19.64 Points Projected
+--------RB Christian McCaffrey - 23.08 Points Projected
+--------RB Jacory Croskey-Merritt - BYE
+--------RB Tyler Allgeier - 6.37 Points Projected
+--------WR Tyreek Hill - BYE
+--------WR Garrett Wilson - Inactive
+--------WR DJ Moore - 7.19 Points Projected
+--------WR Travis Hunter - Inactive
+--------WR Michael Pittman Jr. - 12.24 Points Projected
+--------WR Chris Godwin Jr. - 5.84 Points Projected
+--------WR Darnell Mooney - 9.1 Points Projected
+--------TE Tyler Warren - 11.89 Points Projected
+--------TE Isaiah Likely - 6.36 Points Projected
+--------D/ST Steelers D/ST - 4.26 Points Projected
+--------D/ST Dolphins D/ST - BYE
+--------K Chase McLaughlin - 7.75 Points Projected
+----Away team: Goff And Running
+------Record: 5-7
+------Season Points For/Against: 1120.38/1263.42
+------Projected Score: 111.97
+------Lineup:
+--------QB Drake Maye - 24.96 Points Projected
+--------QB Jared Goff - 17.75 Points Projected
+--------RB Saquon Barkley - 15.29 Points Projected
+--------RB David Montgomery - 12.24 Points Projected
+--------RB J.K. Dobbins - BYE
+--------RB Rhamondre Stevenson - 13.1 Points Projected
+--------WR DK Metcalf - 11.71 Points Projected
+--------WR Jakobi Meyers - 8.19 Points Projected
+--------WR Rashee Rice - 14.48 Points Projected
+--------WR Keenan Allen - BYE
+--------WR Hollywood Brown - 4.17 Points Projected
+--------WR DeMario Douglas - 5.67 Points Projected
+--------TE Hunter Henry - 9.59 Points Projected
+--------TE Juwan Johnson - 7.48 Points Projected
+--------TE Cade Otton - 7.34 Points Projected
+--------D/ST Lions D/ST - 7.66 Points Projected
+--------K Tyler Loop - 8.7 Points Projected
+--Matchup: D.J. Chark Week @ THE Derbaum
+----Projected Winner: THE Derbaum
+----Home team: THE Derbaum
+------Record: 8-4
+------Season Points For/Against: 1321.8/1271.6
+------Projected Score: 107.74
+------Lineup:
+--------QB Trevor Lawrence - 15.35 Points Projected
+--------QB Jacoby Brissett - 16.74 Points Projected
+--------RB Kyren Williams - 13.82 Points Projected
+--------RB De'Von Achane - BYE
+--------RB Chase Brown - 13.41 Points Projected
+--------RB Bhayshul Tuten - 7.06 Points Projected
+--------RB Brian Robinson Jr. - 4.62 Points Projected
+--------RB Emanuel Wilson - 13.6 Points Projected
+--------WR Amon-Ra St. Brown - 16.64 Points Projected
+--------WR Troy Franklin - BYE
+--------WR Brian Thomas Jr. - Inactive
+--------WR Parker Washington - 7.2 Points Projected
+--------WR Jerry Jeudy - 8.06 Points Projected
+--------TE George Kittle - 12.55 Points Projected
+--------TE Harold Fannin Jr. - 6.96 Points Projected
+--------D/ST Raiders D/ST - 7.08 Points Projected
+--------K Matt Prater - 8.09 Points Projected
+----Away team: D.J. Chark Week
+------Record: 3-9
+------Season Points For/Against: 1185.86/1225.28
+------Projected Score: 106.07
+------Lineup:
+--------QB Patrick Mahomes - 21.07 Points Projected
+--------QB Jaxson Dart - Inactive
+--------RB Alvin Kamara - 12.22 Points Projected
+--------RB Kenneth Walker III - 13.04 Points Projected
+--------RB Bucky Irving - Inactive
+--------RB Nick Chubb - 5.88 Points Projected
+--------WR Justin Jefferson - 14.18 Points Projected
+--------WR Terry McLaurin - BYE
+--------WR George Pickens - 13.83 Points Projected
+--------WR Jordan Addison - 9.73 Points Projected
+--------WR Christian Watson - 10.05 Points Projected
+--------TE Dalton Kincaid - Inactive
+--------TE T.J. Hockenson - 6.15 Points Projected
+--------D/ST Eagles D/ST - 4.25 Points Projected
+--------D/ST Ravens D/ST - 6.6 Points Projected
+--------K Jake Bates - 8.93 Points Projected
+--Matchup: OHHHHHHH YEAHHHHH!!!! @ No Punt Intended
+----Projected Winner: OHHHHHHH YEAHHHHH!!!!
+----Home team: No Punt Intended
+------Record: 6-6
+------Season Points For/Against: 1297.98/1320.94
+------Projected Score: 110.43
+------Lineup:
+--------QB Lamar Jackson - 21.17 Points Projected
+--------RB Josh Jacobs - Inactive
+--------RB Jaylen Warren - 13.13 Points Projected
+--------RB Javonte Williams - 13.23 Points Projected
+--------RB Quinshon Judkins - 13.1 Points Projected
+--------RB MarShawn Lloyd - Inactive
+--------WR Marvin Harrison Jr. - Inactive
+--------WR Drake London - Inactive
+--------WR Rome Odunze - 11.47 Points Projected
+--------WR Chris Olave - 14.12 Points Projected
+--------WR Christian Kirk - 4.17 Points Projected
+--------TE Tucker Kraft - Inactive
+--------TE Jake Ferguson - 7.53 Points Projected
+--------TE David Njoku - 5.21 Points Projected
+--------D/ST Texans D/ST - 5.27 Points Projected
+--------D/ST Browns D/ST - 7.72 Points Projected
+--------K Andy Borregales - 8.96 Points Projected
+----Away team: OHHHHHHH YEAHHHHH!!!!
+------Record: 5-7
+------Season Points For/Against: 1244.08/1295.3
+------Projected Score: 110.44
+------Lineup:
+--------QB Josh Allen - 19.13 Points Projected
+--------QB Daniel Jones - 19.93 Points Projected
+--------RB Jonathan Taylor - 18.94 Points Projected
+--------RB Jordan Mason - 4.54 Points Projected
+--------RB Woody Marks - 12.77 Points Projected
+--------RB Bam Knight - 10.37 Points Projected
+--------RB Tyrone Tracy Jr. - 11.5 Points Projected
+--------WR Xavier Worthy - 9.57 Points Projected
+--------WR Emeka Egbuka - 14.0 Points Projected
+--------WR Wan'Dale Robinson - 11.06 Points Projected
+--------WR Romeo Doubs - 10.3 Points Projected
+--------WR Rashid Shaheed - 6.68 Points Projected
+--------TE Brock Bowers - 12.05 Points Projected
+--------TE Zach Ertz - BYE
+--------D/ST 49ers D/ST - 5.04 Points Projected
+--------K Harrison Butker - 8.57 Points Projected
+--Matchup: Puka Puka @ World of Hurts
+----Projected Winner: Puka Puka
+----Home team: World of Hurts
+------Record: 5-7
+------Season Points For/Against: 1248.98/1310.68
+------Projected Score: 101.27
+------Lineup:
+--------QB Joe Burrow - Inactive
+--------QB Jordan Love - 17.41 Points Projected
+--------RB Jahmyr Gibbs - 19.28 Points Projected
+--------RB Isiah Pacheco - Inactive
+--------RB Chuba Hubbard - 4.23 Points Projected
+--------RB Rachaad White - 9.17 Points Projected
+--------RB Kenneth Gainwell - 8.61 Points Projected
+--------RB Blake Corum - 7.47 Points Projected
+--------WR Davante Adams - 14.43 Points Projected
+--------WR DeVonta Smith - 12.01 Points Projected
+--------WR Khalil Shakir - 9.08 Points Projected
+--------WR Tez Johnson - 4.1 Points Projected
+--------TE Theo Johnson - 7.72 Points Projected
+--------TE Travis Kelce - 9.45 Points Projected
+--------D/ST Colts D/ST - 3.96 Points Projected
+--------D/ST Packers D/ST - 7.48 Points Projected
+--------K Jason Myers - 8.5 Points Projected
+----Away team: Puka Puka
+------Record: 7-5
+------Season Points For/Against: 1300.26/1228.56
+------Projected Score: 113.98
+------Lineup:
+--------QB Dak Prescott - 17.71 Points Projected
+--------RB Ashton Jeanty - 13.65 Points Projected
+--------RB RJ Harvey - BYE
+--------RB Rico Dowdle - 17.12 Points Projected
+--------RB Travis Etienne Jr. - 12.39 Points Projected
+--------RB Kimani Vidal - BYE
+--------RB Aaron Jones Sr. - 11.84 Points Projected
+--------WR A.J. Brown - 13.59 Points Projected
+--------WR Zay Flowers - 10.94 Points Projected
+--------WR Puka Nacua - 16.89 Points Projected
+--------WR Kayshon Boutte - 8.25 Points Projected
+--------WR Ja'Marr Chase - Inactive
+--------TE Kyle Pitts Sr. - 8.42 Points Projected
+--------TE Brenton Strange - 5.98 Points Projected
+--------D/ST Jaguars D/ST - 6.26 Points Projected
+--------K Cam Little - 7.95 Points Projected
+-----------------------------------------------------Remaining Schedules
+--Week 13 schedule:
+----Clever Team  Name Incoming @ Gronk for my  johnson
+----Baker's Brownie Stand  @ I Know Exactly What I’m Doing
+----THE Derbaum @ Here Comes McBride
+----No Punt Intended @ Goff And Running
+----World of Hurts @ D.J. Chark Week
+----Puka Puka @ OHHHHHHH YEAHHHHH!!!!
+--Week 14 schedule:
+----Clever Team  Name Incoming @ Gronk for my  johnson
+----Baker's Brownie Stand  @ I Know Exactly What I’m Doing
+----THE Derbaum @ Here Comes McBride
+----No Punt Intended @ Goff And Running
+----World of Hurts @ D.J. Chark Week
+----Puka Puka @ OHHHHHHH YEAHHHHH!!!!
