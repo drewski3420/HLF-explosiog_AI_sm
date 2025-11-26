@@ -1,274 +1,295 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Week 12 Newsletter</title>
+  <title>Thanksgiving edition: pass the turkey, not your bad lineup decisions.</title>
   <style>
-    :root{
-      --bg:#0b0c10;
-      --panel:#111318;
-      --muted:#8b95a7;
-      --text:#e6e9ef;
-      --accent:#4f8cff;
-      --accent-2:#22c55e;
-      --border:#1a1f29;
+    :root {
+      --bg: #0b0d10;
+      --card: #111418;
+      --text: #e5edf5;
+      --muted: #a9b6c6;
+      --accent: #3b82f6;
+      --accent-2: #22c55e;
+      --warn: #f59e0b;
+      --danger: #ef4444;
+      --border: #1f2530;
     }
-    *{box-sizing:border-box}
-    html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";line-height:1.6}
-    a{color:var(--accent);text-decoration:none}
-    a:hover{text-decoration:underline}
-    .wrap{max-width:960px;margin:0 auto;padding:24px}
-    header.site-header{background:linear-gradient(180deg, rgba(79,140,255,0.12), transparent);border:1px solid var(--border);border-radius:16px;padding:24px}
-    h1{font-size:clamp(1.6rem, 3vw, 2rem);margin:0 0 8px 0;line-height:1.25}
-    h2{font-size:clamp(1.2rem, 2.4vw, 1.5rem);margin:28px 0 12px}
-    h3{font-size:1.05rem;margin:18px 0 8px}
-    p.lead{color:var(--muted);margin:6px 0 0}
-    section{margin-top:28px}
-    .panel{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:18px}
-    .stack > * + *{margin-top:12px}
-    ul{padding-left:18px;margin:10px 0}
-    li + li{margin-top:6px}
-    .meta{color:var(--muted)}
-    .badge{display:inline-block;padding:2px 8px;border-radius:999px;font-size:.8rem;background:#0e1726;border:1px solid var(--border);color:var(--muted)}
-    .highlight{color:var(--accent);font-weight:700}
-    .green{color:var(--accent-2);font-weight:700}
-    .matchups{display:grid;grid-template-columns:1fr;gap:14px}
-    @media (min-width: 820px){
-      .matchups{grid-template-columns:1fr 1fr}
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+      line-height: 1.55;
     }
-    article.matchup{background:#0e1016;border:1px solid var(--border);border-radius:12px;padding:14px}
-    article.matchup header{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
-    .score{font-weight:800;letter-spacing:.2px}
-    .note{color:var(--muted);font-size:.95rem}
-    footer.site-footer{margin-top:32px;color:var(--muted)}
-    .list-columns{display:grid;grid-template-columns:1fr;gap:14px}
-    @media (min-width: 680px){
-      .list-columns{grid-template-columns:repeat(3,1fr)}
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 32px 20px 60px;
     }
-    .tiny{font-size:.92rem}
+    header {
+      background: linear-gradient(135deg, rgba(59,130,246,.15), rgba(34,197,94,.12));
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 28px 24px;
+    }
+    h1 {
+      margin: 0 0 8px 0;
+      font-size: clamp(1.6rem, 2.4vw, 2.2rem);
+      letter-spacing: 0.2px;
+    }
+    header p {
+      margin: 10px 0 0 0;
+      color: var(--muted);
+    }
+    section {
+      margin-top: 34px;
+    }
+    h2 {
+      margin: 0 0 14px 0;
+      font-size: clamp(1.25rem, 2vw, 1.6rem);
+      color: var(--accent);
+    }
+    h3 {
+      margin: 18px 0 10px 0;
+      font-size: clamp(1.05rem, 1.6vw, 1.2rem);
+      color: var(--accent-2);
+    }
+    p { margin: 10px 0; }
+    ul { margin: 8px 0 14px 20px; padding: 0; }
+    li { margin: 6px 0; }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 18px;
+    }
+    .stack > * + * { margin-top: 14px; }
+    .muted { color: var(--muted); }
+    .score { font-weight: 700; color: var(--accent-2); }
+    .low { color: var(--danger); font-weight: 700; }
+    .note {
+      margin-top: 6px;
+      font-style: italic;
+      color: var(--muted);
+    }
+    .matchup {
+      border-left: 3px solid var(--accent);
+      padding-left: 14px;
+      margin: 16px 0;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 14px;
+    }
+    @media (min-width: 760px) {
+      .grid.two { grid-template-columns: 1fr 1fr; }
+      .grid.three { grid-template-columns: 1fr 1fr 1fr; }
+    }
+    .pill {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 12px;
+      margin-left: 8px;
+    }
+    .highlight {
+      color: var(--accent);
+      font-weight: 700;
+    }
+    .divider {
+      height: 1px;
+      background: var(--border);
+      margin: 14px 0;
+    }
+    a { color: inherit; text-decoration: none; }
   </style>
 </head>
 <body>
-  <div class="wrap">
-    <header class="site-header">
-      <h1>Week 12: The waiver wire is a church, and half of you still worship at the bench.</h1>
-      <p class="lead">If fantasy football were a soap opera, Week 12 was a season finale where the butler (D/STs and kickers) reveals everything, the lead actor (a single RB explosion) walks in on someone they shouldn’t have, and three couples realize their bench is full of child extras who never got a line.</p>
+  <div class="container">
+    <header>
+      <h1>Thanksgiving edition: pass the turkey, not your bad lineup decisions.</h1>
+      <p>If fantasy is a family dinner, last week was the one where Uncle Bench Left 30 Points on the Table and Aunt Bye Week Served Cold Gravy. D/STs and kickers volunteered for MVP duties, single-player explosions (looking at you, Jahmyr and George Pickens) detonated games, and several managers once again discovered their benches after it was too late.</p>
     </header>
 
-    <main>
-      <section aria-labelledby="recap">
-        <h2 id="recap">Last Week’s Recap</h2>
+    <section aria-labelledby="recap">
+      <h2 id="recap">Last Week’s Recap</h2>
 
-        <div class="panel stack">
-          <h3>Week 12 in one sentence</h3>
-          <p>Roster roulette and BYE/inactive carnage turned sure wins into heartbreak and made streaming your defense feel like picking the right lottery scratcher.</p>
-        </div>
+      <article class="card stack">
+        <h3>Week 12 in one sentence</h3>
+        <p class="muted">This was a BYE‑week‑and‑inactives buffet: teams either ate well (big RB/WR outliers and D/STs) or got indigestion from benching 15–35 points.</p>
 
-        <div class="panel stack">
-          <h3>Quick league snapshot</h3>
-          <ul>
-            <li>Highest single-week ceiling recently: <strong>Forte Inch Johnson</strong> — <strong class="highlight">174.28</strong> (Week 11). That’s a team so hot it’s starting to smell.</li>
-            <li>Lowest team of the week: <strong>Dickhole Smashers</strong> — <strong class="highlight">31.6</strong>. Someone left the offense at the valet.</li>
-            <li>Biggest upset (per manager commentary): <strong>THE Derbaum</strong> beating <strong>If Ur Not First You're Last</strong> <strong class="highlight">115.4–68.98</strong> — kicker/defense carried a team past expectations.</li>
-            <li>Closest game: <strong>Trying to not finish last</strong> <strong class="highlight">94.22</strong> edged <strong>Kyler? I Barely Know Her</strong> <strong class="highlight">92.28</strong> — decided by <strong>1.94</strong> points. Timer: every waiver move matters.</li>
-          </ul>
-        </div>
+        <div class="divider"></div>
 
-        <div class="panel">
-          <h3>Top matchups (the good, the bad, the bench-blunders)</h3>
-          <div class="matchups">
-            <article class="matchup">
-              <header>
-                <h4>Jake Butt Stuff def. Team Santangelo</h4>
-                <div class="score"><strong>116.26</strong> – <strong>78.96</strong></div>
-              </header>
-              <p class="note">Verdict: Jake Butt Stuff rode a <strong>Ravens D/ST</strong> swing to a tidy <strong>116.26–78.96</strong> win while Team Santangelo couldn’t get out of its BYE/inactive rut. <strong>James Cook III</strong> actually outscored his projection (<span class="green">+6.13</span>), but Santangelo’s QB hole and the benching of <strong>Christian Kirk</strong> (<strong>16.4</strong> left on the pine) made this sadder than a canceled group chat.</p>
-              <p class="note"><em>One-liner time travel</em>: Jake Butt Stuff: Back to the lineup the morning of lock-in to double‑check you didn’t accidentally start your fantasy cat. Team Santangelo: To next draft day with a “sorry” card.</p>
-              <p class="note">Decisive note: Bench management did the damage — <strong>Kirk</strong> on the bench equals points straight to the trash.</p>
-            </article>
+        <h3>Quick league snapshot</h3>
+        <ul>
+          <li>Highest scorer last week: <strong>Big Trouble in Little Cameron</strong> — <span class="score">139.86</span> (you didn’t expect a defensive unit to carry dinner, but here we are).</li>
+          <li>Lowest scorer last week: <strong>Dickhole Smashers</strong> — <span class="low">31.6</span> (somebody left the oven on the bench).</li>
+          <li>Biggest upset (narrative upset/feel-bad-for-you): <strong>THE Derbaum 115.4</strong> def. <strong>If Ur Not First You're Last 68.98</strong> — an upset fueled by balance and If Ur’s RB meltdown.</li>
+          <li>Closest game: <strong>Trying to not finish last 94.22</strong> def. <strong>Kyler? I Barely Know Her 92.28</strong> — a two‑point sigh of relief.</li>
+        </ul>
 
-            <article class="matchup">
-              <header>
-                <h4>Big Trouble in Little Cameron def. Dickhole Smashers</h4>
-                <div class="score"><strong>139.86</strong> – <strong>31.6</strong></div>
-              </header>
-              <p class="note">Verdict: <strong>BTiLC</strong> steamrolled a corpse-like <strong>Dickhole Smashers</strong> <strong>139.86–31.6</strong>, with <strong>Dak Prescott</strong> and <strong>DJ Moore</strong> doing the heavy lifting and the <strong>Falcons D/ST</strong> throwing in a surprise nine-point gift. Meanwhile, Dickhole Smashers had <strong>Emanuel Wilson</strong> sitting on a <strong>26.5</strong> bench party they didn’t attend.</p>
-              <p class="note"><em>Time travel</em>: BTiLC: To the playoffs already, please stop teasing us. Dickhole Smashers: To the owner’s phone to answer fantasy texts.</p>
-              <p class="note">Decisive note: Inactives (<strong>Aaron Rodgers</strong>, <strong>Isiah Pacheco</strong>, <strong>Rashod Bateman</strong>) turned Dickhole into a practice squad.</p>
-            </article>
+        <div class="divider"></div>
 
-            <article class="matchup">
-              <header>
-                <h4>Trying to not finish last def. Kyler? I Barely Know Her</h4>
-                <div class="score"><strong>94.22</strong> – <strong>92.28</strong></div>
-              </header>
-              <p class="note">Verdict: A two‑point squeaker — <strong>94.22–92.28</strong> — decided by <strong>George Pickens</strong> being a massive outlier (<span class="green">+13.03</span>) and <strong>Harrison Butker</strong> cobbling points. KIBKH’s <strong>Bijan Robinson</strong> and <strong>Lions D/ST</strong> underperformed and <strong>Kyler Murray</strong> was inactive on the bench like an absentee landlord.</p>
-              <p class="note"><em>Time travel</em>: Trying to not finish last: Back to the fantasy handbook under “how not to implode.” KIBKH: To Kyler Murray’s couch to find out why he didn’t wake up for the job.</p>
-              <p class="note">Decisive note: That <strong>1.94</strong>-point margin was the difference between a smug text and a sad GIF — benching your QB/holding out on a Sunday morning waiver can be fatal.</p>
-            </article>
+        <h3>Top matchups (recaps, with headlines)</h3>
 
-            <article class="matchup">
-              <header>
-                <h4>The Philly Special def. Kraft Montgomery Cheese</h4>
-                <div class="score"><strong>120.76</strong> – <strong>108.52</strong></div>
-              </header>
-              <p class="note">Verdict: Philly’s <strong>Jalen Hurts</strong> (<span class="green">+8.45</span> vs projection) and <strong>Amon‑Ra St. Brown</strong> (<span class="green">+9.7</span>) pushed The Philly Special past Kraft <strong>120.76–108.52</strong>, despite chiming in with a <strong>21.4</strong> bench score from <strong>Chimere Dike</strong> that never saw sunlight.</p>
-              <p class="note"><em>Time travel</em>: Philly: To mid-January with a smile and a napkin for the trophy condensation. Kraft: Back to every time they left a kicker/defense on autopilot.</p>
-              <p class="note">Decisive note: Hurts + St. Brown was the nudge; Kraft’s underperforming starters (<strong>Diggs</strong>, <strong>Goedert</strong>) made the win feel inevitable in reverse.</p>
-            </article>
+        <article class="matchup">
+          <p><strong>Jake Butt Stuff (116.26)</strong> over <strong>Team Santangelo (78.96)</strong> — Ravens D/ST flexes while Santangelo naps 🦅</p>
+          <p>Jake Butt Stuff rolled to a comfortable 116.26–78.96 win despite some familiar heartbreak: <strong>CeeDee Lamb</strong> underperformed and J.B.S. even had <strong>J.J. McCarthy</strong> collecting bench cobwebs. Team Santangelo’s QB room was gutted by BYEs/inactives (Herbert &amp; Ekeler BYE; Chase/LaPorta inactive), and the bench tragedy continues — <strong>Christian Kirk</strong> scored <strong>16.4</strong> but sat like a polite Thanksgiving guest.</p>
+          <p class="note">Time‑travel quip — Team Santangelo: To Wednesday night, to ask, “Did I leave Kirk on the bench?”</p>
+          <p class="note">Decisive blunder: Bench Kirk + multiple inactives = easy loss.</p>
+        </article>
 
-            <article class="matchup">
-              <header>
-                <h4>Hangin' With Mr. Cooper def. 5WRsAllowedOnRostersNextYear</h4>
-                <div class="score"><strong>116.16</strong> – <strong>110.42</strong></div>
-              </header>
-              <p class="note">Verdict: A D/ST-heavy victory — <strong>116.16–110.42</strong> — with <strong>Kenneth Gainwell</strong> and a pair of defenses doing the dirty work. 5WRs got pluses from kickers/defense but saw <strong>Jordan Addison</strong> and <strong>Jameson Williams</strong> implode relative to expectations.</p>
-              <p class="note"><em>Time travel</em>: Hangin’: To the year where everyone finally drafts a competent RB committee. 5WRs: To the waiver wire with a shopping list and a prayer.</p>
-              <p class="note">Decisive note: When defenses outscore your WR3/WR4, you might have drafted a museum exhibit by mistake.</p>
-            </article>
+        <article class="matchup">
+          <p><strong>Big Trouble in Little Cameron (139.86)</strong> over <strong>Dickhole Smashers (31.6)</strong> — football massacre at the buffet 🍽️</p>
+          <p>BTiLC put up 139.86 (<strong>Dak</strong> and <strong>DJ Moore</strong> doing the heavy lifting) while the Smashers managed a season-low 31.6 after a litany of inactives. The Smashers had <strong>Emanuel Wilson</strong> sitting on a <strong>26.5</strong>-day party bench and <strong>Aaron Rodgers</strong>/<strong>Isiah Pacheco</strong> inactive — the kind of roster management that will earn you looks you won’t enjoy at Thanksgiving.</p>
+          <p class="note">Time‑travel quip — Dickhole Smashers: Back to the waiver wire with a pilgrim hat and zero grace.</p>
+          <p class="note">Decisive blunder: Leaving Emanuel Wilson on the pine was criminally inefficient.</p>
+        </article>
 
-            <article class="matchup">
-              <header>
-                <h4>THE Derbaum def. If Ur Not First You're Last</h4>
-                <div class="score"><strong>115.4</strong> – <strong>68.98</strong></div>
-              </header>
-              <p class="note">Verdict: <strong>THE Derbaum</strong> shocked <strong>If Ur</strong> <strong>115.4–68.98</strong>, lifted by balanced contributions and a kicker/defense that acted like the cavalry. If Ur’s running game had big misses and it showed.</p>
-              <p class="note"><em>Time travel</em>: THE Derbaum: To the trophy case for a pre-emptive nap. If Ur: To 2022 saying “we can do better” (nope).</p>
-              <p class="note">Decisive note: This one was a full collapse; BYEs and inactives turned If Ur into a fantasy pop quiz no one studied for.</p>
-            </article>
+        <article class="matchup">
+          <p><strong>Trying to not finish last (94.22)</strong> over <strong>Kyler? I Barely Know Her (92.28)</strong> — a two‑point dogfight decided by George Pickens 🐾</p>
+          <p>Trying to not finish last squeaked by 94.22–92.28 in a matchup where <strong>Harrison Butker</strong>’s leg and a tidy floor saved the bacon. <strong>George Pickens</strong> was the matchup’s showstopper for KIBKH (a huge outlier versus projection), but <strong>Bijan Robinson</strong> and <strong>Lions D/ST</strong> disappointed, and <strong>Kyler Murray</strong> was inactive on the bench (yes, actually inactive).</p>
+          <p class="note">Time‑travel quip — KIBKH: To the draft board, with a sticky note that reads “Kyler: don’t trust your luck.”</p>
+          <p class="note">Decisive play: Pickens’ boom day kept it close, but Murray inactive and underperforming RBs did KIBKH in.</p>
+        </article>
 
-            <article class="matchup">
-              <header>
-                <h4>Forte Inch Johnson def. Team Jon</h4>
-                <div class="score"><strong>116.42</strong> – <strong>110.92</strong></div>
-              </header>
-              <p class="note">Verdict: A classic narrow grind — <strong>116.42–110.92</strong> — where <strong>Jahmyr Gibbs</strong>’ Earth‑shaking week (<span class="green">+34.38</span> vs projection) and <strong>Jaxon Smith‑Njigba</strong> carried Forte. Team Jon almost answered but left <strong>Jared Goff</strong> (<strong>17.16</strong>) on the bench like a mid-tier backup plan.</p>
-              <p class="note"><em>Time travel</em>: Forte: Forward to victory speeches nobody asked for. Team Jon: To the bench where Goff sulks in peace.</p>
-              <p class="note">Decisive note: Jahmyr’s explosion was the kind of single-player hit that rewrites matchups.</p>
-            </article>
+        <article class="matchup">
+          <p><strong>The Philly Special (120.76)</strong> over <strong>Kraft Montgomery Cheese (108.52)</strong> — Hurts and A‑Rod carry the turkey platter 🏈</p>
+          <p>Philly’s <strong>Jalen Hurts</strong> + <strong>Amon‑Ra St. Brown</strong> combo nudged The Philly Special to 120.76, while Kraft’s WRs had good games but several starters underperformed against projections. <strong>Chimere Dike</strong> ironically collected <strong>21.4</strong> points on Philly’s bench — a recurring theme: someone’s sweets are always left on the counter.</p>
+          <p class="note">Time‑travel quip — Kraft Montgomery Cheese: To the concession stand, hoping they’ll exchange <strong>Dalton Schultz</strong> for a casserole.</p>
+        </article>
 
-            <article class="matchup">
-              <header>
-                <h4>Xavier Marks the Spot def. SnydeRemarks</h4>
-                <div class="score"><strong>122.04</strong> – <strong>91.72</strong></div>
-              </header>
-              <p class="note">Verdict: <strong>A.J. Brown</strong> and <strong>Travis Etienne Jr.</strong> outperformed and <strong>Xavier</strong> rolled <strong>SnydeRemarks</strong> <strong>122.04–91.72</strong>, exploiting <strong>Joe Burrow</strong> being out and <strong>Hunter Henry</strong> left rent-free on the bench (<strong>24.5</strong>). <strong>Lamar Jackson</strong> and other Snyde pieces cratered relative to projection.</p>
-              <p class="note"><em>Time travel</em>: Xavier: To the parts of the bracket labeled “please not us.” SnydeRemarks: To the injury report to plead for mercy.</p>
-              <p class="note">Decisive note: Missing Burrow is like starting a sitcom without the lead — the rest of the ensemble does not save it.</p>
-            </article>
+        <article class="matchup">
+          <p><strong>Hangin' With Mr. Cooper (116.16)</strong> over <strong>5WRsAllowedOnRostersNextYear (110.42)</strong> — D/STs and special teams steal Thanksgiving sides 🧤</p>
+          <p>Hangin’ won a close one largely on <strong>Kenneth Gainwell</strong> and elite D/ST output; 5WRs eked out non‑WR value (<strong>Rams</strong>/<strong>Packers D/STs</strong> and <strong>K Andy Borregales</strong> helped) but couldn’t quite close the gap. In classic league fashion, multiple offensive starters for 5WRs were quiet while kickers/defenses turned into fantasy linebackers.</p>
+          <p class="note">Time‑travel quip — 5WRsAllowedOnRostersNextYear: Back to 2019, when people respected kickers.</p>
+          <p class="note">Decisive detail: D/ST/kicker contributions were the margin-of-victory story.</p>
+        </article>
+
+        <article class="matchup">
+          <p><strong>THE Derbaum (115.4)</strong> over <strong>If Ur Not First You're Last (68.98)</strong> — balance beats volatility 🧩</p>
+          <p>THE Derbaum’s mix-and-match scoring (including a <strong>Parker Washington</strong> surprise) toppled If Ur, who was gutted by RB non‑production and poor projection follow‑through. If Ur’s usually lofty ceiling cratered and left them looking like they’d ordered a five‑star menu and got a side salad.</p>
+          <p class="note">Time‑travel quip — THE Derbaum: To the trophy case, polishing already (premature, but let him dream).</p>
+          <p class="note">Decisive blunder: If Ur’s RBs underperforming (<strong>Henry</strong>/<strong>Swift</strong> issues) killed any comeback.</p>
+        </article>
+
+        <article class="matchup">
+          <p><strong>Forte Inch Johnson (116.42)</strong> over <strong>Team Jon (110.92)</strong> — Jahmyr’s fireworks, and a bench Goff left sulking 🎆</p>
+          <p>Forte’s <strong>Jahmyr Gibbs</strong> and <strong>Jaxon Smith‑Njigba</strong> exploded and almost carried the day alone; Team Jon’s Jahmyr was active too but <strong>Tyreek Hill</strong> BYE and <strong>Josh Allen</strong> volatility left them short. Team Jon left <strong>Jared Goff’s 17.16</strong> on the bench, which stings when a game ends that close.</p>
+          <p class="note">Time‑travel quip — Team Jon: To the waiver knoll, pleading for a miracle claim.</p>
+        </article>
+
+        <article class="matchup">
+          <p><strong>Xavier Marks the Spot (122.04)</strong> over <strong>SnydeRemarks (91.72)</strong> — A.J. Brown and Etienne do the heavy lifting; SnydeRemarks misses Burrow 🏴‍☠️</p>
+          <p>Xavier rode <strong>A.J. Brown</strong> and <strong>Travis Etienne Jr.</strong> to 122.04, while SnydeRemarks suffered from an inactive <strong>Joe Burrow</strong> and a general down week among WRs/TEs. <strong>Hunter Henry</strong> and <strong>Dylan Sampson</strong> were lonely on Xavier’s bench with a combined <strong>40+</strong>, which is the seventh circle of roster remorse.</p>
+          <p class="note">Time‑travel quip — SnydeRemarks: To the IR list, to beg for return dates like a dog begging for scraps.</p>
+        </article>
+
+        <div class="divider"></div>
+
+        <h3>Spotlight lists</h3>
+        <div class="grid three">
+          <div class="card">
+            <p class="highlight">Top performers (by narrative)</p>
+            <ul>
+              <li><strong>Jahmyr Gibbs</strong> — single‑player explosion.</li>
+              <li><strong>George Pickens</strong> — showstopper outlier.</li>
+              <li><strong>Dak</strong> &amp; <strong>DJ Moore</strong> — heavy lifting for BTiLC.</li>
+              <li><strong>Jalen Hurts</strong> &amp; <strong>Amon‑Ra St. Brown</strong> — carried The Philly Special.</li>
+              <li><strong>A.J. Brown</strong> &amp; <strong>Travis Etienne Jr.</strong> — powered Xavier.</li>
+              <li><strong>Harrison Butker</strong> — clutch leg.</li>
+              <li><strong>Kenneth Gainwell</strong> + elite D/STs — margin makers.</li>
+              <li><strong>Jaxon Smith‑Njigba</strong> — exploded.</li>
+              <li><strong>Parker Washington</strong> — surprise boost.</li>
+            </ul>
           </div>
-        </div>
-
-        <div class="panel">
-          <h3>Top performers</h3>
-          <ul>
-            <li><strong>Ravens D/ST</strong> — pivotal swing in Jake Butt Stuff’s win.</li>
-            <li><strong>James Cook III</strong> — <span class="green">+6.13</span> vs projection.</li>
-            <li><strong>Dak Prescott</strong> and <strong>DJ Moore</strong> — carried BTiLC.</li>
-            <li><strong>Falcons D/ST</strong> — surprise nine-point boost.</li>
-            <li><strong>George Pickens</strong> — massive outlier (<span class="green">+13.03</span>).</li>
-            <li><strong>Harrison Butker</strong> — clutch kicker points.</li>
-            <li><strong>Jalen Hurts</strong> — <span class="green">+8.45</span> vs projection.</li>
-            <li><strong>Amon‑Ra St. Brown</strong> — <span class="green">+9.7</span> vs projection.</li>
-            <li><strong>Kenneth Gainwell</strong> — contributed in a D/ST‑heavy win.</li>
-            <li><strong>Jahmyr Gibbs</strong> — monster week (<span class="green">+34.38</span>).</li>
-            <li><strong>Jaxon Smith‑Njigba</strong> — key support alongside Gibbs.</li>
-            <li><strong>A.J. Brown</strong> and <strong>Travis Etienne Jr.</strong> — outperformed in Xavier’s win.</li>
-          </ul>
-        </div>
-
-        <div class="panel">
-          <h3>Underperformers and inactives</h3>
-          <ul>
-            <li><strong>Team Santangelo</strong> — QB hole hurt the ceiling.</li>
-            <li><strong>Dickhole Smashers</strong> — inactives: <strong>Aaron Rodgers</strong>, <strong>Isiah Pacheco</strong>, <strong>Rashod Bateman</strong>.</li>
-            <li><strong>Bijan Robinson</strong> and <strong>Lions D/ST</strong> — underperformed for KIBKH.</li>
-            <li><strong>Stefon Diggs</strong> and <strong>Dallas Goedert</strong> — underperforming starters for Kraft.</li>
-            <li><strong>Jordan Addison</strong> and <strong>Jameson Williams</strong> — imploded relative to expectations.</li>
-            <li><strong>Lamar Jackson</strong> — cratered relative to projection for SnydeRemarks.</li>
-            <li><strong>If Ur Not First You're Last</strong> — running game had big misses.</li>
-          </ul>
-        </div>
-
-        <div class="panel">
-          <h3>Notable bench players</h3>
-          <ul>
-            <li><strong>Christian Kirk</strong> — <strong class="highlight">16.4</strong> (Team Santangelo) left on the bench.</li>
-            <li><strong>Emanuel Wilson</strong> — <strong class="highlight">26.5</strong> (Dickhole Smashers) left on the bench.</li>
-            <li><strong>Chimere Dike</strong> — <strong class="highlight">21.4</strong> (The Philly Special) left on the bench.</li>
-            <li><strong>Hunter Henry</strong> — <strong class="highlight">24.5</strong> (SnydeRemarks) left on the bench.</li>
-            <li><strong>Jared Goff</strong> — <strong class="highlight">17.16</strong> (Team Jon) left on the bench.</li>
-            <li><strong>Kyler Murray</strong> — inactive on the bench (KIBKH).</li>
-          </ul>
-        </div>
-      </section>
-
-      <section aria-labelledby="trends">
-        <h2 id="trends">Season Trends</h2>
-
-        <div class="panel stack">
-          <h3>Playoff Picture (concise)</h3>
-          <ul>
-            <li>Locked/very likely: <strong>Forte Inch Johnson</strong> — <strong>100%</strong> chance per Week 12 source (yeah, he’s in). <strong>SnydeRemarks</strong> — about <strong>96%</strong> chance (very close to locked).</li>
-            <li>On the bubble: <strong>Trying to not finish last</strong> and <strong>If Ur Not First You're Last</strong> (both <strong>6‑5</strong>/near the top‑6 picture) — their fate still depends on final weeks and bench usage.</li>
-            <li>Long shots / basically out: <strong>Team Santangelo</strong> (~<strong>0.025%</strong> chance) and <strong>Dickhole Smashers</strong> (<strong>0%</strong>) — would have to reroll the dice and invite chaos.</li>
-          </ul>
-          <p class="tiny meta">How Trying to not finish last makes it: Win next week and you’re likely <strong>7‑5</strong> and in control of tiebreakers; also don’t bench your high scorers. (Full multi-scenario math needs next‑week results; schedule data not completely provided here.)</p>
-        </div>
-
-        <div class="panel">
-          <h3>Recurring feature — Which Marvel character are you?</h3>
-          <div class="list-columns">
+          <div class="card">
+            <p class="highlight">Underperformers (called out)</p>
             <ul>
-              <li><strong>Forte Inch Johnson</strong>: Iron Man — flashy, peaks big, a little volatile but you’d bet the money on him.</li>
-              <li><strong>Kraft Montgomery Cheese</strong>: Captain America — steady, disciplined, deceptively lethal when it counts.</li>
-              <li><strong>SnydeRemarks</strong>: Dr. Strange — holds the outcomes in one hand and tries to bend probability with arcane rituals (and McCaffrey).</li>
-              <li><strong>5WRsAllowedOnRostersNextYear</strong>: Spider‑Man — fun, cluttered with friends, occasionally gets sticky.</li>
-              <li><strong>Trying to not finish last</strong>: Ant‑Man — small but explosive at the right moments.</li>
-              <li><strong>If Ur Not First You're Last</strong>: Thor — when he hits, he hits hard; misses, and you wonder if his hammer is a prop.</li>
+              <li><strong>CeeDee Lamb</strong> — underperformed.</li>
+              <li><strong>Bijan Robinson</strong> — disappointed.</li>
+              <li><strong>Lions D/ST</strong> — disappointed.</li>
+              <li><strong>If Ur</strong> RBs — <strong>Henry</strong>/<strong>Swift</strong> issues.</li>
+              <li>Kraft starters — several under projections.</li>
+              <li>SnydeRemarks — WR/TE down week.</li>
             </ul>
+          </div>
+          <div class="card">
+            <p class="highlight">Notable bench moments</p>
             <ul>
-              <li><strong>Jake Butt Stuff</strong>: Nick Fury — lives in the shadows and shows up with a plan that usually works.</li>
-              <li><strong>Team Santangelo</strong>: Hawkeye — capable shooter, but miss the mark when winds (BYEs) pick up.</li>
-              <li><strong>Big Trouble in Little Cameron</strong>: Captain Marvel — hits like a meteor when she’s on.</li>
-              <li><strong>Dickhole Smashers</strong>: Loki — chaotic energy but often scheming against himself.</li>
-              <li><strong>The Philly Special</strong>: Black Panther — sleek, efficient, stylish victories.</li>
-              <li><strong>Hangin' With Mr. Cooper</strong>: Falcon — tends to support the big plays (and make timely runs).</li>
-            </ul>
-            <ul>
-              <li><strong>THE Derbaum</strong>: The Hulk — when things click, they smash; otherwise… inconspicuous.</li>
-              <li><strong>Team Jon</strong>: Star‑Lord — charismatic, sometimes drags everyone into a questionable dance.</li>
-              <li><strong>Xavier Marks the Spot</strong>: Hawkeye (alternate) — pinpoint shot when the main QB’s out; steal the week.</li>
-              <li><strong>Kyler? I Barely Know Her</strong>: Winter Soldier — a mystery when active, even more so when not.</li>
+              <li><strong>Christian Kirk</strong> — <strong>16.4</strong> left on bench.</li>
+              <li><strong>Emanuel Wilson</strong> — <strong>26.5</strong> benched.</li>
+              <li><strong>Kyler Murray</strong> — inactive on bench.</li>
+              <li><strong>Chimere Dike</strong> — <strong>21.4</strong> benched.</li>
+              <li><strong>Jared Goff</strong> — <strong>17.16</strong> benched.</li>
+              <li><strong>Hunter Henry</strong> + <strong>Dylan Sampson</strong> — <strong>40+</strong> combined on bench.</li>
+              <li><strong>J.J. McCarthy</strong> — collecting cobwebs on bench.</li>
             </ul>
           </div>
         </div>
-      </section>
+      </article>
+    </section>
 
-      <section aria-labelledby="preview">
-        <h2 id="preview">Next Week’s Preview</h2>
+    <section aria-labelledby="trends">
+      <h2 id="trends">Season Trends</h2>
 
-        <div class="panel stack">
-          <h3>Last-call coaching (real stuff)</h3>
-          <ul>
-            <li>Check benches: <strong>Emanuel Wilson</strong>, <strong>Christian Kirk</strong>, <strong>Hunter Henry</strong>, <strong>Chimere Dike</strong> — all recent bench bonfires. Don’t be the one who leaves a scoring explosion tied to your pride.</li>
-            <li>Stream D/ST/kicker: again. They are the gift that keeps on giving swing weeks.</li>
-            <li>Watch inactives/BYEs: the season’s winners are consistently the managers who don’t let a non-active player rot in a starting slot.</li>
-          </ul>
-        </div>
+      <article class="card stack">
+        <p>The ongoing theme: BYEs and inactives are carving up lineups, while D/STs and kickers keep auditioning for MVP. Single‑player spikes are deciding matchups, and benches continue to hoard points until it’s too late.</p>
 
-        <div class="panel">
-          <h3>Bubble watch: paths and priorities</h3>
-          <p class="tiny">How Trying to not finish last makes it: Win next week and you’re likely <strong>7‑5</strong> and in control of tiebreakers; also don’t bench your high scorers. (Full multi-scenario math needs next‑week results; schedule data not completely provided here.)</p>
-        </div>
-      </section>
-    </main>
+        <div class="divider"></div>
 
-    <footer class="site-footer">
-      <p>Lock your lineups like you’re saving a last slice of pizza for the playoffs. Complain to the commissioner if your kicker suddenly became a fantasy saboteur, and donate a beer to whoever wins the trophy — they’ll need it, and you’ll need an excuse for your bench decisions next year.</p>
-    </footer>
+        <h3>Playoff Picture (short and unvarnished)</h3>
+        <ul>
+          <li>Locked in: <strong>Forte Inch Johnson</strong> — listed at <strong>100%</strong> chance; congratulations, you can practice your trophy speech.</li>
+          <li>Very likely: <strong>SnydeRemarks</strong> — <strong>~96%</strong> chance per Week 12 projections; unless the league collectively riots, they’re in.</li>
+          <li>On the bubble / fighting for seeding: <strong>Kraft Montgomery Cheese (8‑3)</strong>, <strong>5WRsAllowedOnRostersNextYear (7‑4)</strong>, <strong>Trying to not finish last (6‑5)</strong>, <strong>If Ur Not First You're Last (6‑5)</strong> — these teams are a win or two away from changing their story.</li>
+          <li>Virtually dead: <strong>Team Santangelo (~0.025%)</strong> and <strong>Dickhole Smashers (0%)</strong> — if you’re in those rosters, start practicing next season’s draft war room.</li>
+        </ul>
+
+        <div class="divider"></div>
+
+        <h3>Recurring feature — Which Marvel character is your team?</h3>
+        <ul>
+          <li><strong>Kraft Montgomery Cheese</strong>: Doctor Strange — powerful, sometimes inscrutable, and pulls impossible plays from pocket universes.</li>
+          <li><strong>SnydeRemarks</strong>: Captain America — steady, reliable, leading by example (and by points).</li>
+          <li><strong>Forte Inch Johnson</strong>: Thor — hits ceilings like lightning strikes.</li>
+          <li><strong>5WRsAllowedOnRostersNextYear</strong>: Iron Man — guns blazing with elite pieces, but one misfire and the suit sputters.</li>
+          <li><strong>Trying to not finish last</strong>: Spider‑Man — scrappy, surprisingly heroic when it counts.</li>
+          <li><strong>If Ur Not First You're Last</strong>: Deadpool — mercurial and entertaining, prone to chaos.</li>
+          <li><strong>Jake Butt Stuff</strong>: Hawkeye — does a lot with precision and some surprising range.</li>
+          <li><strong>Team Santangelo</strong>: Hawkgirl (rookie with upside) — has potential but keeps getting knocked out by availability.</li>
+          <li><strong>Big Trouble in Little Cameron</strong>: Black Panther — sleek, efficient, and suddenly dominant.</li>
+          <li><strong>Dickhole Smashers</strong>: The Blob (sorry, they’re immobilized by inactives).</li>
+          <li><strong>Kyler? I Barely Know Her</strong>: Loki — chaos, sometimes brilliant, often inconveniently inactive.</li>
+          <li><strong>The Philly Special</strong>: Captain Marvel — comes through in the clutch when powered up.</li>
+          <li><strong>Hangin' With Mr. Cooper</strong>: Ant‑Man — small contributions stacking into a surprising win.</li>
+          <li><strong>THE Derbaum</strong>: The Wasp — underrated but capable of sting‑level damage.</li>
+          <li><strong>Team Jon</strong>: Star‑Lord — flashy moments, questionable playlist choices.</li>
+          <li><strong>Xavier Marks the Spot</strong>: Wolverine — elegant brutality; when the claws are out, watch out.</li>
+        </ul>
+      </article>
+    </section>
+
+    <section aria-labelledby="preview">
+      <h2 id="preview">Next Week’s Preview</h2>
+
+      <article class="card stack">
+        <h3>How a mid‑table team makes playoffs</h3>
+        <p>Conditional, no guarantees: <strong>Win next week</strong> and at least one rival in the 6‑7 win range <strong>loses</strong> — the margin for error is razor thin, so stop benching proven scorers.</p>
+
+        <div class="divider"></div>
+
+        <h3>Thanksgiving PSA &amp; sign‑off</h3>
+        <p>This week’s moral: check inactives, check bye lists, and for God’s sake check your bench before the clock locks — your leftover points won’t reheat. If you’re hosting Thanksgiving, at least invite the guy who knows how to start kickers and D/STs; if you’re in last place, come complain to the commissioner at the table and beg for mercy (or a fancy consolation casserole). Set your lineup, don’t be that person who benches 20 points and blames fate, and if you win — bring beer for the trophy.</p>
+        <p><em>I’ll see you next week with more takeout, more regrettable roster choices, and at least one owner discovering the waiver wire at 11:55 p.m. — happy Thanksgiving, ya savages.</em></p>
+      </article>
+    </section>
   </div>
 </body>
 </html>
